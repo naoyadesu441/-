@@ -68,6 +68,11 @@ def collect_all(http: Http, src: dict) -> list[NewsItem]:
                 source_type=st,
                 tier=f.get("tier", "secondary"),
                 weight=float(f.get("weight", 1.0)),
+                ai_keywords=kw,
+                # 汎用フィード(Ars Technica / Wired Japan / MIT Tech Review 等)は
+                # require_ai:true でAI関連のみに絞る。Gemini不在のフォールバック時に
+                # 非AI記事が「AIニュース」に混入するのを防ぐ。AI特化フィードは false でよい。
+                require_ai=f.get("require_ai", False),
                 max_items=20,
             ),
             [],

@@ -214,6 +214,7 @@ feeds:
     tier: secondary
     weight: 0.9
     enabled: true
+    require_ai: true   # 汎用フィードのためAIキーワードで絞る
   - name: Wired AI
     url: https://www.wired.com/feed/tag/ai/latest/rss
     tier: secondary
@@ -224,11 +225,13 @@ feeds:
     tier: secondary
     weight: 0.8
     enabled: true
+    require_ai: true   # 汎用フィードのためAIキーワードで絞る
   - name: MIT Technology Review
     url: https://www.technologyreview.com/feed/
     tier: secondary
     weight: 1.0
     enabled: true
+    require_ai: true   # 汎用フィードのためAIキーワードで絞る
 
 # ---------------------------------------------------------------------------
 # ニュースレター RSS（ベストエフォート。RSS不安定なものは検証後に切替）

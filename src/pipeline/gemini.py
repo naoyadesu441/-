@@ -196,6 +196,10 @@ def _reconcile(parsed: dict, by_id: dict[str, NewsItem], all_items: list[NewsIte
         status = entry.get("verify_status", "").strip()
         if status in _VALID_STATUS:
             it.verify_status = status
+        # Gemini の判定を最終とする。verify層が付けたヒューリスティックの裏取りリンクは
+        # 一旦クリアし、Gemini が有効な primary_source_id を返したときだけ再設定する
+        # （未確認に格下げされたのに裏取りリンクが残る、を防ぐ）。
+        it.primary_source_url = ""
         psid = (entry.get("primary_source_id") or "").strip()
         if psid and psid in by_id and psid != it.item_id:
             it.primary_source_url = by_id[psid].url
