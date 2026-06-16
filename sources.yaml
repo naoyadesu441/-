@@ -1,0 +1,270 @@
+# ============================================================================
+# ソース定義 — すべて API キー不要の無料ソース。
+#   tier:   primary   = 一次ソース（公式ブログ・公式発表・論文）
+#           secondary = 二次ソース（信頼メディア報道）
+#           social    = 社会系（SNS/掲示板。噂は裏取り対象）
+#   weight: 事前ランクの重み（0.0〜2.0 目安）。AIに無関係なチャンネルは下げる。
+#   enabled: false にすると収集対象から外れる（RSS不安定なものは検証後に切替）。
+# 値や URL は scripts/verify_youtube.py / verify_feeds.py で実際に検証してから本番化する。
+# ============================================================================
+
+# 直近この時間内（時）に公開されたものだけを対象にする。cron 遅延を吸収するため 26h。
+window_hours: 26
+
+# 事前ランクで AI 関連と判定するためのキーワード（小文字で部分一致）。
+ai_keywords:
+  - ai
+  - artificial intelligence
+  - llm
+  - gpt
+  - chatgpt
+  - openai
+  - anthropic
+  - claude
+  - gemini
+  - deepmind
+  - llama
+  - mistral
+  - agent
+  - rag
+  - diffusion
+  - transformer
+  - machine learning
+  - neural
+  - generative
+  - 生成ai
+  - 人工知能
+
+# ---------------------------------------------------------------------------
+# YouTube（feed: https://www.youtube.com/feeds/videos.xml?channel_id=ID）
+#   ⚠ 印は本番前に scripts/verify_youtube.py で channel_id を確認すること。
+# ---------------------------------------------------------------------------
+youtube:
+  - name: Two Minute Papers
+    channel_id: UCbfYPyITQ-7l4upoX8nvctg
+    tier: social
+    weight: 1.2
+    enabled: true
+  - name: Matt Wolfe
+    channel_id: UChpleBmo18P08aKCIgti38g
+    tier: social
+    weight: 1.1
+    enabled: true
+  - name: AI Explained
+    channel_id: UCNJ1Ymd5yFuUPtn21xtRbbw
+    tier: social
+    weight: 1.2
+    enabled: true
+  - name: Wes Roth
+    channel_id: UCqcbQf6yw5KzRoDDcZ_wBSw
+    tier: social
+    weight: 1.0
+    enabled: true
+  - name: Matthew Berman
+    channel_id: UCawZsQWqfGSbCI5yjkdVkTA
+    tier: social
+    weight: 1.0
+    enabled: true
+  - name: bycloud
+    channel_id: UCgfe2ooZD3VJPB6aJAnuQng
+    tier: social
+    weight: 1.0
+    enabled: true
+  - name: Yannic Kilcher
+    channel_id: UCZHmQk67mSJgfCCTn7xBfew
+    tier: social
+    weight: 1.0
+    enabled: true
+  - name: TheAIGRID
+    channel_id: UCbY9xX3_jW5c2fjlZVBI4cg
+    tier: social
+    weight: 0.9
+    enabled: true
+  - name: David Shapiro
+    channel_id: UCvKRFNawVcuz4b9ihUTApCg
+    tier: social
+    weight: 0.9
+    enabled: true
+  - name: Sabrina Ramonov
+    channel_id: UCiGWNa6QK6CiKPvv5-YPv8g
+    tier: social
+    weight: 0.8
+    enabled: true
+  - name: Fireship
+    channel_id: UCsBjURrPoezykLs9EqgamOA
+    tier: social
+    weight: 0.6   # 汎用開発系。AIキーワード一致時のみ実質拾われる
+    enabled: true
+  - name: Lex Fridman
+    channel_id: UCSHZKyawb77ixDdsGog4iWA   # ⚠ 要確認
+    tier: social
+    weight: 0.9
+    enabled: true
+  - name: Nate Herk
+    channel_id: ""   # ⚠ 未解決（handle @nateherk から要解決）。空のままなら skip
+    tier: social
+    weight: 0.9
+    enabled: false
+
+# ---------------------------------------------------------------------------
+# Reddit（top.json?t=day。記述的 User-Agent 必須）
+# ---------------------------------------------------------------------------
+reddit:
+  subreddits:
+    - ChatGPT
+    - OpenAI
+    - ClaudeAI
+    - singularity
+    - LocalLLaMA
+    - MachineLearning
+  limit: 25
+  tier: social
+  weight: 0.9
+  # スコア（upvote）下限。これ未満は事前ランクで弾く
+  min_score: 50
+
+# ---------------------------------------------------------------------------
+# Hacker News（Algolia API。キー不要）
+# ---------------------------------------------------------------------------
+hackernews:
+  query: AI
+  tags:
+    - story
+    - front_page
+    - show_hn
+  hits_per_page: 40
+  tier: social
+  weight: 1.0
+  min_points: 30
+
+# ---------------------------------------------------------------------------
+# Product Hunt（RSS。AI関連のみ抽出）
+# ---------------------------------------------------------------------------
+producthunt:
+  url: https://www.producthunt.com/feed
+  tier: secondary
+  weight: 0.7
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# arXiv（API。論文。新規性はあるが重み下げ）
+# ---------------------------------------------------------------------------
+arxiv:
+  query: "cat:cs.AI OR cat:cs.LG OR cat:cs.CL"
+  max_results: 40
+  tier: primary
+  weight: 0.6
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# ニュース/ブログ RSS（検証層）
+#   一次: 公式。二次: 信頼メディア。
+# ---------------------------------------------------------------------------
+feeds:
+  # ---- 一次（公式） ----
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    tier: primary
+    weight: 1.5
+    enabled: true
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    tier: primary
+    weight: 1.4
+    enabled: true
+  - name: Google The Keyword (AI)
+    url: https://blog.google/technology/ai/rss/
+    tier: primary
+    weight: 1.2
+    enabled: true
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    tier: primary
+    weight: 1.1
+    enabled: true
+  - name: Meta AI
+    url: https://ai.meta.com/blog/rss/
+    tier: primary
+    weight: 1.2
+    enabled: false   # ⚠ RSS不安定。verify_feeds.py で確認後 true
+  - name: Anthropic
+    url: https://www.anthropic.com/news/rss.xml
+    tier: primary
+    weight: 1.5
+    enabled: false   # ⚠ 安定RSS無の可能性。verify_feeds.py で確認後 true
+
+  # ---- 二次（信頼メディア） ----
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    tier: secondary
+    weight: 1.1
+    enabled: true
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    tier: secondary
+    weight: 1.0
+    enabled: true
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    tier: secondary
+    weight: 1.0
+    enabled: true
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    tier: secondary
+    weight: 0.9
+    enabled: true
+  - name: Wired AI
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    tier: secondary
+    weight: 0.9
+    enabled: true
+  - name: Wired Japan
+    url: https://wired.jp/feed/rss
+    tier: secondary
+    weight: 0.8
+    enabled: true
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    tier: secondary
+    weight: 1.0
+    enabled: true
+
+# ---------------------------------------------------------------------------
+# ニュースレター RSS（ベストエフォート。RSS不安定なものは検証後に切替）
+# ---------------------------------------------------------------------------
+newsletters:
+  - name: The Batch (deeplearning.ai)
+    url: https://www.deeplearning.ai/the-batch/feed/
+    tier: secondary
+    weight: 1.0
+    enabled: true
+  - name: Import AI
+    url: https://importai.substack.com/feed
+    tier: secondary
+    weight: 1.0
+    enabled: true
+  - name: Last Week in AI
+    url: https://lastweekin.ai/feed
+    tier: secondary
+    weight: 0.9
+    enabled: true
+  - name: TLDR AI
+    url: https://tldr.tech/api/rss/ai
+    tier: secondary
+    weight: 0.9
+    enabled: false   # ⚠ RSS可否を verify_feeds.py で確認後 true
+  - name: The Rundown AI
+    url: https://www.therundown.ai/feed
+    tier: secondary
+    weight: 0.9
+    enabled: false   # ⚠ RSS可否を verify_feeds.py で確認後 true
+
+# ---------------------------------------------------------------------------
+# note（日本語。ベストエフォート。note.com/{user}/rss）
+#   対象クリエイターを user に設定。取得失敗はスキップ。
+# ---------------------------------------------------------------------------
+note:
+  tier: social
+  weight: 0.7
+  users: []   # 例: ["depaurl", "someaiwriter"]。空ならスキップ
