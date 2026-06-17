@@ -6,7 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-_まだ実行されていません。Stage 1 が初回実行されるとここに当日のサマリが入ります。_
+**最終更新: 2026-06-17**
+
+> 本日は15件の注目トピックを収集（うち一次確認済 1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+
+- [News][🟢一次] Unlocking UK house-building with AI-accelerated planning — https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning
+- [HN][🔴未確認] GrapheneOS has been ported to Android 17 — https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+- [HN][🔴未確認] The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy — https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy
+- [HN][🔴未確認] Apple is about to make Hide My Email useless — https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless
+- [HN][🔴未確認] Is Meta destroying its engineering organization? — https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
+- [HN][🔴未確認] Apple's weird anti-nausea dots cured my car sickness — https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work
+- [HN][🔴未確認] GPT‑NL: a sovereign language model for the Netherlands — https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl
+- [HN][🔴未確認] Running local models is good now — https://vickiboykis.com/2026/06/15/running-local-models-is-good-now
+- [HN][🔴未確認] Stop Using JWTs — https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452
+- [HN][🔴未確認] TIL: You can make HTTP requests without curl using Bash /dev/TCP — https://mareksuppa.com/til/bash-dev-tcp-http-without-curl
+
+全文: [`news/2026-06-17.md`](news/2026-06-17.md)
 <!--/LATEST-->
 
 ---
