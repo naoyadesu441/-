@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-18**
+**最終更新: 2026-06-19**
 
-> 本日は15件の注目トピックを収集（うち一次確認済 1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 本日は15件の注目トピックを収集（うち一次確認済 3件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [HN][🔴未確認] Leaked financial docs show OpenAI is losing billions of dollars a year — https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year
-- [HN][🔴未確認] A robot is sprinting towards you. Do you want it running on Claude or Grok? — https://openrouter.ai/blog/insights/royale-last-agent-standing
-- [HN][🔴未確認] Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct — https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct
-- [HN][🔴未確認] The (real) dead economy theory — https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid
-- [HN][🔴未確認] Storied Colors – a catalogue of named colors — https://storiedcolors.com/
-- [HN][🔴未確認] Volkswagen started blocking GrapheneOS users — https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3
-- [HN][🔴未確認] Lore – Open source version control system designed for scalability — https://lore.org/
-- [HN][🔴未確認] Show HN: An 8-bit live gamecast for baseball — https://ribbie.tv/watch
-- [HN][🔴未確認] The Competitive Moat That AI Can't Replicate — https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat
-- [HN][🔴未確認] Want your images back? That'll be $5 — https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars
+- [HN][🔴未確認] The AirPods Effect — https://www.theescapenewsletter.com/p/the-airpods-effect
+- [HN][🔴未確認] Show HN: Are You in the Weights? — https://www.intheweights.com/
+- [News][🟢一次] New usage analytics and updated spend controls for enterprises — https://openai.com/index/chatgpt-enterprise-spend-controls
+- [HN][🔴未確認] The founder of Craigslist has given away half a billion dollars — https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html
+- [HN][🔴未確認] Zero-Touch OAuth for MCP — https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth
+- [HN][🔴未確認] I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M — https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine
+- [HN][🔴未確認] Swiss parliament lifts ban on new nuclear power plants — https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html
+- [HN][🔴未確認] Ubiquiti: Enterprise NAS, Built on ZFS — https://blog.ui.com/article/introducing-enterprise-nas
+- [HN][🔴未確認] Migrating from GNU Stow to Chezmoi — https://rednafi.com/misc/chezmoi
+- [HN][🔴未確認] The Token Compression Illusion: Why I'm Skeptical of RTK — https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk
 
-全文: [`news/2026-06-18.md`](news/2026-06-18.md)
+全文: [`news/2026-06-19.md`](news/2026-06-19.md)
 <!--/LATEST-->
 
 ---
