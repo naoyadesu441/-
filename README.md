@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-19**
+**最終更新: 2026-06-20**
 
-> 本日は15件の注目トピックを収集（うち一次確認済 3件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 本日は15件の注目トピックを収集（うち一次確認済 0件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [HN][🔴未確認] The AirPods Effect — https://www.theescapenewsletter.com/p/the-airpods-effect
-- [HN][🔴未確認] Show HN: Are You in the Weights? — https://www.intheweights.com/
-- [News][🟢一次] New usage analytics and updated spend controls for enterprises — https://openai.com/index/chatgpt-enterprise-spend-controls
-- [HN][🔴未確認] The founder of Craigslist has given away half a billion dollars — https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html
-- [HN][🔴未確認] Zero-Touch OAuth for MCP — https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth
-- [HN][🔴未確認] I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M — https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine
-- [HN][🔴未確認] Swiss parliament lifts ban on new nuclear power plants — https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html
-- [HN][🔴未確認] Ubiquiti: Enterprise NAS, Built on ZFS — https://blog.ui.com/article/introducing-enterprise-nas
-- [HN][🔴未確認] Migrating from GNU Stow to Chezmoi — https://rednafi.com/misc/chezmoi
-- [HN][🔴未確認] The Token Compression Illusion: Why I'm Skeptical of RTK — https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk
+- [HN][🔴未確認] Americans express unease over SpaceX's influence on retirement savings — https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk
+- [HN][🔴未確認] Hyundai buys Boston Dynamics — https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million
+- [HN][🔴未確認] Companies rein in AI usage as costs strain budgets — https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314
+- [HN][🔴未確認] Zenzizenzizenzic — https://en.wikipedia.org/wiki/Zenzizenzizenzic
+- [HN][🔴未確認] Google workspace threatening to block Firefox access — https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html
+- [HN][🔴未確認] A new bill takes aim at government pressure to silence lawful online speech — https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech
+- [HN][🔴未確認] Norway imposes near ban on AI in elementary school — https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19
+- [HN][🔴未確認] Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died — https://www.legacy.com/legacy/robert-bobby-prince-lll
+- [HN][🔴未確認] Big Banana Car — https://bigbananacar.com/
+- [HN][🔴未確認] There are no instances in ATProto — https://overreacted.io/there-are-no-instances-in-atproto
 
-全文: [`news/2026-06-19.md`](news/2026-06-19.md)
+全文: [`news/2026-06-20.md`](news/2026-06-20.md)
 <!--/LATEST-->
 
 ---
