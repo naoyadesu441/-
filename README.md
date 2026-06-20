@@ -8,18 +8,10 @@
 <!--LATEST-->
 **最終更新: 2026-06-21**
 
-> 今週のAIニュースでは、米国政府によるAnthropicのAIモデルFable 5の禁止が大きな注目を集め、AI規制と倫理に関する議論が活発化しています。同時に、AppleやGoogleがそれぞれSiriやGoogle Homeに生成AI機能を統合するなど、主要テック企業によるAIプロダクトの進化が顕著です。また、GPT-5.5のハルシネーション問題やLLMの複雑化といった技術的課題も浮上しており、AI開発の多面的な側面が示されています。
+> AWSは、AIエージェント向けにWeb検索機能を一般提供開始し、リアルタイム情報活用を強化しました。また、Adobe Marketing AgentとAmazon Quickの連携により、マーケティング分析の効率化が進む動きが見られます。
 
-- [HN][🔴未確認] AIエージェント向け一時Cloudflareアカウント — https://blog.cloudflare.com/temporary-accounts
-- [HN][🔴未確認] 大規模言語モデルの複雑化が進行中 — https://ianbarber.blog/2026/06/19/llms-are-complicated-now
-- [HN][🔴未確認] GPT-5.5、GLM-5.2より幻覚が3倍多い — https://arrowtsx.dev/bigger-models
-- [News][🟡二次] 新Siri AIはより賢く、役立つアシスタントに — https://www.wired.com/story/siri-ai-hands-on-iphone
-- [YouTube][🔴未確認] 2026年のタスク別AIツールベストリスト — https://www.youtube.com/shorts/f-MQn7NqjV8
-- [News][🟡二次] Google HomeスピーカーがGemini搭載で刷新 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
-- [News][🟡二次] 米政府、AnthropicのAIモデルFable 5を禁止 — https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand
-- [News][🟡二次] ピーター・ティール氏のAI「Dialog」が参加者を格付け — https://wired.jp/article/how-peter-thiels-private-dialog-club-secretly-ranks-its-members
-- [News][🟡二次] インドAmbani氏、全サービスにAI導入へ — https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home
-- [News][🟡二次] iPhoneカメラに生成AI機能搭載へ — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
+- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索機能がGA — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore
+- [News][🟢一次] Adobe Marketing AgentがAmazon Quickと連携強化 — https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick
 
 全文: [`news/2026-06-21.md`](news/2026-06-21.md)
 <!--/LATEST-->
