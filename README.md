@@ -8,10 +8,18 @@
 <!--LATEST-->
 **最終更新: 2026-06-21**
 
-> AWSは、AIエージェント向けにWeb検索機能を一般提供開始し、リアルタイム情報活用を強化しました。また、Adobe Marketing AgentとAmazon Quickの連携により、マーケティング分析の効率化が進む動きが見られます。
+> 今日のAI界隈では、AWS BedrockのAIエージェントがWeb検索機能に対応し、より賢い情報収集が可能になりました。これにより、開発者は実用的なAIアシスタントを構築しやすくなります。また、Adobe Marketing AgentとAmazon Quickの連携により、マーケティングキャンペーンの分析効率が大幅に向上し、ビジネスにおけるAI活用がさらに加速しています。
 
-- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索機能がGA — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore
-- [News][🟢一次] Adobe Marketing AgentがAmazon Quickと連携強化 — https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick
+- [News][🟡二次] iPhoneカメラに生成AI機能が追加へ — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
+- [News][🟢一次] AdobeとAWSがマーケティングAI連携 — https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick
+- [News][🟡二次] 新Siri AIは賢く役立つアシスタントに — https://www.wired.com/story/siri-ai-hands-on-iphone
+- [News][🟡二次] Google HomeにGemini搭載、スマート体験変革 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
+- [ProductHunt][🟡二次] AIビデオスタジオ「Pixlie」登場 — https://www.producthunt.com/products/pixlie
+- [News][🟢一次] AWS Bedrock AgentCoreにWeb検索機能 — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore
+- [News][🟡二次] ノーベル賞受賞者がDeepMindからAnthropicへ — https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic
+- [News][🟡二次] 米政府のAnthropicモデル禁止がブランドに影響か — https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand
+- [News][🟡二次] AnthropicのFable 5禁止も市場は動じず — https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care
+- [News][🟡二次] サム・アルトマン氏の映画化が中止に — https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
 
 全文: [`news/2026-06-21.md`](news/2026-06-21.md)
 <!--/LATEST-->
