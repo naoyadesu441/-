@@ -121,7 +121,7 @@ def run(dry_run: bool) -> int:
     # 3) dedupe
     items = _safe("dedupe", lambda: dedupe.dedupe(items), items)
     # 4) rank → preselect
-    candidates = _safe("rank", lambda: rank.preselect(items, 60), items[:60])
+    candidates = _safe("rank", lambda: rank.preselect(items, 80), items[:80])
     # 5) verify（裏取り素案）
     candidates = _safe("verify", lambda: verify.assign_status(candidates), candidates)
     # 6) gemini（選定＋日本語化＋裏取り確定）。失敗時は内部でフォールバック。

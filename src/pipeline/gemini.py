@@ -32,9 +32,9 @@ ENDPOINT = (
     "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 )
 
-MAX_CANDIDATES = 60
+MAX_CANDIDATES = 80
 RAW_SUMMARY_LIMIT = 300
-TARGET_MIN, TARGET_MAX = 10, 15
+TARGET_MIN, TARGET_MAX = 10, 20
 
 _VALID_STATUS = {VERIFY_PRIMARY, VERIFY_SECONDARY, VERIFY_UNCONFIRMED}
 
@@ -73,9 +73,10 @@ PROMPT = """\
 - 候補の tier が "primary" のもの、または社会系(social)/二次(secondary)の話題でも
   候補集合内に同じ話題を扱う "primary" ソースがあって裏取りできるものだけを採用する。
 - 信頼メディアのみの報道（二次）、SNS/掲示板の噂（未確認）は**選ばない**。
-- 条件を満たす一次が少ない日は、無理に件数を埋めず、少数（0件でも可）でよい。
+- 目標は{tmin}件以上。候補に tier="primary" が多数あるはず（公式ブログ・論文含む）。
+  積極的に一次を拾い、{tmin}〜{tmax}件を目指す。どうしても一次が{tmin}件に満たない場合のみ、少数でよい。
 
-採用したものについて、重要度・話題性・新規性が高い順に最大{tmax}件まで選び、整理してください。
+採用したものについて、重要度・話題性・新規性が高い順に{tmin}〜{tmax}件を選び、整理してください。
 
 厳守事項:
 - 各候補の "id" は絶対に変更せず、選んだものはその id をそのまま返す。

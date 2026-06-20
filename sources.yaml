@@ -8,8 +8,9 @@
 # 値や URL は scripts/verify_youtube.py / verify_feeds.py で実際に検証してから本番化する。
 # ============================================================================
 
-# 直近この時間内（時）に公開されたものだけを対象にする。cron 遅延を吸収するため 26h。
-window_hours: 26
+# 直近この時間内（時）に公開されたものだけを対象にする。
+# 一次を10件以上確保するため余裕をもって30h（cron遅延吸収+公式ブログの更新頻度吸収）。
+window_hours: 30
 
 # 事前ランクで AI 関連と判定するためのキーワード（小文字で部分一致）。
 ai_keywords:
@@ -151,9 +152,9 @@ producthunt:
 # ---------------------------------------------------------------------------
 arxiv:
   query: "cat:cs.AI OR cat:cs.LG OR cat:cs.CL"
-  max_results: 40
+  max_results: 80
   tier: primary
-  weight: 0.6
+  weight: 0.9
   enabled: true
 
 # ---------------------------------------------------------------------------
@@ -234,6 +235,42 @@ feeds:
     weight: 1.0
     enabled: true
     require_ai: true   # 汎用フィードのためAIキーワードで絞る
+  - name: Cohere
+    url: https://cohere.com/blog/rss.xml
+    tier: primary
+    weight: 1.0
+    enabled: true
+  - name: xAI
+    url: https://x.ai/blog/rss.xml
+    tier: primary
+    weight: 1.2
+    enabled: true
+  - name: Salesforce AI Research
+    url: https://blog.salesforceairesearch.com/rss/
+    tier: primary
+    weight: 0.9
+    enabled: true
+  - name: Samsung AI
+    url: https://research.samsung.com/blog/rss
+    tier: primary
+    weight: 0.8
+    enabled: true
+  - name: IBM Research
+    url: https://research.ibm.com/blog/rss
+    tier: primary
+    weight: 0.9
+    enabled: true
+    require_ai: true
+  - name: Intel AI
+    url: https://www.intel.com/content/www/us/en/artificial-intelligence/blog.rss
+    tier: primary
+    weight: 0.8
+    enabled: true
+  - name: Allen AI (AI2)
+    url: https://blog.allenai.org/feed
+    tier: primary
+    weight: 1.0
+    enabled: true
 
   # ---- 二次（信頼メディア） ----
   - name: TechCrunch AI
