@@ -106,6 +106,7 @@ PROMPT = """\
   例: 「ChatGPT無料ユーザー全員に影響する大型アプデのため」
 - highlight: 今日のAI界隈の要点を2〜3文の日本語でまとめる（一次確認済の範囲で）。
 
+{trend}
 候補(JSON):
 {candidates}
 """
@@ -163,8 +164,12 @@ def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
     return Digest(highlight=highlight, items=selected)
 
 
-def summarize(http: Http, items: list[NewsItem]) -> Digest:
-    """Gemini で選定＋日本語化。失敗時はフォールバック。"""
+def summarize(http: Http, items: list[NewsItem], *, trend_block: str = "") -> Digest:
+    """Gemini で選定＋日本語化。失敗時はフォールバック。
+
+    trend_block: 学習ループが算出した「最近伸びた傾向」の日本語ブロック。
+    空文字なら従来どおり（プロンプト不変）。
+    """
     if not items:
         return Digest(highlight="本日は対象期間内に該当ニュースがありませんでした。", items=[])
     api_key = get_secret("GEMINI_API_KEY")
@@ -176,6 +181,7 @@ def summarize(http: Http, items: list[NewsItem]) -> Digest:
     prompt = PROMPT.format(
         tmin=TARGET_MIN,
         tmax=TARGET_MAX,
+        trend=(trend_block + "\n") if trend_block else "",
         candidates=json.dumps(_candidate_payload(items), ensure_ascii=False),
     )
     body = {

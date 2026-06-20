@@ -21,11 +21,13 @@ from .collectors import (
     hackernews,
     producthunt,
     reddit,
+    x_grok,
     youtube_rss,
 )
 from .collectors.feeds_rss import fetch_feed
 from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE, VERIFY_PRIMARY, VERIFY_SECONDARY, TIER_PRIMARY
 from .pipeline import dedupe, gemini, normalize, rank, verify
+from .learn import loop as learn
 from .render import markdown
 from .deliver import discord, notion
 
@@ -53,6 +55,8 @@ def collect_all(http: Http, src: dict) -> list[NewsItem]:
         "producthunt", lambda: producthunt.collect(http, src.get("producthunt", {}), kw), []
     )
     items += _safe("arxiv", lambda: arxiv.collect(http, src.get("arxiv", {})), [])
+    # X/Grok は既定で無効スタブ（enabled:false の間は呼び出しゼロで []）。
+    items += _safe("x_grok", lambda: x_grok.collect(http, src.get("x_grok", {})), [])
 
     # feeds + newsletters（汎用 RSS）
     for feed in src.get("feeds", []) + src.get("newsletters", []):
@@ -124,10 +128,20 @@ def run(dry_run: bool) -> int:
     candidates = _safe("rank", lambda: rank.preselect(items, 80), items[:80])
     # 5) verify（裏取り素案）
     candidates = _safe("verify", lambda: verify.assign_status(candidates), candidates)
+    # 5.5) 学習シグナル分析（読み取りのみ。dry-run でも安全）。
+    #   過去の実エンゲージメント履歴から「伸びた傾向」を算出し Gemini に渡す。
+    insight = _safe(
+        "learn.analyze",
+        lambda: learn.analyze_history(14, src.get("ai_keywords", [])),
+        {},
+    )
+    trend_block = _safe("learn.format", lambda: learn.format_trend_block(insight), "")
+    if trend_block:
+        LOG.info("学習シグナル: %d日/%d件の履歴から傾向を反映", insight.get("days", 0), insight.get("records", 0))
     # 6) gemini（選定＋日本語化＋裏取り確定）。失敗時は内部でフォールバック。
     digest = _safe(
         "gemini",
-        lambda: gemini.summarize(http, candidates),
+        lambda: gemini.summarize(http, candidates, trend_block=trend_block),
         gemini._fallback(candidates),
     )
 
@@ -167,11 +181,17 @@ def run(dry_run: bool) -> int:
         print("\n[dry-run] 送信もファイル書き込みもコミットも行いません。")
         return 0
 
-    # 本実行: ファイル書き出し → README 更新 → 配信
+    # 本実行: ファイル書き出し → README 更新 → 配信 → 学習履歴を記録
     _safe("write_news", lambda: markdown.write_news_file(date_str, md), None)
     _safe("update_readme", lambda: markdown.update_readme(date_str, digest), None)
     _safe("discord", lambda: discord.deliver(http, digest, date_str), None)
     _safe("notion", lambda: notion.deliver(http, digest, date_str), None)
+    # 学習ループ: 候補の実エンゲージメントを履歴に追記（dry-run では実行しない）。
+    _safe(
+        "learn.record",
+        lambda: learn.record_run(date_str, candidates, digest.items, src.get("ai_keywords", [])),
+        None,
+    )
 
     LOG.info("=== 完了: %d 件 ===", len(digest.items))
     for it in digest.items:
