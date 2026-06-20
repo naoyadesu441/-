@@ -35,6 +35,16 @@ ai_keywords:
   - generative
   - 生成ai
   - 人工知能
+  - chatbot
+  - automation
+  - no-code
+  - prompt
+  - image generation
+  - content creation
+  - productivity
+  - copilot
+  - 副業
+  - マーケ
 
 # ---------------------------------------------------------------------------
 # YouTube（feed: https://www.youtube.com/feeds/videos.xml?channel_id=ID）
@@ -118,11 +128,12 @@ reddit:
     - singularity
     - LocalLLaMA
     - MachineLearning
-  limit: 25
+    - artificial
+    - StableDiffusion
+  limit: 50
   tier: social
   weight: 0.9
-  # スコア（upvote）下限。これ未満は事前ランクで弾く
-  min_score: 50
+  min_score: 30
 
 # ---------------------------------------------------------------------------
 # Hacker News（Algolia API。キー不要）
@@ -131,12 +142,12 @@ hackernews:
   query: AI
   tags:
     - story
-    - front_page
     - show_hn
-  hits_per_page: 40
+  hits_per_page: 60
   tier: social
   weight: 1.0
   min_points: 30
+  require_ai: true   # タイトルにAIキーワード必須（SpaceX等の無関係記事を排除）
 
 # ---------------------------------------------------------------------------
 # Product Hunt（RSS。AI関連のみ抽出）

@@ -70,13 +70,22 @@ RESPONSE_SCHEMA = {
 PROMPT = """\
 あなたは日本語のAIニュースキュレーターです。海外のAI関連の候補ニュースを渡します。
 
-【最重要ポリシー】配信するのは「一次確認済」のニュースだけです。
+【ターゲット読者】
+- AIを使って副業・仕事効率化したい初心者〜中級者
+- SNSマーケティング業界でAIを活用したい人
+以下の観点でバズりそうか判断する:
+  ・一般ユーザーが「今すぐ使える」「自分に関係ある」と感じるか
+  ・副業・マーケ・コンテンツ制作に直結するAIツール/機能の更新か
+  ・有名サービス（ChatGPT/Claude/Gemini等）の大型アプデか
+  ・純粋に学術的・インフラ的な論文はbuzz_score下げる
+
+【最重要ポリシー】配信するのは「一次確認済」のニュースを優先します。
 - 一次確認済 = 公式発表・公式ブログ・論文など、一次ソースで内容が確認できるもの。
 - 候補の tier が "primary" のもの、または社会系(social)/二次(secondary)の話題でも
-  候補集合内に同じ話題を扱う "primary" ソースがあって裏取りできるものだけを採用する。
-- 信頼メディアのみの報道（二次）、SNS/掲示板の噂（未確認）は**選ばない**。
-- 目標は{tmin}件以上。候補に tier="primary" が多数あるはず（公式ブログ・論文含む）。
-  積極的に一次を拾い、{tmin}〜{tmax}件を目指す。どうしても一次が{tmin}件に満たない場合のみ、少数でよい。
+  候補集合内に同じ話題を扱う "primary" ソースがあって裏取りできるものだけを「一次確認済」とする。
+- 一次確認済が{tmin}件に満たない場合のみ、信頼メディア報道（二次）も verify_status="二次" で採用してよい。
+- SNS/掲示板の噂（未確認）は**選ばない**。
+- 目標は{tmin}〜{tmax}件。一次を積極的に拾い、足りなければ二次で補填する。
 
 採用したものについて、**SNSでバズりそうな順**（buzz_scoreが高い順）に{tmin}〜{tmax}件を選び、整理してください。
 最終的にbuzz_score上位10件を配信するので、バズる可能性が高いものを多めに拾うこと。
@@ -86,9 +95,9 @@ PROMPT = """\
 - title_jp: 日本語の見出し（40字以内、誇張しない）。
 - summary_jp: 日本語要約（120〜200字。何が・どこが・なぜ重要かを端的に）。
 - category: 次から1つ — モデル/プロダクト/研究/資金調達/規制・倫理/ツール/その他。
-- verify_status: 採用するものは必ず "一次確認済" とする（"二次"・"未確認" は選定しない）。
-- primary_source_id: 裏取りに使った一次候補の id を必ず入れる。tier が "primary" 自身の
-  場合は自分の id でよい。URLやタイトルを創作しないこと。裏取りできないものは採用しない。
+- verify_status: 一次ソースがあるものは "一次確認済"。信頼メディア報道のみの場合は "二次"。"未確認" は選定しない。
+- primary_source_id: 裏取りに使った一次候補の id を入れる。tier が "primary" 自身の
+  場合は自分の id でよい。URLやタイトルを創作しないこと。二次の場合は空文字列でよい。
 - buzz_score: SNS（特にThreads/X）でバズりそうか1〜5で判定する。
   判定基準: 「多くのAIユーザーに関係する実用的インパクト」「意外性・逆張り感」
   「初心者でも分かる具体的な変化」「有名企業/ツールの名前」が揃うほど高い。
@@ -127,9 +136,12 @@ def _candidate_payload(items: list[NewsItem]) -> list[dict]:
 
 
 def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
-    """Gemini 不使用/失敗時。一次確認済のみをヒューリスティック上位 N で掲載。"""
-    # ポリシー: 配信は一次確認済のみ。二次・未確認はフォールバックでも採用しない。
-    selected = [it for it in items if it.verify_status == VERIFY_PRIMARY][:n]
+    """Gemini 不使用/失敗時。一次優先、不足なら二次で補填。"""
+    selected = [it for it in items if it.verify_status == VERIFY_PRIMARY]
+    if len(selected) < n:
+        secondary = [it for it in items if it.verify_status == VERIFY_SECONDARY]
+        selected += secondary[:n - len(selected)]
+    selected = selected[:n]
     for it in selected:
         if not it.title_jp:
             it.title_jp = it.original_title
@@ -139,13 +151,15 @@ def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
             it.category = "その他"
     if not selected:
         return Digest(
-            highlight="本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。",
+            highlight="本日は確認済のAIニュースはありませんでした。",
             items=[],
         )
+    n_primary = sum(1 for it in selected if it.verify_status == VERIFY_PRIMARY)
     highlight = (
-        f"本日の一次確認済AIニュースを{len(selected)}件掲載。"
+        f"本日のAIニュースを{len(selected)}件掲載（一次{n_primary}件）。"
         "AI要約は利用できなかったため、ヒューリスティック順で掲載しています。"
     )
+    LOG.info("fallback: %d items (一次%d, 二次%d)", len(selected), n_primary, len(selected) - n_primary)
     return Digest(highlight=highlight, items=selected)
 
 

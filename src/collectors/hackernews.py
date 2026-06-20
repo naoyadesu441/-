@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 
 from ..config import Http
 from ..models import NewsItem, SOURCE_HN, TIER_SOCIAL
-from .base import clip
+from .base import clip, contains_ai_keyword
 
 LOG = logging.getLogger("ai_news.collect.hn")
 
@@ -19,12 +19,13 @@ SEARCH = "https://hn.algolia.com/api/v1/search"
 ITEM_URL = "https://news.ycombinator.com/item?id={oid}"
 
 
-def collect(http: Http, cfg: dict) -> list[NewsItem]:
+def collect(http: Http, cfg: dict, ai_keywords: list[str] | None = None) -> list[NewsItem]:
     query = cfg.get("query", "AI")
     tags = cfg.get("tags", ["story"])
     hits = int(cfg.get("hits_per_page", 40))
     weight = float(cfg.get("weight", 1.0))
     min_points = int(cfg.get("min_points", 0))
+    require_ai = cfg.get("require_ai", False)
 
     seen: set[str] = set()
     items: list[NewsItem] = []
@@ -50,6 +51,8 @@ def collect(http: Http, cfg: dict) -> list[NewsItem]:
                     continue
                 points = int(hit.get("points") or 0)
                 if points < min_points:
+                    continue
+                if require_ai and ai_keywords and not contains_ai_keyword(title, ai_keywords):
                     continue
                 seen.add(oid)
                 url = (hit.get("url") or "").strip() or ITEM_URL.format(oid=oid)
