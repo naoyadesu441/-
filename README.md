@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-20**
+**最終更新: 2026-06-21**
 
-> 本日は15件の注目トピックを収集（うち一次確認済 0件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週のAIニュースでは、米国政府によるAnthropicのAIモデルFable 5の禁止が大きな注目を集め、AI規制と倫理に関する議論が活発化しています。同時に、AppleやGoogleがそれぞれSiriやGoogle Homeに生成AI機能を統合するなど、主要テック企業によるAIプロダクトの進化が顕著です。また、GPT-5.5のハルシネーション問題やLLMの複雑化といった技術的課題も浮上しており、AI開発の多面的な側面が示されています。
 
-- [HN][🔴未確認] Americans express unease over SpaceX's influence on retirement savings — https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk
-- [HN][🔴未確認] Hyundai buys Boston Dynamics — https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million
-- [HN][🔴未確認] Companies rein in AI usage as costs strain budgets — https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314
-- [HN][🔴未確認] Zenzizenzizenzic — https://en.wikipedia.org/wiki/Zenzizenzizenzic
-- [HN][🔴未確認] Google workspace threatening to block Firefox access — https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html
-- [HN][🔴未確認] A new bill takes aim at government pressure to silence lawful online speech — https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech
-- [HN][🔴未確認] Norway imposes near ban on AI in elementary school — https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19
-- [HN][🔴未確認] Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died — https://www.legacy.com/legacy/robert-bobby-prince-lll
-- [HN][🔴未確認] Big Banana Car — https://bigbananacar.com/
-- [HN][🔴未確認] There are no instances in ATProto — https://overreacted.io/there-are-no-instances-in-atproto
+- [HN][🔴未確認] AIエージェント向け一時Cloudflareアカウント — https://blog.cloudflare.com/temporary-accounts
+- [HN][🔴未確認] 大規模言語モデルの複雑化が進行中 — https://ianbarber.blog/2026/06/19/llms-are-complicated-now
+- [HN][🔴未確認] GPT-5.5、GLM-5.2より幻覚が3倍多い — https://arrowtsx.dev/bigger-models
+- [News][🟡二次] 新Siri AIはより賢く、役立つアシスタントに — https://www.wired.com/story/siri-ai-hands-on-iphone
+- [YouTube][🔴未確認] 2026年のタスク別AIツールベストリスト — https://www.youtube.com/shorts/f-MQn7NqjV8
+- [News][🟡二次] Google HomeスピーカーがGemini搭載で刷新 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
+- [News][🟡二次] 米政府、AnthropicのAIモデルFable 5を禁止 — https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand
+- [News][🟡二次] ピーター・ティール氏のAI「Dialog」が参加者を格付け — https://wired.jp/article/how-peter-thiels-private-dialog-club-secretly-ranks-its-members
+- [News][🟡二次] インドAmbani氏、全サービスにAI導入へ — https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home
+- [News][🟡二次] iPhoneカメラに生成AI機能搭載へ — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
 
-全文: [`news/2026-06-20.md`](news/2026-06-20.md)
+全文: [`news/2026-06-21.md`](news/2026-06-21.md)
 <!--/LATEST-->
 
 ---
