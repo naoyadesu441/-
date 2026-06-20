@@ -57,8 +57,10 @@ RESPONSE_SCHEMA = {
                     },
                     "primary_source_id": {"type": "string"},
                     "score": {"type": "number"},
+                    "buzz_score": {"type": "integer"},
+                    "buzz_reason": {"type": "string"},
                 },
-                "required": ["id", "title_jp", "summary_jp", "category", "verify_status"],
+                "required": ["id", "title_jp", "summary_jp", "category", "verify_status", "buzz_score", "buzz_reason"],
             },
         },
     },
@@ -86,6 +88,12 @@ PROMPT = """\
 - verify_status: 採用するものは必ず "一次確認済" とする（"二次"・"未確認" は選定しない）。
 - primary_source_id: 裏取りに使った一次候補の id を必ず入れる。tier が "primary" 自身の
   場合は自分の id でよい。URLやタイトルを創作しないこと。裏取りできないものは採用しない。
+- buzz_score: SNS（特にThreads/X）でバズりそうか1〜5で判定する。
+  判定基準: 「多くのAIユーザーに関係する実用的インパクト」「意外性・逆張り感」
+  「初心者でも分かる具体的な変化」「有名企業/ツールの名前」が揃うほど高い。
+  5=確実にバズる / 4=高確率でバズ / 3=そこそこ / 2=ニッチ / 1=専門的すぎ
+- buzz_reason: なぜその buzz_score にしたか、日本語1文で理由を書く。
+  例: 「ChatGPT無料ユーザー全員に影響する大型アプデのため」
 - highlight: 今日のAI界隈の要点を2〜3文の日本語でまとめる（一次確認済の範囲で）。
 
 候補(JSON):
@@ -215,6 +223,11 @@ def _reconcile(parsed: dict, by_id: dict[str, NewsItem], all_items: list[NewsIte
                 it.score = float(entry["score"])
             except (TypeError, ValueError):
                 pass
+        try:
+            it.buzz_score = int(entry.get("buzz_score", 0))
+        except (TypeError, ValueError):
+            it.buzz_score = 0
+        it.buzz_reason = (entry.get("buzz_reason") or "").strip()
         selected.append(it)
 
     if not selected:

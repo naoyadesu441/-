@@ -35,5 +35,13 @@ def clip(text: Optional[str], limit: int) -> str:
 
 
 def contains_ai_keyword(text: str, keywords: list[str]) -> bool:
+    import re
     low = text.lower()
-    return any(kw in low for kw in keywords)
+    for kw in keywords:
+        if len(kw) <= 3:
+            if re.search(r'\b' + re.escape(kw) + r'\b', low):
+                return True
+        else:
+            if kw in low:
+                return True
+    return False

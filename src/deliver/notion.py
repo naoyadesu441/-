@@ -47,6 +47,8 @@ def _properties(it: NewsItem, date_str: str) -> dict:
         "SummaryJP": _rt(it.summary_jp),
         "Score": {"number": round(float(it.score), 3)},
         "Rank": {"number": int(it.rank)},
+        "BuzzScore": {"number": int(it.buzz_score or 0)},
+        "BuzzReason": _rt(it.buzz_reason),
     }
     if it.primary_source_url:
         props["PrimarySource"] = {"url": it.primary_source_url}

@@ -60,6 +60,8 @@ class NewsItem:
     primary_source_url: str = ""     # 裏取りに使った一次/二次リンク（任意）
     rank: int = 0
     score: float = 0.0
+    buzz_score: int = 0              # SNSバズ予測（1-5）。Geminiが判定
+    buzz_reason: str = ""            # バズ予測の理由（日本語1文）
 
     def ensure_id(self) -> str:
         """url から安定 ID を生成（未設定なら）。"""

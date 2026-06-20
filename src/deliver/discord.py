@@ -26,9 +26,15 @@ COLOR = {
 }
 
 
+_BUZZ_LABEL = {5: "🔥確実バズ", 4: "🔥高バズ", 3: "✨そこそこ", 2: "📌ニッチ", 1: "📄専門的"}
+
+
 def _embed(it: NewsItem) -> dict:
     badge = VERIFY_BADGE.get(it.verify_status, "")
+    buzz = _BUZZ_LABEL.get(it.buzz_score, "")
     desc = it.summary_jp or it.raw_summary or ""
+    if it.buzz_score and it.buzz_reason:
+        desc += f"\n**SNSバズ予測: {buzz}** — {it.buzz_reason}"
     if it.primary_source_url:
         desc += f"\n🔎 裏取り: {it.primary_source_url}"
     desc = desc[:EMBED_DESC_LIMIT]
