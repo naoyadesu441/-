@@ -26,7 +26,7 @@ from ..models import (
 
 LOG = logging.getLogger("ai_news.verify")
 
-_MATCH = 0.62  # 別ソース間の話題一致しきい値（タイトルは表現がばらけるので緩め）
+_MATCH = 0.55  # 別ソース間の話題一致しきい値（一次へ昇格しやすいよう緩め。誤マッチ注意）
 
 
 def _norm(title: str) -> str:

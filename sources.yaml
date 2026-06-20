@@ -186,12 +186,54 @@ feeds:
     url: https://ai.meta.com/blog/rss/
     tier: primary
     weight: 1.2
-    enabled: false   # ⚠ RSS不安定。verify_feeds.py で確認後 true
+    enabled: true   # verify_feeds.py で疎通確認。NGなら false に戻す
   - name: Anthropic
     url: https://www.anthropic.com/news/rss.xml
     tier: primary
     weight: 1.5
-    enabled: false   # ⚠ 安定RSS無の可能性。verify_feeds.py で確認後 true
+    enabled: true   # verify_feeds.py で疎通確認。NGなら false に戻す
+  - name: Microsoft AI Blog
+    url: https://www.microsoft.com/en-us/ai/blog/feed/
+    tier: primary
+    weight: 1.2
+    enabled: true
+  - name: AWS Machine Learning
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    tier: primary
+    weight: 1.0
+    enabled: true
+  - name: NVIDIA Blog (AI)
+    url: https://blogs.nvidia.com/feed/
+    tier: primary
+    weight: 1.0
+    enabled: true
+    require_ai: true   # 汎用フィードのためAIキーワードで絞る
+  - name: Mistral AI
+    url: https://mistral.ai/news/rss.xml
+    tier: primary
+    weight: 1.1
+    enabled: true
+  - name: Stability AI
+    url: https://stability.ai/news?format=rss
+    tier: primary
+    weight: 1.0
+    enabled: true
+  - name: Google Research
+    url: https://research.google/blog/rss/
+    tier: primary
+    weight: 1.1
+    enabled: true
+  - name: Apple Machine Learning
+    url: https://machinelearning.apple.com/rss.xml
+    tier: primary
+    weight: 1.0
+    enabled: true
+  - name: Microsoft Research
+    url: https://www.microsoft.com/en-us/research/feed/
+    tier: primary
+    weight: 1.0
+    enabled: true
+    require_ai: true   # 汎用フィードのためAIキーワードで絞る
 
   # ---- 二次（信頼メディア） ----
   - name: TechCrunch AI
@@ -232,6 +274,22 @@ feeds:
     weight: 1.0
     enabled: true
     require_ai: true   # 汎用フィードのためAIキーワードで絞る
+
+  # ---- 発見・裏取り層（Google News RSS） ----
+  #   Google Discover 的に「おすすめ/トレンドが流れてくる」入力。
+  #   tier: social にして、一次ソースと照合できた時だけ一次へ昇格し配信される。
+  - name: Google News (AI, EN)
+    url: "https://news.google.com/rss/search?q=AI%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    tier: social
+    weight: 0.8
+    enabled: true
+    require_ai: true
+  - name: Google News (AI, JP)
+    url: "https://news.google.com/rss/search?q=AI%20OR%20生成AI%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+    tier: social
+    weight: 0.8
+    enabled: true
+    require_ai: true
 
 # ---------------------------------------------------------------------------
 # ニュースレター RSS（ベストエフォート。RSS不安定なものは検証後に切替）

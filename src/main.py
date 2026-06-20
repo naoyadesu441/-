@@ -24,7 +24,7 @@ from .collectors import (
     youtube_rss,
 )
 from .collectors.feeds_rss import fetch_feed
-from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE
+from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE, VERIFY_PRIMARY
 from .pipeline import dedupe, gemini, normalize, rank, verify
 from .render import markdown
 from .deliver import discord, notion
@@ -130,6 +130,14 @@ def run(dry_run: bool) -> int:
         lambda: gemini.summarize(http, candidates),
         gemini._fallback(candidates),
     )
+
+    # 6.5) 一次のみフィルタ（ポリシー: 正しさが確認できる一次確認済だけを配信）
+    #   二次・未確認は除外。一次が0件の日はエラーにせず定型メッセージにする。
+    n_before = len(digest.items)
+    digest.items = [it for it in digest.items if it.verify_status == VERIFY_PRIMARY]
+    LOG.info("一次フィルタ: %d → %d 件", n_before, len(digest.items))
+    if not digest.items:
+        digest.highlight = "本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。"
 
     # 7) render（常に markdown を作る＝真実の記録）
     md = markdown.build_markdown(date_str, digest)

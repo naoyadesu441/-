@@ -67,22 +67,25 @@ RESPONSE_SCHEMA = {
 
 PROMPT = """\
 あなたは日本語のAIニュースキュレーターです。海外のAI関連の候補ニュースを渡します。
-重要度・話題性・新規性が高い順に上位{tmin}〜{tmax}件を選び、各件について日本語で整理してください。
+
+【最重要ポリシー】配信するのは「一次確認済」のニュースだけです。
+- 一次確認済 = 公式発表・公式ブログ・論文など、一次ソースで内容が確認できるもの。
+- 候補の tier が "primary" のもの、または社会系(social)/二次(secondary)の話題でも
+  候補集合内に同じ話題を扱う "primary" ソースがあって裏取りできるものだけを採用する。
+- 信頼メディアのみの報道（二次）、SNS/掲示板の噂（未確認）は**選ばない**。
+- 条件を満たす一次が少ない日は、無理に件数を埋めず、少数（0件でも可）でよい。
+
+採用したものについて、重要度・話題性・新規性が高い順に最大{tmax}件まで選び、整理してください。
 
 厳守事項:
 - 各候補の "id" は絶対に変更せず、選んだものはその id をそのまま返す。
 - title_jp: 日本語の見出し（40字以内、誇張しない）。
 - summary_jp: 日本語要約（120〜200字。何が・どこが・なぜ重要かを端的に）。
 - category: 次から1つ — モデル/プロダクト/研究/資金調達/規制・倫理/ツール/その他。
-- verify_status: 裏取りステータスを次から1つ —
-    "一次確認済"（公式発表・論文・一次ソースで確認できる）/
-    "二次"（信頼メディアが報じているが一次未確認）/
-    "未確認"（SNS/掲示板の噂レベルで一次・二次の裏付けが無い）。
-  各候補に付いている tier と suggested_status、および候補集合内に同じ話題の
-  primary/secondary ソースがあるかを根拠に判断する。
-- primary_source_id: 裏取りに使える候補が集合内にあれば、その候補の id を入れる
-  （無ければ空文字）。URLやタイトルを創作しないこと。
-- highlight: 今日のAI界隈の要点を2〜3文の日本語でまとめる。
+- verify_status: 採用するものは必ず "一次確認済" とする（"二次"・"未確認" は選定しない）。
+- primary_source_id: 裏取りに使った一次候補の id を必ず入れる。tier が "primary" 自身の
+  場合は自分の id でよい。URLやタイトルを創作しないこと。裏取りできないものは採用しない。
+- highlight: 今日のAI界隈の要点を2〜3文の日本語でまとめる（一次確認済の範囲で）。
 
 候補(JSON):
 {candidates}
@@ -114,8 +117,9 @@ def _candidate_payload(items: list[NewsItem]) -> list[dict]:
 
 
 def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
-    """Gemini 不使用/失敗時。ヒューリスティック上位 N ＋ 定型日本語文。"""
-    selected = items[:n]
+    """Gemini 不使用/失敗時。一次確認済のみをヒューリスティック上位 N で掲載。"""
+    # ポリシー: 配信は一次確認済のみ。二次・未確認はフォールバックでも採用しない。
+    selected = [it for it in items if it.verify_status == VERIFY_PRIMARY][:n]
     for it in selected:
         if not it.title_jp:
             it.title_jp = it.original_title
@@ -123,11 +127,13 @@ def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
             it.summary_jp = it.raw_summary or "（要約なし。元リンクを参照）"
         if not it.category:
             it.category = "その他"
-        if not it.verify_status:
-            it.verify_status = VERIFY_UNCONFIRMED
-    n_primary = sum(1 for i in selected if i.verify_status == VERIFY_PRIMARY)
+    if not selected:
+        return Digest(
+            highlight="本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。",
+            items=[],
+        )
     highlight = (
-        f"本日は{len(selected)}件の注目トピックを収集（うち一次確認済 {n_primary}件）。"
+        f"本日の一次確認済AIニュースを{len(selected)}件掲載。"
         "AI要約は利用できなかったため、ヒューリスティック順で掲載しています。"
     )
     return Digest(highlight=highlight, items=selected)
