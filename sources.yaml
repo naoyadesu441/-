@@ -377,3 +377,17 @@ note:
   tier: social
   weight: 0.7
   users: []   # 例: ["depaurl", "someaiwriter"]。空ならスキップ
+
+# ---------------------------------------------------------------------------
+# X（Twitter）/ Grok バズシグナル — 将来用・既定で無効
+#   ⚠ X API も Grok API も従量課金（カード登録必須）。完全無料の絶対条件を守るため
+#   enabled:false の間は一切のネットワーク呼び出しを行わない（課金リスクゼロ）。
+#   有効化には enabled:true かつ環境変数 X_BEARER_TOKEN（secret_env）の設定が必要。
+# ---------------------------------------------------------------------------
+x_grok:
+  enabled: false
+  tier: social
+  weight: 0.8
+  secret_env: X_BEARER_TOKEN
+  query: "AI OR LLM"
+  max_items: 30
