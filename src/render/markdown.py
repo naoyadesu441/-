@@ -20,6 +20,9 @@ LATEST_START = "<!--LATEST-->"
 LATEST_END = "<!--/LATEST-->"
 
 
+_BUZZ_LABEL = {5: "🔥確実バズ", 4: "🔥高バズ", 3: "✨そこそこ", 2: "📌ニッチ", 1: "📄専門的"}
+
+
 def _item_block(it: NewsItem) -> str:
     badge = VERIFY_BADGE.get(it.verify_status, it.verify_status or "")
     lines = [f"### [{it.source_type}][{badge}] {it.title_jp or it.original_title}"]
@@ -27,6 +30,10 @@ def _item_block(it: NewsItem) -> str:
         lines.append("")
         lines.append(it.summary_jp)
     lines.append("")
+    if it.buzz_score:
+        buzz = _BUZZ_LABEL.get(it.buzz_score, f"({it.buzz_score}/5)")
+        reason = f" — {it.buzz_reason}" if it.buzz_reason else ""
+        lines.append(f"- **SNSバズ予測: {buzz}**{reason}")
     meta = []
     if it.category:
         meta.append(f"カテゴリ: {it.category}")

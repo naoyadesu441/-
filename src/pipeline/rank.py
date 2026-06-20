@@ -13,7 +13,8 @@ from ..models import NewsItem, TIER_PRIMARY, TIER_SECONDARY, TIER_SOCIAL
 
 LOG = logging.getLogger("ai_news.rank")
 
-_TIER_BONUS = {TIER_PRIMARY: 1.5, TIER_SECONDARY: 1.0, TIER_SOCIAL: 0.5}
+# 配信は一次のみのポリシーのため、一次ソースを強く優遇して上位に残す。
+_TIER_BONUS = {TIER_PRIMARY: 3.0, TIER_SECONDARY: 1.0, TIER_SOCIAL: 0.5}
 
 
 def _recency_score(published: datetime | None) -> float:
@@ -52,6 +53,20 @@ def score_items(items: list[NewsItem]) -> list[NewsItem]:
 
 
 def preselect(items: list[NewsItem], limit: int = 60) -> list[NewsItem]:
+    """事前ランク。一次(primary)は全件無条件で残し、残り枠を上位の非一次で埋める。
+
+    配信は一次のみのため、一次候補が60件上限から押し出されないようにする。
+    非一次(social/secondary)は裏取り(corroboration)の照合材料として残す。
+    """
     ranked = score_items(items)
-    LOG.info("rank: %d items, preselect top %d", len(ranked), min(limit, len(ranked)))
-    return ranked[:limit]
+    primaries = [it for it in ranked if it.tier == TIER_PRIMARY]
+    others = [it for it in ranked if it.tier != TIER_PRIMARY]
+    selected = primaries + others[: max(0, limit - len(primaries))]
+    LOG.info(
+        "rank: %d items, preselect %d (一次 %d 全件 + 他 %d)",
+        len(ranked),
+        len(selected),
+        len(primaries),
+        len(selected) - len(primaries),
+    )
+    return selected

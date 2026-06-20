@@ -24,7 +24,7 @@ from .collectors import (
     youtube_rss,
 )
 from .collectors.feeds_rss import fetch_feed
-from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE
+from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE, VERIFY_PRIMARY, TIER_PRIMARY
 from .pipeline import dedupe, gemini, normalize, rank, verify
 from .render import markdown
 from .deliver import discord, notion
@@ -121,7 +121,7 @@ def run(dry_run: bool) -> int:
     # 3) dedupe
     items = _safe("dedupe", lambda: dedupe.dedupe(items), items)
     # 4) rank → preselect
-    candidates = _safe("rank", lambda: rank.preselect(items, 60), items[:60])
+    candidates = _safe("rank", lambda: rank.preselect(items, 80), items[:80])
     # 5) verify（裏取り素案）
     candidates = _safe("verify", lambda: verify.assign_status(candidates), candidates)
     # 6) gemini（選定＋日本語化＋裏取り確定）。失敗時は内部でフォールバック。
@@ -130,6 +130,24 @@ def run(dry_run: bool) -> int:
         lambda: gemini.summarize(http, candidates),
         gemini._fallback(candidates),
     )
+
+    # 6.5) 一次のみ → バズ予測上位10件に絞る
+    #   ① verify_status=一次確認済 かつ (ネイティブ一次 or 裏取りリンクあり) のみ通す
+    #   ② buzz_score の高い順にソートし、上位10件を配信（バズりそうなものに特化）
+    BUZZ_TOP_N = 10
+    n_before = len(digest.items)
+    primary_items = [
+        it for it in digest.items
+        if it.verify_status == VERIFY_PRIMARY
+        and (it.tier == TIER_PRIMARY or it.primary_source_url)
+    ]
+    primary_items.sort(key=lambda x: (x.buzz_score, x.score), reverse=True)
+    digest.items = primary_items[:BUZZ_TOP_N]
+    for idx, it in enumerate(digest.items, start=1):
+        it.rank = idx
+    LOG.info("一次フィルタ+バズTOP%d: %d → %d 件", BUZZ_TOP_N, n_before, len(digest.items))
+    if not digest.items:
+        digest.highlight = "本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。"
 
     # 7) render（常に markdown を作る＝真実の記録）
     md = markdown.build_markdown(date_str, digest)
