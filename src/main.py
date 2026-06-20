@@ -24,7 +24,7 @@ from .collectors import (
     youtube_rss,
 )
 from .collectors.feeds_rss import fetch_feed
-from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE, VERIFY_PRIMARY, TIER_PRIMARY
+from .models import NewsItem, SOURCE_NEWS, SOURCE_NEWSLETTER, VERIFY_BADGE, VERIFY_PRIMARY, VERIFY_SECONDARY, TIER_PRIMARY
 from .pipeline import dedupe, gemini, normalize, rank, verify
 from .render import markdown
 from .deliver import discord, notion
@@ -48,7 +48,7 @@ def collect_all(http: Http, src: dict) -> list[NewsItem]:
 
     items += _safe("youtube", lambda: youtube_rss.collect(http, src.get("youtube", []), kw), [])
     items += _safe("reddit", lambda: reddit.collect(http, src.get("reddit", {})), [])
-    items += _safe("hackernews", lambda: hackernews.collect(http, src.get("hackernews", {})), [])
+    items += _safe("hackernews", lambda: hackernews.collect(http, src.get("hackernews", {}), kw), [])
     items += _safe(
         "producthunt", lambda: producthunt.collect(http, src.get("producthunt", {}), kw), []
     )
@@ -131,9 +131,7 @@ def run(dry_run: bool) -> int:
         gemini._fallback(candidates),
     )
 
-    # 6.5) 一次のみ → バズ予測上位10件に絞る
-    #   ① verify_status=一次確認済 かつ (ネイティブ一次 or 裏取りリンクあり) のみ通す
-    #   ② buzz_score の高い順にソートし、上位10件を配信（バズりそうなものに特化）
+    # 6.5) 一次優先 + 二次補填 → バズ予測上位10件に絞る
     BUZZ_TOP_N = 10
     n_before = len(digest.items)
     primary_items = [
@@ -141,13 +139,20 @@ def run(dry_run: bool) -> int:
         if it.verify_status == VERIFY_PRIMARY
         and (it.tier == TIER_PRIMARY or it.primary_source_url)
     ]
+    if len(primary_items) < BUZZ_TOP_N:
+        secondary_items = [
+            it for it in digest.items
+            if it.verify_status == VERIFY_SECONDARY and it not in primary_items
+        ]
+        secondary_items.sort(key=lambda x: (x.buzz_score, x.score), reverse=True)
+        primary_items += secondary_items[:BUZZ_TOP_N - len(primary_items)]
     primary_items.sort(key=lambda x: (x.buzz_score, x.score), reverse=True)
     digest.items = primary_items[:BUZZ_TOP_N]
     for idx, it in enumerate(digest.items, start=1):
         it.rank = idx
-    LOG.info("一次フィルタ+バズTOP%d: %d → %d 件", BUZZ_TOP_N, n_before, len(digest.items))
+    LOG.info("一次+二次補填→バズTOP%d: %d → %d 件", BUZZ_TOP_N, n_before, len(digest.items))
     if not digest.items:
-        digest.highlight = "本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。"
+        digest.highlight = "本日は確認済のAIニュースはありませんでした。"
 
     # 7) render（常に markdown を作る＝真実の記録）
     md = markdown.build_markdown(date_str, digest)

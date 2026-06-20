@@ -8,7 +8,7 @@ from __future__ import annotations
 import logging
 from datetime import datetime, timezone
 
-from ..config import Http
+from ..config import Http, REDDIT_USER_AGENT
 from ..models import NewsItem, SOURCE_REDDIT, TIER_SOCIAL
 from .base import clip
 
@@ -27,7 +27,10 @@ def collect(http: Http, cfg: dict) -> list[NewsItem]:
 
     for sub in subs:
         try:
-            resp = http.get(URL_TMPL.format(sub=sub, limit=limit))
+            resp = http.get(
+                URL_TMPL.format(sub=sub, limit=limit),
+                headers={"User-Agent": REDDIT_USER_AGENT},
+            )
             if resp.status_code != 200:
                 LOG.warning("r/%s: HTTP %s", sub, resp.status_code)
                 continue

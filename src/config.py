@@ -20,8 +20,14 @@ LOG = logging.getLogger("ai_news")
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "sources.yaml"
 
-# 礼儀正しく、かつ Reddit 等で 429 を避けるための記述的 User-Agent。
+# RSS フィードの正規取得。ボット扱いで 403 になるのを防ぐためブラウザ風 UA。
 USER_AGENT = (
+    "Mozilla/5.0 (compatible; DailyAINews/1.0; "
+    "+https://github.com/naoyadesu441/-)"
+)
+
+# Reddit API は記述的 UA を要求するため別途用意。他コレクターでは使わない。
+REDDIT_USER_AGENT = (
     "daily-ai-news-aggregator/1.0 "
     "(+https://github.com/naoyadesu441/-; contact via GitHub issues)"
 )
