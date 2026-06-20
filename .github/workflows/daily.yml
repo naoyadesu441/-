@@ -1,0 +1,60 @@
+name: daily-ai-news
+
+# 毎日 23:00 UTC = 08:00 JST に実行。手動実行(workflow_dispatch)では dry_run を選べる。
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true で送信・コミットせず内容のみ確認"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # news/ と README.md のコミット用（GITHUB_TOKEN は自動付与）
+
+concurrency:
+  group: daily-ai-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregator
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python -m src.main --dry-run
+          else
+            python -m src.main
+          fi
+
+      - name: Commit results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/ README.md
+          if git diff --cached --quiet; then
+            echo "変更なし — コミットをスキップ"
+          else
+            git commit -m "news: $(date +%Y-%m-%d) 海外AI最新トレンド自動更新"
+            git push
+          fi

@@ -1,0 +1,52 @@
+[
+  {
+    "source_type": "News",
+    "source": "OpenAI",
+    "tier": "primary",
+    "original_title": "OpenAI announces GPT-5.5 with improved reasoning and lower latency",
+    "url": "https://openai.com/news/gpt-5-5",
+    "raw_summary": "OpenAI today released GPT-5.5, featuring stronger multi-step reasoning, a larger context window, and roughly 30% lower latency compared to the previous model.",
+    "weight": 1.5,
+    "verify_status": "一次確認済"
+  },
+  {
+    "source_type": "Reddit",
+    "source": "r/OpenAI",
+    "tier": "social",
+    "original_title": "GPT-5.5 just dropped and the reasoning is insane",
+    "url": "https://www.reddit.com/r/OpenAI/comments/xxx",
+    "raw_summary": "Discussion thread reacting to the new GPT-5.5 release, with users sharing benchmark comparisons.",
+    "weight": 0.9,
+    "verify_status": "一次確認済"
+  },
+  {
+    "source_type": "News",
+    "source": "TechCrunch AI",
+    "tier": "secondary",
+    "original_title": "Anthropic reportedly raising new funding round at higher valuation",
+    "url": "https://techcrunch.com/2026/06/16/anthropic-funding",
+    "raw_summary": "Sources say Anthropic is in talks to raise a new round of funding, though the company has not confirmed details.",
+    "weight": 1.1,
+    "verify_status": "二次"
+  },
+  {
+    "source_type": "HN",
+    "source": "Hacker News",
+    "tier": "social",
+    "original_title": "Rumor: a major lab is about to open-source a frontier model next week",
+    "url": "https://news.ycombinator.com/item?id=99999999",
+    "raw_summary": "Speculative thread with no official confirmation about an upcoming open-source frontier model.",
+    "weight": 1.0,
+    "verify_status": "未確認"
+  },
+  {
+    "source_type": "Paper",
+    "source": "arXiv",
+    "tier": "primary",
+    "original_title": "Efficient Long-Context Attention via Sparse Routing",
+    "url": "http://arxiv.org/abs/2606.01234",
+    "raw_summary": "We propose a sparse routing mechanism that reduces the cost of long-context attention while maintaining accuracy on downstream tasks.",
+    "weight": 0.6,
+    "verify_status": "一次確認済"
+  }
+]
