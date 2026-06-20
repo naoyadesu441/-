@@ -131,16 +131,21 @@ def run(dry_run: bool) -> int:
         gemini._fallback(candidates),
     )
 
-    # 6.5) 一次のみフィルタ（ポリシー: 正しさが確認できる一次確認済だけを配信）
-    #   verify_status が一次確認済 かつ (ネイティブ一次ソース or 裏取りリンクあり) のみ通す。
-    #   Geminiが誤って social を一次ラベルにしても、裏取りリンク無しなら弾く。
+    # 6.5) 一次のみ → バズ予測上位10件に絞る
+    #   ① verify_status=一次確認済 かつ (ネイティブ一次 or 裏取りリンクあり) のみ通す
+    #   ② buzz_score の高い順にソートし、上位10件を配信（バズりそうなものに特化）
+    BUZZ_TOP_N = 10
     n_before = len(digest.items)
-    digest.items = [
+    primary_items = [
         it for it in digest.items
         if it.verify_status == VERIFY_PRIMARY
         and (it.tier == TIER_PRIMARY or it.primary_source_url)
     ]
-    LOG.info("一次フィルタ: %d → %d 件", n_before, len(digest.items))
+    primary_items.sort(key=lambda x: (x.buzz_score, x.score), reverse=True)
+    digest.items = primary_items[:BUZZ_TOP_N]
+    for idx, it in enumerate(digest.items, start=1):
+        it.rank = idx
+    LOG.info("一次フィルタ+バズTOP%d: %d → %d 件", BUZZ_TOP_N, n_before, len(digest.items))
     if not digest.items:
         digest.highlight = "本日は一次確認済（公式発表・論文）のAIニュースはありませんでした。"
 
