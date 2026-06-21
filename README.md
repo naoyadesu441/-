@@ -8,18 +8,15 @@
 <!--LATEST-->
 **最終更新: 2026-06-21**
 
-> 今日のAI界隈では、AWS BedrockのAIエージェントがWeb検索機能に対応し、より賢い情報収集が可能になりました。これにより、開発者は実用的なAIアシスタントを構築しやすくなります。また、Adobe Marketing AgentとAmazon Quickの連携により、マーケティングキャンペーンの分析効率が大幅に向上し、ビジネスにおけるAI活用がさらに加速しています。
+> 今日のAI界隈では、AppleがiPhoneカメラに生成AI機能を統合し、GoogleもGeminiを搭載した新Google Homeスピーカーを発表するなど、大手テック企業によるAIのプロダクトへの組み込みが加速しています。これにより、ユーザーのコンテンツ制作やスマートホーム体験が大きく進化する見込みです。一方で、AI学習データの著作権問題やAIチャットボットの利用における倫理的注意喚起も引き続き重要なテーマとなっています。
 
-- [News][🟡二次] iPhoneカメラに生成AI機能が追加へ — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
-- [News][🟢一次] AdobeとAWSがマーケティングAI連携 — https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick
-- [News][🟡二次] 新Siri AIは賢く役立つアシスタントに — https://www.wired.com/story/siri-ai-hands-on-iphone
-- [News][🟡二次] Google HomeにGemini搭載、スマート体験変革 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
-- [ProductHunt][🟡二次] AIビデオスタジオ「Pixlie」登場 — https://www.producthunt.com/products/pixlie
-- [News][🟢一次] AWS Bedrock AgentCoreにWeb検索機能 — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore
-- [News][🟡二次] ノーベル賞受賞者がDeepMindからAnthropicへ — https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic
-- [News][🟡二次] 米政府のAnthropicモデル禁止がブランドに影響か — https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand
-- [News][🟡二次] AnthropicのFable 5禁止も市場は動じず — https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care
-- [News][🟡二次] サム・アルトマン氏の映画化が中止に — https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+- [News][🟡二次] iPhoneカメラに生成AI、写真編集が進化 — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
+- [News][🟡二次] AI学習用音楽データベースが公開 — https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
+- [News][🟡二次] 新Siri AIは賢く役立つアシスタントに進化 — https://www.wired.com/story/siri-ai-hands-on-iphone
+- [News][🟡二次] 新Google Homeスピーカー登場、Gemini搭載 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
+- [News][🟡二次] AIチャットボットは「友達ではない」と警鐘 — https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends
+- [News][🟡二次] ノーベル賞受賞者Jumper氏がDeepMind退社 — https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic
+- [News][🟡二次] AI輸出規制の歴史とAnthropicのMythos — https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work
 
 全文: [`news/2026-06-21.md`](news/2026-06-21.md)
 <!--/LATEST-->
