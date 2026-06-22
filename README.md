@@ -6,19 +6,21 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-21**
+**最終更新: 2026-06-22**
 
-> 今日のAI界隈では、AppleがiPhoneカメラに生成AI機能を統合し、GoogleもGeminiを搭載した新Google Homeスピーカーを発表するなど、大手テック企業によるAIのプロダクトへの組み込みが加速しています。これにより、ユーザーのコンテンツ制作やスマートホーム体験が大きく進化する見込みです。一方で、AI学習データの著作権問題やAIチャットボットの利用における倫理的注意喚起も引き続き重要なテーマとなっています。
+> 今日のAI界隈では、大手企業によるAIの本格導入が注目されています。サムスン電子が全従業員にChatGPT Enterpriseを導入したことは、企業におけるAI活用が新たな段階に入ったことを示唆しています。
 
-- [News][🟡二次] iPhoneカメラに生成AI、写真編集が進化 — https://wired.jp/article/apple-camera-chief-thinks-ai-can-give-you-superpowers
+- [News][🟢一次] サムスン、全従業員にChatGPT導入 — https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+- [News][🟡二次] iOS 27でiPhoneに実用的なAI機能が追加 — https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27
+- [News][🟡二次] ChatGPTプロンプトを強化する28の秘訣 — https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level
 - [News][🟡二次] AI学習用音楽データベースが公開 — https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-- [News][🟡二次] 新Siri AIは賢く役立つアシスタントに進化 — https://www.wired.com/story/siri-ai-hands-on-iphone
-- [News][🟡二次] 新Google Homeスピーカー登場、Gemini搭載 — https://wired.jp/article/the-gemini-powered-google-home-speaker-is-finally-here
-- [News][🟡二次] AIチャットボットは「友達ではない」と警鐘 — https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends
-- [News][🟡二次] ノーベル賞受賞者Jumper氏がDeepMind退社 — https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic
-- [News][🟡二次] AI輸出規制の歴史とAnthropicのMythos — https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work
+- [ProductHunt][🟡二次] Claude等のバックアップ管理ツール登場 — https://www.producthunt.com/products/cloudback
+- [ProductHunt][🟡二次] 個別AIエージェント提供サービス開始 — https://www.producthunt.com/products/agent-37-38
+- [News][🟡二次] トランプ政権のAnthropic規制の行方 — https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits
+- [News][🟡二次] Signal創設者「AIチャットボットは友達ではない」 — https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends
+- [News][🟡二次] AI特化型「In the Weights」検索登場 — https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search
 
-全文: [`news/2026-06-21.md`](news/2026-06-21.md)
+全文: [`news/2026-06-22.md`](news/2026-06-22.md)
 <!--/LATEST-->
 
 ---
