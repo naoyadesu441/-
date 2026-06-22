@@ -12,6 +12,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from difflib import SequenceMatcher
 
 from ..models import (
@@ -28,15 +29,40 @@ LOG = logging.getLogger("ai_news.verify")
 
 _MATCH = 0.55  # 別ソース間の話題一致しきい値（一次へ昇格しやすいよう緩め。誤マッチ注意）
 
+# クロス言語マッチで無視する一般英単語（固有名詞ではないもの）。
+_STOPWORDS = {
+    "the", "and", "for", "with", "from", "that", "this", "are", "was", "has",
+    "have", "how", "new", "you", "your", "ai", "llm", "gpt", "all", "can", "now",
+    "out", "its", "but", "not", "who", "why", "what", "when", "more", "into",
+}
+
 
 def _norm(title: str) -> str:
     return " ".join(title.lower().split())
 
 
+def _proper_nouns(text: str) -> set[str]:
+    """英数字トークン（3文字以上）を固有名詞候補として抽出する。
+
+    日本語の見出しに混ざる英語の固有名詞（Anthropic, Mythos, ChatGPT 等）を拾い、
+    日本語タイトルと英語タイトルのクロス言語照合に使う。
+    """
+    return {
+        w.lower()
+        for w in re.findall(r"[A-Za-z][A-Za-z0-9]{2,}", text)
+        if w.lower() not in _STOPWORDS
+    }
+
+
 def _corroborates(social_title: str, other: NewsItem) -> bool:
     """social 記事と other(一次/二次) が同じ話題かを近似判定。"""
     ratio = SequenceMatcher(None, _norm(social_title), _norm(other.original_title)).ratio()
-    return ratio >= _MATCH
+    if ratio >= _MATCH:
+        return True
+    # クロス言語フォールバック: 日本語⇔英語など文字列が一致しなくても、
+    # 共通する固有名詞（ブランド名・製品名）が2つ以上あれば同じ話題とみなす。
+    shared = _proper_nouns(social_title) & _proper_nouns(other.original_title)
+    return len(shared) >= 2
 
 
 def assign_status(items: list[NewsItem]) -> list[NewsItem]:
