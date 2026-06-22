@@ -36,6 +36,21 @@ _STOPWORDS = {
     "out", "its", "but", "not", "who", "why", "what", "when", "more", "into",
 }
 
+# 固有名詞ではない一般的なテック語。これらは「共通していても」話題一致の
+# 決め手にはしない（"video model" 同士で別話題が誤って裏取り扱いされるのを防ぐ）。
+_GENERIC = {
+    "video", "videos", "audio", "image", "images", "model", "models", "modeling",
+    "agent", "agents", "agentic", "builder", "tool", "tools", "app", "apps",
+    "api", "apis", "data", "chat", "code", "coding", "open", "source", "update",
+    "updates", "release", "releases", "feature", "features", "mode", "version",
+    "launch", "launches", "system", "systems", "platform", "cloud", "online",
+    "free", "beta", "pro", "plus", "max", "mini", "large", "small", "generation",
+    "generative", "learning", "network", "neural", "vision", "voice", "text",
+    "search", "assistant", "studio", "news", "report", "study", "paper",
+    "research", "tech", "startup", "company", "users", "user", "announces",
+    "announce", "announced", "introducing", "introduces", "unveils", "adds",
+}
+
 
 def _norm(title: str) -> str:
     return " ".join(title.lower().split())
@@ -60,9 +75,12 @@ def _corroborates(social_title: str, other: NewsItem) -> bool:
     if ratio >= _MATCH:
         return True
     # クロス言語フォールバック: 日本語⇔英語など文字列が一致しなくても、
-    # 共通する固有名詞（ブランド名・製品名）が2つ以上あれば同じ話題とみなす。
+    # 共通トークンが2つ以上あり、かつ少なくとも1つが固有名詞らしい（汎用語でない）
+    # 場合のみ同じ話題とみなす。"video"/"model" のような汎用語だけの一致では
+    # 別企業の別発表を誤って一次確認済に昇格させてしまうため、決め手にしない。
     shared = _proper_nouns(social_title) & _proper_nouns(other.original_title)
-    return len(shared) >= 2
+    distinctive = shared - _GENERIC
+    return len(shared) >= 2 and len(distinctive) >= 1
 
 
 def assign_status(items: list[NewsItem]) -> list[NewsItem]:
