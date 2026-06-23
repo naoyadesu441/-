@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-23**
+**最終更新: 2026-06-24**
 
-> OpenAIは企業向けセキュリティツール「Daybreak」を発表し、オープンソースの脆弱性修正にAIを活用する「Patch the Planet」を開始しました。また、Samsungが全従業員にChatGPT EnterpriseとCodexを導入するなど、有名企業でのAI活用が加速しています。AWSではAIエージェントのコスト管理やComfyUIの大規模画像生成ワークフローの実行を支援する機能が発表され、AIのビジネス応用がさらに進展しています。
+> 今日のAI界隈では、OpenAIのGPT-5が科学的難問を解決した事例が注目され、その高度な推論能力が改めて示されました。また、OpenAIとOmioの提携による会話型旅行体験の構築や、NVIDIA、Hugging Face、AWSが推進する特化型AIエージェントの開発・導入事例から、AIの実用化と仕事効率化への応用が加速していることが伺えます。同時に、OpenAIは高度AIの共通基準構築を支援しており、技術発展と並行して安全なAI利用環境の整備も進んでいます。
 
-- [News][🟢一次] AWS BedrockでAIエージェントの費用管理 — https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments
-- [News][🟢一次] ComfyUIワークフローをAWSで高速実行 — https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs
-- [News][🟢一次] OpenAI Codexで長期プロジェクトを効率化 — https://openai.com/index/codex-maxxing-long-running-work
-- [News][🟢一次] Samsung、全従業員にChatGPT導入 — https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
-- [News][🟡二次] AIエージェントが「ループ」で自律進化 — https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy
-- [News][🟡二次] Google DeepMindとA24が映画AIツール開発 — https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal
-- [News][🟢一次] OpenAI、企業向けセキュリティツール発表 — https://openai.com/index/daybreak-securing-the-world
-- [News][🟢一次] OpenAI、オープンソース脆弱性修正を支援 — https://openai.com/index/patch-the-planet
-- [News][🟢一次] Hugging Faceが50言語対応OCRモデル公開 — https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
-- [News][🟢一次] NVIDIA、AIサーバー冷却技術で革新 — https://blogs.nvidia.com/blog/liquid-cooling-ai-factories
+- [News][🟢一次] GPT-5が3年越しの免疫学の謎を解明 — https://openai.com/index/gpt-5-immunology-mystery
+- [News][🟡二次] Claude TagがSlackで企業知識を学習 — https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time
+- [News][🟢一次] CUGAで実践的なエージェントアプリを構築 — https://huggingface.co/blog/ibm-research/cuga-apps
+- [News][🟢一次] 企業が信頼できる特化型AIを構築する方法 — https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents
+- [News][🟢一次] OmioがOpenAIで会話型旅行体験を構築 — https://openai.com/index/omio
+- [News][🟡二次] AIエージェントが面接する採用プラットフォーム — https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates
+- [News][🟢一次] Amazon Bedrockでタンパク質研究コパイロットを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore
+- [News][🟢一次] Bedrockで医療AIエージェントのマルチテナンシー — https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore
+- [News][🟢一次] NVIDIAが通信業界に24時間AIエージェント導入 — https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026
+- [News][🟢一次] OpenAIが高度AIの共通基準構築を支援 — https://openai.com/index/helping-build-shared-standards-for-advanced-ai
 
-全文: [`news/2026-06-23.md`](news/2026-06-23.md)
+全文: [`news/2026-06-24.md`](news/2026-06-24.md)
 <!--/LATEST-->
 
 ---
