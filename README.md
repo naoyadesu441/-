@@ -6,21 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-22**
+**最終更新: 2026-06-23**
 
-> 今日のAI界隈では、大手企業によるAIの本格導入が注目されています。サムスン電子が全従業員にChatGPT Enterpriseを導入したことは、企業におけるAI活用が新たな段階に入ったことを示唆しています。
+> OpenAIは企業向けセキュリティツール「Daybreak」を発表し、オープンソースの脆弱性修正にAIを活用する「Patch the Planet」を開始しました。また、Samsungが全従業員にChatGPT EnterpriseとCodexを導入するなど、有名企業でのAI活用が加速しています。AWSではAIエージェントのコスト管理やComfyUIの大規模画像生成ワークフローの実行を支援する機能が発表され、AIのビジネス応用がさらに進展しています。
 
-- [News][🟢一次] サムスン、全従業員にChatGPT導入 — https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
-- [News][🟡二次] iOS 27でiPhoneに実用的なAI機能が追加 — https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27
-- [News][🟡二次] ChatGPTプロンプトを強化する28の秘訣 — https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level
-- [News][🟡二次] AI学習用音楽データベースが公開 — https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-- [ProductHunt][🟡二次] Claude等のバックアップ管理ツール登場 — https://www.producthunt.com/products/cloudback
-- [ProductHunt][🟡二次] 個別AIエージェント提供サービス開始 — https://www.producthunt.com/products/agent-37-38
-- [News][🟡二次] トランプ政権のAnthropic規制の行方 — https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits
-- [News][🟡二次] Signal創設者「AIチャットボットは友達ではない」 — https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends
-- [News][🟡二次] AI特化型「In the Weights」検索登場 — https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search
+- [News][🟢一次] AWS BedrockでAIエージェントの費用管理 — https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments
+- [News][🟢一次] ComfyUIワークフローをAWSで高速実行 — https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs
+- [News][🟢一次] OpenAI Codexで長期プロジェクトを効率化 — https://openai.com/index/codex-maxxing-long-running-work
+- [News][🟢一次] Samsung、全従業員にChatGPT導入 — https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+- [News][🟡二次] AIエージェントが「ループ」で自律進化 — https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy
+- [News][🟡二次] Google DeepMindとA24が映画AIツール開発 — https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal
+- [News][🟢一次] OpenAI、企業向けセキュリティツール発表 — https://openai.com/index/daybreak-securing-the-world
+- [News][🟢一次] OpenAI、オープンソース脆弱性修正を支援 — https://openai.com/index/patch-the-planet
+- [News][🟢一次] Hugging Faceが50言語対応OCRモデル公開 — https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+- [News][🟢一次] NVIDIA、AIサーバー冷却技術で革新 — https://blogs.nvidia.com/blog/liquid-cooling-ai-factories
 
-全文: [`news/2026-06-22.md`](news/2026-06-22.md)
+全文: [`news/2026-06-23.md`](news/2026-06-23.md)
 <!--/LATEST-->
 
 ---
