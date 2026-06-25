@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-24**
+**最終更新: 2026-06-25**
 
-> 今日のAI界隈では、OpenAIのGPT-5が科学的難問を解決した事例が注目され、その高度な推論能力が改めて示されました。また、OpenAIとOmioの提携による会話型旅行体験の構築や、NVIDIA、Hugging Face、AWSが推進する特化型AIエージェントの開発・導入事例から、AIの実用化と仕事効率化への応用が加速していることが伺えます。同時に、OpenAIは高度AIの共通基準構築を支援しており、技術発展と並行して安全なAI利用環境の整備も進んでいます。
+> Google Gemini 3.5 FlashがPC操作機能を導入し、AIエージェントによる自動化の可能性を大きく広げました。また、OpenAIはBroadcomと共同でLLM推論に特化した初のカスタムAIチップ「Jalapeño」を発表し、AI処理の効率化と高速化を推進。これらはAIの応用範囲拡大と基盤技術の進化を示す重要な動きです。
 
-- [News][🟢一次] GPT-5が3年越しの免疫学の謎を解明 — https://openai.com/index/gpt-5-immunology-mystery
-- [News][🟡二次] Claude TagがSlackで企業知識を学習 — https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time
-- [News][🟢一次] CUGAで実践的なエージェントアプリを構築 — https://huggingface.co/blog/ibm-research/cuga-apps
-- [News][🟢一次] 企業が信頼できる特化型AIを構築する方法 — https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents
-- [News][🟢一次] OmioがOpenAIで会話型旅行体験を構築 — https://openai.com/index/omio
-- [News][🟡二次] AIエージェントが面接する採用プラットフォーム — https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates
-- [News][🟢一次] Amazon Bedrockでタンパク質研究コパイロットを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore
-- [News][🟢一次] Bedrockで医療AIエージェントのマルチテナンシー — https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore
-- [News][🟢一次] NVIDIAが通信業界に24時間AIエージェント導入 — https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026
-- [News][🟢一次] OpenAIが高度AIの共通基準構築を支援 — https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+- [News][🟢一次] Gemini 3.5 FlashがPC操作機能を導入 — https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash
+- [News][🟢一次] OpenAIがLLM向け独自AIチップを発表 — https://openai.com/index/openai-broadcom-jalapeno-inference-chip
+- [News][🟢一次] OpenAIがLLM推論向け独自チップを発表 — https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale
+- [News][🟢一次] OpenAIがBroadcomと共同で初の独自AIチップ公開 — https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom
+- [News][🟢一次] OpenAIが初のAIプロセッサ「Jalapeño」公開 — https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
+- [News][🟢一次] AWSが医療予約AIエージェント構築法を公開 — https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic
+- [News][🟢一次] LokaがAWSで自然な低遅延音声AIを構築 — https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic
+- [News][🟢一次] 銀行がAWSで4億超の機密文書を匿名化 — https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws
+- [News][🟢一次] AWSがSnowflakeとAI活用BI連携を解説 — https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick
+- [News][🟢一次] NVIDIAとAWSがAI大規模展開で協業 — https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale
 
-全文: [`news/2026-06-24.md`](news/2026-06-24.md)
+全文: [`news/2026-06-25.md`](news/2026-06-25.md)
 <!--/LATEST-->
 
 ---
