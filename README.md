@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-25**
+**最終更新: 2026-06-26**
 
-> Google Gemini 3.5 FlashがPC操作機能を導入し、AIエージェントによる自動化の可能性を大きく広げました。また、OpenAIはBroadcomと共同でLLM推論に特化した初のカスタムAIチップ「Jalapeño」を発表し、AI処理の効率化と高速化を推進。これらはAIの応用範囲拡大と基盤技術の進化を示す重要な動きです。
+> 今週は、AIエージェントが仕事のあり方を大きく変革しているというOpenAIの発表が注目を集めています。Google FinanceもAIを搭載した新アプリをリリースし、主要サービスへのAI統合が加速。Hugging FaceではvLLMサーバーのデプロイが容易になるなど、開発者向けのツールも進化を続けています。
 
-- [News][🟢一次] Gemini 3.5 FlashがPC操作機能を導入 — https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash
-- [News][🟢一次] OpenAIがLLM向け独自AIチップを発表 — https://openai.com/index/openai-broadcom-jalapeno-inference-chip
-- [News][🟢一次] OpenAIがLLM推論向け独自チップを発表 — https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale
-- [News][🟢一次] OpenAIがBroadcomと共同で初の独自AIチップ公開 — https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom
-- [News][🟢一次] OpenAIが初のAIプロセッサ「Jalapeño」公開 — https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
-- [News][🟢一次] AWSが医療予約AIエージェント構築法を公開 — https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic
-- [News][🟢一次] LokaがAWSで自然な低遅延音声AIを構築 — https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic
-- [News][🟢一次] 銀行がAWSで4億超の機密文書を匿名化 — https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws
-- [News][🟢一次] AWSがSnowflakeとAI活用BI連携を解説 — https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick
-- [News][🟢一次] NVIDIAとAWSがAI大規模展開で協業 — https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale
+- [News][🟢一次] OpenAI、AIエージェントが仕事を変革すると発表 — https://openai.com/index/how-agents-are-transforming-work
+- [News][🟡二次] Facebook Creator StudioがAI連携アプリとして復活 — https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
+- [News][🟢一次] Google FinanceがAI強化の新アプリをリリース — https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026
+- [News][🟡二次] Notionがメールアプリを終了、AIエージェントに注力 — https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead
+- [News][🟡二次] 有料AIチャット市場でClaudeがChatGPTを猛追 — https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt
+- [News][🟢一次] Hugging FaceでvLLMサーバーを簡単に起動 — https://huggingface.co/blog/vllm-jobs
+- [News][🟢一次] AWSが既存システムをAIエージェント化する手法を公開 — https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services
+- [News][🟢一次] AWS Health分析にAIエージェント活用、セルフサービス化 — https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock
+- [News][🟢一次] AWSでAIエージェントアプリ構築、データメッシュ戦略を解説 — https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws
+- [News][🟢一次] Amazon Nova 2 Sonicで医療予約AIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic
 
-全文: [`news/2026-06-25.md`](news/2026-06-25.md)
+全文: [`news/2026-06-26.md`](news/2026-06-26.md)
 <!--/LATEST-->
 
 ---
