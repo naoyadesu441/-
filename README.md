@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-26**
+**最終更新: 2026-06-27**
 
-> 今週は、AIエージェントが仕事のあり方を大きく変革しているというOpenAIの発表が注目を集めています。Google FinanceもAIを搭載した新アプリをリリースし、主要サービスへのAI統合が加速。Hugging FaceではvLLMサーバーのデプロイが容易になるなど、開発者向けのツールも進化を続けています。
+> 今日のAI界隈では、OpenAIが次世代モデル「GPT-5.6 Sol」のプレビュー版を発表し、その高性能化が注目されています。しかし、米国政府の要請により公開が制限されるという異例の事態も発生しており、AI技術の進展と規制のバランスが大きな焦点となっています。また、Stripeが金融コンプライアンスにAIエージェントを導入するなど、AIのビジネス活用事例も着実に増えています。
 
-- [News][🟢一次] OpenAI、AIエージェントが仕事を変革すると発表 — https://openai.com/index/how-agents-are-transforming-work
-- [News][🟡二次] Facebook Creator StudioがAI連携アプリとして復活 — https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
-- [News][🟢一次] Google FinanceがAI強化の新アプリをリリース — https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026
-- [News][🟡二次] Notionがメールアプリを終了、AIエージェントに注力 — https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead
-- [News][🟡二次] 有料AIチャット市場でClaudeがChatGPTを猛追 — https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt
+- [News][🟢一次] OpenAIが次世代モデル「GPT-5.6 Sol」を先行公開 — https://openai.com/index/previewing-gpt-5-6-sol
+- [News][🟡二次] OpenAI、政府要請でGPT-5.6公開を制限 — https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm
+- [News][🟢一次] Stripeが金融コンプライアンス向けAIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe
+- [News][🟡二次] OpenAIがGPT-5.6を発表、米AI規制論争の渦中 — https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
+- [News][🟡二次] OpenAIの新型AIモデル、なぜ使えないのか — https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval
+- [News][🟡二次] Anthropic、Claude Fable 5規制解除へ交渉役変更 — https://wired.jp/article/the-trump-white-house-is-over-anthropics-dario-amodei
+- [News][🟢一次] PixelでGemini Nanoモデルを高速化する新技術 — https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction
 - [News][🟢一次] Hugging FaceでvLLMサーバーを簡単に起動 — https://huggingface.co/blog/vllm-jobs
-- [News][🟢一次] AWSが既存システムをAIエージェント化する手法を公開 — https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services
-- [News][🟢一次] AWS Health分析にAIエージェント活用、セルフサービス化 — https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock
-- [News][🟢一次] AWSでAIエージェントアプリ構築、データメッシュ戦略を解説 — https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws
-- [News][🟢一次] Amazon Nova 2 Sonicで医療予約AIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic
+- [News][🟢一次] Amazon S3からPDFテキストをリアルタイム抽出 — https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3
+- [News][🟢一次] CaraがAWSで保険業界向けAIを開発 — https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws
 
-全文: [`news/2026-06-26.md`](news/2026-06-26.md)
+全文: [`news/2026-06-27.md`](news/2026-06-27.md)
 <!--/LATEST-->
 
 ---
