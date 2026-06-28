@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-27**
+**最終更新: 2026-06-28**
 
-> 今日のAI界隈では、OpenAIが次世代モデル「GPT-5.6 Sol」のプレビュー版を発表し、その高性能化が注目されています。しかし、米国政府の要請により公開が制限されるという異例の事態も発生しており、AI技術の進展と規制のバランスが大きな焦点となっています。また、Stripeが金融コンプライアンスにAIエージェントを導入するなど、AIのビジネス活用事例も着実に増えています。
+> 今週のAIニュースでは、GoogleがPixelデバイス向けにGemini Nanoモデルの高速化技術を発表しました。これにより、モバイルデバイス上でのAI処理性能が向上し、ユーザーはよりスムーズなAI体験を享受できるようになります。Googleの主要AIモデルの進化は、今後のエッジAIの可能性を広げるものとして注目されます。
 
-- [News][🟢一次] OpenAIが次世代モデル「GPT-5.6 Sol」を先行公開 — https://openai.com/index/previewing-gpt-5-6-sol
-- [News][🟡二次] OpenAI、政府要請でGPT-5.6公開を制限 — https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm
-- [News][🟢一次] Stripeが金融コンプライアンス向けAIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe
-- [News][🟡二次] OpenAIがGPT-5.6を発表、米AI規制論争の渦中 — https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
-- [News][🟡二次] OpenAIの新型AIモデル、なぜ使えないのか — https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval
-- [News][🟡二次] Anthropic、Claude Fable 5規制解除へ交渉役変更 — https://wired.jp/article/the-trump-white-house-is-over-anthropics-dario-amodei
-- [News][🟢一次] PixelでGemini Nanoモデルを高速化する新技術 — https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction
-- [News][🟢一次] Hugging FaceでvLLMサーバーを簡単に起動 — https://huggingface.co/blog/vllm-jobs
-- [News][🟢一次] Amazon S3からPDFテキストをリアルタイム抽出 — https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3
-- [News][🟢一次] CaraがAWSで保険業界向けAIを開発 — https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws
+- [News][🟡二次] Claudeで癌と闘う創業者、AI活用事例 — https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back
+- [News][🟡二次] OpenAI、GPT-5.6提供を政府要請で制限 — https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm
+- [News][🟡二次] NYT、MSとOpenAIの著作権侵害を批判 — https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged
+- [News][🟢一次] Gemini Nano、Pixelで高速化を実現 — https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction
+- [News][🟡二次] マーガレット・アトウッド氏「AIはGIGO」 — https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
+- [News][🟡二次] Apple Vision Pro幹部がOpenAIへ移籍か — https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai
+- [News][🟡二次] アジアAIスタートアップ、Mythos類似モデル発表 — https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on
+- [News][🟡二次] Apple製品値上げ、AI投資が原因か？ — https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
+- [News][🟡二次] 米政府、Anthropic「Mythos 5」限定提供再開 — https://wired.jp/article/anthropic-restores-access-to-mythos
+- [News][🟡二次] トランプ政権、Anthropic Mythosを企業に開放 — https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies
 
-全文: [`news/2026-06-27.md`](news/2026-06-27.md)
+全文: [`news/2026-06-28.md`](news/2026-06-28.md)
 <!--/LATEST-->
 
 ---
