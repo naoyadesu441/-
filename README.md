@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-28**
+**最終更新: 2026-06-29**
 
-> 今週のAIニュースでは、GoogleがPixelデバイス向けにGemini Nanoモデルの高速化技術を発表しました。これにより、モバイルデバイス上でのAI処理性能が向上し、ユーザーはよりスムーズなAI体験を享受できるようになります。Googleの主要AIモデルの進化は、今後のエッジAIの可能性を広げるものとして注目されます。
+> 大手企業HPがOpenAIと戦略的提携を拡大し、AIを顧客体験から企業運営まで広範に導入する動きが発表されました。これは、AIがビジネスのあらゆる側面に深く統合されつつある現状を示しています。
 
-- [News][🟡二次] Claudeで癌と闘う創業者、AI活用事例 — https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back
-- [News][🟡二次] OpenAI、GPT-5.6提供を政府要請で制限 — https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm
-- [News][🟡二次] NYT、MSとOpenAIの著作権侵害を批判 — https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged
-- [News][🟢一次] Gemini Nano、Pixelで高速化を実現 — https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction
-- [News][🟡二次] マーガレット・アトウッド氏「AIはGIGO」 — https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-- [News][🟡二次] Apple Vision Pro幹部がOpenAIへ移籍か — https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai
-- [News][🟡二次] アジアAIスタートアップ、Mythos類似モデル発表 — https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on
-- [News][🟡二次] Apple製品値上げ、AI投資が原因か？ — https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
-- [News][🟡二次] 米政府、Anthropic「Mythos 5」限定提供再開 — https://wired.jp/article/anthropic-restores-access-to-mythos
-- [News][🟡二次] トランプ政権、Anthropic Mythosを企業に開放 — https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies
+- [News][🟡二次] AI音楽Sunoがアーティスト支援プログラム開始 — https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
+- [News][🟡二次] ChatGPTログが裁判証拠に、AI利用の法的側面が浮上 — https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
+- [News][🟢一次] HPがOpenAIと戦略的提携、AIを全社展開 — https://openai.com/index/hp-frontier-partnership
+- [News][🟡二次] 中国で人型ロボット操縦士が新職業に — https://wired.jp/article/humanoid-robot-training-in-chinas-hardware-capital
+- [News][🟡二次] フォード、AI導入失敗でベテラン再雇用 — https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short
+- [News][🟡二次] 作家アトウッド氏「AIはゴミ入力ゴミ出力」 — https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
+- [News][🟡二次] Geminiを支えるキーパーソンが語る知能革命 — https://wired.jp/article/computex-2026-google-deepmind-ed-chi-interview
+- [News][🟡二次] 中国Z.ai、サイバーセキュリティでMythosに匹敵 — https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+- [News][🟡二次] ウォール街がMicronを「次のNvidia」と評価 — https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia
+- [News][🟡二次] ソフトバンクCEO、イーロン・マスクの軌道データセンター構想に疑問 — https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype
 
-全文: [`news/2026-06-28.md`](news/2026-06-28.md)
+全文: [`news/2026-06-29.md`](news/2026-06-29.md)
 <!--/LATEST-->
 
 ---
