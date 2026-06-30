@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-29**
+**最終更新: 2026-06-30**
 
-> 大手企業HPがOpenAIと戦略的提携を拡大し、AIを顧客体験から企業運営まで広範に導入する動きが発表されました。これは、AIがビジネスのあらゆる側面に深く統合されつつある現状を示しています。
+> 今週は、主要AIモデルとインフラの連携が加速。AnthropicのClaudeモデルがNVIDIA Blackwell Ultra GPUを搭載したMicrosoft Azureで一般提供を開始し、企業でのAI活用を強力に推進します。また、OpenAIからはAIが欧州の労働市場に与える影響に関するレポートが発表され、AIと雇用の未来について重要な洞察を提供しました。
 
-- [News][🟡二次] AI音楽Sunoがアーティスト支援プログラム開始 — https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
-- [News][🟡二次] ChatGPTログが裁判証拠に、AI利用の法的側面が浮上 — https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
-- [News][🟢一次] HPがOpenAIと戦略的提携、AIを全社展開 — https://openai.com/index/hp-frontier-partnership
-- [News][🟡二次] 中国で人型ロボット操縦士が新職業に — https://wired.jp/article/humanoid-robot-training-in-chinas-hardware-capital
-- [News][🟡二次] フォード、AI導入失敗でベテラン再雇用 — https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short
-- [News][🟡二次] 作家アトウッド氏「AIはゴミ入力ゴミ出力」 — https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-- [News][🟡二次] Geminiを支えるキーパーソンが語る知能革命 — https://wired.jp/article/computex-2026-google-deepmind-ed-chi-interview
-- [News][🟡二次] 中国Z.ai、サイバーセキュリティでMythosに匹敵 — https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
-- [News][🟡二次] ウォール街がMicronを「次のNvidia」と評価 — https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia
-- [News][🟡二次] ソフトバンクCEO、イーロン・マスクの軌道データセンター構想に疑問 — https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype
+- [News][🟢一次] ClaudeがNVIDIA Blackwell UltraでAzure稼働 — https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure
+- [News][🟢一次] ClaudeとNova 2 Liteで文書処理を効率化 — https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing
+- [News][🟢一次] OpenAIが欧州のAI労働市場機会を分析 — https://openai.com/index/mapping-ai-jobs-transition-eu
+- [News][🟢一次] AIエージェントの記憶システム「Memora」 — https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity
+- [News][🟢一次] 医療請求処理をAIエージェントで自動化 — https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake
+- [News][🟢一次] AI専門家が語る「フルスタックAI」とは — https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer
+- [News][🟢一次] Amazon Bedrockエージェントのデバッグ機能 — https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability
+- [News][🟢一次] Palantirが米政府機関向けにセキュアAI提供 — https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models
+- [News][🟢一次] DiScoFormer: 密度とスコアを扱うTransformer — https://huggingface.co/blog/allenai/discoformer
+- [News][🟢一次] Amazon Quick Sight BI資産のバックアップ戦略 — https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets
 
-全文: [`news/2026-06-29.md`](news/2026-06-29.md)
+全文: [`news/2026-06-30.md`](news/2026-06-30.md)
 <!--/LATEST-->
 
 ---
