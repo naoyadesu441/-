@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-06-30**
+**最終更新: 2026-07-01**
 
-> 今週は、主要AIモデルとインフラの連携が加速。AnthropicのClaudeモデルがNVIDIA Blackwell Ultra GPUを搭載したMicrosoft Azureで一般提供を開始し、企業でのAI活用を強力に推進します。また、OpenAIからはAIが欧州の労働市場に与える影響に関するレポートが発表され、AIと雇用の未来について重要な洞察を提供しました。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] ClaudeがNVIDIA Blackwell UltraでAzure稼働 — https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure
-- [News][🟢一次] ClaudeとNova 2 Liteで文書処理を効率化 — https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing
-- [News][🟢一次] OpenAIが欧州のAI労働市場機会を分析 — https://openai.com/index/mapping-ai-jobs-transition-eu
-- [News][🟢一次] AIエージェントの記憶システム「Memora」 — https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity
-- [News][🟢一次] 医療請求処理をAIエージェントで自動化 — https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake
-- [News][🟢一次] AI専門家が語る「フルスタックAI」とは — https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer
-- [News][🟢一次] Amazon Bedrockエージェントのデバッグ機能 — https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability
-- [News][🟢一次] Palantirが米政府機関向けにセキュアAI提供 — https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models
-- [News][🟢一次] DiScoFormer: 密度とスコアを扱うTransformer — https://huggingface.co/blog/allenai/discoformer
-- [News][🟢一次] Amazon Quick Sight BI資産のバックアップ戦略 — https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets
+- [News][🟢一次] Start building with Nano Banana 2 Lite and Gemini Omni Flash — https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
+- [News][🟢一次] ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration — https://huggingface.co/blog/ibm-research/scarfbench
+- [News][🟢一次] Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model
+- [News][🟢一次] Expanding our Heat Resilience data to 50+ global cities — https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities
+- [News][🟢一次] How ChatGPT adoption has expanded — https://openai.com/index/how-chatgpt-adoption-has-expanded
+- [News][🟢一次] NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science — https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
+- [News][🟢一次] SkillOpt: Agent skills as trainable parameters — https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters
+- [News][🟢一次] Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol — https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol
+- [News][🟢一次] Simplify multi-account access to Amazon Bedrock models with managed entitlements — https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements
+- [News][🟢一次] Implementing resilience patterns with Amazon Bedrock and LLM gateway — https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway
 
-全文: [`news/2026-06-30.md`](news/2026-06-30.md)
+全文: [`news/2026-07-01.md`](news/2026-07-01.md)
 <!--/LATEST-->
 
 ---
