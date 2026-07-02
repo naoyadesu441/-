@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-01**
+**最終更新: 2026-07-02**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週のAI界隈では、Anthropicの最新モデル「Claude Sonnet 5」がAmazon Bedrockで提供開始され、高度なAI活用がさらに身近になりました。また、Hugging FaceがGemma 4をリアルタイム音声AIに統合し、音声AIの進化に貢献しています。これらの主要モデルのアップデートは、ビジネスやコンテンツ制作におけるAIの可能性を広げるでしょう。
 
-- [News][🟢一次] Start building with Nano Banana 2 Lite and Gemini Omni Flash — https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
-- [News][🟢一次] ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration — https://huggingface.co/blog/ibm-research/scarfbench
-- [News][🟢一次] Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model
-- [News][🟢一次] Expanding our Heat Resilience data to 50+ global cities — https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities
-- [News][🟢一次] How ChatGPT adoption has expanded — https://openai.com/index/how-chatgpt-adoption-has-expanded
-- [News][🟢一次] NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science — https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
-- [News][🟢一次] SkillOpt: Agent skills as trainable parameters — https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters
-- [News][🟢一次] Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol — https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol
-- [News][🟢一次] Simplify multi-account access to Amazon Bedrock models with managed entitlements — https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements
-- [News][🟢一次] Implementing resilience patterns with Amazon Bedrock and LLM gateway — https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway
+- [News][🟢一次] Claude Sonnet 5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model
+- [News][🟡二次] Google Gemini SparkがMacに対応 — https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac
+- [News][🟡二次] Apple「Siri AI」開発者ベータ版が優秀 — https://wired.jp/article/apple-siri-ai-developer-beta-review
+- [News][🟡二次] オープンソースAIエージェントがスマホ対応 — https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios
+- [News][🟢一次] Hugging FaceがGemma 4で音声AI強化 — https://huggingface.co/blog/cerebras-gemma4-voice-ai
+- [News][🟢一次] BedrockでOpenAI/NVIDIAモデル利用可能に — https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us
+- [News][🟢一次] AWSがサーバーレスAIエージェントゲートウェイ構築法公開 — https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control
+- [News][🟢一次] AIエージェントの記憶フィルタリング強化 — https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory
+- [News][🟢一次] AIが文書詐欺を数秒で検出する事例 — https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds
+- [News][🟢一次] Amazon Bedrock向けモデル選択ツール公開 — https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler
 
-全文: [`news/2026-07-01.md`](news/2026-07-01.md)
+全文: [`news/2026-07-02.md`](news/2026-07-02.md)
 <!--/LATEST-->
 
 ---
