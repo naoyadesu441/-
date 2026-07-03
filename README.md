@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-02**
+**最終更新: 2026-07-03**
 
-> 今週のAI界隈では、Anthropicの最新モデル「Claude Sonnet 5」がAmazon Bedrockで提供開始され、高度なAI活用がさらに身近になりました。また、Hugging FaceがGemma 4をリアルタイム音声AIに統合し、音声AIの進化に貢献しています。これらの主要モデルのアップデートは、ビジネスやコンテンツ制作におけるAIの可能性を広げるでしょう。
+> 今日のAI界隈では、AppleのSiri AIやGoogle HomeスピーカーへのGemini搭載といった、主要プラットフォームにおけるAI機能の大型アップデートが注目されています。また、MicrosoftがAI導入専門企業を設立し、OpenAIが米国政府への株式提供を提案するなど、大手企業のAI戦略やガバナンスに関する動きも活発です。
 
-- [News][🟢一次] Claude Sonnet 5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model
-- [News][🟡二次] Google Gemini SparkがMacに対応 — https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac
-- [News][🟡二次] Apple「Siri AI」開発者ベータ版が優秀 — https://wired.jp/article/apple-siri-ai-developer-beta-review
-- [News][🟡二次] オープンソースAIエージェントがスマホ対応 — https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios
-- [News][🟢一次] Hugging FaceがGemma 4で音声AI強化 — https://huggingface.co/blog/cerebras-gemma4-voice-ai
-- [News][🟢一次] BedrockでOpenAI/NVIDIAモデル利用可能に — https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us
-- [News][🟢一次] AWSがサーバーレスAIエージェントゲートウェイ構築法公開 — https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control
-- [News][🟢一次] AIエージェントの記憶フィルタリング強化 — https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory
-- [News][🟢一次] AIが文書詐欺を数秒で検出する事例 — https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds
-- [News][🟢一次] Amazon Bedrock向けモデル選択ツール公開 — https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler
+- [News][🟡二次] 新型Google Homeスピーカー、Gemini搭載で進化 — https://wired.jp/review/google-home-speaker-2026
+- [News][🟡二次] Siri AIが大幅進化、開発者ベータ版で実力判明 — https://wired.jp/article/apple-siri-ai-developer-beta-review
+- [News][🟡二次] Zuckerberg氏、AIエージェント開発の遅れを認める — https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped
+- [News][🟡二次] Microsoftが25億ドル投じAI導入専門企業を設立 — https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment
+- [News][🟡二次] OpenAI、米政府に5%の株式提供を提案か — https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
+- [News][🟡二次] インドの富豪、MS Office代替AIツールに30億円投資 — https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office
+- [News][🟡二次] SpaceXがAIデバイスのプロトタイプを開発か — https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish
+- [News][🟢一次] Google、2026年6月の最新AIニュースを発表 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
+- [News][🟢一次] AWS BedrockでNVIDIA Nemotron等が利用可能に — https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us
+- [News][🟡二次] サンドイッチ店のIPOに見るAIバブルの過熱ぶり — https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become
 
-全文: [`news/2026-07-02.md`](news/2026-07-02.md)
+全文: [`news/2026-07-03.md`](news/2026-07-03.md)
 <!--/LATEST-->
 
 ---
