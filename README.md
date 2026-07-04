@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-03**
+**最終更新: 2026-07-04**
 
-> 今日のAI界隈では、AppleのSiri AIやGoogle HomeスピーカーへのGemini搭載といった、主要プラットフォームにおけるAI機能の大型アップデートが注目されています。また、MicrosoftがAI導入専門企業を設立し、OpenAIが米国政府への株式提供を提案するなど、大手企業のAI戦略やガバナンスに関する動きも活発です。
+> 本日のAIニュースを15件掲載（一次1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] 新型Google Homeスピーカー、Gemini搭載で進化 — https://wired.jp/review/google-home-speaker-2026
-- [News][🟡二次] Siri AIが大幅進化、開発者ベータ版で実力判明 — https://wired.jp/article/apple-siri-ai-developer-beta-review
-- [News][🟡二次] Zuckerberg氏、AIエージェント開発の遅れを認める — https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped
-- [News][🟡二次] Microsoftが25億ドル投じAI導入専門企業を設立 — https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment
-- [News][🟡二次] OpenAI、米政府に5%の株式提供を提案か — https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
-- [News][🟡二次] インドの富豪、MS Office代替AIツールに30億円投資 — https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office
-- [News][🟡二次] SpaceXがAIデバイスのプロトタイプを開発か — https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish
-- [News][🟢一次] Google、2026年6月の最新AIニュースを発表 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
-- [News][🟢一次] AWS BedrockでNVIDIA Nemotron等が利用可能に — https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us
-- [News][🟡二次] サンドイッチ店のIPOに見るAIバブルの過熱ぶり — https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become
+- [News][🟢一次] Google DeepMind and A24 announce first-of-its-kind research partnership — https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
+- [News][🟡二次] The only AI glossary you’ll need this year — https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms
+- [News][🟡二次] The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari — https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026
+- [News][🟡二次] Google DeepMind Unionization Talks Are Off to a Rocky Start — https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start
+- [News][🟡二次] Anthropic wants to develop its own drugs — https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
+- [News][🟡二次] A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered — https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
+- [News][🟡二次] The UK’s generational tobacco ban might not work. I’m supporting it anyway. — https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking
+- [News][🟡二次] Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped — https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped
+- [News][🟡二次] まだ「市民権」を得ていない表現のために──真鍋大度が〈FUTURE FREQUENCIES FESTIVAL〉でつくる「場」 — https://wired.jp/article/future-frequencies-festival-2026
+- [News][🟡二次] Jersey Mike’s IPO illustrates how bad the AI hype has become — https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become
 
-全文: [`news/2026-07-03.md`](news/2026-07-03.md)
+全文: [`news/2026-07-04.md`](news/2026-07-04.md)
 <!--/LATEST-->
 
 ---
