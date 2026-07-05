@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-04**
+**最終更新: 2026-07-05**
 
-> 本日のAIニュースを15件掲載（一次1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 本日のAIニュースを10件掲載（一次0件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Google DeepMind and A24 announce first-of-its-kind research partnership — https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
+- [News][🟡二次] New Google commercial imagines a Declaration of Independence written with help from AI — https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai
+- [News][🟡二次] Midjourney wants Hollywood studios to reveal the details of their AI usage — https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage
+- [News][🟡二次] Alibaba reportedly bans employees from using Claude Code — https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code
+- [News][🟡二次] What is Mistral AI? Everything to know about the OpenAI competitor — https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor
+- [News][🟡二次] The fanfiction community is at war with AI — and itself — https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
 - [News][🟡二次] The only AI glossary you’ll need this year — https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms
 - [News][🟡二次] The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari — https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026
-- [News][🟡二次] Google DeepMind Unionization Talks Are Off to a Rocky Start — https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start
-- [News][🟡二次] Anthropic wants to develop its own drugs — https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
-- [News][🟡二次] A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered — https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
-- [News][🟡二次] The UK’s generational tobacco ban might not work. I’m supporting it anyway. — https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking
-- [News][🟡二次] Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped — https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped
-- [News][🟡二次] まだ「市民権」を得ていない表現のために──真鍋大度が〈FUTURE FREQUENCIES FESTIVAL〉でつくる「場」 — https://wired.jp/article/future-frequencies-festival-2026
-- [News][🟡二次] Jersey Mike’s IPO illustrates how bad the AI hype has become — https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become
+- [YouTube][🟡二次] The ONLY AI Benchmark You Need! — https://www.youtube.com/shorts/hUH4HD6Ah9c
+- [ProductHunt][🟡二次] Termi Protocol — https://www.producthunt.com/products/termi-protocol
+- [ProductHunt][🟡二次] ChecklistFox — https://www.producthunt.com/products/checklistfox
 
-全文: [`news/2026-07-04.md`](news/2026-07-04.md)
+全文: [`news/2026-07-05.md`](news/2026-07-05.md)
 <!--/LATEST-->
 
 ---
