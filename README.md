@@ -6,22 +6,16 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-05**
+**最終更新: 2026-07-06**
 
-> 本日のAIニュースを10件掲載（一次0件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週のAIニュースでは、AppleのSiriが観光案内役として実用性を高め、GoogleのCMではAIが歴史的文書作成に活用されるなど、身近なAIツールの進化が注目されました。また、富裕層がAIを子どもの教育に導入する動きも報じられ、AIの社会浸透とそれに伴う倫理的側面への関心が高まっています。
 
-- [News][🟡二次] New Google commercial imagines a Declaration of Independence written with help from AI — https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai
-- [News][🟡二次] Midjourney wants Hollywood studios to reveal the details of their AI usage — https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage
-- [News][🟡二次] Alibaba reportedly bans employees from using Claude Code — https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code
-- [News][🟡二次] What is Mistral AI? Everything to know about the OpenAI competitor — https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor
-- [News][🟡二次] The fanfiction community is at war with AI — and itself — https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
-- [News][🟡二次] The only AI glossary you’ll need this year — https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms
-- [News][🟡二次] The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari — https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026
-- [YouTube][🟡二次] The ONLY AI Benchmark You Need! — https://www.youtube.com/shorts/hUH4HD6Ah9c
-- [ProductHunt][🟡二次] Termi Protocol — https://www.producthunt.com/products/termi-protocol
-- [ProductHunt][🟡二次] ChecklistFox — https://www.producthunt.com/products/checklistfox
+- [News][🟡二次] 新Siriを観光で試用、案内役としての実力は？ — https://wired.jp/article/siri-ai-hands-on-iphone
+- [News][🟡二次] 富裕層がAIを子どもの教育に活用 — https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
+- [News][🟡二次] Google新CM、建国の父がAIで独立宣言を起草 — https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai
+- [News][🟡二次] Amazon Mechanical Turkが新規顧客受付停止 — https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk
 
-全文: [`news/2026-07-05.md`](news/2026-07-05.md)
+全文: [`news/2026-07-06.md`](news/2026-07-06.md)
 <!--/LATEST-->
 
 ---
