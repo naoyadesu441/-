@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-07**
+**最終更新: 2026-07-08**
 
-> 本日のAIニュースを20件掲載（一次18件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] LeRobot v0.6.0: Imagine, Evaluate, Improve — https://huggingface.co/blog/lerobot-release-v060
-- [News][🟢一次] From Hugging Face to Amazon SageMaker Studio in one click — https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2
-- [News][🟢一次] Teaching models to forget: Selective unlearning with Amazon Nova — https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova
-- [News][🟢一次] Run MiniMax models on Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock
-- [News][🟢一次] Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod — https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod
-- [News][🟢一次] Automatically redact PII in images with Amazon Nova — https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova
-- [News][🟢一次] PRX Part 4: Our Data Strategy — https://huggingface.co/blog/Photoroom/prx-part4-data
-- [News][🟢一次] Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI — https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai
-- [News][🟢一次] How Open Models Are Driving AI Research — https://blogs.nvidia.com/blog/open-models-icml-2026
-- [News][🟢一次] How Nations Are Deploying AI for Strategic Priorities — https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities
+- [News][🟢一次] From Hugging Face to Amazon SageMaker Studio in one click — https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
+- [News][🟢一次] The power of collaboration: How we can reduce traffic congestion — https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion
+- [News][🟢一次] Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick
+- [News][🟢一次] Data modeling best practices for Amazon Quick Sight multi-dataset relationships — https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships
+- [News][🟢一次] Multi-dataset Topic best practices for Amazon Quick Chat — https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat
+- [News][🟢一次] Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick
+- [News][🟢一次] Build a serverless image editing agent with Amazon Bedrock AgentCore harness — https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness
+- [News][🟢一次] Monitoring discriminative ML models using Amazon SageMaker AI with MLflow — https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow
+- [News][🟢一次] Build an AI-powered AWS support companion with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore
+- [News][🟢一次] Hugging Face Models on Foundry Managed Compute — https://huggingface.co/blog/microsoft/foundry-managed-compute
 
-全文: [`news/2026-07-07.md`](news/2026-07-07.md)
+全文: [`news/2026-07-08.md`](news/2026-07-08.md)
 <!--/LATEST-->
 
 ---
