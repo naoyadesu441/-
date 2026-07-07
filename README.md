@@ -6,16 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-06**
+**最終更新: 2026-07-07**
 
-> 今週のAIニュースでは、AppleのSiriが観光案内役として実用性を高め、GoogleのCMではAIが歴史的文書作成に活用されるなど、身近なAIツールの進化が注目されました。また、富裕層がAIを子どもの教育に導入する動きも報じられ、AIの社会浸透とそれに伴う倫理的側面への関心が高まっています。
+> 本日のAIニュースを20件掲載（一次18件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] 新Siriを観光で試用、案内役としての実力は？ — https://wired.jp/article/siri-ai-hands-on-iphone
-- [News][🟡二次] 富裕層がAIを子どもの教育に活用 — https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
-- [News][🟡二次] Google新CM、建国の父がAIで独立宣言を起草 — https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai
-- [News][🟡二次] Amazon Mechanical Turkが新規顧客受付停止 — https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk
+- [News][🟢一次] LeRobot v0.6.0: Imagine, Evaluate, Improve — https://huggingface.co/blog/lerobot-release-v060
+- [News][🟢一次] From Hugging Face to Amazon SageMaker Studio in one click — https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2
+- [News][🟢一次] Teaching models to forget: Selective unlearning with Amazon Nova — https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova
+- [News][🟢一次] Run MiniMax models on Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock
+- [News][🟢一次] Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod — https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod
+- [News][🟢一次] Automatically redact PII in images with Amazon Nova — https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova
+- [News][🟢一次] PRX Part 4: Our Data Strategy — https://huggingface.co/blog/Photoroom/prx-part4-data
+- [News][🟢一次] Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI — https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai
+- [News][🟢一次] How Open Models Are Driving AI Research — https://blogs.nvidia.com/blog/open-models-icml-2026
+- [News][🟢一次] How Nations Are Deploying AI for Strategic Priorities — https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities
 
-全文: [`news/2026-07-06.md`](news/2026-07-06.md)
+全文: [`news/2026-07-07.md`](news/2026-07-07.md)
 <!--/LATEST-->
 
 ---
