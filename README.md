@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-08**
+**最終更新: 2026-07-09**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週のAI界隈では、OpenAIがChatGPTの音声モードを「GPT-Live」で大幅に強化し、より自然な人間らしい会話体験を実現しました。また、Microsoft ResearchからはAIエージェントが表現力豊かなグラフを生成できる可視化言語「Flint」が発表され、AIによるデータ分析・コンテンツ制作の効率化に貢献します。NVIDIAのNemotronとLangChainの連携によるAIエージェント性能向上など、基盤技術の進化も続いています。
 
-- [News][🟢一次] From Hugging Face to Amazon SageMaker Studio in one click — https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
-- [News][🟢一次] The power of collaboration: How we can reduce traffic congestion — https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion
-- [News][🟢一次] Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick
-- [News][🟢一次] Data modeling best practices for Amazon Quick Sight multi-dataset relationships — https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships
-- [News][🟢一次] Multi-dataset Topic best practices for Amazon Quick Chat — https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat
-- [News][🟢一次] Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick
-- [News][🟢一次] Build a serverless image editing agent with Amazon Bedrock AgentCore harness — https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness
-- [News][🟢一次] Monitoring discriminative ML models using Amazon SageMaker AI with MLflow — https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow
-- [News][🟢一次] Build an AI-powered AWS support companion with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore
-- [News][🟢一次] Hugging Face Models on Foundry Managed Compute — https://huggingface.co/blog/microsoft/foundry-managed-compute
+- [News][🟢一次] ChatGPT音声モードが「GPT-Live」で進化 — https://openai.com/index/introducing-gpt-live
+- [News][🟡二次] Meta、Instagram写真のAI利用に同意必須 — https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out
+- [News][🟡二次] Grok 4.5公開、イーロン・マスク氏が絶賛 — https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model
+- [News][🟡二次] GoogleフォトにAI動画Remix機能追加 — https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool
+- [News][🟡二次] 誰でも「自己改善AI」を構築できる時代へ — https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai
+- [News][🟢一次] AWS Bedrockでメール自動分類・優先順位付け — https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock
+- [News][🟢一次] MicrosoftがAI向け可視化言語「Flint」発表 — https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era
+- [News][🟢一次] NVIDIA NemotronがLangChainで高精度達成 — https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack
+- [News][🟢一次] AWSがClaudeアプリゲートウェイを導入 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws
+- [News][🟢一次] OpenAI、教育者向けAIスキル研修を提供 — https://openai.com/index/k-12-educators-practical-skills
 
-全文: [`news/2026-07-08.md`](news/2026-07-08.md)
+全文: [`news/2026-07-09.md`](news/2026-07-09.md)
 <!--/LATEST-->
 
 ---
