@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-10**
+**最終更新: 2026-07-11**
 
-> OpenAIは最新モデル「GPT-5.6」をリリースし、Microsoft 365 Copilotへの統合や、自律型AIエージェント「ChatGPT Work」を発表しました。また、MetaはAIコーディング市場に参入し、GoogleはAI生成広告の表示義務化を進めるなど、主要AI企業の機能強化と規制・倫理への対応が加速しています。
+> 今週は、OpenAIがドイツテレコムとの提携を通じてAIによる顧客サービス変革を発表するなど、企業でのAI導入事例が注目されました。また、AWSからはエージェントAIのワークフロー拡張やモデル最適化に関する技術的な発表が相次ぎ、AIシステム開発の効率化が進んでいます。
 
-- [News][🟢一次] GPT-5.6がMicrosoft 365 Copilotに搭載 — https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-- [News][🟢一次] ChatGPTが「ChatGPT Work」を発表 — https://openai.com/index/chatgpt-for-your-most-ambitious-work
-- [News][🟡二次] Instagram、AIによる写真利用停止方法 — https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos
-- [News][🟢一次] OpenAIが新モデル「GPT-5.6」を発表 — https://openai.com/index/gpt-5-6
-- [News][🟡二次] AIエージェントが1億ドル資金調達を成功 — https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise
-- [News][🟡二次] MetaがAIコーディング市場に参入 — https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
-- [News][🟡二次] Google、AI生成広告の表示義務化 — https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label
-- [News][🟡二次] Anthropic、Claude Fable 5を有料化 — https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5
-- [News][🟡二次] FL Studio 2026にAIアシスタント搭載 — https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
-- [News][🟢一次] AWS向けClaudeアプリゲートウェイ登場 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws
+- [News][🟢一次] ドイツテレコムがAIで顧客サービス変革 — https://openai.com/index/deutsche-telekom
+- [News][🟢一次] Amazon Quick Automateでエージェントワークフローを拡張 — https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate
+- [News][🟢一次] SageMakerでNVIDIA Nemotron 3を微調整 — https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization
+- [News][🟢一次] Amazon SageMakerで歯科画像リアルタイム検証 — https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one
+- [News][🟢一次] AWSでエージェントAI向けセマンティック層構築 — https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore
+- [News][🟢一次] Unslothで量子化モデルをSageMakerにデプロイ — https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth
+- [News][🟢一次] KTern.AIがSAP向けエージェントAIを開発 — https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore
+- [News][🟢一次] エージェント交渉における行動プライバシー漏洩 — https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation
+- [Paper][🟢一次] 実世界タスク向けプロアクティブエージェントの汎用ベンチマーク — https://arxiv.org/abs/2607.08768v1
+- [News][🟢一次] SageMaker HyperPodでLLM推論を高速化 — https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod
 
-全文: [`news/2026-07-10.md`](news/2026-07-10.md)
+全文: [`news/2026-07-11.md`](news/2026-07-11.md)
 <!--/LATEST-->
 
 ---
