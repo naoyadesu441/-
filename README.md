@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-09**
+**最終更新: 2026-07-10**
 
-> 今週のAI界隈では、OpenAIがChatGPTの音声モードを「GPT-Live」で大幅に強化し、より自然な人間らしい会話体験を実現しました。また、Microsoft ResearchからはAIエージェントが表現力豊かなグラフを生成できる可視化言語「Flint」が発表され、AIによるデータ分析・コンテンツ制作の効率化に貢献します。NVIDIAのNemotronとLangChainの連携によるAIエージェント性能向上など、基盤技術の進化も続いています。
+> OpenAIは最新モデル「GPT-5.6」をリリースし、Microsoft 365 Copilotへの統合や、自律型AIエージェント「ChatGPT Work」を発表しました。また、MetaはAIコーディング市場に参入し、GoogleはAI生成広告の表示義務化を進めるなど、主要AI企業の機能強化と規制・倫理への対応が加速しています。
 
-- [News][🟢一次] ChatGPT音声モードが「GPT-Live」で進化 — https://openai.com/index/introducing-gpt-live
-- [News][🟡二次] Meta、Instagram写真のAI利用に同意必須 — https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out
-- [News][🟡二次] Grok 4.5公開、イーロン・マスク氏が絶賛 — https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model
-- [News][🟡二次] GoogleフォトにAI動画Remix機能追加 — https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool
-- [News][🟡二次] 誰でも「自己改善AI」を構築できる時代へ — https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai
-- [News][🟢一次] AWS Bedrockでメール自動分類・優先順位付け — https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock
-- [News][🟢一次] MicrosoftがAI向け可視化言語「Flint」発表 — https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era
-- [News][🟢一次] NVIDIA NemotronがLangChainで高精度達成 — https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack
-- [News][🟢一次] AWSがClaudeアプリゲートウェイを導入 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws
-- [News][🟢一次] OpenAI、教育者向けAIスキル研修を提供 — https://openai.com/index/k-12-educators-practical-skills
+- [News][🟢一次] GPT-5.6がMicrosoft 365 Copilotに搭載 — https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+- [News][🟢一次] ChatGPTが「ChatGPT Work」を発表 — https://openai.com/index/chatgpt-for-your-most-ambitious-work
+- [News][🟡二次] Instagram、AIによる写真利用停止方法 — https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos
+- [News][🟢一次] OpenAIが新モデル「GPT-5.6」を発表 — https://openai.com/index/gpt-5-6
+- [News][🟡二次] AIエージェントが1億ドル資金調達を成功 — https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise
+- [News][🟡二次] MetaがAIコーディング市場に参入 — https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
+- [News][🟡二次] Google、AI生成広告の表示義務化 — https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label
+- [News][🟡二次] Anthropic、Claude Fable 5を有料化 — https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5
+- [News][🟡二次] FL Studio 2026にAIアシスタント搭載 — https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
+- [News][🟢一次] AWS向けClaudeアプリゲートウェイ登場 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws
 
-全文: [`news/2026-07-09.md`](news/2026-07-09.md)
+全文: [`news/2026-07-10.md`](news/2026-07-10.md)
 <!--/LATEST-->
 
 ---
