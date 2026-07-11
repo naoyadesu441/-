@@ -6,22 +6,18 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-11**
+**最終更新: 2026-07-12**
 
-> 今週は、OpenAIがドイツテレコムとの提携を通じてAIによる顧客サービス変革を発表するなど、企業でのAI導入事例が注目されました。また、AWSからはエージェントAIのワークフロー拡張やモデル最適化に関する技術的な発表が相次ぎ、AIシステム開発の効率化が進んでいます。
+> 今日のAI界隈では、Anthropicの主力モデル「Claude Fable 5」が従量課金制に移行し、AIサブスクリプションモデルの転換期を迎えています。また、MetaがInstagramのAI画像生成機能をユーザーの反発を受けて停止したことや、AppleがOpenAIを企業秘密窃盗で提訴するなど、大手企業間の動きやAIの倫理的利用に関する議論が活発化しています。
 
-- [News][🟢一次] ドイツテレコムがAIで顧客サービス変革 — https://openai.com/index/deutsche-telekom
-- [News][🟢一次] Amazon Quick Automateでエージェントワークフローを拡張 — https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate
-- [News][🟢一次] SageMakerでNVIDIA Nemotron 3を微調整 — https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization
-- [News][🟢一次] Amazon SageMakerで歯科画像リアルタイム検証 — https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one
-- [News][🟢一次] AWSでエージェントAI向けセマンティック層構築 — https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore
-- [News][🟢一次] Unslothで量子化モデルをSageMakerにデプロイ — https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth
-- [News][🟢一次] KTern.AIがSAP向けエージェントAIを開発 — https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore
-- [News][🟢一次] エージェント交渉における行動プライバシー漏洩 — https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation
-- [Paper][🟢一次] 実世界タスク向けプロアクティブエージェントの汎用ベンチマーク — https://arxiv.org/abs/2607.08768v1
-- [News][🟢一次] SageMaker HyperPodでLLM推論を高速化 — https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod
+- [News][🟡二次] Claude Fable 5が従量課金制に移行 — https://wired.jp/article/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5
+- [News][🟡二次] AppleがOpenAIを企業秘密窃盗で提訴 — https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft
+- [News][🟡二次] Meta、InstagramのAI画像生成機能を停止 — https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
+- [News][🟡二次] OpenAI、ChatGPTの家庭向け展開を強化 — https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households
+- [News][🟡二次] OpenAIの安全責任者が退社 — https://www.wired.com/story/openai-head-of-safety-leaving
+- [News][🟡二次] Hugging Face CEOが語るオープンソースAIの重要性 — https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue
 
-全文: [`news/2026-07-11.md`](news/2026-07-11.md)
+全文: [`news/2026-07-12.md`](news/2026-07-12.md)
 <!--/LATEST-->
 
 ---
