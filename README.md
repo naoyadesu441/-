@@ -6,18 +6,16 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-12**
+**最終更新: 2026-07-13**
 
-> 今日のAI界隈では、Anthropicの主力モデル「Claude Fable 5」が従量課金制に移行し、AIサブスクリプションモデルの転換期を迎えています。また、MetaがInstagramのAI画像生成機能をユーザーの反発を受けて停止したことや、AppleがOpenAIを企業秘密窃盗で提訴するなど、大手企業間の動きやAIの倫理的利用に関する議論が活発化しています。
+> 今週は、有名アーティストがAI製品に言及するなど、AIの社会受容性に関する話題が注目されました。また、AppleのAIチップ開発の背景や、AIデータセンターの環境問題、AIと量子コンピューティングによる創薬研究など、多岐にわたるAI関連ニュースが報じられています。
 
-- [News][🟡二次] Claude Fable 5が従量課金制に移行 — https://wired.jp/article/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5
-- [News][🟡二次] AppleがOpenAIを企業秘密窃盗で提訴 — https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft
-- [News][🟡二次] Meta、InstagramのAI画像生成機能を停止 — https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
-- [News][🟡二次] OpenAI、ChatGPTの家庭向け展開を強化 — https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households
-- [News][🟡二次] OpenAIの安全責任者が退社 — https://www.wired.com/story/openai-head-of-safety-leaving
-- [News][🟡二次] Hugging Face CEOが語るオープンソースAIの重要性 — https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue
+- [News][🟡二次] ロードがMeta製AIメガネに「セクシーじゃない」 — https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
+- [News][🟡二次] Apple、自動運転車開発がAIチップ進化の源泉に — https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
+- [News][🟡二次] AIデータセンター建設、環境問題が新たな課題に — https://www.theverge.com/column/963346/ai-data-centers-fight
+- [News][🟡二次] AIと量子計算で新ペプチド生成、創薬研究進展 — https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides
 
-全文: [`news/2026-07-12.md`](news/2026-07-12.md)
+全文: [`news/2026-07-13.md`](news/2026-07-13.md)
 <!--/LATEST-->
 
 ---
