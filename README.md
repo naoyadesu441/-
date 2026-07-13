@@ -6,16 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-13**
+**最終更新: 2026-07-14**
 
-> 今週は、有名アーティストがAI製品に言及するなど、AIの社会受容性に関する話題が注目されました。また、AppleのAIチップ開発の背景や、AIデータセンターの環境問題、AIと量子コンピューティングによる創薬研究など、多岐にわたるAI関連ニュースが報じられています。
+> 今週は、OpenAIの最新モデルGPT-5.6がAmazon Bedrockで一般提供開始され、企業でのAI活用がさらに加速する動きが見られました。また、Amazon SageMaker AI Studioでは生成AI推論の最適化UIが導入され、AI開発の敷居が低くなっています。AIが神経多様性を持つ人々のアクセシビリティツールとして注目されるなど、AIの社会貢献性にも焦点が当たっています。
 
-- [News][🟡二次] ロードがMeta製AIメガネに「セクシーじゃない」 — https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
-- [News][🟡二次] Apple、自動運転車開発がAIチップ進化の源泉に — https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
-- [News][🟡二次] AIデータセンター建設、環境問題が新たな課題に — https://www.theverge.com/column/963346/ai-data-centers-fight
-- [News][🟡二次] AIと量子計算で新ペプチド生成、創薬研究進展 — https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides
+- [News][🟡二次] AppleのSiri AIがiPhoneの基盤ツールに進化 — https://www.wired.com/story/siri-ai-is-now-apple-everything-tool
+- [News][🟢一次] OpenAIのGPT-5.6がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock
+- [News][🟡二次] サティア・ナデラ氏がAI利用企業に警告を発する — https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai
+- [News][🟡二次] AppleがOpenAIを提訴、機密情報盗用疑惑の詳細 — https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai
+- [News][🟡二次] WazeがAI搭載の新機能とカスタマイズを導入 — https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates
+- [News][🟢一次] AIは脳の多様性を持つ人々のアクセシビリティツールに — https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility
+- [News][🟢一次] SageMaker AIで生成AI推論推奨UIが利用可能に — https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai
+- [News][🟡二次] AIエージェント開発のNous Researchが資金調達交渉中 — https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation
+- [News][🟢一次] BluesightがAmazon BedrockでエージェントAIを構築 — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock
+- [News][🟢一次] Amazon BedrockでマルチテナントAIエージェントを実装 — https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway
 
-全文: [`news/2026-07-13.md`](news/2026-07-13.md)
+全文: [`news/2026-07-14.md`](news/2026-07-14.md)
 <!--/LATEST-->
 
 ---
