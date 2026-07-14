@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-14**
+**最終更新: 2026-07-15**
 
-> 今週は、OpenAIの最新モデルGPT-5.6がAmazon Bedrockで一般提供開始され、企業でのAI活用がさらに加速する動きが見られました。また、Amazon SageMaker AI Studioでは生成AI推論の最適化UIが導入され、AI開発の敷居が低くなっています。AIが神経多様性を持つ人々のアクセシビリティツールとして注目されるなど、AIの社会貢献性にも焦点が当たっています。
+> 今週は、OpenAIの最新モデル「GPT-5.6 Sol, Terra, Luna」がAmazon Bedrockで利用可能になり、AI開発の選択肢が大きく広がりました。また、ChatGPT Workの具体的な活用事例として、データサイエンスチームや営業チーム向けの効率化手法がOpenAIから公開され、ビジネスでのAI導入がさらに加速しそうです。AWS Bedrock上でのマルチエージェントシステムによる営業自動化も注目され、実用的なAIツールの進化が顕著です。
 
-- [News][🟡二次] AppleのSiri AIがiPhoneの基盤ツールに進化 — https://www.wired.com/story/siri-ai-is-now-apple-everything-tool
-- [News][🟢一次] OpenAIのGPT-5.6がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock
-- [News][🟡二次] サティア・ナデラ氏がAI利用企業に警告を発する — https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai
-- [News][🟡二次] AppleがOpenAIを提訴、機密情報盗用疑惑の詳細 — https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai
-- [News][🟡二次] WazeがAI搭載の新機能とカスタマイズを導入 — https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates
-- [News][🟢一次] AIは脳の多様性を持つ人々のアクセシビリティツールに — https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility
-- [News][🟢一次] SageMaker AIで生成AI推論推奨UIが利用可能に — https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai
-- [News][🟡二次] AIエージェント開発のNous Researchが資金調達交渉中 — https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation
-- [News][🟢一次] BluesightがAmazon BedrockでエージェントAIを構築 — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock
-- [News][🟢一次] Amazon BedrockでマルチテナントAIエージェントを実装 — https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway
+- [News][🟢一次] OpenAI新モデルがAmazon Bedrockで提供開始 — https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock
+- [News][🟢一次] ChatGPT Workの営業チーム活用法を公開 — https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+- [News][🟡二次] OpenAIが動くスクリーンレスAIスピーカー開発か — https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move
+- [News][🟡二次] Apple、iOS 27パブリックベータでSiri AIを一般公開 — https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta
+- [News][🟢一次] ChatGPT Workのデータサイエンス活用術 — https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+- [News][🟢一次] AWS Bedrockでマルチエージェントシステム構築 — https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock
+- [News][🟡二次] SpotifyがAIチャットボットで音楽発見を強化 — https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
+- [News][🟡二次] OpenAI新モデル「GPT-5.6 Sol」がファイルを削除する問題 — https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning
+- [News][🟡二次] SuperhumanのAI自動返信機能が進化 — https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies
+- [News][🟢一次] NVIDIA、企業向けオープンAIモデルの信頼性を強調 — https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 
-全文: [`news/2026-07-14.md`](news/2026-07-14.md)
+全文: [`news/2026-07-15.md`](news/2026-07-15.md)
 <!--/LATEST-->
 
 ---
