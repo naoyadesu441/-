@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-15**
+**最終更新: 2026-07-16**
 
-> 今週は、OpenAIの最新モデル「GPT-5.6 Sol, Terra, Luna」がAmazon Bedrockで利用可能になり、AI開発の選択肢が大きく広がりました。また、ChatGPT Workの具体的な活用事例として、データサイエンスチームや営業チーム向けの効率化手法がOpenAIから公開され、ビジネスでのAI導入がさらに加速しそうです。AWS Bedrock上でのマルチエージェントシステムによる営業自動化も注目され、実用的なAIツールの進化が顕著です。
+> 今週は、モバイルデバイスでのAIエージェント活用や、AWS Bedrockを活用したマルチエージェントシステムの構築事例など、実用的なAIエージェントの進化が目立ちます。OpenAIはAIの安全性向上ツール「GPT-Red」を発表し、Hugging FaceやAppleからも新たなAIモデルや技術に関する発表がありました。主要企業のAI技術革新が続き、ビジネスや個人の生産性向上への応用が期待されます。
 
-- [News][🟢一次] OpenAI新モデルがAmazon Bedrockで提供開始 — https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock
-- [News][🟢一次] ChatGPT Workの営業チーム活用法を公開 — https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-- [News][🟡二次] OpenAIが動くスクリーンレスAIスピーカー開発か — https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move
-- [News][🟡二次] Apple、iOS 27パブリックベータでSiri AIを一般公開 — https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta
-- [News][🟢一次] ChatGPT Workのデータサイエンス活用術 — https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-- [News][🟢一次] AWS Bedrockでマルチエージェントシステム構築 — https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock
-- [News][🟡二次] SpotifyがAIチャットボットで音楽発見を強化 — https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
-- [News][🟡二次] OpenAI新モデル「GPT-5.6 Sol」がファイルを削除する問題 — https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning
-- [News][🟡二次] SuperhumanのAI自動返信機能が進化 — https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies
-- [News][🟢一次] NVIDIA、企業向けオープンAIモデルの信頼性を強調 — https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
+- [News][🟢一次] AWS、Bedrockでマルチエージェントシステムを構築 — https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock
+- [Paper][🟢一次] モバイル向けオンデバイスAIエージェントフレームワーク — https://arxiv.org/abs/2607.13027v1
+- [News][🟢一次] AWS、Amazon Bedrockでエージェント視覚AIを構築 — https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers
+- [News][🟢一次] OpenAI、AI安全性を高める「GPT-Red」を発表 — https://openai.com/index/unlocking-self-improvement-gpt-red
+- [News][🟢一次] NVIDIA、日本でのAI・ロボティクスエコシステムを強化 — https://blogs.nvidia.com/blog/japan-ecosystem-2026
+- [News][🟢一次] Hugging FaceにThinking Machinesの「Inkling」が登場 — https://huggingface.co/blog/thinkingmachines-inkling
+- [News][🟢一次] Hugging Face、音声AIの人間品質測定ツールを発表 — https://huggingface.co/blog/real-world-voiceeq
+- [News][🟢一次] Apple、RAGを強化する新フレームワーク「CLaRa」 — https://machinelearning.apple.com/research/clara-latent-reasoning
+- [News][🟢一次] NVIDIA、ロボット・エッジAI向け新Jetson Thorを発表 — https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent
+- [News][🟢一次] OpenAI、米国のAI安全保障とガバナンスを提言 — https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 
-全文: [`news/2026-07-15.md`](news/2026-07-15.md)
+全文: [`news/2026-07-16.md`](news/2026-07-16.md)
 <!--/LATEST-->
 
 ---
