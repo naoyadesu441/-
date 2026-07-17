@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-17**
+**最終更新: 2026-07-18**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週は、AIエージェントの進化とビジネスへの応用が注目されています。AWSは営業向けAIエージェント「Amazon Quick」を発表し、Grok 4.3がAmazon Bedrockで利用可能になるなど、主要なAIモデルやツールが企業での活用を加速。OpenAIがAI投資のROIを測るスコアカードを導入し、AIの効果的な導入と評価への関心が高まっています。
 
-- [News][🟢一次] Why teens deserve access to safe AI — https://openai.com/index/why-teens-deserve-access-safe-ai
-- [News][🟢一次] Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base
-- [News][🟢一次] Introducing Grok on Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock
-- [News][🟢一次] Connect more of your apps to Search — https://blog.google/products-and-platforms/products/search/connected-apps
-- [News][🟢一次] Create, edit and star in videos with two Google Vids updates — https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
-- [News][🟢一次] NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval — https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
-- [News][🟢一次] Our approach to bioresilience — https://deepmind.google/blog/our-approach-to-bioresilience
-- [News][🟢一次] Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic — https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic
-- [News][🟢一次] Newer Models, Same Advantage — https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
-- [News][🟢一次] How Cars24 scales conversations and builds faster with OpenAI — https://openai.com/index/cars24
+- [News][🟢一次] GrokがAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock
+- [News][🟢一次] Amazon Quick: 営業向けAIエージェント — https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate
+- [News][🟢一次] Bedrockでエージェント向け企業検索構築 — https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base
+- [News][🟢一次] OpenAIがAI投資効果測定スコアカード発表 — https://openai.com/index/a-scorecard-for-the-ai-age
+- [News][🟢一次] NVIDIAとHugging Faceで画像・動画モデル調整 — https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+- [News][🟢一次] Amazon Quickダッシュボードがモバイル対応 — https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards
+- [News][🟢一次] NVIDIAがAIエージェント向け新指標発表 — https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
+- [News][🟢一次] Apple、AIモデルのデータ削除コスト削減 — https://machinelearning.apple.com/research/unlearning-free-low-influence
+- [News][🟢一次] Apple、画像セットから視覚概念推論 — https://machinelearning.apple.com/research/visual-concept-inference
+- [News][🟢一次] SmartsheetがAWSでMCPサーバー構築 — https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws
 
-全文: [`news/2026-07-17.md`](news/2026-07-17.md)
+全文: [`news/2026-07-18.md`](news/2026-07-18.md)
 <!--/LATEST-->
 
 ---
