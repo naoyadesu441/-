@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-16**
+**最終更新: 2026-07-17**
 
-> 今週は、モバイルデバイスでのAIエージェント活用や、AWS Bedrockを活用したマルチエージェントシステムの構築事例など、実用的なAIエージェントの進化が目立ちます。OpenAIはAIの安全性向上ツール「GPT-Red」を発表し、Hugging FaceやAppleからも新たなAIモデルや技術に関する発表がありました。主要企業のAI技術革新が続き、ビジネスや個人の生産性向上への応用が期待されます。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] AWS、Bedrockでマルチエージェントシステムを構築 — https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock
-- [Paper][🟢一次] モバイル向けオンデバイスAIエージェントフレームワーク — https://arxiv.org/abs/2607.13027v1
-- [News][🟢一次] AWS、Amazon Bedrockでエージェント視覚AIを構築 — https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers
-- [News][🟢一次] OpenAI、AI安全性を高める「GPT-Red」を発表 — https://openai.com/index/unlocking-self-improvement-gpt-red
-- [News][🟢一次] NVIDIA、日本でのAI・ロボティクスエコシステムを強化 — https://blogs.nvidia.com/blog/japan-ecosystem-2026
-- [News][🟢一次] Hugging FaceにThinking Machinesの「Inkling」が登場 — https://huggingface.co/blog/thinkingmachines-inkling
-- [News][🟢一次] Hugging Face、音声AIの人間品質測定ツールを発表 — https://huggingface.co/blog/real-world-voiceeq
-- [News][🟢一次] Apple、RAGを強化する新フレームワーク「CLaRa」 — https://machinelearning.apple.com/research/clara-latent-reasoning
-- [News][🟢一次] NVIDIA、ロボット・エッジAI向け新Jetson Thorを発表 — https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent
-- [News][🟢一次] OpenAI、米国のAI安全保障とガバナンスを提言 — https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+- [News][🟢一次] Why teens deserve access to safe AI — https://openai.com/index/why-teens-deserve-access-safe-ai
+- [News][🟢一次] Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base
+- [News][🟢一次] Introducing Grok on Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock
+- [News][🟢一次] Connect more of your apps to Search — https://blog.google/products-and-platforms/products/search/connected-apps
+- [News][🟢一次] Create, edit and star in videos with two Google Vids updates — https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
+- [News][🟢一次] NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval — https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+- [News][🟢一次] Our approach to bioresilience — https://deepmind.google/blog/our-approach-to-bioresilience
+- [News][🟢一次] Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic — https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic
+- [News][🟢一次] Newer Models, Same Advantage — https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
+- [News][🟢一次] How Cars24 scales conversations and builds faster with OpenAI — https://openai.com/index/cars24
 
-全文: [`news/2026-07-16.md`](news/2026-07-16.md)
+全文: [`news/2026-07-17.md`](news/2026-07-17.md)
 <!--/LATEST-->
 
 ---
