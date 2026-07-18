@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-18**
+**最終更新: 2026-07-19**
 
-> 今週は、AIエージェントの進化とビジネスへの応用が注目されています。AWSは営業向けAIエージェント「Amazon Quick」を発表し、Grok 4.3がAmazon Bedrockで利用可能になるなど、主要なAIモデルやツールが企業での活用を加速。OpenAIがAI投資のROIを測るスコアカードを導入し、AIの効果的な導入と評価への関心が高まっています。
+> 本日のAIニュースでは、AWSが営業組織向けのAIエージェント「Amazon Quick」を発表し、営業プロセスの効率化を大きく推進する動きが注目されます。AIが具体的な業務改善に直結するツールとして進化していることが示されました。
 
-- [News][🟢一次] GrokがAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock
-- [News][🟢一次] Amazon Quick: 営業向けAIエージェント — https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate
-- [News][🟢一次] Bedrockでエージェント向け企業検索構築 — https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base
-- [News][🟢一次] OpenAIがAI投資効果測定スコアカード発表 — https://openai.com/index/a-scorecard-for-the-ai-age
-- [News][🟢一次] NVIDIAとHugging Faceで画像・動画モデル調整 — https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
-- [News][🟢一次] Amazon Quickダッシュボードがモバイル対応 — https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards
-- [News][🟢一次] NVIDIAがAIエージェント向け新指標発表 — https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
-- [News][🟢一次] Apple、AIモデルのデータ削除コスト削減 — https://machinelearning.apple.com/research/unlearning-free-low-influence
-- [News][🟢一次] Apple、画像セットから視覚概念推論 — https://machinelearning.apple.com/research/visual-concept-inference
-- [News][🟢一次] SmartsheetがAWSでMCPサーバー構築 — https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws
+- [News][🟢一次] Amazon Quick: 営業向けAIエージェント登場 — https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate
+- [News][🟡二次] Google Geminiの利用料金体系が変更 — https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage
+- [News][🟡二次] TikTokがAI生成顔検出ツールをテスト開始 — https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
+- [News][🟡二次] 中国Moonshot AIのKimiモデルが脅威に — https://techcrunch.com/2026/07/18/kimi-threat-or-menace
+- [News][🟡二次] AIハッキングエージェントを阻止するプロンプトインジェクション攻撃 — https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents
+- [News][🟡二次] ChatGPTが「世代を沈黙させる」と作家が警鐘 — https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
+- [News][🟡二次] 6,880ドルの高級AIエージェントの実力は？ — https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs
+- [News][🟡二次] AIは医療保険の事前承認を改善するか？ — https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse
+- [News][🟡二次] AI投資バブルの終焉か？VCが資金流出を予測 — https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out
+- [News][🟡二次] Databricksが1880億ドル評価額を達成 — https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act
 
-全文: [`news/2026-07-18.md`](news/2026-07-18.md)
+全文: [`news/2026-07-19.md`](news/2026-07-19.md)
 <!--/LATEST-->
 
 ---
