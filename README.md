@@ -6,19 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-20**
+**最終更新: 2026-07-21**
 
-> OpenAIのハードウェア計画にApple訴訟が影響する可能性や、AI音楽生成ツールSunoの品質向上が注目されています。また、NVIDIAのジェンスン・フアンCEOの訪日による日本のAIインフラ強化の動きも見られ、AIの倫理的側面に関する著名人の警鐘も引き続き議論されています。
+> 今日のAIニュースでは、OpenAIが長期稼働モデルの安全性と対策について発表し、AIの信頼性向上への取り組みを示しました。また、AWSはビジネス向けAIエージェントの構築支援を強化し、NVIDIAはSIGGRAPHでAIとグラフィックスの融合によるコンテンツ制作の進化を提示。Hugging Faceからは新たなEdge向けモデルも登場し、AIの応用範囲が広がり続けています。
 
-- [News][🟡二次] ジェンスン・フアン氏の訪日成果 — https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit
-- [News][🟡二次] Apple訴訟がOpenAIのハードウェア計画を阻むか — https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans
-- [News][🟡二次] AI音楽Sunoが作った曲に驚きの声 — https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
-- [News][🟡二次] ノーラン監督がAIを「トロイの木馬」と警鐘 — https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse
-- [News][🟡二次] 中国Moonshot AIのKimiモデルが懸念を呼ぶ — https://techcrunch.com/2026/07/18/kimi-threat-or-menace
-- [News][🟡二次] 作家がOpenAIに「ChatGPTは世代を沈黙させる」と警告 — https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
-- [News][🟡二次] 非営利団体Current AIが「AIのWWW」構築へ — https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all
+- [News][🟢一次] Hugging Faceが新モデル「Cosmos 3 Edge」発表 — https://huggingface.co/blog/nvidia/cosmos3edge
+- [News][🟢一次] AWSがビジネス向けAIエージェント構築を支援 — https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit
+- [News][🟢一次] NVIDIA、SIGGRAPHでAIとグラフィックス進化を発表 — https://blogs.nvidia.com/blog/siggraph-news-2026
+- [News][🟢一次] OpenAI、長期間AIモデルの安全性と対策 — https://openai.com/index/safety-alignment-long-horizon-models
+- [News][🟢一次] CouchbaseがAmazon BedrockでAI基盤構築 — https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock
+- [News][🟢一次] TradeshiftがBIをAIエージェントで刷新、コスト4割減 — https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick
+- [News][🟢一次] Apple、長尺動画要約の新たなベンチマーク発表 — https://machinelearning.apple.com/research/lvsum-video-summarization
+- [News][🟢一次] AWS DeepRacerにカスタムOS導入が可能に — https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices
+- [News][🟢一次] BMSがNVIDIAでライフサイエンスAI工場を構築 — https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
+- [News][🟢一次] Apple、マルチビューTransformer向け位置エンコーディング研究 — https://machinelearning.apple.com/research/rayrope-projective-ray
 
-全文: [`news/2026-07-20.md`](news/2026-07-20.md)
+全文: [`news/2026-07-21.md`](news/2026-07-21.md)
 <!--/LATEST-->
 
 ---
