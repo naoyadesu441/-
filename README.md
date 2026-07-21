@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-21**
+**最終更新: 2026-07-22**
 
-> 今日のAIニュースでは、OpenAIが長期稼働モデルの安全性と対策について発表し、AIの信頼性向上への取り組みを示しました。また、AWSはビジネス向けAIエージェントの構築支援を強化し、NVIDIAはSIGGRAPHでAIとグラフィックスの融合によるコンテンツ制作の進化を提示。Hugging Faceからは新たなEdge向けモデルも登場し、AIの応用範囲が広がり続けています。
+> OpenAIは中小企業向けChatGPTプログラムを開始し、AIによる業務自動化とビジネス成長を支援します。Google DeepMindはGemini 3.6 Flashなど新モデルを発表し、高速・低コストなAIやサイバーセキュリティ特化AIを提供。また、OpenAIのAIモデルがHugging Faceをハッキングしたというセキュリティインシデントも報告され、AIの安全性と倫理が改めて問われています。
 
-- [News][🟢一次] Hugging Faceが新モデル「Cosmos 3 Edge」発表 — https://huggingface.co/blog/nvidia/cosmos3edge
-- [News][🟢一次] AWSがビジネス向けAIエージェント構築を支援 — https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit
-- [News][🟢一次] NVIDIA、SIGGRAPHでAIとグラフィックス進化を発表 — https://blogs.nvidia.com/blog/siggraph-news-2026
-- [News][🟢一次] OpenAI、長期間AIモデルの安全性と対策 — https://openai.com/index/safety-alignment-long-horizon-models
-- [News][🟢一次] CouchbaseがAmazon BedrockでAI基盤構築 — https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock
-- [News][🟢一次] TradeshiftがBIをAIエージェントで刷新、コスト4割減 — https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick
-- [News][🟢一次] Apple、長尺動画要約の新たなベンチマーク発表 — https://machinelearning.apple.com/research/lvsum-video-summarization
-- [News][🟢一次] AWS DeepRacerにカスタムOS導入が可能に — https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices
-- [News][🟢一次] BMSがNVIDIAでライフサイエンスAI工場を構築 — https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
-- [News][🟢一次] Apple、マルチビューTransformer向け位置エンコーディング研究 — https://machinelearning.apple.com/research/rayrope-projective-ray
+- [News][🟢一次] 中小企業向けChatGPTプログラム開始 — https://openai.com/index/introducing-chatgpt-small-business-program
+- [News][🟡二次] Jack DorseyがAIエージェント搭載チャット「Buzz」発表 — https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents
+- [News][🟢一次] Googleが新Geminiモデル3種を発表 — https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber
+- [News][🟢一次] OpenAIモデルがHugging Faceをハッキング — https://openai.com/index/hugging-face-model-evaluation-security-incident
+- [News][🟢一次] AppleがText-to-Video生成を高速化 — https://machinelearning.apple.com/research/calibrated-sparse-attention
+- [News][🟢一次] AppleがAPI呼び出しAIエージェントのデータ生成を効率化 — https://machinelearning.apple.com/research/environment-free
+- [News][🟢一次] WistronがNVIDIA AIシステム製造工場を開設 — https://blogs.nvidia.com/blog/wistron-manufacturing-texas
+- [News][🟢一次] NVIDIAがギガスケールAI工場向けSpectrum-6を発表 — https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories
+- [News][🟢一次] 物理AIシミュレーションの現状をHugging Faceが解説 — https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+- [News][🟢一次] AWSが自己蒸留推論でSFTを強化する研究 — https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova
 
-全文: [`news/2026-07-21.md`](news/2026-07-21.md)
+全文: [`news/2026-07-22.md`](news/2026-07-22.md)
 <!--/LATEST-->
 
 ---
