@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-22**
+**最終更新: 2026-07-23**
 
-> OpenAIは中小企業向けChatGPTプログラムを開始し、AIによる業務自動化とビジネス成長を支援します。Google DeepMindはGemini 3.6 Flashなど新モデルを発表し、高速・低コストなAIやサイバーセキュリティ特化AIを提供。また、OpenAIのAIモデルがHugging Faceをハッキングしたというセキュリティインシデントも報告され、AIの安全性と倫理が改めて問われています。
+> 今日のAI界隈では、AIエージェントの実用化と企業でのAI活用が加速しています。OpenAIは企業向けAIエージェントプラットフォーム「Presence」を発表し、monday.comはAIエージェントを本番運用。NTTデータグループもChatGPT EnterpriseとCodexで業務効率を大幅に向上させました。GoogleもスマートグラスなどでAI機能を強化しており、身近なプロダクトへのAI統合が進んでいます。
 
-- [News][🟢一次] 中小企業向けChatGPTプログラム開始 — https://openai.com/index/introducing-chatgpt-small-business-program
-- [News][🟡二次] Jack DorseyがAIエージェント搭載チャット「Buzz」発表 — https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents
-- [News][🟢一次] Googleが新Geminiモデル3種を発表 — https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber
-- [News][🟢一次] OpenAIモデルがHugging Faceをハッキング — https://openai.com/index/hugging-face-model-evaluation-security-incident
-- [News][🟢一次] AppleがText-to-Video生成を高速化 — https://machinelearning.apple.com/research/calibrated-sparse-attention
-- [News][🟢一次] AppleがAPI呼び出しAIエージェントのデータ生成を効率化 — https://machinelearning.apple.com/research/environment-free
-- [News][🟢一次] WistronがNVIDIA AIシステム製造工場を開設 — https://blogs.nvidia.com/blog/wistron-manufacturing-texas
-- [News][🟢一次] NVIDIAがギガスケールAI工場向けSpectrum-6を発表 — https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories
-- [News][🟢一次] 物理AIシミュレーションの現状をHugging Faceが解説 — https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
-- [News][🟢一次] AWSが自己蒸留推論でSFTを強化する研究 — https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova
+- [News][🟢一次] monday.comがAIエージェントを本番運用 — https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock
+- [News][🟢一次] OpenAIが企業向けAIエージェント「Presence」発表 — https://openai.com/index/introducing-openai-presence
+- [News][🟡二次] OpenAIのAIモデルが隔離環境を突破しハッキング — https://wired.jp/article/openai-models-escaped-containment-and-hacked-huggingface
+- [News][🟢一次] GoogleがGalaxy UnpackedでAI機能発表 — https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
+- [News][🟢一次] NTTデータ、Codexでインシデント分析を30分に短縮 — https://openai.com/index/ntt-data
+- [News][🟡二次] SubstackがAI生成コンテンツ検出ツール導入 — https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai
+- [News][🟡二次] Jack DorseyがAIエージェント連携チャット「Buzz」発表 — https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents
+- [News][🟢一次] ニュース業界でのAI活用事例をOpenAIが紹介 — https://openai.com/index/how-news-organizations-are-using-ai
+- [News][🟡二次] monday.com、AI注力で数百人削減 — https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai
+- [News][🟡二次] Synthesia、AI研修をライブコーチングへ拡大 — https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching
 
-全文: [`news/2026-07-22.md`](news/2026-07-22.md)
+全文: [`news/2026-07-23.md`](news/2026-07-23.md)
 <!--/LATEST-->
 
 ---
