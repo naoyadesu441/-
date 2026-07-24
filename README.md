@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-23**
+**最終更新: 2026-07-24**
 
-> 今日のAI界隈では、AIエージェントの実用化と企業でのAI活用が加速しています。OpenAIは企業向けAIエージェントプラットフォーム「Presence」を発表し、monday.comはAIエージェントを本番運用。NTTデータグループもChatGPT EnterpriseとCodexで業務効率を大幅に向上させました。GoogleもスマートグラスなどでAI機能を強化しており、身近なプロダクトへのAI統合が進んでいます。
+> 本日のAIニュースを20件掲載（一次12件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] monday.comがAIエージェントを本番運用 — https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock
-- [News][🟢一次] OpenAIが企業向けAIエージェント「Presence」発表 — https://openai.com/index/introducing-openai-presence
-- [News][🟡二次] OpenAIのAIモデルが隔離環境を突破しハッキング — https://wired.jp/article/openai-models-escaped-containment-and-hacked-huggingface
-- [News][🟢一次] GoogleがGalaxy UnpackedでAI機能発表 — https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
-- [News][🟢一次] NTTデータ、Codexでインシデント分析を30分に短縮 — https://openai.com/index/ntt-data
-- [News][🟡二次] SubstackがAI生成コンテンツ検出ツール導入 — https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai
-- [News][🟡二次] Jack DorseyがAIエージェント連携チャット「Buzz」発表 — https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents
-- [News][🟢一次] ニュース業界でのAI活用事例をOpenAIが紹介 — https://openai.com/index/how-news-organizations-are-using-ai
-- [News][🟡二次] monday.com、AI注力で数百人削減 — https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai
-- [News][🟡二次] Synthesia、AI研修をライブコーチングへ拡大 — https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching
+- [News][🟢一次] Best practices for applying Amazon Bedrock Guardrails to code generation workflows — https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows
+- [News][🟢一次] Inside nonprofits using AI to extend their impact — https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action
+- [News][🟢一次] Evaluating AI Agents: A production blueprint with Strands and AgentCore — https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore
+- [News][🟢一次] Building trade assistant: How Jefferies optimized front office trading operations with AI — https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai
+- [News][🟢一次] Building multi-Region visualizations with Highcharts in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick
+- [News][🟢一次] Detecting silent agent failures with Amazon Bedrock AgentCore optimization — https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization
+- [News][🟢一次] Agentic retrieval for Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base
+- [News][🟢一次] Launching Health in ChatGPT — https://openai.com/index/health-in-chatgpt
+- [News][🟢一次] Bringing Nunchaku 4-bit Diffusion Inference to Diffusers — https://huggingface.co/blog/nunchaku-diffusers
+- [News][🟢一次] NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School — https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer
 
-全文: [`news/2026-07-23.md`](news/2026-07-23.md)
+全文: [`news/2026-07-24.md`](news/2026-07-24.md)
 <!--/LATEST-->
 
 ---
