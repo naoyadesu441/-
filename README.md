@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-24**
+**最終更新: 2026-07-25**
 
-> 本日のAIニュースを20件掲載（一次12件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週は、主要な大規模言語モデルのクラウド展開が注目されました。AnthropicのClaude Opus 5とOpenAIのGPT-5.6シリーズがAmazon Bedrockで利用可能になり、企業や開発者にとって高性能AIの活用がさらに加速します。また、Amazon Bedrockではコード生成ワークフロー向けのGuardrailsのベストプラクティスも公開され、AI利用の安全性と効率性が向上しています。
 
-- [News][🟢一次] Best practices for applying Amazon Bedrock Guardrails to code generation workflows — https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows
-- [News][🟢一次] Inside nonprofits using AI to extend their impact — https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action
-- [News][🟢一次] Evaluating AI Agents: A production blueprint with Strands and AgentCore — https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore
-- [News][🟢一次] Building trade assistant: How Jefferies optimized front office trading operations with AI — https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai
-- [News][🟢一次] Building multi-Region visualizations with Highcharts in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick
-- [News][🟢一次] Detecting silent agent failures with Amazon Bedrock AgentCore optimization — https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization
-- [News][🟢一次] Agentic retrieval for Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base
-- [News][🟢一次] Launching Health in ChatGPT — https://openai.com/index/health-in-chatgpt
-- [News][🟢一次] Bringing Nunchaku 4-bit Diffusion Inference to Diffusers — https://huggingface.co/blog/nunchaku-diffusers
-- [News][🟢一次] NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School — https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer
+- [News][🟢一次] AWSでClaude Opus 5が利用可能に — https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model
+- [News][🟢一次] OpenAI GPT-5.6がAmazon Bedrockに登場 — https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock
+- [News][🟡二次] Meta AIがアシスタント機能強化へ — https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update
+- [News][🟡二次] ChatGPTデスクトップ版に音声モード搭載 — https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app
+- [News][🟡二次] Claudeの音声モードがOpusとSonnetに対応 — https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
+- [News][🟡二次] Googleパスワードをセルフィーで再設定 — https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie
+- [News][🟡二次] AnthropicのOpus 5はトークン効率を重視 — https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap
+- [News][🟡二次] CognitionがPoke買収、AIに個性化の波 — https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage
+- [News][🟡二次] Midjourneyが占星術アプリCo-Star買収 — https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star
+- [News][🟢一次] Bedrock Guardrailsでコード生成を安全に — https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows
 
-全文: [`news/2026-07-24.md`](news/2026-07-24.md)
+全文: [`news/2026-07-25.md`](news/2026-07-25.md)
 <!--/LATEST-->
 
 ---
