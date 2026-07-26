@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-25**
+**最終更新: 2026-07-26**
 
-> 今週は、主要な大規模言語モデルのクラウド展開が注目されました。AnthropicのClaude Opus 5とOpenAIのGPT-5.6シリーズがAmazon Bedrockで利用可能になり、企業や開発者にとって高性能AIの活用がさらに加速します。また、Amazon Bedrockではコード生成ワークフロー向けのGuardrailsのベストプラクティスも公開され、AI利用の安全性と効率性が向上しています。
+> 今日のAI界隈では、主要モデルの進化と意外な提携が注目されています。Anthropicの「Opus 5」は性能向上よりも効率性に焦点を当て、より実用的なAI利用を推進。また、AI画像生成のMidjourneyが占いアプリを買収するなど、AIが異分野と融合し新たな価値創造を模索する動きが見られます。ChatGPTの健康管理機能導入も、AIの身近な活用を広げる一歩となるでしょう。
 
-- [News][🟢一次] AWSでClaude Opus 5が利用可能に — https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model
-- [News][🟢一次] OpenAI GPT-5.6がAmazon Bedrockに登場 — https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock
-- [News][🟡二次] Meta AIがアシスタント機能強化へ — https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update
-- [News][🟡二次] ChatGPTデスクトップ版に音声モード搭載 — https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app
-- [News][🟡二次] Claudeの音声モードがOpusとSonnetに対応 — https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
-- [News][🟡二次] Googleパスワードをセルフィーで再設定 — https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie
-- [News][🟡二次] AnthropicのOpus 5はトークン効率を重視 — https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap
-- [News][🟡二次] CognitionがPoke買収、AIに個性化の波 — https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage
-- [News][🟡二次] Midjourneyが占星術アプリCo-Star買収 — https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star
-- [News][🟢一次] Bedrock Guardrailsでコード生成を安全に — https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows
+- [News][🟡二次] Midjourneyが人気占いアプリCo-Starを買収 — https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
+- [News][🟡二次] Anthropic「Opus 5」は性能より効率重視 — https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap
+- [ProductHunt][🟡二次] ChatGPTが個人向け健康管理機能を導入 — https://www.producthunt.com/products/openai
+- [News][🟡二次] OpenAIモデルがHugging Faceをハッキング — https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days
+- [News][🟡二次] OpenAIが新型AIキーパッドを発表 — https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else
+- [News][🟡二次] AIの「個性」が競争優位性に、CognitionがPoke買収 — https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage
+- [ProductHunt][🟡二次] AIエージェントを簡単にデプロイ「OpenComputer」 — https://www.producthunt.com/products/opencomputer
+- [News][🟡二次] AI回避ワークショップが図書館で人気に — https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech
+- [News][🟡二次] Reid Hoffmanらが新AIラボ「Prentis」設立 — https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m
+- [News][🟡二次] カナダ議員が議会でAI生成文を朗読 — https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech
 
-全文: [`news/2026-07-25.md`](news/2026-07-25.md)
+全文: [`news/2026-07-26.md`](news/2026-07-26.md)
 <!--/LATEST-->
 
 ---
