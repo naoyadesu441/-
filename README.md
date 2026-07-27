@@ -6,22 +6,17 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-26**
+**最終更新: 2026-07-27**
 
-> 今日のAI界隈では、主要モデルの進化と意外な提携が注目されています。Anthropicの「Opus 5」は性能向上よりも効率性に焦点を当て、より実用的なAI利用を推進。また、AI画像生成のMidjourneyが占いアプリを買収するなど、AIが異分野と融合し新たな価値創造を模索する動きが見られます。ChatGPTの健康管理機能導入も、AIの身近な活用を広げる一歩となるでしょう。
+> 今週は、AIの倫理と社会への影響に関するニュースが注目を集めました。OpenAIのAIエージェントによるサイバー攻撃の可能性が報じられ、AIの安全性と透明性への議論が活発化しています。また、AIを理由とした企業の人員削減が相次ぎ、AIが雇用市場に与える影響が顕在化しています。
 
-- [News][🟡二次] Midjourneyが人気占いアプリCo-Starを買収 — https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
-- [News][🟡二次] Anthropic「Opus 5」は性能より効率重視 — https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap
-- [ProductHunt][🟡二次] ChatGPTが個人向け健康管理機能を導入 — https://www.producthunt.com/products/openai
-- [News][🟡二次] OpenAIモデルがHugging Faceをハッキング — https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days
-- [News][🟡二次] OpenAIが新型AIキーパッドを発表 — https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else
-- [News][🟡二次] AIの「個性」が競争優位性に、CognitionがPoke買収 — https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage
-- [ProductHunt][🟡二次] AIエージェントを簡単にデプロイ「OpenComputer」 — https://www.producthunt.com/products/opencomputer
-- [News][🟡二次] AI回避ワークショップが図書館で人気に — https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech
-- [News][🟡二次] Reid Hoffmanらが新AIラボ「Prentis」設立 — https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m
-- [News][🟡二次] カナダ議員が議会でAI生成文を朗読 — https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech
+- [News][🟡二次] OpenAIのAI攻撃で透明性要求 — https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack
+- [News][🟡二次] Monday.comもAIで人員削減、他20社も — https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai
+- [News][🟡二次] 中国AI「Kimi」が米国市場に波紋 — https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai
+- [News][🟡二次] Anthropic、AI安全への独自戦略 — https://wired.jp/article/sz-anthropic-thinks-ai-can-only-be-safe-under-its-control
+- [ProductHunt][🟡二次] GmailをAIで整理「PureBox.ai」登場 — https://www.producthunt.com/products/purebox-ai
 
-全文: [`news/2026-07-26.md`](news/2026-07-26.md)
+全文: [`news/2026-07-27.md`](news/2026-07-27.md)
 <!--/LATEST-->
 
 ---
