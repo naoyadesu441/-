@@ -6,17 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-27**
+**最終更新: 2026-07-28**
 
-> 今週は、AIの倫理と社会への影響に関するニュースが注目を集めました。OpenAIのAIエージェントによるサイバー攻撃の可能性が報じられ、AIの安全性と透明性への議論が活発化しています。また、AIを理由とした企業の人員削減が相次ぎ、AIが雇用市場に与える影響が顕在化しています。
+> 今日のAIニュースでは、ClaudeやGeminiといった主要AIサービスの利用規約やプライバシーに関する重要な更新が発表され、ユーザーへの直接的な影響が注目されています。また、OpenAIの研究がAIによる仕事内容の拡大を示唆する一方、Meta AIがThreadsのDMに統合されるなど、有名プラットフォームでのAI活用がさらに進展しています。
 
-- [News][🟡二次] OpenAIのAI攻撃で透明性要求 — https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack
-- [News][🟡二次] Monday.comもAIで人員削減、他20社も — https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai
-- [News][🟡二次] 中国AI「Kimi」が米国市場に波紋 — https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai
-- [News][🟡二次] Anthropic、AI安全への独自戦略 — https://wired.jp/article/sz-anthropic-thinks-ai-can-only-be-safe-under-its-control
-- [ProductHunt][🟡二次] GmailをAIで整理「PureBox.ai」登場 — https://www.producthunt.com/products/purebox-ai
+- [News][🟡二次] Claudeの共有チャットがGoogle検索に流出 — https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google
+- [News][🟡二次] Google Geminiの利用枠ルールが変更 — https://wired.jp/article/how-googles-new-gemini-rates-work-and-how-to-track-your-usage
+- [News][🟢一次] AIが仕事内容を拡大、OpenAIが研究発表 — https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
+- [News][🟡二次] Meta AIがThreadsのDMに統合 — https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms
+- [News][🟡二次] GoogleのAI検索が急速に普及 — https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows
+- [News][🟡二次] ChatGPTが著者スタイル模倣を制限 — https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling
+- [ProductHunt][🟡二次] Grok 4.5がコーディング・エージェントタスクに対応 — https://www.producthunt.com/products/grok
+- [News][🟢一次] AI安全性・セキュリティで業界アライアンス発足 — https://blogs.nvidia.com/blog/open-secure-ai-alliance
+- [News][🟡二次] ナデラ氏「単一AI依存企業は生き残れない」 — https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive
+- [News][🟡二次] MicrosoftがAIセキュリティツールを発表 — https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms
 
-全文: [`news/2026-07-27.md`](news/2026-07-27.md)
+全文: [`news/2026-07-28.md`](news/2026-07-28.md)
 <!--/LATEST-->
 
 ---
