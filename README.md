@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-28**
+**最終更新: 2026-07-29**
 
-> 今日のAIニュースでは、ClaudeやGeminiといった主要AIサービスの利用規約やプライバシーに関する重要な更新が発表され、ユーザーへの直接的な影響が注目されています。また、OpenAIの研究がAIによる仕事内容の拡大を示唆する一方、Meta AIがThreadsのDMに統合されるなど、有名プラットフォームでのAI活用がさらに進展しています。
+> 本日のAIニュースを20件掲載（一次12件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] Claudeの共有チャットがGoogle検索に流出 — https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google
-- [News][🟡二次] Google Geminiの利用枠ルールが変更 — https://wired.jp/article/how-googles-new-gemini-rates-work-and-how-to-track-your-usage
-- [News][🟢一次] AIが仕事内容を拡大、OpenAIが研究発表 — https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
-- [News][🟡二次] Meta AIがThreadsのDMに統合 — https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms
-- [News][🟡二次] GoogleのAI検索が急速に普及 — https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows
-- [News][🟡二次] ChatGPTが著者スタイル模倣を制限 — https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling
-- [ProductHunt][🟡二次] Grok 4.5がコーディング・エージェントタスクに対応 — https://www.producthunt.com/products/grok
-- [News][🟢一次] AI安全性・セキュリティで業界アライアンス発足 — https://blogs.nvidia.com/blog/open-secure-ai-alliance
-- [News][🟡二次] ナデラ氏「単一AI依存企業は生き残れない」 — https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive
-- [News][🟡二次] MicrosoftがAIセキュリティツールを発表 — https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms
+- [News][🟢一次] Scientific computing in the age of agentic AI — https://openai.com/index/scientific-computing-agentic-ai
+- [News][🟢一次] How AgentCore Gateway supports the MCP 2026-07-28 spec — https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec
+- [News][🟢一次] Gemini API Managed Agents: 3.6 Flash, hooks, and more — https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+- [News][🟢一次] The OlmoEarth Platform: Geospatial inference at planetary scale — https://huggingface.co/blog/allenai/olmoearth-infrastructure
+- [News][🟢一次] Market surveillance agent with LangGraph and Strands on AgentCore — https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore
+- [News][🟢一次] LFM2.5-Encoders for Fast Long-Context Inference on CPU — https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+- [News][🟢一次] 5 ways AI Mode in Search helps you enjoy the real world — https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
+- [News][🟢一次] 5 ways to host the ultimate dinner party with Google Search — https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips
+- [News][🟢一次] Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson — https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson
+- [News][🟢一次] Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers — https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers
 
-全文: [`news/2026-07-28.md`](news/2026-07-28.md)
+全文: [`news/2026-07-29.md`](news/2026-07-29.md)
 <!--/LATEST-->
 
 ---
