@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-29**
+**最終更新: 2026-07-30**
 
-> 本日のAIニュースを20件掲載（一次12件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 本日のAIニュースを20件掲載（一次8件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Scientific computing in the age of agentic AI — https://openai.com/index/scientific-computing-agentic-ai
+- [News][🟢一次] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark — https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+- [News][🟢一次] We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control — https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control
+- [News][🟢一次] Accelerating scientific discovery with ChatGPT for Academic Researchers — https://openai.com/index/chatgpt-for-academic-researchers
+- [News][🟢一次] Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity — https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity
+- [News][🟢一次] Generate Autonomous Business Insights with AI Agent and MCP Servers — https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers
+- [News][🟢一次] Automating customer retention workflows in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick
+- [News][🟢一次] How GPT-5.6 fuses frontier intelligence with frontier efficiency — https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
 - [News][🟢一次] How AgentCore Gateway supports the MCP 2026-07-28 spec — https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec
-- [News][🟢一次] Gemini API Managed Agents: 3.6 Flash, hooks, and more — https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
-- [News][🟢一次] The OlmoEarth Platform: Geospatial inference at planetary scale — https://huggingface.co/blog/allenai/olmoearth-infrastructure
-- [News][🟢一次] Market surveillance agent with LangGraph and Strands on AgentCore — https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore
-- [News][🟢一次] LFM2.5-Encoders for Fast Long-Context Inference on CPU — https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
-- [News][🟢一次] 5 ways AI Mode in Search helps you enjoy the real world — https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
-- [News][🟢一次] 5 ways to host the ultimate dinner party with Google Search — https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips
-- [News][🟢一次] Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson — https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson
-- [News][🟢一次] Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers — https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers
+- [News][🟡二次] Mark Zuckerberg predicts that billions of people will have personal AI agents in five years — https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years
+- [News][🟡二次] Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag — https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag
 
-全文: [`news/2026-07-29.md`](news/2026-07-29.md)
+全文: [`news/2026-07-30.md`](news/2026-07-30.md)
 <!--/LATEST-->
 
 ---
