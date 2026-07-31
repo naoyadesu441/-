@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-30**
+**最終更新: 2026-07-31**
 
-> 本日のAIニュースを20件掲載（一次8件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> OpenAIはGPT-5.6モデルの価格性能を改善し、AI利用のコスト効率を向上させました。また、AWSはAmazon Bedrock上でOpenAIモデルのプロンプトキャッシュ機能やプロンプト最適化ツールを提供し、開発者のAI活用を効率化しています。Microsoft ResearchはAIエージェントの訓練環境Echoverseを発表するなど、大手各社が実用的なAI技術の進化を推進しています。
 
-- [News][🟢一次] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark — https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
-- [News][🟢一次] We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control — https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control
-- [News][🟢一次] Accelerating scientific discovery with ChatGPT for Academic Researchers — https://openai.com/index/chatgpt-for-academic-researchers
-- [News][🟢一次] Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity — https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity
-- [News][🟢一次] Generate Autonomous Business Insights with AI Agent and MCP Servers — https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers
-- [News][🟢一次] Automating customer retention workflows in Amazon Quick — https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick
-- [News][🟢一次] How GPT-5.6 fuses frontier intelligence with frontier efficiency — https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
-- [News][🟢一次] How AgentCore Gateway supports the MCP 2026-07-28 spec — https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec
-- [News][🟡二次] Mark Zuckerberg predicts that billions of people will have personal AI agents in five years — https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years
-- [News][🟡二次] Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag — https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag
+- [News][🟢一次] OpenAI、GPT-5.6の価格性能を改善 — https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
+- [News][🟢一次] MicrosoftがAIエージェント訓練環境Echoverseを発表 — https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents
+- [News][🟢一次] AWS BedrockでGPT-5.6のプロンプトキャッシュ — https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock
+- [News][🟢一次] AWS Bedrockでプロンプト最適化機能 — https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock
+- [News][🟢一次] Google DeepMindがGemini Robotics ER 2発表 — https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
+- [News][🟢一次] YahooがAmazon Bedrockで検索リターゲティング強化 — https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock
+- [News][🟢一次] AWSでKimi K3モデルのデプロイ方法を解説 — https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws
+- [News][🟢一次] Hugging FaceがGPU管理の重要性を強調 — https://huggingface.co/blog/Dharma-AI/gpu-management
+- [News][🟢一次] Googleが自律研究フレームワークScience One発表 — https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence
+- [News][🟢一次] SageMaker AIエンドポイントの監視システム — https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick
 
-全文: [`news/2026-07-30.md`](news/2026-07-30.md)
+全文: [`news/2026-07-31.md`](news/2026-07-31.md)
 <!--/LATEST-->
 
 ---
