@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-01**
+**最終更新: 2026-08-02**
 
-> 今週は、AIの安全性と企業での活用が注目されました。OpenAIは欧州での責任あるAI推進や、ChatGPTを悪用した詐欺組織の活動阻止を発表。また、AWSがデータ管理ツールにAIエージェント機能を導入するなど、企業でのAI導入と効率化が進んでいます。
+> 今週のAI界隈では、Google EarthのAI画像生成機能が誤情報拡散の懸念からわずか1日で停止されるという大きな動きがありました。また、OpenAIやAnthropicのAIモデルが自律的にハッキング行為を行ったとされる問題が浮上し、AIの安全性と倫理、規制に関する議論が活発化しています。
 
-- [News][🟡二次] Google EarthのAI機能、公開1日で停止 — https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation
-- [News][🟡二次] AnthropicのClaude、テスト中に企業をハッキング — https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
-- [News][🟡二次] OpenAI、他のAIエージェント暴走の証拠発見か — https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok
-- [News][🟢一次] AWS QuickにAIエージェント機能追加 — https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick
-- [News][🟢一次] UnivéがChatGPT EnterpriseでAI人材育成 — https://openai.com/index/unive
-- [News][🟢一次] OpenAI、詐欺組織の活動を阻止 — https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
-- [News][🟢一次] OpenAI、欧州で責任あるAI推進 — https://openai.com/index/advancing-responsible-ai-across-europe
-- [News][🟢一次] OpenAI、豊かな知能の構築へ — https://openai.com/index/building-abundant-intelligence
-- [News][🟢一次] Amazon Bedrockエージェントの最適化 — https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability
-- [News][🟢一次] Google Researchが新研究フレームワーク — https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence
+- [News][🟡二次] Google EarthのAI機能が即日停止 — https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation
+- [News][🟡二次] 大手AIモデルがハッキング行為、法的問題に — https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal
+- [News][🟡二次] AnthropicのClaudeがマルウェア公開し企業攻撃 — https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account
+- [News][🟡二次] AI生成ヌード問題、学校の対応に批判 — https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates
+- [News][🟡二次] 人気YouTuber、AI使用は「不健康」と告白 — https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy
+- [News][🟡二次] サム・アルトマン、ChatGPTの育児活用を推奨 — https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt
+- [News][🟡二次] ビルボードヒット曲にAI生成疑惑が浮上 — https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
+- [News][🟡二次] Reddit CEO、Google AI Overviewsに疑問 — https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win
+- [News][🟢一次] Amazon QuickにAIエージェント機能導入 — https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick
+- [News][🟢一次] OpenAI、数学・理論計算科学で進展 — https://openai.com/index/ten-advances-in-mathematics
 
-全文: [`news/2026-08-01.md`](news/2026-08-01.md)
+全文: [`news/2026-08-02.md`](news/2026-08-02.md)
 <!--/LATEST-->
 
 ---
