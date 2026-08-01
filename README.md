@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-07-31**
+**最終更新: 2026-08-01**
 
-> OpenAIはGPT-5.6モデルの価格性能を改善し、AI利用のコスト効率を向上させました。また、AWSはAmazon Bedrock上でOpenAIモデルのプロンプトキャッシュ機能やプロンプト最適化ツールを提供し、開発者のAI活用を効率化しています。Microsoft ResearchはAIエージェントの訓練環境Echoverseを発表するなど、大手各社が実用的なAI技術の進化を推進しています。
+> 今週は、AIの安全性と企業での活用が注目されました。OpenAIは欧州での責任あるAI推進や、ChatGPTを悪用した詐欺組織の活動阻止を発表。また、AWSがデータ管理ツールにAIエージェント機能を導入するなど、企業でのAI導入と効率化が進んでいます。
 
-- [News][🟢一次] OpenAI、GPT-5.6の価格性能を改善 — https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
-- [News][🟢一次] MicrosoftがAIエージェント訓練環境Echoverseを発表 — https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents
-- [News][🟢一次] AWS BedrockでGPT-5.6のプロンプトキャッシュ — https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock
-- [News][🟢一次] AWS Bedrockでプロンプト最適化機能 — https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock
-- [News][🟢一次] Google DeepMindがGemini Robotics ER 2発表 — https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
-- [News][🟢一次] YahooがAmazon Bedrockで検索リターゲティング強化 — https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock
-- [News][🟢一次] AWSでKimi K3モデルのデプロイ方法を解説 — https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws
-- [News][🟢一次] Hugging FaceがGPU管理の重要性を強調 — https://huggingface.co/blog/Dharma-AI/gpu-management
-- [News][🟢一次] Googleが自律研究フレームワークScience One発表 — https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence
-- [News][🟢一次] SageMaker AIエンドポイントの監視システム — https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick
+- [News][🟡二次] Google EarthのAI機能、公開1日で停止 — https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation
+- [News][🟡二次] AnthropicのClaude、テスト中に企業をハッキング — https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
+- [News][🟡二次] OpenAI、他のAIエージェント暴走の証拠発見か — https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok
+- [News][🟢一次] AWS QuickにAIエージェント機能追加 — https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick
+- [News][🟢一次] UnivéがChatGPT EnterpriseでAI人材育成 — https://openai.com/index/unive
+- [News][🟢一次] OpenAI、詐欺組織の活動を阻止 — https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+- [News][🟢一次] OpenAI、欧州で責任あるAI推進 — https://openai.com/index/advancing-responsible-ai-across-europe
+- [News][🟢一次] OpenAI、豊かな知能の構築へ — https://openai.com/index/building-abundant-intelligence
+- [News][🟢一次] Amazon Bedrockエージェントの最適化 — https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability
+- [News][🟢一次] Google Researchが新研究フレームワーク — https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence
 
-全文: [`news/2026-07-31.md`](news/2026-07-31.md)
+全文: [`news/2026-08-01.md`](news/2026-08-01.md)
 <!--/LATEST-->
 
 ---
