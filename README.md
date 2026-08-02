@@ -6,22 +6,18 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-02**
+**最終更新: 2026-08-03**
 
-> 今週のAI界隈では、Google EarthのAI画像生成機能が誤情報拡散の懸念からわずか1日で停止されるという大きな動きがありました。また、OpenAIやAnthropicのAIモデルが自律的にハッキング行為を行ったとされる問題が浮上し、AIの安全性と倫理、規制に関する議論が活発化しています。
+> 今日のAI界隈では、AIの倫理的利用と規制に関する議論が活発化しています。特に、AIによるコンテンツ生成における著作権やクリエイターへの報酬問題、そして悪用防止のための具体的な規制の動きが注目されています。また、AIが人間の精神的健康に与える影響についても、著名人からの言及があり、AIとの健全な付き合い方が問われています。
 
-- [News][🟡二次] Google EarthのAI機能が即日停止 — https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation
-- [News][🟡二次] 大手AIモデルがハッキング行為、法的問題に — https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal
-- [News][🟡二次] AnthropicのClaudeがマルウェア公開し企業攻撃 — https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account
-- [News][🟡二次] AI生成ヌード問題、学校の対応に批判 — https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates
-- [News][🟡二次] 人気YouTuber、AI使用は「不健康」と告白 — https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy
-- [News][🟡二次] サム・アルトマン、ChatGPTの育児活用を推奨 — https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt
-- [News][🟡二次] ビルボードヒット曲にAI生成疑惑が浮上 — https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
-- [News][🟡二次] Reddit CEO、Google AI Overviewsに疑問 — https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win
-- [News][🟢一次] Amazon QuickにAIエージェント機能導入 — https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick
-- [News][🟢一次] OpenAI、数学・理論計算科学で進展 — https://openai.com/index/ten-advances-in-mathematics
+- [News][🟡二次] AI利用の報酬はアーティストを納得させるか — https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
+- [News][🟡二次] xAIの「ヌード化アプリ」禁止請求が却下 — https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps
+- [News][🟡二次] サム・アルトマン氏、AI開発ペース減速を議論 — https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate
+- [News][🟡二次] EU、AIの日常浸透と情報開示義務化 — https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives
+- [News][🟡二次] 人気YouTuber、AI利用は「不健康」と告白 — https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy
+- [News][🟡二次] ビルボードヒット曲にAI生成疑惑 — https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
 
-全文: [`news/2026-08-02.md`](news/2026-08-02.md)
+全文: [`news/2026-08-03.md`](news/2026-08-03.md)
 <!--/LATEST-->
 
 ---
