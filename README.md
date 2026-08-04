@@ -6,18 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-03**
+**最終更新: 2026-08-04**
 
-> 今日のAI界隈では、AIの倫理的利用と規制に関する議論が活発化しています。特に、AIによるコンテンツ生成における著作権やクリエイターへの報酬問題、そして悪用防止のための具体的な規制の動きが注目されています。また、AIが人間の精神的健康に与える影響についても、著名人からの言及があり、AIとの健全な付き合い方が問われています。
+> OpenAIがリアルタイム音声AIシステムを発表し、より自然なAI対話の可能性が広がっています。また、エージェントAIの活用が加速しており、F1がAWS上でデータ運用を大幅に効率化。Microsoft ResearchもエージェントAIのオープンフレームワークを公開し、開発コミュニティを支援しています。
 
-- [News][🟡二次] AI利用の報酬はアーティストを納得させるか — https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
-- [News][🟡二次] xAIの「ヌード化アプリ」禁止請求が却下 — https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps
-- [News][🟡二次] サム・アルトマン氏、AI開発ペース減速を議論 — https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate
-- [News][🟡二次] EU、AIの日常浸透と情報開示義務化 — https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives
-- [News][🟡二次] 人気YouTuber、AI利用は「不健康」と告白 — https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy
-- [News][🟡二次] ビルボードヒット曲にAI生成疑惑 — https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
+- [News][🟢一次] OpenAIがリアルタイム音声AIシステムを発表 — https://openai.com/index/continuous-voice-interaction-with-gpt-live
+- [Newsletter][🟡二次] Anthropic/Google/Alibabaが新モデル発表 — https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36
+- [News][🟡二次] AppleがSiriを大幅改善、しかし期待外れ？ — https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic
+- [News][🟢一次] F1がAWSでエージェントAI活用、データ運用加速 — https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations
+- [News][🟢一次] MSがエージェントAI向けオープンフレームワーク公開 — https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai
+- [News][🟡二次] OpenAIの豪華インフルエンサートリップに批判 — https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip
+- [News][🟡二次] 米議会でChatGPTが最も使われるAIツールに — https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt
+- [News][🟡二次] AI監視の遠隔試験で大規模な再試験が発生 — https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it
+- [News][🟢一次] Amazon Bedrockでポリシー自動改善機能が追加 — https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock
+- [News][🟢一次] マルチモーダルLLMのアライメントに関する研究 — https://machinelearning.apple.com/research/alignment-multimodal-llms
 
-全文: [`news/2026-08-03.md`](news/2026-08-03.md)
+全文: [`news/2026-08-04.md`](news/2026-08-04.md)
 <!--/LATEST-->
 
 ---
