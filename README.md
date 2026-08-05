@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-04**
+**最終更新: 2026-08-05**
 
-> OpenAIがリアルタイム音声AIシステムを発表し、より自然なAI対話の可能性が広がっています。また、エージェントAIの活用が加速しており、F1がAWS上でデータ運用を大幅に効率化。Microsoft ResearchもエージェントAIのオープンフレームワークを公開し、開発コミュニティを支援しています。
+> 本日のAIニュースを20件掲載（一次10件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] OpenAIがリアルタイム音声AIシステムを発表 — https://openai.com/index/continuous-voice-interaction-with-gpt-live
-- [Newsletter][🟡二次] Anthropic/Google/Alibabaが新モデル発表 — https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36
-- [News][🟡二次] AppleがSiriを大幅改善、しかし期待外れ？ — https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic
-- [News][🟢一次] F1がAWSでエージェントAI活用、データ運用加速 — https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations
-- [News][🟢一次] MSがエージェントAI向けオープンフレームワーク公開 — https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai
-- [News][🟡二次] OpenAIの豪華インフルエンサートリップに批判 — https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip
-- [News][🟡二次] 米議会でChatGPTが最も使われるAIツールに — https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt
-- [News][🟡二次] AI監視の遠隔試験で大規模な再試験が発生 — https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it
-- [News][🟢一次] Amazon Bedrockでポリシー自動改善機能が追加 — https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock
-- [News][🟢一次] マルチモーダルLLMのアライメントに関する研究 — https://machinelearning.apple.com/research/alignment-multimodal-llms
+- [News][🟢一次] Third-party cyber evaluations involving OpenAI models — https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+- [News][🟢一次] Introducing Web Search on Amazon Bedrock for foundation model grounding — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding
+- [News][🟢一次] The latest AI news we announced in July 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
+- [News][🟢一次] Automated web insight extraction with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore
+- [News][🟢一次] NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US — https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program
+- [News][🟢一次] Deploy local agents everywhere with LFM2.5-2.6B — https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
+- [News][🟢一次] As AI Increases Demands on Memory, Storage Steps Up — https://blogs.nvidia.com/blog/ai-storage-fms
+- [News][🟢一次] AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency — https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions
+- [News][🟢一次] New ways to learn and teach with ChatGPT Work and Codex — https://openai.com/index/learn-teach-chatgpt-work-codex
+- [News][🟢一次] Apple is getting this wrong — https://openai.com/index/apple-is-getting-this-wrong
 
-全文: [`news/2026-08-04.md`](news/2026-08-04.md)
+全文: [`news/2026-08-05.md`](news/2026-08-05.md)
 <!--/LATEST-->
 
 ---
