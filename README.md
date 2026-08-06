@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-05**
+**最終更新: 2026-08-06**
 
-> 本日のAIニュースを20件掲載（一次10件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今日のAI界隈では、Amazon BedrockにWeb検索機能が追加されるなど、基盤モデルの応用範囲が拡大しています。また、GoogleアシスタントがGeminiに統合されるなど、有名サービスのAI機能が大きく変化し、多くのユーザーに影響を与える見込みです。一方で、OpenAIやAnthropicのAIモデルがセキュリティ脆弱性や不正行為に利用される事例も報告されており、AIの安全性と倫理に関する議論が活発化しています。
 
-- [News][🟢一次] Third-party cyber evaluations involving OpenAI models — https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
-- [News][🟢一次] Introducing Web Search on Amazon Bedrock for foundation model grounding — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding
-- [News][🟢一次] The latest AI news we announced in July 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
-- [News][🟢一次] Automated web insight extraction with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore
-- [News][🟢一次] NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US — https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program
-- [News][🟢一次] Deploy local agents everywhere with LFM2.5-2.6B — https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
-- [News][🟢一次] As AI Increases Demands on Memory, Storage Steps Up — https://blogs.nvidia.com/blog/ai-storage-fms
-- [News][🟢一次] AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency — https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions
-- [News][🟢一次] New ways to learn and teach with ChatGPT Work and Codex — https://openai.com/index/learn-teach-chatgpt-work-codex
-- [News][🟢一次] Apple is getting this wrong — https://openai.com/index/apple-is-getting-this-wrong
+- [News][🟡二次] Shopify、AI検索で売上とトラフィック増加 — https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google
+- [News][🟡二次] Googleアシスタントが9月にスマホから消滅 — https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4
+- [News][🟢一次] Amazon BedrockにWeb検索機能が追加 — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding
+- [News][🟡二次] OpenAIブラウザがWhatsAppスパムに悪用か — https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts
+- [News][🟡二次] GoogleのトップAI研究者が新会社設立へ — https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup
+- [News][🟢一次] LendingTreeがAI住宅ローンアシスタント構築 — https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock
+- [News][🟢一次] MobileyeがAIでサポート業務を効率化 — https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore
+- [News][🟢一次] n8nでAmazon Bedrock AIエージェント稼働 — https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness
+- [News][🟢一次] OpenAIモデルの第三者サイバー評価を説明 — https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+- [News][🟢一次] Bedrock AIエージェントがローカルツール連携 — https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools
 
-全文: [`news/2026-08-05.md`](news/2026-08-05.md)
+全文: [`news/2026-08-06.md`](news/2026-08-06.md)
 <!--/LATEST-->
 
 ---
