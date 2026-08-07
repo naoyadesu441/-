@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-06**
+**最終更新: 2026-08-07**
 
-> 今日のAI界隈では、Amazon BedrockにWeb検索機能が追加されるなど、基盤モデルの応用範囲が拡大しています。また、GoogleアシスタントがGeminiに統合されるなど、有名サービスのAI機能が大きく変化し、多くのユーザーに影響を与える見込みです。一方で、OpenAIやAnthropicのAIモデルがセキュリティ脆弱性や不正行為に利用される事例も報告されており、AIの安全性と倫理に関する議論が活発化しています。
+> OpenAIがChatGPTの無料ユーザー向けに新モデル「GPT-5.6 Luna」の提供を開始し、より多くのユーザーが最新AIを体験できるようになります。また、ChatGPTの具体的な活用事例に関する公式データも公開され、AIの仕事への応用が注目されています。AWSからは非技術者でもAIエージェントを活用してWebアプリを構築できるツールが発表され、AIによる業務効率化の可能性が広がっています。
 
-- [News][🟡二次] Shopify、AI検索で売上とトラフィック増加 — https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google
-- [News][🟡二次] Googleアシスタントが9月にスマホから消滅 — https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4
-- [News][🟢一次] Amazon BedrockにWeb検索機能が追加 — https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding
-- [News][🟡二次] OpenAIブラウザがWhatsAppスパムに悪用か — https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts
-- [News][🟡二次] GoogleのトップAI研究者が新会社設立へ — https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup
-- [News][🟢一次] LendingTreeがAI住宅ローンアシスタント構築 — https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock
-- [News][🟢一次] MobileyeがAIでサポート業務を効率化 — https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore
-- [News][🟢一次] n8nでAmazon Bedrock AIエージェント稼働 — https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness
-- [News][🟢一次] OpenAIモデルの第三者サイバー評価を説明 — https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
-- [News][🟢一次] Bedrock AIエージェントがローカルツール連携 — https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools
+- [News][🟢一次] ChatGPT無料版に新モデルGPT-5.6 Luna — https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+- [News][🟢一次] ChatGPTの活用事例と世界の利用動向 — https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
+- [News][🟢一次] AWS、非技術者向けAIアプリ構築ツール — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda
+- [Paper][🟢一次] 生成AIで構造化情報抽出、業務効率化へ — https://arxiv.org/abs/2608.06167v1
+- [News][🟢一次] OpenAI、若者のメンタルヘルスとAIで連携 — https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
+- [Paper][🟢一次] LLMのパーソナル共著、トレーニング不要で実現 — https://arxiv.org/abs/2608.06069v1
+- [News][🟢一次] Google DeepMind、AIでサイクロン予測 — https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones
+- [News][🟢一次] AWS BedrockでAIエージェントの安全強化 — https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore
+- [News][🟢一次] AWS BedrockでAIトラフィック制限設定 — https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway
+- [News][🟢一次] AWS Bedrock、AIエージェントの行動と費用を制御 — https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore
 
-全文: [`news/2026-08-06.md`](news/2026-08-06.md)
+全文: [`news/2026-08-07.md`](news/2026-08-07.md)
 <!--/LATEST-->
 
 ---
