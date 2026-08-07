@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-07**
+**最終更新: 2026-08-08**
 
-> OpenAIがChatGPTの無料ユーザー向けに新モデル「GPT-5.6 Luna」の提供を開始し、より多くのユーザーが最新AIを体験できるようになります。また、ChatGPTの具体的な活用事例に関する公式データも公開され、AIの仕事への応用が注目されています。AWSからは非技術者でもAIエージェントを活用してWebアプリを構築できるツールが発表され、AIによる業務効率化の可能性が広がっています。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] ChatGPT無料版に新モデルGPT-5.6 Luna — https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
-- [News][🟢一次] ChatGPTの活用事例と世界の利用動向 — https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
-- [News][🟢一次] AWS、非技術者向けAIアプリ構築ツール — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda
-- [Paper][🟢一次] 生成AIで構造化情報抽出、業務効率化へ — https://arxiv.org/abs/2608.06167v1
-- [News][🟢一次] OpenAI、若者のメンタルヘルスとAIで連携 — https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
-- [Paper][🟢一次] LLMのパーソナル共著、トレーニング不要で実現 — https://arxiv.org/abs/2608.06069v1
-- [News][🟢一次] Google DeepMind、AIでサイクロン予測 — https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones
-- [News][🟢一次] AWS BedrockでAIエージェントの安全強化 — https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore
-- [News][🟢一次] AWS BedrockでAIトラフィック制限設定 — https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway
-- [News][🟢一次] AWS Bedrock、AIエージェントの行動と費用を制御 — https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore
+- [News][🟢一次] Responding to the next frontier of critical cyber capabilities — https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+- [News][🟢一次] TutorMoments: Do AI tutors know when to help and when to hold back? — https://huggingface.co/blog/allenai/tutormoments
+- [News][🟢一次] How HSP GRUPPE builds AI capabilities for tax advisory — https://openai.com/index/hsp-gruppe
+- [News][🟢一次] How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore
+- [News][🟢一次] How TReNDS automates root-cause analysis with Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock
+- [News][🟢一次] Determining playoff clinching scenarios in the NHL using constraint programming — https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming
+- [News][🟢一次] Scaling Categorical Flow Maps — https://machinelearning.apple.com/research/scaling-categorical-flow-maps
+- [News][🟢一次] Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models — https://machinelearning.apple.com/research/diffusion-autoregressive-performance
+- [News][🟢一次] Arbitrage: Efficient Reasoning via Advantage-Aware Speculation — https://machinelearning.apple.com/research/arbitrage-efficient-reasoning
+- [News][🟢一次] Securing AI agents with temporal policies in Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore
 
-全文: [`news/2026-08-07.md`](news/2026-08-07.md)
+全文: [`news/2026-08-08.md`](news/2026-08-08.md)
 <!--/LATEST-->
 
 ---
