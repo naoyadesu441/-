@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-08**
+**最終更新: 2026-08-09**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今日のAI界隈では、グローバルなAIインフラの構築が進展しており、アルメニアでNVIDIA技術を活用した大規模AI工場が稼働しました。また、AI教育の分野では、AIチューターが学習者に対していつ、どのように介入すべきかに関する研究が進められています。
 
-- [News][🟢一次] Responding to the next frontier of critical cyber capabilities — https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
-- [News][🟢一次] TutorMoments: Do AI tutors know when to help and when to hold back? — https://huggingface.co/blog/allenai/tutormoments
-- [News][🟢一次] How HSP GRUPPE builds AI capabilities for tax advisory — https://openai.com/index/hsp-gruppe
-- [News][🟢一次] How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore
-- [News][🟢一次] How TReNDS automates root-cause analysis with Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock
-- [News][🟢一次] Determining playoff clinching scenarios in the NHL using constraint programming — https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming
-- [News][🟢一次] Scaling Categorical Flow Maps — https://machinelearning.apple.com/research/scaling-categorical-flow-maps
-- [News][🟢一次] Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models — https://machinelearning.apple.com/research/diffusion-autoregressive-performance
-- [News][🟢一次] Arbitrage: Efficient Reasoning via Advantage-Aware Speculation — https://machinelearning.apple.com/research/arbitrage-efficient-reasoning
-- [News][🟢一次] Securing AI agents with temporal policies in Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore
+- [News][🟡二次] OpenAI、強力すぎる新AIモデル開発を一時停止 — https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
+- [News][🟡二次] OpenAIがプレゼン作成AI企業を買収 — https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide
+- [News][🟡二次] GmailやGoogleドキュメントのGeminiを無効化する方法 — https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs
+- [News][🟡二次] AI費用を可視化するROIツールを開発 — https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool
+- [News][🟡二次] OpenAIが「より生きている」スマートスピーカー開発か — https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive
+- [ProductHunt][🟡二次] 全AIエージェントを管理する「Toolport」登場 — https://www.producthunt.com/products/conduit-12
+- [News][🟢一次] CIS地域最大級のAI工場がアルメニアで稼働 — https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx
+- [News][🟢一次] AIチューターの適切な介入時期に関する研究 — https://huggingface.co/blog/allenai/tutormoments
+- [News][🟡二次] DeepMindのハリケーン予測が科学者を驚かす — https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day
+- [News][🟡二次] Amazonのデータセンターが米国最大の汚染源に？ — https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s
 
-全文: [`news/2026-08-08.md`](news/2026-08-08.md)
+全文: [`news/2026-08-09.md`](news/2026-08-09.md)
 <!--/LATEST-->
 
 ---
