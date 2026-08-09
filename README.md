@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-09**
+**最終更新: 2026-08-10**
 
-> 今日のAI界隈では、グローバルなAIインフラの構築が進展しており、アルメニアでNVIDIA技術を活用した大規模AI工場が稼働しました。また、AI教育の分野では、AIチューターが学習者に対していつ、どのように介入すべきかに関する研究が進められています。
+> 本日は、AIを活用した仕事効率化ツールに注目が集まりました。特に、無料で会議を要約できるツールや、ブラウザでユーザーを代行するAIエージェントが登場し、副業や業務改善に直結する実用的な進化が見られます。また、OpenAIがプレゼン作成AI企業を買収し、Claudeのコーディング自動モードがデフォルトになるなど、主要AIサービスの機能強化も進んでいます。
 
-- [News][🟡二次] OpenAI、強力すぎる新AIモデル開発を一時停止 — https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
+- [News][🟡二次] 無料・無制限で会議をAI要約するツール — https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how
+- [News][🟡二次] Claude Code、自動モードがデフォルトに — https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default
+- [News][🟡二次] AI安全テストが新たなリスクに — https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk
 - [News][🟡二次] OpenAIがプレゼン作成AI企業を買収 — https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide
-- [News][🟡二次] GmailやGoogleドキュメントのGeminiを無効化する方法 — https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs
-- [News][🟡二次] AI費用を可視化するROIツールを開発 — https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool
-- [News][🟡二次] OpenAIが「より生きている」スマートスピーカー開発か — https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive
-- [ProductHunt][🟡二次] 全AIエージェントを管理する「Toolport」登場 — https://www.producthunt.com/products/conduit-12
-- [News][🟢一次] CIS地域最大級のAI工場がアルメニアで稼働 — https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx
-- [News][🟢一次] AIチューターの適切な介入時期に関する研究 — https://huggingface.co/blog/allenai/tutormoments
-- [News][🟡二次] DeepMindのハリケーン予測が科学者を驚かす — https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day
-- [News][🟡二次] Amazonのデータセンターが米国最大の汚染源に？ — https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s
+- [ProductHunt][🟡二次] ブラウザであなたを代行するAI「Argos」 — https://www.producthunt.com/products/argos-2
+- [News][🟡二次] AI検出ツールが不信感を生む時代に — https://www.theverge.com/column/976690/ai-writing-detectors-suspicion
+- [News][🟡二次] Amazon新データセンターが最大汚染源に — https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s
+- [ProductHunt][🟡二次] Mac向けAI自動化ツール「Workflo」 — https://www.producthunt.com/products/workflo-2
+- [News][🟡二次] ヘッジファンドがAIチップ企業に4億ドル投資 — https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry
+- [News][🟡二次] AI富豪たちが巨額の富を寄付へ — https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad
 
-全文: [`news/2026-08-09.md`](news/2026-08-09.md)
+全文: [`news/2026-08-10.md`](news/2026-08-10.md)
 <!--/LATEST-->
 
 ---
