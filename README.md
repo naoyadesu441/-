@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-10**
+**最終更新: 2026-08-11**
 
-> 本日は、AIを活用した仕事効率化ツールに注目が集まりました。特に、無料で会議を要約できるツールや、ブラウザでユーザーを代行するAIエージェントが登場し、副業や業務改善に直結する実用的な進化が見られます。また、OpenAIがプレゼン作成AI企業を買収し、Claudeのコーディング自動モードがデフォルトになるなど、主要AIサービスの機能強化も進んでいます。
+> Googleがマーケティング向けAIツールを強化し、OpenAIはChatGPT Businessの機能拡張と企業での活用事例を複数発表しました。Metaからは新たなオープンソースAIモデルが登場し、AIエージェントの進化が注目されます。これらは、副業や業務効率化、SNSマーケティングにAIを導入したいユーザーにとって、具体的な活用機会やツールの進化を示す重要な動きです。
 
-- [News][🟡二次] 無料・無制限で会議をAI要約するツール — https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how
-- [News][🟡二次] Claude Code、自動モードがデフォルトに — https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default
-- [News][🟡二次] AI安全テストが新たなリスクに — https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk
-- [News][🟡二次] OpenAIがプレゼン作成AI企業を買収 — https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide
-- [ProductHunt][🟡二次] ブラウザであなたを代行するAI「Argos」 — https://www.producthunt.com/products/argos-2
-- [News][🟡二次] AI検出ツールが不信感を生む時代に — https://www.theverge.com/column/976690/ai-writing-detectors-suspicion
-- [News][🟡二次] Amazon新データセンターが最大汚染源に — https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s
-- [ProductHunt][🟡二次] Mac向けAI自動化ツール「Workflo」 — https://www.producthunt.com/products/workflo-2
-- [News][🟡二次] ヘッジファンドがAIチップ企業に4億ドル投資 — https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry
-- [News][🟡二次] AI富豪たちが巨額の富を寄付へ — https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad
+- [News][🟢一次] Google、AIでマーケティングを強化 — https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
+- [News][🟢一次] ChatGPT Businessにプレミアムシート導入 — https://openai.com/index/premium-seats-chatgpt-business
+- [News][🟢一次] Metaが新AIモデル「Muse Glimmer」発表 — https://huggingface.co/blog/muse-glimmer
+- [News][🟢一次] GPT-5.6 Solで財務業務を効率化 — https://openai.com/index/model-ml
+- [News][🟢一次] ZapierがChatGPT Workでマーケ改革 — https://openai.com/index/zapier
+- [News][🟢一次] Virgin AtlanticがChatGPT Workで顧客体験向上 — https://openai.com/index/virgin-atlantic/chatgpt-work
+- [News][🟢一次] NVIDIA、多言語音声AIエージェント発表 — https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
+- [News][🟢一次] OpenAI CFOが語るAI財務機能の教訓 — https://openai.com/index/building-an-ai-native-finance-function
+- [News][🟢一次] OpenAI、テキサス州にAIインフラ提言 — https://openai.com/index/responsible-ai-infrastructure-texas
+- [News][🟢一次] OpenAI、サイバーセキュリティ特化AI発表 — https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 
-全文: [`news/2026-08-10.md`](news/2026-08-10.md)
+全文: [`news/2026-08-11.md`](news/2026-08-11.md)
 <!--/LATEST-->
 
 ---
