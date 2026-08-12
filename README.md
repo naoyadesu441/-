@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-12**
+**最終更新: 2026-08-13**
 
-> ChatGPTとGeminiが利用者10億人を突破し、AIの普及が加速。OpenAIはChatGPTでの広告テストを開始し、無料ユーザーへの影響が注目されます。また、AIエージェントによるジム予約ハッキングや、AIプロンプトでのZoom脆弱性発見など、AIの能力と倫理的側面に関する具体的な事例が話題です。
+> 今日のAI界隈では、Google Geminiがユーザー数10億人を突破し、新機能も大幅に強化されるなど、主要AIサービスの進化が目立ちます。また、GrokがAIチームメイトとして業務を代行する機能が登場し、AIエージェントによる仕事効率化が現実味を帯びてきました。一方で、TwitchのAI学習へのコンテンツ利用オプトアウトやClaudeのAI透かし機能など、AIとプライバシー・倫理に関する議論も活発化しています。
 
-- [News][🟢一次] ChatGPTが広告テストを開始 — https://openai.com/index/testing-ads-in-chatgpt
-- [News][🟡二次] ChatGPTとGeminiが利用者10億人突破 — https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users
-- [News][🟡二次] AIプロンプト20回未満でZoom脆弱性発見 — https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack
-- [News][🟡二次] Claudeエージェントがジム予約をハッキング — https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym
-- [News][🟢一次] 画像SEOをAIで自動化し採用率35% — https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock
-- [News][🟢一次] NVIDIAが高速・高効率なエージェントAI発表 — https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
-- [News][🟡二次] ChatGPTデスクトップアプリがLinux対応 — https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux
-- [News][🟡二次] iPhone写真のディープフェイク判定機能か — https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata
-- [News][🟢一次] NVIDIAがオープンソースAIとエージェント推進 — https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
-- [News][🟢一次] OpenAIのサイバー防衛モデルがAWSで利用可能に — https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock
+- [News][🟡二次] Google新製品発表、Gemini機能が大幅強化 — https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026
+- [News][🟡二次] ClaudeのAI透かし機能にユーザーから不満の声 — https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes
+- [News][🟡二次] Twitch、AI学習へのコンテンツ利用を拒否可能に — https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai
+- [News][🟡二次] Grokが「AIチームメイト」として業務を代行 — https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch
+- [News][🟡二次] Google Geminiアプリ、ユーザー数10億人突破 — https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users
+- [News][🟢一次] OpenAI、企業向けAIエージェント活用事例を公開 — https://openai.com/index/how-enterprises-put-ai-to-work
+- [News][🟢一次] RingCentralがAI活用で業務効率化を実現 — https://openai.com/index/ringcentral
+- [News][🟡二次] AIスクレイピング対策の新兵器「ShieldFont」 — https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers
+- [News][🟢一次] Google DeepMind、手話AIモデルを発表 — https://deepmind.google/blog/putting-sign-language-ai-into-users-hands
+- [News][🟢一次] OpenAIとAWSがサイバー防御AIモデル提供 — https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock
 
-全文: [`news/2026-08-12.md`](news/2026-08-12.md)
+全文: [`news/2026-08-13.md`](news/2026-08-13.md)
 <!--/LATEST-->
 
 ---
