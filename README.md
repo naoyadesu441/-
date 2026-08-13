@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-13**
+**最終更新: 2026-08-14**
 
-> 今日のAI界隈では、Google Geminiがユーザー数10億人を突破し、新機能も大幅に強化されるなど、主要AIサービスの進化が目立ちます。また、GrokがAIチームメイトとして業務を代行する機能が登場し、AIエージェントによる仕事効率化が現実味を帯びてきました。一方で、TwitchのAI学習へのコンテンツ利用オプトアウトやClaudeのAI透かし機能など、AIとプライバシー・倫理に関する議論も活発化しています。
+> 今日のAIニュースでは、主要なAIモデルとツールの進化が目立ちます。OpenAIはGPT-5.6の「超高速モード」をプレビューし、AIアプリケーションの劇的な速度向上を示唆しました。また、GoogleはGemini 3.7 Flashを発表し、Google SheetsにはAI機能「Sheets canvas」が導入され、Microsoft 365にはAmazon Quickが統合されるなど、日常業務でのAI活用がさらに加速する動きが見られます。
 
-- [News][🟡二次] Google新製品発表、Gemini機能が大幅強化 — https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026
-- [News][🟡二次] ClaudeのAI透かし機能にユーザーから不満の声 — https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes
-- [News][🟡二次] Twitch、AI学習へのコンテンツ利用を拒否可能に — https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai
-- [News][🟡二次] Grokが「AIチームメイト」として業務を代行 — https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch
-- [News][🟡二次] Google Geminiアプリ、ユーザー数10億人突破 — https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users
-- [News][🟢一次] OpenAI、企業向けAIエージェント活用事例を公開 — https://openai.com/index/how-enterprises-put-ai-to-work
-- [News][🟢一次] RingCentralがAI活用で業務効率化を実現 — https://openai.com/index/ringcentral
-- [News][🟡二次] AIスクレイピング対策の新兵器「ShieldFont」 — https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers
-- [News][🟢一次] Google DeepMind、手話AIモデルを発表 — https://deepmind.google/blog/putting-sign-language-ai-into-users-hands
-- [News][🟢一次] OpenAIとAWSがサイバー防御AIモデル提供 — https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock
+- [News][🟢一次] Google SheetsにAI機能「Sheets canvas」が登場 — https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
+- [News][🟢一次] OpenAI、GPT-5.6に「超高速モード」をプレビュー — https://openai.com/index/previewing-ultrafast
+- [News][🟢一次] Amazon QuickがMicrosoft 365に統合、AI活用を加速 — https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work
+- [News][🟢一次] Google DeepMindが「Gemini 3.7 Flash」を発表 — https://deepmind.google/blog/introducing-gemini-3-7-flash
+- [News][🟡二次] Microsoft、Copilotアプリを統合し不要機能廃止 — https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps
+- [News][🟡二次] AI音楽SunoがMIDI対応、プロツールに進化 — https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects
+- [News][🟢一次] OpenAI、GPT-5.6でAIエージェント構築ガイド公開 — https://openai.com/index/builders-guide-to-gpt-5-6
+- [News][🟢一次] AWS BedrockがレガシーWebアプリ自動化ツールを発表 — https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool
+- [News][🟢一次] Hugging Face、エージェント開発を統合環境で支援 — https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+- [News][🟢一次] AWS Bedrockのコスト分析ツールが強化 — https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos
 
-全文: [`news/2026-08-13.md`](news/2026-08-13.md)
+全文: [`news/2026-08-14.md`](news/2026-08-14.md)
 <!--/LATEST-->
 
 ---
