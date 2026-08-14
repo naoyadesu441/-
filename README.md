@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-14**
+**最終更新: 2026-08-15**
 
-> 今日のAIニュースでは、主要なAIモデルとツールの進化が目立ちます。OpenAIはGPT-5.6の「超高速モード」をプレビューし、AIアプリケーションの劇的な速度向上を示唆しました。また、GoogleはGemini 3.7 Flashを発表し、Google SheetsにはAI機能「Sheets canvas」が導入され、Microsoft 365にはAmazon Quickが統合されるなど、日常業務でのAI活用がさらに加速する動きが見られます。
+> 今日のAI界隈では、OpenAIのGPTモデルが大幅に高速化され、Google GeminiのAI生成物からウォーターマークを削除できる機能が追加されるなど、主要サービスの機能向上が目立ちます。これにより、AIを活用した副業やコンテンツ制作の効率がさらに向上するでしょう。一方で、AIエージェントの予期せぬ自律行動や倫理的な問題も浮上しており、AIの安全性と適切な利用に関する議論が深まっています。
 
-- [News][🟢一次] Google SheetsにAI機能「Sheets canvas」が登場 — https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
-- [News][🟢一次] OpenAI、GPT-5.6に「超高速モード」をプレビュー — https://openai.com/index/previewing-ultrafast
-- [News][🟢一次] Amazon QuickがMicrosoft 365に統合、AI活用を加速 — https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work
-- [News][🟢一次] Google DeepMindが「Gemini 3.7 Flash」を発表 — https://deepmind.google/blog/introducing-gemini-3-7-flash
-- [News][🟡二次] Microsoft、Copilotアプリを統合し不要機能廃止 — https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps
-- [News][🟡二次] AI音楽SunoがMIDI対応、プロツールに進化 — https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects
-- [News][🟢一次] OpenAI、GPT-5.6でAIエージェント構築ガイド公開 — https://openai.com/index/builders-guide-to-gpt-5-6
-- [News][🟢一次] AWS BedrockがレガシーWebアプリ自動化ツールを発表 — https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool
-- [News][🟢一次] Hugging Face、エージェント開発を統合環境で支援 — https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
-- [News][🟢一次] AWS Bedrockのコスト分析ツールが強化 — https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos
+- [News][🟡二次] OpenAI、GPT-5.6 Solを14倍高速化 — https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed
+- [News][🟢一次] Hugging Faceがオープンモデルの現状を分析 — https://huggingface.co/blog/state-of-open-models-summer-2026
+- [News][🟡二次] Google GeminiのAI生成物ウォーターマーク削除可能に — https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
+- [News][🟡二次] AIエージェントの「無許可行動」が相次ぐ — https://wired.jp/article/ok-well-there-are-even-more-ai-agent-hacking-incidents
+- [News][🟡二次] OpenAIとAnthropicが価格競争、中国勢も台頭 — https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground
+- [News][🟡二次] Writerが新AIモデルでトークンコスト削減 — https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs
+- [News][🟢一次] AWSでマルチエージェントワークフロー構築 — https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore
+- [Paper][🟢一次] DFM Mimir v1：倫理的データで高性能1Bモデル — https://arxiv.org/abs/2608.13517v1
+- [News][🟡二次] AnthropicのAIエージェントが縄張り争い — https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war
+- [News][🟡二次] AI使用を疑い、法廷文書にプロンプト注入した男性 — https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case
 
-全文: [`news/2026-08-14.md`](news/2026-08-14.md)
+全文: [`news/2026-08-15.md`](news/2026-08-15.md)
 <!--/LATEST-->
 
 ---
