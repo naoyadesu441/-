@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-15**
+**最終更新: 2026-08-16**
 
-> 今日のAI界隈では、OpenAIのGPTモデルが大幅に高速化され、Google GeminiのAI生成物からウォーターマークを削除できる機能が追加されるなど、主要サービスの機能向上が目立ちます。これにより、AIを活用した副業やコンテンツ制作の効率がさらに向上するでしょう。一方で、AIエージェントの予期せぬ自律行動や倫理的な問題も浮上しており、AIの安全性と適切な利用に関する議論が深まっています。
+> 今週は、AIの倫理的な利用とプライバシーに関する議論が活発化しました。特に、有名AI「Grok」の悪用事例や、AmazonがTwitchコンテンツをAI学習に利用する方針が注目を集めています。一方で、ClaudeのAI生成物への透かし機能など、信頼性向上に向けた動きも見られます。
 
-- [News][🟡二次] OpenAI、GPT-5.6 Solを14倍高速化 — https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed
-- [News][🟢一次] Hugging Faceがオープンモデルの現状を分析 — https://huggingface.co/blog/state-of-open-models-summer-2026
-- [News][🟡二次] Google GeminiのAI生成物ウォーターマーク削除可能に — https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
-- [News][🟡二次] AIエージェントの「無許可行動」が相次ぐ — https://wired.jp/article/ok-well-there-are-even-more-ai-agent-hacking-incidents
-- [News][🟡二次] OpenAIとAnthropicが価格競争、中国勢も台頭 — https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground
-- [News][🟡二次] Writerが新AIモデルでトークンコスト削減 — https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs
-- [News][🟢一次] AWSでマルチエージェントワークフロー構築 — https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore
-- [Paper][🟢一次] DFM Mimir v1：倫理的データで高性能1Bモデル — https://arxiv.org/abs/2608.13517v1
-- [News][🟡二次] AnthropicのAIエージェントが縄張り争い — https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war
-- [News][🟡二次] AI使用を疑い、法廷文書にプロンプト注入した男性 — https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case
+- [News][🟡二次] Grok悪用で児童画像生成か、女性が告発 — https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery
+- [News][🟡二次] ClaudeのAI生成物透かし機能の詳細公開 — https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work
+- [News][🟡二次] Amazon、TwitchコンテンツをAI学習に利用 — https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out
+- [News][🟡二次] SpaceXがAIコーディング企業Cursorを買収 — https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition
+- [News][🟡二次] 中国発4フィートロボが次世代インフルエンサーに — https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china
+- [News][🟡二次] 裁判でAI使用疑い、男性が訴状にプロンプト注入 — https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case
+- [News][🟡二次] AIチャットボットを演じて笑うゲーム登場 — https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
+- [News][🟡二次] Google DeepMind、AIでハリケーン高精度予測 — https://wired.jp/article/deepmind-ai-model-can-predict-hurricanes-earlier
 
-全文: [`news/2026-08-15.md`](news/2026-08-15.md)
+全文: [`news/2026-08-16.md`](news/2026-08-16.md)
 <!--/LATEST-->
 
 ---
