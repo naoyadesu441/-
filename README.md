@@ -6,20 +6,17 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-16**
+**最終更新: 2026-08-17**
 
-> 今週は、AIの倫理的な利用とプライバシーに関する議論が活発化しました。特に、有名AI「Grok」の悪用事例や、AmazonがTwitchコンテンツをAI学習に利用する方針が注目を集めています。一方で、ClaudeのAI生成物への透かし機能など、信頼性向上に向けた動きも見られます。
+> ChatGPTのデスクトップアプリにユーザーの操作履歴を学習する新機能が追加され、利便性向上とプライバシーへの影響が注目されています。また、AnthropicのClaudeはAI生成コンテンツに透かしを導入する詳細を発表し、コンテンツの信頼性確保に貢献します。一方で、StripeによるAIゲートウェイ企業OpenRouterの買収や、Grokの悪用事例によるAI倫理問題も報じられ、AIの進化と課題が浮き彫りになっています。
 
-- [News][🟡二次] Grok悪用で児童画像生成か、女性が告発 — https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery
-- [News][🟡二次] ClaudeのAI生成物透かし機能の詳細公開 — https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work
-- [News][🟡二次] Amazon、TwitchコンテンツをAI学習に利用 — https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out
-- [News][🟡二次] SpaceXがAIコーディング企業Cursorを買収 — https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition
-- [News][🟡二次] 中国発4フィートロボが次世代インフルエンサーに — https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china
-- [News][🟡二次] 裁判でAI使用疑い、男性が訴状にプロンプト注入 — https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case
-- [News][🟡二次] AIチャットボットを演じて笑うゲーム登場 — https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
-- [News][🟡二次] Google DeepMind、AIでハリケーン高精度予測 — https://wired.jp/article/deepmind-ai-model-can-predict-hurricanes-earlier
+- [News][🟡二次] ChatGPTデスクトップ版、操作履歴を学習データに — https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
+- [News][🟡二次] StripeがAIゲートウェイ企業OpenRouterを買収か — https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
+- [News][🟡二次] Grok悪用、児童写真が性的画像に加工される事例 — https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery
+- [News][🟡二次] Claude、AI生成コンテンツに透かし導入へ詳細発表 — https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work
+- [News][🟡二次] オープンウェイトAIに追い風、Mistralが台頭 — https://wired.jp/article/mistral-is-in-the-right-place-at-the-right-time
 
-全文: [`news/2026-08-16.md`](news/2026-08-16.md)
+全文: [`news/2026-08-17.md`](news/2026-08-17.md)
 <!--/LATEST-->
 
 ---
