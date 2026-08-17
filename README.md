@@ -6,17 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-17**
+**最終更新: 2026-08-18**
 
-> ChatGPTのデスクトップアプリにユーザーの操作履歴を学習する新機能が追加され、利便性向上とプライバシーへの影響が注目されています。また、AnthropicのClaudeはAI生成コンテンツに透かしを導入する詳細を発表し、コンテンツの信頼性確保に貢献します。一方で、StripeによるAIゲートウェイ企業OpenRouterの買収や、Grokの悪用事例によるAI倫理問題も報じられ、AIの進化と課題が浮き彫りになっています。
+> 今日のAI界隈では、NVIDIAの高性能AIモデル「Nemotron 3.5 Lightning」がAWS SageMakerで利用可能になり、AIエージェントの処理効率が大幅に向上しました。また、AWS Bedrock AgentCoreではAIエージェントに決済機能が追加され、自律的なビジネス応用への道が開かれています。さらに、NVIDIAはOpenAIと連携し、AI計算専用のデータセンターを設立するなど、AIインフラへの大規模投資が活発化しており、今後のAI技術の発展を支える基盤が強化されています。
 
-- [News][🟡二次] ChatGPTデスクトップ版、操作履歴を学習データに — https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
-- [News][🟡二次] StripeがAIゲートウェイ企業OpenRouterを買収か — https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
-- [News][🟡二次] Grok悪用、児童写真が性的画像に加工される事例 — https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery
-- [News][🟡二次] Claude、AI生成コンテンツに透かし導入へ詳細発表 — https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work
-- [News][🟡二次] オープンウェイトAIに追い風、Mistralが台頭 — https://wired.jp/article/mistral-is-in-the-right-place-at-the-right-time
+- [News][🟡二次] Claude、生成テキストに「見えない透かし」導入へ — https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system
+- [News][🟡二次] AI自動化Relayが閉鎖、Google Chromeチームに合流 — https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team
+- [News][🟡二次] StripeがAIゲートウェイOpenRouterを70億ドル超で買収か — https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
+- [News][🟢一次] NVIDIA Nemotron 3.5 LightningがSageMakerで利用可能に — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart
+- [News][🟢一次] Bedrock AgentCoreでAIエージェントに決済機能を追加 — https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments
+- [News][🟡二次] Amazonが希少本を破棄しAI学習に利用か — https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models
+- [News][🟡二次] Wisprが2.8億ドル調達、AI議事録ツールなど新分野へ — https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation
+- [News][🟡二次] OpenAIがAIリスク評価チームを解散か — https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
+- [ProductHunt][🟡二次] AIエージェント向けWeb操作レイヤー「TinyFish」登場 — https://www.producthunt.com/products/tinyfish-2
+- [News][🟡二次] Groqが3.5億ドル調達、AIチップからネオクラウドへ転換 — https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud
 
-全文: [`news/2026-08-17.md`](news/2026-08-17.md)
+全文: [`news/2026-08-18.md`](news/2026-08-18.md)
 <!--/LATEST-->
 
 ---
