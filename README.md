@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-18**
+**最終更新: 2026-08-19**
 
-> 今日のAI界隈では、NVIDIAの高性能AIモデル「Nemotron 3.5 Lightning」がAWS SageMakerで利用可能になり、AIエージェントの処理効率が大幅に向上しました。また、AWS Bedrock AgentCoreではAIエージェントに決済機能が追加され、自律的なビジネス応用への道が開かれています。さらに、NVIDIAはOpenAIと連携し、AI計算専用のデータセンターを設立するなど、AIインフラへの大規模投資が活発化しており、今後のAI技術の発展を支える基盤が強化されています。
+> 今日のAI界隈では、OpenAIがChatGPTのティーン向けモードを導入し、若年層の安全なAI利用と学習を支援する動きが注目されます。また、NVIDIAやAsanaといった大手企業がChatGPT WorkやCodexを活用し、業務効率を劇的に向上させた事例が相次いで発表されており、AIによる生産性向上の可能性が改めて示されました。AIエージェントの自律決済機能の一般提供開始など、ビジネスへのAI応用も進んでいます。
 
-- [News][🟡二次] Claude、生成テキストに「見えない透かし」導入へ — https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system
-- [News][🟡二次] AI自動化Relayが閉鎖、Google Chromeチームに合流 — https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team
-- [News][🟡二次] StripeがAIゲートウェイOpenRouterを70億ドル超で買収か — https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
-- [News][🟢一次] NVIDIA Nemotron 3.5 LightningがSageMakerで利用可能に — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart
-- [News][🟢一次] Bedrock AgentCoreでAIエージェントに決済機能を追加 — https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments
-- [News][🟡二次] Amazonが希少本を破棄しAI学習に利用か — https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models
-- [News][🟡二次] Wisprが2.8億ドル調達、AI議事録ツールなど新分野へ — https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation
-- [News][🟡二次] OpenAIがAIリスク評価チームを解散か — https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
-- [ProductHunt][🟡二次] AIエージェント向けWeb操作レイヤー「TinyFish」登場 — https://www.producthunt.com/products/tinyfish-2
-- [News][🟡二次] Groqが3.5億ドル調達、AIチップからネオクラウドへ転換 — https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud
+- [News][🟢一次] ChatGPTがティーン向けモードを導入 — https://openai.com/index/chatgpt-for-teens
+- [News][🟢一次] AsanaがCodexで5年分の開発を2週間で完了 — https://openai.com/index/asana
+- [News][🟢一次] NVIDIAがChatGPT Workで業務効率化 — https://openai.com/index/nvidia/chatgpt-work
+- [News][🟢一次] Amazon Bedrock AgentCore決済機能が一般提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale
+- [News][🟢一次] NVIDIA Nemotron 3.5 LightningがAWSで利用可能に — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart
+- [News][🟢一次] OpenAIがAIモデル開発ペースと安全対策を強化 — https://openai.com/index/pacing-model-development-cyber-capabilities
+- [News][🟢一次] OpenAIがCodeAIと提携しAI教育を推進 — https://openai.com/index/partnering-with-codeai
+- [News][🟢一次] Amazon Quick埋め込みチャットをカスタマイズ — https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application
+- [News][🟢一次] Bedrockで文書分類AIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock
+- [News][🟢一次] Bedrockで契約書検索精度を向上 — https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock
 
-全文: [`news/2026-08-18.md`](news/2026-08-18.md)
+全文: [`news/2026-08-19.md`](news/2026-08-19.md)
 <!--/LATEST-->
 
 ---
