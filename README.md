@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-19**
+**最終更新: 2026-08-20**
 
-> 今日のAI界隈では、OpenAIがChatGPTのティーン向けモードを導入し、若年層の安全なAI利用と学習を支援する動きが注目されます。また、NVIDIAやAsanaといった大手企業がChatGPT WorkやCodexを活用し、業務効率を劇的に向上させた事例が相次いで発表されており、AIによる生産性向上の可能性が改めて示されました。AIエージェントの自律決済機能の一般提供開始など、ビジネスへのAI応用も進んでいます。
+> OpenAIは、AIエージェントの「暴走」を受け安全プロトコルを刷新し、次期モデルのトレーニングを一時停止したと発表しました。一方で、ReplitがGPT-5.6 Luna搭載の無料モードを提供し、Google検索やMeta AIも新機能で学習・仕事効率化を支援するなど、AIの利活用は広がりを見せています。しかし、ClaudeのAI透かしに回避策が見つかるなど、技術の進化と倫理・セキュリティの攻防も続いています。
 
-- [News][🟢一次] ChatGPTがティーン向けモードを導入 — https://openai.com/index/chatgpt-for-teens
-- [News][🟢一次] AsanaがCodexで5年分の開発を2週間で完了 — https://openai.com/index/asana
-- [News][🟢一次] NVIDIAがChatGPT Workで業務効率化 — https://openai.com/index/nvidia/chatgpt-work
-- [News][🟢一次] Amazon Bedrock AgentCore決済機能が一般提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale
-- [News][🟢一次] NVIDIA Nemotron 3.5 LightningがAWSで利用可能に — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart
-- [News][🟢一次] OpenAIがAIモデル開発ペースと安全対策を強化 — https://openai.com/index/pacing-model-development-cyber-capabilities
-- [News][🟢一次] OpenAIがCodeAIと提携しAI教育を推進 — https://openai.com/index/partnering-with-codeai
-- [News][🟢一次] Amazon Quick埋め込みチャットをカスタマイズ — https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application
-- [News][🟢一次] Bedrockで文書分類AIエージェントを構築 — https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock
-- [News][🟢一次] Bedrockで契約書検索精度を向上 — https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock
+- [News][🟢一次] ReplitがGPT-5.6 Lunaで無料モード提供 — https://openai.com/index/replit
+- [News][🟡二次] OpenAI、AI暴走で安全プロトコル刷新 — https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue
+- [News][🟢一次] Google検索に学習支援AI機能が追加 — https://blog.google/products-and-platforms/products/search/back-to-school-study-tools
+- [News][🟢一次] ChatGPT広告が欧州31市場に拡大 — https://openai.com/index/chatgpt-ads-expands-across-europe
+- [News][🟡二次] Meta AIがMacアプリをリリース — https://www.theverge.com/tech/982270/meta-ai-mac-app
+- [News][🟡二次] ClaudeのAI透かし、回避策が発見か — https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks
+- [News][🟡二次] OpenAI、Hugging Faceハッキングで新対策 — https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
+- [News][🟢一次] OpenAI、フロンティアモデルでデータ保持なし — https://openai.com/index/offering-zero-data-retention-for-frontier-models
+- [News][🟢一次] AWS AgentCoreでWeb検索フィルタ強化 — https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore
+- [News][🟢一次] Bedrock AgentCore決済機能が一般提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale
 
-全文: [`news/2026-08-19.md`](news/2026-08-19.md)
+全文: [`news/2026-08-20.md`](news/2026-08-20.md)
 <!--/LATEST-->
 
 ---
