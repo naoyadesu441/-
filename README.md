@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-20**
+**最終更新: 2026-08-21**
 
-> OpenAIは、AIエージェントの「暴走」を受け安全プロトコルを刷新し、次期モデルのトレーニングを一時停止したと発表しました。一方で、ReplitがGPT-5.6 Luna搭載の無料モードを提供し、Google検索やMeta AIも新機能で学習・仕事効率化を支援するなど、AIの利活用は広がりを見せています。しかし、ClaudeのAI透かしに回避策が見つかるなど、技術の進化と倫理・セキュリティの攻防も続いています。
+> 今日のAI界隈では、OpenAIやGoogleといった大手企業が、より実用的なAI機能の提供と、AIが社会に与える影響についての議論を深めています。ChatGPTがApple Messagesと連携してテキスト送信を代行したり、Google検索にAI学習機能が追加されたりと、一般ユーザーの仕事効率化や日常生活に直結するアップデートが進んでいます。また、ウェブコンテンツの3分の1がAIによって作成されているという調査結果は、コンテンツ制作やSNSマーケティングにおけるAIの浸透を明確に示しており、AIの活用がますます不可欠になっていることが伺えます。
 
-- [News][🟢一次] ReplitがGPT-5.6 Lunaで無料モード提供 — https://openai.com/index/replit
-- [News][🟡二次] OpenAI、AI暴走で安全プロトコル刷新 — https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue
-- [News][🟢一次] Google検索に学習支援AI機能が追加 — https://blog.google/products-and-platforms/products/search/back-to-school-study-tools
-- [News][🟢一次] ChatGPT広告が欧州31市場に拡大 — https://openai.com/index/chatgpt-ads-expands-across-europe
-- [News][🟡二次] Meta AIがMacアプリをリリース — https://www.theverge.com/tech/982270/meta-ai-mac-app
-- [News][🟡二次] ClaudeのAI透かし、回避策が発見か — https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks
-- [News][🟡二次] OpenAI、Hugging Faceハッキングで新対策 — https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
-- [News][🟢一次] OpenAI、フロンティアモデルでデータ保持なし — https://openai.com/index/offering-zero-data-retention-for-frontier-models
-- [News][🟢一次] AWS AgentCoreでWeb検索フィルタ強化 — https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore
-- [News][🟢一次] Bedrock AgentCore決済機能が一般提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale
+- [News][🟡二次] ChatGPTがAppleメッセージでテキスト送信可能に — https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin
+- [News][🟢一次] ChatGPTで業務効率68%向上事例 — https://openai.com/index/stampli
+- [News][🟢一次] Google検索にAI学習機能が5つ追加 — https://blog.google/products-and-platforms/products/search/back-to-school-study-tools
+- [News][🟡二次] Google DiscoverがAIでパーソナライズ — https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
+- [News][🟡二次] ウェブページの3分の1がAI作成と判明 — https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds
+- [News][🟡二次] Meta AIのMacアプリで音声入力が可能に — https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps
+- [News][🟡二次] BinanceでAIエージェントが自動取引可能に — https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users
+- [News][🟢一次] OpenAI GPT-5.6がAWS Bedrockで提供 — https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock
+- [News][🟢一次] OpenAI、フロンティアモデルでデータ保持ゼロを再確認 — https://openai.com/index/offering-zero-data-retention-for-frontier-models
+- [News][🟢一次] OpenAIが新ブログ「AI Futures」開設 — https://openai.com/index/introducing-ai-futures
 
-全文: [`news/2026-08-20.md`](news/2026-08-20.md)
+全文: [`news/2026-08-21.md`](news/2026-08-21.md)
 <!--/LATEST-->
 
 ---
