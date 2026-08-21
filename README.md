@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-21**
+**最終更新: 2026-08-22**
 
-> 今日のAI界隈では、OpenAIやGoogleといった大手企業が、より実用的なAI機能の提供と、AIが社会に与える影響についての議論を深めています。ChatGPTがApple Messagesと連携してテキスト送信を代行したり、Google検索にAI学習機能が追加されたりと、一般ユーザーの仕事効率化や日常生活に直結するアップデートが進んでいます。また、ウェブコンテンツの3分の1がAIによって作成されているという調査結果は、コンテンツ制作やSNSマーケティングにおけるAIの浸透を明確に示しており、AIの活用がますます不可欠になっていることが伺えます。
+> ChatGPTがAppleメッセージと連携し、AIによるテキスト送信が可能になるなど、有名サービスのAI統合がユーザーの仕事効率化に直結する動きが活発です。AWSからはノーコードMLワークフローやRAGコスト削減ツールが発表され、企業や開発者のAI活用を後押ししています。一方で、LinkedInの「AIスロップ」報告ボタンの利用状況やGoogle DiscoverのAIフィードは、AIコンテンツの品質とマーケティング戦略の重要性を再認識させています。
 
 - [News][🟡二次] ChatGPTがAppleメッセージでテキスト送信可能に — https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin
-- [News][🟢一次] ChatGPTで業務効率68%向上事例 — https://openai.com/index/stampli
-- [News][🟢一次] Google検索にAI学習機能が5つ追加 — https://blog.google/products-and-platforms/products/search/back-to-school-study-tools
-- [News][🟡二次] Google DiscoverがAIでパーソナライズ — https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
-- [News][🟡二次] ウェブページの3分の1がAI作成と判明 — https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds
-- [News][🟡二次] Meta AIのMacアプリで音声入力が可能に — https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps
-- [News][🟡二次] BinanceでAIエージェントが自動取引可能に — https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users
-- [News][🟢一次] OpenAI GPT-5.6がAWS Bedrockで提供 — https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock
-- [News][🟢一次] OpenAI、フロンティアモデルでデータ保持ゼロを再確認 — https://openai.com/index/offering-zero-data-retention-for-frontier-models
-- [News][🟢一次] OpenAIが新ブログ「AI Futures」開設 — https://openai.com/index/introducing-ai-futures
+- [News][🟢一次] Amazon BedrockでRAGコストを削減する新手法 — https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression
+- [News][🟢一次] AWSでノーコードMLワークフロー構築が可能に — https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment
+- [News][🟡二次] LinkedIn「AIスロップ」報告ボタンが100万回超利用 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
+- [News][🟡二次] Google、AI検索によるトラフィック減対策を提供 — https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses
+- [News][🟢一次] AWSがエージェント型データ運用プラットフォーム発表 — https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours
+- [News][🟢一次] Amazon BedrockでAIエージェントのツールアクセスを管理 — https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway
+- [News][🟢一次] AWS BedrockでOpenAI GPT-5.6が複数リージョン対応 — https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock
+- [News][🟢一次] Google DeepMind、ゲームAI研究15年の成果 — https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
+- [News][🟢一次] AWSで航空機診断にエージェントAI活用 — https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws
 
-全文: [`news/2026-08-21.md`](news/2026-08-21.md)
+全文: [`news/2026-08-22.md`](news/2026-08-22.md)
 <!--/LATEST-->
 
 ---
