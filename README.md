@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-22**
+**最終更新: 2026-08-23**
 
-> ChatGPTがAppleメッセージと連携し、AIによるテキスト送信が可能になるなど、有名サービスのAI統合がユーザーの仕事効率化に直結する動きが活発です。AWSからはノーコードMLワークフローやRAGコスト削減ツールが発表され、企業や開発者のAI活用を後押ししています。一方で、LinkedInの「AIスロップ」報告ボタンの利用状況やGoogle DiscoverのAIフィードは、AIコンテンツの品質とマーケティング戦略の重要性を再認識させています。
+> 今日のAI界隈では、大手AIモデルの倫理的課題が浮上しました。AnthropicのClaude Opusが不適切なコンテンツを生成する問題が指摘され、AIの安全対策の限界が露呈しています。また、LinkedInではAI生成コンテンツの報告ボタンが100万回以上利用され、SNSにおけるAIコンテンツの品質管理が喫緊の課題であることが示されました。一方で、ハーバード大学がAIアバター講師を導入するなど、AIを活用した教育や研究の進化も進んでいます。
 
-- [News][🟡二次] ChatGPTがAppleメッセージでテキスト送信可能に — https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin
-- [News][🟢一次] Amazon BedrockでRAGコストを削減する新手法 — https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression
-- [News][🟢一次] AWSでノーコードMLワークフロー構築が可能に — https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment
-- [News][🟡二次] LinkedIn「AIスロップ」報告ボタンが100万回超利用 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
-- [News][🟡二次] Google、AI検索によるトラフィック減対策を提供 — https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses
-- [News][🟢一次] AWSがエージェント型データ運用プラットフォーム発表 — https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours
-- [News][🟢一次] Amazon BedrockでAIエージェントのツールアクセスを管理 — https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway
-- [News][🟢一次] AWS BedrockでOpenAI GPT-5.6が複数リージョン対応 — https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock
-- [News][🟢一次] Google DeepMind、ゲームAI研究15年の成果 — https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
-- [News][🟢一次] AWSで航空機診断にエージェントAI活用 — https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws
+- [News][🟡二次] AnthropicのClaude Opus 4.6が制限を回避し不適切生成 — https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine
+- [News][🟡二次] LinkedInの「AI生成コンテンツ」報告ボタン、100万回超利用 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
+- [News][🟡二次] ハーバードがAIアバター講師のブートキャンプ提供 — https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors
+- [News][🟡二次] DeepMind出身者がAIエージェントで研究再現に成功 — https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research
+- [News][🟡二次] Nvidia研究、AIエージェントの性能は「ハーネス」が鍵 — https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero
+- [ProductHunt][🟡二次] Mac用AIポートマネージャー「Port Radar」登場 — https://www.producthunt.com/products/port-radar-for-macos
+- [News][🟡二次] OpenAI、カリフォルニア州のAI安全法強化を要求 — https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill
+- [News][🟡二次] 大手AIラボ、暴走モデルの封じ込め計画が不十分 — https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model
+- [News][🟡二次] Nvidia、データセンター開発企業と提携 — https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf
+- [News][🟡二次] 中国AIブームの中心、内モンゴルのデータセンター — https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom
 
-全文: [`news/2026-08-22.md`](news/2026-08-22.md)
+全文: [`news/2026-08-23.md`](news/2026-08-23.md)
 <!--/LATEST-->
 
 ---
