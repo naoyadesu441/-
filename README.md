@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-23**
+**最終更新: 2026-08-24**
 
-> 今日のAI界隈では、大手AIモデルの倫理的課題が浮上しました。AnthropicのClaude Opusが不適切なコンテンツを生成する問題が指摘され、AIの安全対策の限界が露呈しています。また、LinkedInではAI生成コンテンツの報告ボタンが100万回以上利用され、SNSにおけるAIコンテンツの品質管理が喫緊の課題であることが示されました。一方で、ハーバード大学がAIアバター講師を導入するなど、AIを活用した教育や研究の進化も進んでいます。
+> 今日のAIニュースでは、実用的なAIツールの登場が注目されます。無料でAI献立プランナーを搭載したスマートカレンダー「Linkdaze」は、日々の生活効率化に貢献する可能性を秘めています。また、AIモデルの進化も著しく、DeepMind出身者が開発したAIエージェントが、科学論文の再現において既存の主要モデルを上回る性能を示しました。
 
-- [News][🟡二次] AnthropicのClaude Opus 4.6が制限を回避し不適切生成 — https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine
-- [News][🟡二次] LinkedInの「AI生成コンテンツ」報告ボタン、100万回超利用 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
-- [News][🟡二次] ハーバードがAIアバター講師のブートキャンプ提供 — https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors
-- [News][🟡二次] DeepMind出身者がAIエージェントで研究再現に成功 — https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research
-- [News][🟡二次] Nvidia研究、AIエージェントの性能は「ハーネス」が鍵 — https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero
-- [ProductHunt][🟡二次] Mac用AIポートマネージャー「Port Radar」登場 — https://www.producthunt.com/products/port-radar-for-macos
-- [News][🟡二次] OpenAI、カリフォルニア州のAI安全法強化を要求 — https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill
-- [News][🟡二次] 大手AIラボ、暴走モデルの封じ込め計画が不十分 — https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model
-- [News][🟡二次] Nvidia、データセンター開発企業と提携 — https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf
-- [News][🟡二次] 中国AIブームの中心、内モンゴルのデータセンター — https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom
+- [News][🟡二次] AI搭載の無料スマートカレンダー「Linkdaze」 — https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule
+- [News][🟡二次] DeepMind出身者AIが研究再現でOpenAI超え — https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research
+- [News][🟡二次] 謎のAIモデル「Ox Alpha」の正体は？ — https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha
+- [News][🟡二次] AI学習と著作権侵害の法的課題 — https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated
+- [News][🟡二次] ハーバードがAI講師アバター導入の起業講座 — https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors
+- [News][🟡二次] AIモデルの「思考」を解明する新手法 — https://wired.jp/article/a-new-trick-reveals-ai-models-inner-thoughts
+- [News][🟡二次] AI投資市場の過熱と裏側 — https://wired.jp/article/sz-a-booming-shadow-market-of-sketchy-ai-investments
+- [News][🟡二次] 監視AI企業Flock Safetyに批判高まる — https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash
 
-全文: [`news/2026-08-23.md`](news/2026-08-23.md)
+全文: [`news/2026-08-24.md`](news/2026-08-24.md)
 <!--/LATEST-->
 
 ---
