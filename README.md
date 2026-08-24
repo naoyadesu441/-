@@ -6,20 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-24**
+**最終更新: 2026-08-25**
 
-> 今日のAIニュースでは、実用的なAIツールの登場が注目されます。無料でAI献立プランナーを搭載したスマートカレンダー「Linkdaze」は、日々の生活効率化に貢献する可能性を秘めています。また、AIモデルの進化も著しく、DeepMind出身者が開発したAIエージェントが、科学論文の再現において既存の主要モデルを上回る性能を示しました。
+> 今週は、OpenAIが開発者向けにGPT-5.6を発表し、価格性能比の向上で開発効率を大きく高める動きがありました。また、AWSはAIエージェントの発見標準や知識管理システム、飲食店向けAI電話応対など、具体的なビジネス活用を支援するツールを強化。NVIDIAもAIエージェントの処理効率を最大30倍向上させる新技術を発表し、AIエージェントの進化が加速しています。
 
-- [News][🟡二次] AI搭載の無料スマートカレンダー「Linkdaze」 — https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule
-- [News][🟡二次] DeepMind出身者AIが研究再現でOpenAI超え — https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research
-- [News][🟡二次] 謎のAIモデル「Ox Alpha」の正体は？ — https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha
-- [News][🟡二次] AI学習と著作権侵害の法的課題 — https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated
-- [News][🟡二次] ハーバードがAI講師アバター導入の起業講座 — https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors
-- [News][🟡二次] AIモデルの「思考」を解明する新手法 — https://wired.jp/article/a-new-trick-reveals-ai-models-inner-thoughts
-- [News][🟡二次] AI投資市場の過熱と裏側 — https://wired.jp/article/sz-a-booming-shadow-market-of-sketchy-ai-investments
-- [News][🟡二次] 監視AI企業Flock Safetyに批判高まる — https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash
+- [News][🟢一次] OpenAI、開発者向け「GPT-5.6」発表 — https://openai.com/index/gpt-5-6-in-kiro
+- [News][🟢一次] NVIDIA、AIエージェント向け推論を強化 — https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion
+- [News][🟢一次] NVIDIA、AIエージェント向け新効率基準を発表 — https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
+- [News][🟢一次] AWSでAI知識管理システムを構築する方法 — https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws
+- [News][🟢一次] AWS、AIエージェント発見の新標準ARD発表 — https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery
+- [News][🟢一次] AWSで飲食店向けAI電話応対システム構築 — https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect
+- [News][🟢一次] SageMaker HyperPodにRay機能が追加 — https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod
+- [News][🟢一次] AIによるメタデータ修正・調和の自動化 — https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization
+- [News][🟢一次] AI工場におけるXPUの役割と効率化 — https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory
+- [News][🟢一次] Apple、動画推論の新手法を発表 — https://machinelearning.apple.com/research/internalized-visual-thinking
 
-全文: [`news/2026-08-24.md`](news/2026-08-24.md)
+全文: [`news/2026-08-25.md`](news/2026-08-25.md)
 <!--/LATEST-->
 
 ---
