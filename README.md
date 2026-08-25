@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-25**
+**最終更新: 2026-08-26**
 
-> 今週は、OpenAIが開発者向けにGPT-5.6を発表し、価格性能比の向上で開発効率を大きく高める動きがありました。また、AWSはAIエージェントの発見標準や知識管理システム、飲食店向けAI電話応対など、具体的なビジネス活用を支援するツールを強化。NVIDIAもAIエージェントの処理効率を最大30倍向上させる新技術を発表し、AIエージェントの進化が加速しています。
+> 今日のAI界隈では、AIが雇用に与える影響や主要AIツールの機能強化が注目されています。特に、AIがエントリーレベルの仕事に与える影響に関するスタンフォード大学の研究や、Claudeの記憶機能の強化は、多くのユーザーにとって関心の高いトピックです。また、OpenAIの企業向け管理プラグインや、AIアシスタントのプライバシー懸念も重要なニュースとして挙げられます。
 
-- [News][🟢一次] OpenAI、開発者向け「GPT-5.6」発表 — https://openai.com/index/gpt-5-6-in-kiro
-- [News][🟢一次] NVIDIA、AIエージェント向け推論を強化 — https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion
-- [News][🟢一次] NVIDIA、AIエージェント向け新効率基準を発表 — https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
-- [News][🟢一次] AWSでAI知識管理システムを構築する方法 — https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws
-- [News][🟢一次] AWS、AIエージェント発見の新標準ARD発表 — https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery
-- [News][🟢一次] AWSで飲食店向けAI電話応対システム構築 — https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect
-- [News][🟢一次] SageMaker HyperPodにRay機能が追加 — https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod
-- [News][🟢一次] AIによるメタデータ修正・調和の自動化 — https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization
-- [News][🟢一次] AI工場におけるXPUの役割と効率化 — https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory
-- [News][🟢一次] Apple、動画推論の新手法を発表 — https://machinelearning.apple.com/research/internalized-visual-thinking
+- [News][🟡二次] Claudeに共有メモリ機能、会話履歴を記憶 — https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat
+- [News][🟡二次] AIが初級職に最も影響、スタンフォード大 — https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds
+- [News][🟢一次] ChatGPT Workに管理者向けプラグイン導入 — https://openai.com/index/introducing-admin-plugin
+- [News][🟡二次] AIは放射線科医を代替せず、仕事を変革 — https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs
+- [News][🟡二次] OpenAI、AIエージェントのハッキングで召喚状 — https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack
+- [News][🟡二次] AIアシスタントInstinctにプライバシー懸念 — https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns
+- [News][🟢一次] Google検索でAI活用、部屋を模様替え — https://blog.google/products-and-platforms/products/search/home-decor-tips
+- [News][🟢一次] OpenAI、豊富な知能を支える全スタック — https://openai.com/index/the-full-stack-behind-abundant-intelligence
+- [News][🟢一次] OpenAI、新チップJalapeñoで高速AI推論 — https://openai.com/index/jalapeno-first-results
+- [News][🟢一次] OpenAI、ロシアの偽情報活動を阻止 — https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 
-全文: [`news/2026-08-25.md`](news/2026-08-25.md)
+全文: [`news/2026-08-26.md`](news/2026-08-26.md)
 <!--/LATEST-->
 
 ---
