@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-26**
+**最終更新: 2026-08-27**
 
-> 今日のAI界隈では、AIが雇用に与える影響や主要AIツールの機能強化が注目されています。特に、AIがエントリーレベルの仕事に与える影響に関するスタンフォード大学の研究や、Claudeの記憶機能の強化は、多くのユーザーにとって関心の高いトピックです。また、OpenAIの企業向け管理プラグインや、AIアシスタントのプライバシー懸念も重要なニュースとして挙げられます。
+> Google DeepMindがGemini 3.5 Transcribeを発表し、OpenAIはChatGPTの教育現場への拡大を進めるなど、主要なAIモデルの機能強化と社会実装の進展が顕著です。AIエージェントによる業務自動化やLLMの信頼性・セキュリティ向上に関する研究も活発で、AIの応用範囲が広がりつつあります。
 
-- [News][🟡二次] Claudeに共有メモリ機能、会話履歴を記憶 — https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat
-- [News][🟡二次] AIが初級職に最も影響、スタンフォード大 — https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds
-- [News][🟢一次] ChatGPT Workに管理者向けプラグイン導入 — https://openai.com/index/introducing-admin-plugin
-- [News][🟡二次] AIは放射線科医を代替せず、仕事を変革 — https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs
-- [News][🟡二次] OpenAI、AIエージェントのハッキングで召喚状 — https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack
-- [News][🟡二次] AIアシスタントInstinctにプライバシー懸念 — https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns
-- [News][🟢一次] Google検索でAI活用、部屋を模様替え — https://blog.google/products-and-platforms/products/search/home-decor-tips
-- [News][🟢一次] OpenAI、豊富な知能を支える全スタック — https://openai.com/index/the-full-stack-behind-abundant-intelligence
-- [News][🟢一次] OpenAI、新チップJalapeñoで高速AI推論 — https://openai.com/index/jalapeno-first-results
-- [News][🟢一次] OpenAI、ロシアの偽情報活動を阻止 — https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+- [News][🟢一次] Gemini 3.5 Transcribeで高精度文字起こし — https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe
+- [News][🟢一次] ChatGPTが米国55学区に拡大、教師向け機能強化 — https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
+- [News][🟢一次] OpenAI Codexで誰もが開発者に？ — https://openai.com/index/loveholidays
+- [News][🟢一次] AIが学習を継続的にする仕組みをOpenAIが解説 — https://openai.com/index/learning-never-stops
+- [News][🟢一次] Microsoft AIで顧客エンゲージメントを革新 — https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement
+- [News][🟢一次] Amazon BedrockでAI音声予約システム構築 — https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore
+- [News][🟢一次] OpenAI、Hugging Face事件の調査結果を公表 — https://openai.com/index/hugging-face-incident-and-the-road-ahead
+- [Paper][🟢一次] LLM脱獄攻撃を防ぐ自己進化型マルチエージェント — https://arxiv.org/abs/2608.26008v1
+- [Paper][🟢一次] LLMマルチエージェントのコスト効率化技術 — https://arxiv.org/abs/2608.25992v1
+- [Paper][🟢一次] マルチモーダルRAGでLLMの精度向上 — https://arxiv.org/abs/2608.25986v1
 
-全文: [`news/2026-08-26.md`](news/2026-08-26.md)
+全文: [`news/2026-08-27.md`](news/2026-08-27.md)
 <!--/LATEST-->
 
 ---
