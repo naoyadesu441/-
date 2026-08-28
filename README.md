@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-27**
+**最終更新: 2026-08-28**
 
-> Google DeepMindがGemini 3.5 Transcribeを発表し、OpenAIはChatGPTの教育現場への拡大を進めるなど、主要なAIモデルの機能強化と社会実装の進展が顕著です。AIエージェントによる業務自動化やLLMの信頼性・セキュリティ向上に関する研究も活発で、AIの応用範囲が広がりつつあります。
+> 今週は、Google Geminiの最新モデル発表やChatGPTの学習効果に関する研究など、有名AIサービスの進化と活用法に注目が集まりました。特に、企業でのGenAI活用実態やプロンプト最適化に関する知見は、AIを仕事や副業に活かしたいユーザーにとって実践的なヒントとなるでしょう。一方で、AIエージェントが偽情報に影響されやすいという研究結果も出ており、その信頼性と倫理的な利用が引き続き重要な課題となっています。
 
-- [News][🟢一次] Gemini 3.5 Transcribeで高精度文字起こし — https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe
-- [News][🟢一次] ChatGPTが米国55学区に拡大、教師向け機能強化 — https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
-- [News][🟢一次] OpenAI Codexで誰もが開発者に？ — https://openai.com/index/loveholidays
-- [News][🟢一次] AIが学習を継続的にする仕組みをOpenAIが解説 — https://openai.com/index/learning-never-stops
-- [News][🟢一次] Microsoft AIで顧客エンゲージメントを革新 — https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement
-- [News][🟢一次] Amazon BedrockでAI音声予約システム構築 — https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore
-- [News][🟢一次] OpenAI、Hugging Face事件の調査結果を公表 — https://openai.com/index/hugging-face-incident-and-the-road-ahead
-- [Paper][🟢一次] LLM脱獄攻撃を防ぐ自己進化型マルチエージェント — https://arxiv.org/abs/2608.26008v1
-- [Paper][🟢一次] LLMマルチエージェントのコスト効率化技術 — https://arxiv.org/abs/2608.25992v1
-- [Paper][🟢一次] マルチモーダルRAGでLLMの精度向上 — https://arxiv.org/abs/2608.25986v1
+- [News][🟢一次] Gemini Omni 1.1 FlashでAI開発を強化 — https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
+- [News][🟢一次] ChatGPTと批判的思考で学習効果向上 — https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+- [Paper][🟢一次] 生成AI時代の新しい広告メカニズム — https://arxiv.org/abs/2608.27382v1
+- [Paper][🟢一次] 大企業のGenAI活用実態を分析 — https://arxiv.org/abs/2608.27364v1
+- [Paper][🟢一次] 複雑なプロンプト最適化は不要？ — https://arxiv.org/abs/2608.27266v1
+- [Paper][🟢一次] LLMエージェントは偽情報に弱い？ — https://arxiv.org/abs/2608.27167v1
+- [News][🟢一次] AWSでクリエイティブAIワークフロー構築 — https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal
+- [News][🟢一次] Google検索AIで旅行計画が進化 — https://blog.google/products-and-platforms/products/search/book-travel-ai-mode
+- [Paper][🟢一次] AI生成テキスト検出の新手法 — https://arxiv.org/abs/2608.27380v1
+- [Paper][🟢一次] 音声クローンが匿名化ツールに？ — https://arxiv.org/abs/2608.27360v1
 
-全文: [`news/2026-08-27.md`](news/2026-08-27.md)
+全文: [`news/2026-08-28.md`](news/2026-08-28.md)
 <!--/LATEST-->
 
 ---
