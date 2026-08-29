@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-28**
+**最終更新: 2026-08-29**
 
-> 今週は、Google Geminiの最新モデル発表やChatGPTの学習効果に関する研究など、有名AIサービスの進化と活用法に注目が集まりました。特に、企業でのGenAI活用実態やプロンプト最適化に関する知見は、AIを仕事や副業に活かしたいユーザーにとって実践的なヒントとなるでしょう。一方で、AIエージェントが偽情報に影響されやすいという研究結果も出ており、その信頼性と倫理的な利用が引き続き重要な課題となっています。
+> OpenAIはSpaceX傘下のCursorへのモデル提供を終了し、AI利用における規約順守の重要性を改めて示しました。一方、AWSはクリエイティブワークフローを自動化するエージェント構築ツールを発表し、コンテンツ制作の効率化を支援。AIの倫理的側面と実用的な応用が注目されています。
 
-- [News][🟢一次] Gemini Omni 1.1 FlashでAI開発を強化 — https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
-- [News][🟢一次] ChatGPTと批判的思考で学習効果向上 — https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
-- [Paper][🟢一次] 生成AI時代の新しい広告メカニズム — https://arxiv.org/abs/2608.27382v1
-- [Paper][🟢一次] 大企業のGenAI活用実態を分析 — https://arxiv.org/abs/2608.27364v1
-- [Paper][🟢一次] 複雑なプロンプト最適化は不要？ — https://arxiv.org/abs/2608.27266v1
-- [Paper][🟢一次] LLMエージェントは偽情報に弱い？ — https://arxiv.org/abs/2608.27167v1
-- [News][🟢一次] AWSでクリエイティブAIワークフロー構築 — https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal
-- [News][🟢一次] Google検索AIで旅行計画が進化 — https://blog.google/products-and-platforms/products/search/book-travel-ai-mode
-- [Paper][🟢一次] AI生成テキスト検出の新手法 — https://arxiv.org/abs/2608.27380v1
-- [Paper][🟢一次] 音声クローンが匿名化ツールに？ — https://arxiv.org/abs/2608.27360v1
+- [News][🟡二次] AI学習にアートを無断使用した人物が支援へ — https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them
+- [News][🟢一次] AWSがクリエイティブAIワークフローを自動化 — https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal
+- [News][🟡二次] MetaのAIグラス、録画停止機能でプライバシー強化 — https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain
+- [News][🟡二次] AIが医師より診断能力？医療界で議論 — https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us
+- [ProductHunt][🟡二次] 複数AIモデルを比較・管理するツール「Revalvo」 — https://www.producthunt.com/products/revalvo
+- [News][🟡二次] AnthropicがAIエージェントの物理世界制御標準を発表 — https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world
+- [News][🟢一次] OpenAI、SpaceX傘下CursorへのAI提供を終了 — https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+- [News][🟡二次] Anthropic研究者が自己改善型AIの可能性を示唆 — https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai
+- [News][🟡二次] Anthropic、トランプ政権のブラックリストが違法と判決 — https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge
+- [News][🟢一次] OpenAI、タイのAIスタートアップを支援 — https://openai.com/index/supporting-next-generation-ai-startups-thailand
 
-全文: [`news/2026-08-28.md`](news/2026-08-28.md)
+全文: [`news/2026-08-29.md`](news/2026-08-29.md)
 <!--/LATEST-->
 
 ---
