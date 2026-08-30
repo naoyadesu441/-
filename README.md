@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-29**
+**最終更新: 2026-08-30**
 
-> OpenAIはSpaceX傘下のCursorへのモデル提供を終了し、AI利用における規約順守の重要性を改めて示しました。一方、AWSはクリエイティブワークフローを自動化するエージェント構築ツールを発表し、コンテンツ制作の効率化を支援。AIの倫理的側面と実用的な応用が注目されています。
+> 本日のAIニュースでは、Amazon SageMaker Feature Storeに新たなAPIが追加され、機械学習開発におけるデータ管理の効率化が図られます。これにより、より柔軟な特徴量データの操作が可能となり、開発者の生産性向上が期待されます。
 
-- [News][🟡二次] AI学習にアートを無断使用した人物が支援へ — https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them
-- [News][🟢一次] AWSがクリエイティブAIワークフローを自動化 — https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal
-- [News][🟡二次] MetaのAIグラス、録画停止機能でプライバシー強化 — https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain
-- [News][🟡二次] AIが医師より診断能力？医療界で議論 — https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us
-- [ProductHunt][🟡二次] 複数AIモデルを比較・管理するツール「Revalvo」 — https://www.producthunt.com/products/revalvo
-- [News][🟡二次] AnthropicがAIエージェントの物理世界制御標準を発表 — https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world
-- [News][🟢一次] OpenAI、SpaceX傘下CursorへのAI提供を終了 — https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-- [News][🟡二次] Anthropic研究者が自己改善型AIの可能性を示唆 — https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai
-- [News][🟡二次] Anthropic、トランプ政権のブラックリストが違法と判決 — https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge
-- [News][🟢一次] OpenAI、タイのAIスタートアップを支援 — https://openai.com/index/supporting-next-generation-ai-startups-thailand
+- [News][🟡二次] ソニー・ワーナー、Anthropicを著作権侵害で提訴 — https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft
+- [News][🟡二次] AI詐欺師を追う音楽家探偵たち — https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
+- [News][🟡二次] 自分のPCでAIチャットボットを動かす方法 — https://www.wired.com/story/how-to-run-your-own-local-llm
+- [News][🟡二次] AI大手、サイバー危機が数ヶ月以内に到来と警告 — https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn
+- [News][🟡二次] Anthropic研究者が自己改善型AIの可能性を提示 — https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai
+- [News][🟡二次] Nvidia、AI優位性がGPU以外にも拡大 — https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu
+- [News][🟢一次] Amazon SageMaker Feature Storeに新API追加 — https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store
+- [News][🟡二次] Neocloud Lambda、AIチップ購入で10億ドル調達 — https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips
 
-全文: [`news/2026-08-29.md`](news/2026-08-29.md)
+全文: [`news/2026-08-30.md`](news/2026-08-30.md)
 <!--/LATEST-->
 
 ---
