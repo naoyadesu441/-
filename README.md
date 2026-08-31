@@ -6,20 +6,19 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-08-30**
+**最終更新: 2026-08-31**
 
-> 本日のAIニュースでは、Amazon SageMaker Feature Storeに新たなAPIが追加され、機械学習開発におけるデータ管理の効率化が図られます。これにより、より柔軟な特徴量データの操作が可能となり、開発者の生産性向上が期待されます。
+> 今回は一次ソースのニュースがありませんでした。二次ソースからは、AIエージェントやローカルLLMの高速化といった、AIを活用した生産性向上に直結するツールが登場しています。一方で、AIの情報信頼性や規制・倫理に関する議論も引き続き注目されています。
 
-- [News][🟡二次] ソニー・ワーナー、Anthropicを著作権侵害で提訴 — https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft
-- [News][🟡二次] AI詐欺師を追う音楽家探偵たち — https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
-- [News][🟡二次] 自分のPCでAIチャットボットを動かす方法 — https://www.wired.com/story/how-to-run-your-own-local-llm
-- [News][🟡二次] AI大手、サイバー危機が数ヶ月以内に到来と警告 — https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn
-- [News][🟡二次] Anthropic研究者が自己改善型AIの可能性を提示 — https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai
-- [News][🟡二次] Nvidia、AI優位性がGPU以外にも拡大 — https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu
-- [News][🟢一次] Amazon SageMaker Feature Storeに新API追加 — https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store
-- [News][🟡二次] Neocloud Lambda、AIチップ購入で10億ドル調達 — https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips
+- [ProductHunt][🟡二次] AIエージェント「Superagent」登場 — https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents
+- [ProductHunt][🟡二次] Mac向け高速LLMサーバー「oMLX」 — https://www.producthunt.com/products/omlx
+- [News][🟡二次] NERV防災開発者が語るAI時代の情報信頼性 — https://wired.jp/article/nerv-disaster-prevention-app
+- [News][🟡二次] テキサス州、AI監視カメラの資金停止 — https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras
+- [News][🟡二次] マスク氏のガスタービン加速と環境問題 — https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem
+- [News][🟡二次] キャタピラー、鉱業自動化をAIに応用 — https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining
+- [News][🟡二次] 通知を避けるミニマリストウェアラブル — https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored
 
-全文: [`news/2026-08-30.md`](news/2026-08-30.md)
+全文: [`news/2026-08-31.md`](news/2026-08-31.md)
 <!--/LATEST-->
 
 ---
