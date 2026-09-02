@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-01**
+**最終更新: 2026-09-02**
 
-> 今週のAI界隈では、OpenAIが日本の公共AIインフラ構築を支援し、ChatGPT広告が年間収益10億ドルを達成するなど、AIの社会実装とビジネス面での成長が顕著です。また、AWSが企業向けにAIエージェント管理サービスを一般提供し、大規模なAI活用を効率化する動きも進んでいます。
+> 今週のAIニュースでは、Googleが学生向け無料プラン付きの「Gemini 3.7 Flash」と、Workspace向けのAI画像生成ツール「Google Pics」を発表しました。また、Anthropicは性能向上とコスト削減を実現した「Claude Fable 5.1」をリリース。OpenAIは次期モデル「Astra」の高度なサイバーセキュリティ能力を公開し、ChatGPTの医療機関向け電子カルテ連携も開始しました。
 
-- [News][🟡二次] AI議事録ツールCirclebackが無料プラン追加 — https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers
-- [News][🟡二次] Instagram、人間装うAIアカウント取り締まり強化 — https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop
-- [Newsletter][🟡二次] GoogleがGemini 3.7 Flashを発表 — https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno
-- [News][🟡二次] Pixel Watch 5レビュー、Gemini一部オフライン対応 — https://wired.jp/review/google-pixel-watch-5
-- [News][🟢一次] AWSがエージェント管理サービスを一般提供 — https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry
-- [News][🟢一次] OpenAIが日本の公共AIインフラを支援 — https://openai.com/index/polimill
-- [News][🟢一次] ChatGPT広告が年間収益10億ドル達成 — https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
-- [News][🟡二次] AI動画検索Cliptoが評価額2.5億ドルに — https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation
-- [News][🟡二次] ChatGPTとRedditがEUの厳格な規制対象に — https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules
-- [News][🟢一次] AWSがAIインフラソリューションでリーダーに — https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025
+- [News][🟢一次] Google Gemini 3.7 Flash発表、学生向け無料プランも — https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
+- [News][🟢一次] Google WorkspaceにAI画像生成・編集ツール「Google Pics」登場 — https://blog.google/products-and-platforms/products/workspace/google-pics
+- [News][🟢一次] OpenAIの次期モデル「Astra」は高度なサイバーセキュリティ能力を持つ — https://openai.com/index/path-to-astra
+- [News][🟢一次] Anthropicが新モデル「Claude Fable 5.1」を発表、コスト削減も — https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws
+- [News][🟡二次] Instagram、AI生成と明示しないプロフィールのリーチを制限 — https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles
+- [News][🟢一次] OpenAI、AIエージェントによる業務効率化事例を紹介 — https://openai.com/index/ai-native-company-workflows
+- [News][🟢一次] Google DeepMind、Geminiでエージェント型動画理解を発表 — https://deepmind.google/blog/introducing-agentic-video-in-gemini
+- [News][🟢一次] ChatGPTが医療機関の電子カルテと連携可能に — https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
+- [News][🟡二次] Google AndroidアプデでAI活用、乗り物酔い対策など — https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more
+- [News][🟢一次] NVIDIAとCrowdStrike、AIエージェントでサイバーセキュリティ強化 — https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026
 
-全文: [`news/2026-09-01.md`](news/2026-09-01.md)
+全文: [`news/2026-09-02.md`](news/2026-09-02.md)
 <!--/LATEST-->
 
 ---
