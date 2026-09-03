@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-02**
+**最終更新: 2026-09-03**
 
-> 今週のAIニュースでは、Googleが学生向け無料プラン付きの「Gemini 3.7 Flash」と、Workspace向けのAI画像生成ツール「Google Pics」を発表しました。また、Anthropicは性能向上とコスト削減を実現した「Claude Fable 5.1」をリリース。OpenAIは次期モデル「Astra」の高度なサイバーセキュリティ能力を公開し、ChatGPTの医療機関向け電子カルテ連携も開始しました。
+> 本日のAIニュースを20件掲載（一次14件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Google Gemini 3.7 Flash発表、学生向け無料プランも — https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
-- [News][🟢一次] Google WorkspaceにAI画像生成・編集ツール「Google Pics」登場 — https://blog.google/products-and-platforms/products/workspace/google-pics
-- [News][🟢一次] OpenAIの次期モデル「Astra」は高度なサイバーセキュリティ能力を持つ — https://openai.com/index/path-to-astra
-- [News][🟢一次] Anthropicが新モデル「Claude Fable 5.1」を発表、コスト削減も — https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws
-- [News][🟡二次] Instagram、AI生成と明示しないプロフィールのリーチを制限 — https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles
-- [News][🟢一次] OpenAI、AIエージェントによる業務効率化事例を紹介 — https://openai.com/index/ai-native-company-workflows
-- [News][🟢一次] Google DeepMind、Geminiでエージェント型動画理解を発表 — https://deepmind.google/blog/introducing-agentic-video-in-gemini
-- [News][🟢一次] ChatGPTが医療機関の電子カルテと連携可能に — https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
-- [News][🟡二次] Google AndroidアプデでAI活用、乗り物酔い対策など — https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more
-- [News][🟢一次] NVIDIAとCrowdStrike、AIエージェントでサイバーセキュリティ強化 — https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026
+- [News][🟢一次] Proactive cyber defense for governments and enterprises — https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises
+- [News][🟢一次] Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference — https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference
+- [News][🟢一次] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber — https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber
+- [News][🟢一次] ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT — https://openai.com/index/atv-big-air-tour
+- [News][🟢一次] Modernizing and scaling support operations with generative AI on AWS — https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws
+- [News][🟢一次] How an AWS team detects dashboard content failures at scale using Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock
+- [News][🟢一次] From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore
+- [News][🟢一次] Trinity: Agentic AI-powered transition planning for students with disabilities — https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities
+- [News][🟢一次] Real-Time Intelligence with IBM Time Series Models on Confluent — https://huggingface.co/blog/ibm-research/real-time-intelligence
+- [News][🟢一次] The latest AI news we announced in August 2026 — https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
 
-全文: [`news/2026-09-02.md`](news/2026-09-02.md)
+全文: [`news/2026-09-03.md`](news/2026-09-03.md)
 <!--/LATEST-->
 
 ---
