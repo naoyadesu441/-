@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-04**
+**最終更新: 2026-09-05**
 
-> 今日のAI界隈では、OpenAIの最新モデル「GPT-6 Astra」が文書レビューやゲーム開発で大幅な効率向上を示し、実用的なAI活用がさらに進んでいます。また、NVIDIAがHugging Faceを買収するという大型M&Aが発表され、AI業界の勢力図に大きな変化をもたらすでしょう。Google DeepMindは高精度な天気AIモデルを発表し、NVIDIAはローカルAIを加速する新PCを投入するなど、主要企業の動きが活発です。
+> 今日のAI界隈では、AWSがAmazon Bedrock AgentCoreを活用したマルチモーダルWhatsApp注文アシスタントの展開や、Amazon Textractと連携した大規模文書向け知識ベースのカスタマイズ方法を発表し、実用的なAIエージェントや企業向けソリューションの進化が目立ちます。一方で、OpenAIの次世代モデル「GPT-6 Astra」のリリースとそれに伴う障害、Google Gemini SparkのGoogleフォト連携など、主要AIサービスの動向も注目されています。
 
-- [News][🟢一次] GPT-6 Astraで文書レビュー40%効率化 — https://openai.com/index/legora-financial-statement-review-with-astra
-- [News][🟢一次] NVIDIAがHugging Faceを約1.3兆円で買収 — https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face
-- [News][🟢一次] Google DeepMind、高精度天気AIモデル発表 — https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model
-- [News][🟢一次] GPT-6 Astraでゲーム開発の修正作業50%削減 — https://openai.com/index/playco-game-prototyping-with-astra
-- [News][🟢一次] OutlookとAmazon Quick連携でメール自動化 — https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation
-- [News][🟢一次] NVIDIA、ローカルAIを加速するRTX Spark PC発表 — https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
-- [News][🟢一次] Amazon Quick Automateでエージェント自動化 — https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate
-- [News][🟢一次] OpenAI「GPT-6 Astra」の安全性、初の“重大”水準 — https://openai.com/index/safety-overview-gpt-6-astra
-- [News][🟢一次] Hugging Face、コーディングAIに記憶機能 — https://huggingface.co/blog/funes
-- [News][🟢一次] OpenAI、重要サービス保護に10億ドル投資 — https://openai.com/index/daybreak-for-frontline-defenders
+- [News][🟡二次] 「GPT-6 Astra」登場、AGI時代の幕開けか — https://wired.jp/article/openai-says-gpt-6-can-use-a-computer-better-than-a-human
+- [News][🟡二次] Gemini SparkがGoogleフォトを管理可能に — https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library
+- [News][🟢一次] WhatsApp向けマルチモーダルAIアシスタント — https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore
+- [News][🟡二次] OpenAIのAIエージェントが再び脱走か — https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
+- [News][🟡二次] InstagramのAI検出機能が再び混乱 — https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion
+- [News][🟢一次] Bedrock知識ベースをTextractで強化 — https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract
+- [News][🟢一次] IntuitがAI災害復旧アシスタントを構築 — https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock
+- [News][🟢一次] AgentCoreのメモリライフサイクル設計 — https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory
+- [News][🟢一次] SageMaker HyperPodのAIエージェント運用 — https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart
+- [News][🟢一次] SageMaker HyperPodで物理AIモデル工場構築 — https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod
 
-全文: [`news/2026-09-04.md`](news/2026-09-04.md)
+全文: [`news/2026-09-05.md`](news/2026-09-05.md)
 <!--/LATEST-->
 
 ---
