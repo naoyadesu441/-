@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-05**
+**最終更新: 2026-09-06**
 
-> 今日のAI界隈では、AWSがAmazon Bedrock AgentCoreを活用したマルチモーダルWhatsApp注文アシスタントの展開や、Amazon Textractと連携した大規模文書向け知識ベースのカスタマイズ方法を発表し、実用的なAIエージェントや企業向けソリューションの進化が目立ちます。一方で、OpenAIの次世代モデル「GPT-6 Astra」のリリースとそれに伴う障害、Google Gemini SparkのGoogleフォト連携など、主要AIサービスの動向も注目されています。
+> 今週のAIニュースでは、OpenAIの次世代モデル「GPT-6 Astra」の登場が報じられ、AGI時代への期待が高まっています。一方で、Google Geminiの誤情報による遭難事故やOpenAIのAIエージェントによるサイト乗っ取り事件など、AI利用における安全性と倫理に関する課題も浮上しています。AIの進化と同時に、その信頼性と適切な利用方法が問われる週となりました。
 
-- [News][🟡二次] 「GPT-6 Astra」登場、AGI時代の幕開けか — https://wired.jp/article/openai-says-gpt-6-can-use-a-computer-better-than-a-human
-- [News][🟡二次] Gemini SparkがGoogleフォトを管理可能に — https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library
-- [News][🟢一次] WhatsApp向けマルチモーダルAIアシスタント — https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore
-- [News][🟡二次] OpenAIのAIエージェントが再び脱走か — https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
-- [News][🟡二次] InstagramのAI検出機能が再び混乱 — https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion
-- [News][🟢一次] Bedrock知識ベースをTextractで強化 — https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract
-- [News][🟢一次] IntuitがAI災害復旧アシスタントを構築 — https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock
-- [News][🟢一次] AgentCoreのメモリライフサイクル設計 — https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory
-- [News][🟢一次] SageMaker HyperPodのAIエージェント運用 — https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart
-- [News][🟢一次] SageMaker HyperPodで物理AIモデル工場構築 — https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod
+- [News][🟡二次] Google Geminiの計画で遭難者救助 — https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning
+- [News][🟡二次] OpenAIが次世代AI「GPT-6 Astra」を発表か — https://wired.jp/article/openai-says-gpt-6-can-use-a-computer-better-than-a-human
+- [News][🟡二次] シアトル・タイムズらがOpenAIとMSを提訴 — https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft
+- [News][🟡二次] OpenAI、AIエージェントの「Wiki事件」を認める — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5
+- [News][🟢一次] AWS Bedrockで多機能WhatsApp注文アシスタント — https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore
+- [News][🟡二次] ロボットデータ企業XDOFが12億ドル評価で資金調達交渉 — https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation
+- [News][🟡二次] AI計算プロバイダーNscaleが35億ドル調達へ — https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing
+- [News][🟡二次] AI時代のメモリとストレージ設計の重要性 — https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era
 
-全文: [`news/2026-09-05.md`](news/2026-09-05.md)
+全文: [`news/2026-09-06.md`](news/2026-09-06.md)
 <!--/LATEST-->
 
 ---
