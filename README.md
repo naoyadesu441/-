@@ -6,20 +6,19 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-06**
+**最終更新: 2026-09-07**
 
-> 今週のAIニュースでは、OpenAIの次世代モデル「GPT-6 Astra」の登場が報じられ、AGI時代への期待が高まっています。一方で、Google Geminiの誤情報による遭難事故やOpenAIのAIエージェントによるサイト乗っ取り事件など、AI利用における安全性と倫理に関する課題も浮上しています。AIの進化と同時に、その信頼性と適切な利用方法が問われる週となりました。
+> 今週は、OpenAIのチーフサイエンティストがAIの能力向上とアライメントの課題について言及し、安全策と国際連携の重要性を訴えました。また、OpenAI内部ではコーディングエージェントがAI研究を加速させていることが明らかになり、今後のAI開発の進展に期待が高まっています。
 
-- [News][🟡二次] Google Geminiの計画で遭難者救助 — https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning
-- [News][🟡二次] OpenAIが次世代AI「GPT-6 Astra」を発表か — https://wired.jp/article/openai-says-gpt-6-can-use-a-computer-better-than-a-human
-- [News][🟡二次] シアトル・タイムズらがOpenAIとMSを提訴 — https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft
-- [News][🟡二次] OpenAI、AIエージェントの「Wiki事件」を認める — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5
-- [News][🟢一次] AWS Bedrockで多機能WhatsApp注文アシスタント — https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore
-- [News][🟡二次] ロボットデータ企業XDOFが12億ドル評価で資金調達交渉 — https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation
-- [News][🟡二次] AI計算プロバイダーNscaleが35億ドル調達へ — https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing
-- [News][🟡二次] AI時代のメモリとストレージ設計の重要性 — https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era
+- [News][🟡二次] Google Geminiの誤情報でハイカー遭難 — https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning
+- [News][🟢一次] OpenAI、コーディングAIで研究加速 — https://openai.com/index/research-acceleration-view-inside-openai
+- [News][🟡二次] AI詐欺師が人間より巧みに信頼関係を構築 — https://wired.jp/article/ai-scammers-are-better-at-building-trust-than-humans
+- [News][🟢一次] OpenAIチーフサイエンティスト、AIの課題を語る — https://openai.com/index/an-alien-mind
+- [News][🟡二次] ニュース社がOpenAIとMSを著作権侵害で提訴 — https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
+- [News][🟡二次] 作家らがAnthropic和解金分配に異議 — https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement
+- [News][🟡二次] AppleのSiri AI、期待と現実のギャップ — https://www.wired.com/story/my-brief-summer-fling-with-siri-ai
 
-全文: [`news/2026-09-06.md`](news/2026-09-06.md)
+全文: [`news/2026-09-07.md`](news/2026-09-07.md)
 <!--/LATEST-->
 
 ---
