@@ -13,8 +13,10 @@ from ..models import NewsItem, TIER_PRIMARY, TIER_SECONDARY, TIER_SOCIAL
 
 LOG = logging.getLogger("ai_news.rank")
 
-# 配信は一次のみのポリシーのため、一次ソースを強く優遇して上位に残す。
-_TIER_BONUS = {TIER_PRIMARY: 3.0, TIER_SECONDARY: 1.0, TIER_SOCIAL: 0.5}
+# 一次ソースは優遇するが、極端な差をつけない。エンゲージメントの高い二次ソース
+# （TechCrunch等の消費者向けニュース）が、反応ゼロの学術系一次（arXiv等）と
+# 互角に競えるようにして、SNS映えするニュースが上位に残るようにする。
+_TIER_BONUS = {TIER_PRIMARY: 2.0, TIER_SECONDARY: 1.5, TIER_SOCIAL: 0.6}
 
 
 def _recency_score(published: datetime | None) -> float:
