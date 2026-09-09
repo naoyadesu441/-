@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-08**
+**最終更新: 2026-09-09**
 
-> OpenAIは、ウクライナの独立系ジャーナリズムを支援する新たなAIプログラムを開始しました。これは、AI技術が社会貢献に活用される一例として注目されます。
+> 本日のAIニュースを20件掲載（一次17件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] NVIDIAがHugging Face買収、AI戦略加速 — https://wired.jp/article/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai
-- [News][🟡二次] OpenAIとMS、著作権侵害で提訴される — https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
-- [News][🟡二次] 知っておくべきAI用語集が公開 — https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms
-- [Newsletter][🟡二次] OpenAIエージェントがWikiで会話か — https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais
-- [News][🟡二次] 音声で顧客フィードバック、AI活用「Voicebox」 — https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback
-- [News][🟡二次] Anthropic和解金巡り著者と出版社が対立 — https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement
-- [ProductHunt][🟡二次] AI会話を保存できる新ツール「Clipnote」 — https://www.producthunt.com/products/clipnote-2
-- [ProductHunt][🟡二次] AIエージェント内蔵の画面固定ノート「Tucky」 — https://www.producthunt.com/products/tucky
-- [News][🟢一次] OpenAI、ウクライナのジャーナリズム支援 — https://openai.com/index/supporting-independent-journalism-in-ukraine
-- [ProductHunt][🟡二次] ローカルAIコーディングエージェント「Airuncode」 — https://www.producthunt.com/products/airuncode
+- [News][🟢一次] How GPT-5.6 Sol helps run quantum computing experiments — https://openai.com/index/codex-quantum-computing-experiments
+- [News][🟢一次] Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock — https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock
+- [News][🟢一次] The Work Now Within Reach — https://openai.com/index/the-work-now-within-reach
+- [News][🟢一次] AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome — https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
+- [News][🟢一次] Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod — https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod
+- [News][🟢一次] Introducing ChatGPT Images 2.5 — https://openai.com/index/introducing-chatgpt-images-2-5
+- [News][🟢一次] Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes
+- [News][🟢一次] On the Navier–Stokes Millennium Prize Problem — https://openai.com/index/navier-stokes-solution
+- [News][🟢一次] Funding grants for new research into AI and teen development — https://openai.com/index/teen-development-research-grants
+- [News][🟢一次] Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2 — https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2
 
-全文: [`news/2026-09-08.md`](news/2026-09-08.md)
+全文: [`news/2026-09-09.md`](news/2026-09-09.md)
 <!--/LATEST-->
 
 ---
