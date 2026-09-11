@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-10**
+**最終更新: 2026-09-11**
 
-> 今週のAI界隈では、OpenAIがビジネス向け次世代モデル「GPT-6 Astra」を発表し、高度な推論とPC操作能力で仕事効率化を大きく推進する見込みです。この新モデルは早速Amazon Bedrockでも利用可能となり、企業でのAI導入が加速するでしょう。また、AWSはOpenAIモデルの100万トークン対応など、AI開発者向けの機能強化も発表しており、AIの活用範囲がさらに広がっています。
+> 今日のAI界隈では、OpenAIがChatGPT Work向けデータエージェントや金融サービス特化版を発表し、ビジネスでのAI活用が加速しています。また、Agents APIやGPT-Live-1音声APIの公開により、AIエージェント開発や自然な音声対話の可能性が大きく広がっています。一方で、OpenAIのPro登録一時停止やApple WatchのAI機能におけるプライバシー懸念など、AIの普及に伴う課題も浮上しています。
 
-- [News][🟢一次] OpenAI、ビジネス向け次世代AI「GPT-6 Astra」発表 — https://openai.com/index/gpt-6-astra-next-generation-work
-- [News][🟢一次] OpenAI「GPT-6 Astra」がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock
-- [News][🟢一次] AWS、OpenAIモデルの100万トークン対応などAI機能強化 — https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026
-- [News][🟢一次] IBM、商用利用可能な時系列AIモデル「Granite」公開 — https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
-- [News][🟢一次] Paul Christiano氏、OpenAI財団理事会に就任 — https://openai.com/index/paul-christiano-joins-openai-foundation-board
-- [News][🟢一次] OpenAI、AI政策の重要性を訴え行動を促す — https://openai.com/index/ai-policy-window
-- [News][🟢一次] Google検索に新しいフットボールAI機能が登場 — https://blog.google/products-and-platforms/products/search/football-features-google-search
-- [News][🟢一次] Google AIが70年のラブストーリーをフレーム再現 — https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
-- [News][🟢一次] Heurist FinanceがAI投資ワークベンチを構築 — https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore
-- [News][🟢一次] NVIDIA、放送・スポーツ・配信向けリアルタイムAIを発表 — https://blogs.nvidia.com/blog/ibc-news-2026
+- [News][🟢一次] ChatGPT Workにデータエージェント登場 — https://openai.com/index/put-data-to-work
+- [News][🟡二次] OpenAI、Astra需要でPro登録一時停止 — https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand
+- [News][🟢一次] 金融サービス向けChatGPTを発表 — https://openai.com/index/introducing-chatgpt-financial-services
+- [News][🟢一次] OpenAIがAgents APIを公開 — https://openai.com/index/introducing-the-agents-api
+- [News][🟢一次] GPT-Live-1 APIで自然な音声対話 — https://openai.com/index/introducing-gpt-live-1-in-the-api
+- [News][🟡二次] SlackでAIが対話型レポートを生成 — https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+- [News][🟢一次] Google検索とGeminiでレース準備 — https://blog.google/products-and-platforms/products/search/running-race-training-tips
+- [News][🟢一次] Amazon Quickデスクトップ版が一般公開 — https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop
+- [News][🟢一次] Amazon Quick AutomateでRFIワークフロー — https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate
+- [News][🟢一次] AUTOMATIC1111をGradioで再構築 — https://huggingface.co/blog/gradio-workflow-1111
 
-全文: [`news/2026-09-10.md`](news/2026-09-10.md)
+全文: [`news/2026-09-11.md`](news/2026-09-11.md)
 <!--/LATEST-->
 
 ---
