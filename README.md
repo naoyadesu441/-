@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-11**
+**最終更新: 2026-09-12**
 
-> 今日のAI界隈では、OpenAIがChatGPT Work向けデータエージェントや金融サービス特化版を発表し、ビジネスでのAI活用が加速しています。また、Agents APIやGPT-Live-1音声APIの公開により、AIエージェント開発や自然な音声対話の可能性が大きく広がっています。一方で、OpenAIのPro登録一時停止やApple WatchのAI機能におけるプライバシー懸念など、AIの普及に伴う課題も浮上しています。
+> OpenAIの次世代モデルGPT-6 AstraがPerplexityやDevinといった主要AIサービスに導入され、業務効率化と開発加速に貢献しています。また、AWSはBedrockで動画・画像検索機能を強化し、SageMakerではLLMの推論遅延を大幅に削減するなど、AIインフラとツールの実用性が向上しています。
 
-- [News][🟢一次] ChatGPT Workにデータエージェント登場 — https://openai.com/index/put-data-to-work
-- [News][🟡二次] OpenAI、Astra需要でPro登録一時停止 — https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand
-- [News][🟢一次] 金融サービス向けChatGPTを発表 — https://openai.com/index/introducing-chatgpt-financial-services
-- [News][🟢一次] OpenAIがAgents APIを公開 — https://openai.com/index/introducing-the-agents-api
-- [News][🟢一次] GPT-Live-1 APIで自然な音声対話 — https://openai.com/index/introducing-gpt-live-1-in-the-api
-- [News][🟡二次] SlackでAIが対話型レポートを生成 — https://www.theverge.com/tech/989853/slackforce-surfaces-launch
-- [News][🟢一次] Google検索とGeminiでレース準備 — https://blog.google/products-and-platforms/products/search/running-race-training-tips
-- [News][🟢一次] Amazon Quickデスクトップ版が一般公開 — https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop
-- [News][🟢一次] Amazon Quick AutomateでRFIワークフロー — https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate
-- [News][🟢一次] AUTOMATIC1111をGradioで再構築 — https://huggingface.co/blog/gradio-workflow-1111
+- [News][🟡二次] AI幻覚で偽証人を提出した弁護士に罰金 — https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
+- [News][🟡二次] OpenAI、Astra需要でProサブスク新規受付停止 — https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand
+- [News][🟡二次] Slackがチャット内で対話型レポート作成AIを導入 — https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+- [News][🟢一次] PerplexityがGPT-6 Astraをシステムに導入 — https://openai.com/index/perplexity-improving-accuracy-with-astra
+- [News][🟢一次] DevinがGPT-6 Astraで自己テスト能力を強化 — https://openai.com/index/cognition-devin-testing-with-astra
+- [News][🟢一次] AWS Bedrock知識ベースで動画・画像検索が可能に — https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0
+- [News][🟡二次] Anthropic元研究者がAI開発競争に警鐘 — https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity
+- [News][🟢一次] AWS Bedrockで最適なOpenAIモデル選定の新基準 — https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload
+- [News][🟢一次] Amazon Bedrock AgentCoreで対話型AIアプリを構築 — https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore
+- [News][🟢一次] AWS SageMakerでLLM推論の遅延を最大77%削減 — https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference
 
-全文: [`news/2026-09-11.md`](news/2026-09-11.md)
+全文: [`news/2026-09-12.md`](news/2026-09-12.md)
 <!--/LATEST-->
 
 ---
