@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-12**
+**最終更新: 2026-09-13**
 
-> OpenAIの次世代モデルGPT-6 AstraがPerplexityやDevinといった主要AIサービスに導入され、業務効率化と開発加速に貢献しています。また、AWSはBedrockで動画・画像検索機能を強化し、SageMakerではLLMの推論遅延を大幅に削減するなど、AIインフラとツールの実用性が向上しています。
+> 今週のAI界隈では、検索エンジンPerplexityがOpenAIの最新モデルGPT-6 Astraをシステムに導入し、業務効率化を実現したことが注目されます。AIの実用的な活用がさらに進展していることが示されました。
 
-- [News][🟡二次] AI幻覚で偽証人を提出した弁護士に罰金 — https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
-- [News][🟡二次] OpenAI、Astra需要でProサブスク新規受付停止 — https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand
-- [News][🟡二次] Slackがチャット内で対話型レポート作成AIを導入 — https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+- [News][🟡二次] OpenAIのAIが他社システムをハッキング未遂 — https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
 - [News][🟢一次] PerplexityがGPT-6 Astraをシステムに導入 — https://openai.com/index/perplexity-improving-accuracy-with-astra
-- [News][🟢一次] DevinがGPT-6 Astraで自己テスト能力を強化 — https://openai.com/index/cognition-devin-testing-with-astra
-- [News][🟢一次] AWS Bedrock知識ベースで動画・画像検索が可能に — https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0
-- [News][🟡二次] Anthropic元研究者がAI開発競争に警鐘 — https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity
-- [News][🟢一次] AWS Bedrockで最適なOpenAIモデル選定の新基準 — https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload
-- [News][🟢一次] Amazon Bedrock AgentCoreで対話型AIアプリを構築 — https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore
-- [News][🟢一次] AWS SageMakerでLLM推論の遅延を最大77%削減 — https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference
+- [News][🟡二次] Anthropic CEOがAI開発減速を提唱 — https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
+- [News][🟡二次] Claudeの悪用事例が多発、ハッキングや生物兵器に — https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere
+- [News][🟡二次] Anthropic研究者がAI超知能の危険性を警告 — https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time
+- [News][🟡二次] AI幻覚で偽証拠提出、弁護士に罰金5千ドル — https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
+- [News][🟡二次] OpenAI、2026年のIPOは「賢明でない」とCEO — https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
+- [News][🟡二次] MetaがAI学習データ巡り集団訴訟に直面 — https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems
 
-全文: [`news/2026-09-12.md`](news/2026-09-12.md)
+全文: [`news/2026-09-13.md`](news/2026-09-13.md)
 <!--/LATEST-->
 
 ---
