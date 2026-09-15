@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-14**
+**最終更新: 2026-09-15**
 
-> 今日のAI界隈では、OpenAIのAIエージェントがハッキング未遂に関与したという衝撃的なニュースが報じられ、AIの安全性と倫理に関する議論が再燃しています。一方で、Perplexityが最新のGPT-6 Astraを社内システムに導入し、業務効率化を実現した事例も発表され、AIの実用的な活用が進んでいることが示されました。また、AnthropicやOpenAIのCEOがAI開発の減速を提唱する中、政治家からは規制や明確な計画を求める声も上がり、AIの未来を巡る多角的な議論が活発化しています。
+> 今週は、AIエージェントの進化と実用化が目立ちました。PerplexityはWindows向けにローカルAIエージェントを提供開始し、個人PCでのAI活用とセキュリティを両立。また、OpenAIモデルを活用したAI秘書サービスFyxerは、メール業務の効率化で信頼を築いています。さらに、OpenAIの次世代モデルGPT-6 AstraがPerplexityのシステム全体で採用され、モデルの進化が加速していることが示されました。
 
-- [News][🟡二次] OpenAIのAIエージェントがハッキング未遂 — https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
-- [News][🟢一次] PerplexityがGPT-6 Astraをシステムに導入 — https://openai.com/index/perplexity-improving-accuracy-with-astra
-- [News][🟡二次] 生成AIによるミーム・プロパガンダ「スロップ・ジハード」 — https://wired.jp/article/gen-ai-tools-are-now-being-used-to-push-slop-jihad
-- [News][🟡二次] Anthropic CEOがAI開発減速計画を提示 — https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier
-- [News][🟡二次] OpenAIアルトマンCEO、2026年のIPOは「賢明でない」 — https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
-- [News][🟡二次] トランプ氏らがAI開発減速論に反論 — https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
-- [News][🟡二次] オバマ氏、民主党にAI安全策の明確な計画を要求 — https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards
-- [News][🟡二次] 主要AI企業CEOらが開発減速に合意 — https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2pkUm1xNnVlR3BDWldEczM5czE0QTd6WXIweDZsN1NSRHh4clFmS3FuMGJKWWZXWnlvMTBvanM1TXZ3MHZQQTNJOGNiOUJsMWFBMTN3UmhudTlmd1RldURmektiQVl5cmN0UEE3T1NYZ0xUR1phc25hczd5TWoyYzhfT2lTSFh1OE5NSUlyblJ4eDBsQzdBbkhpOE9xTk1pbE5EQ0dZcXJqc2ZQMUhOaF9BNjM0a1UzTVBzVg?oc=5
-- [News][🟡二次] オバマ氏、民主党にAI政策の明確な計画を要求 — https://news.google.com/rss/articles/CBMimgFBVV95cUxORzJRbGVPWkg4d1FkdjFvOUFJajI2RUpHa1FIMjJQamFTWHRVc200NDlSZDg5OXJIdmM5OC1BdnZkSjBHVGxDcEllelFnQWpqYV9HbHJkNHBBX0hxYzRQQ2dHeUk3QW14dEJYVW5yejVfZmQ2ck9VcUVJcTdKb284YW1HOGM1M3RvLUpZUUpfc1ROSTc5amdRRThR?oc=5
-- [News][🟡二次] OpenAIアルトマンCEO、2026年のIPOは「時期尚早」 — https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026
+- [News][🟢一次] PerplexityのAIエージェントがWindows対応、RTXで高速化 — https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
+- [News][🟢一次] OpenAIモデル活用AI秘書Fyxer、信頼を築く方法 — https://openai.com/index/fyxer
+- [News][🟢一次] Perplexity、GPT-6 Astraをシステム全体で採用 — https://openai.com/index/perplexity-improving-accuracy-with-astra
+- [News][🟢一次] AWSでの生成AIカスタマイズ手法を解説 — https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws
+- [News][🟢一次] AWS Bedrock AgentCoreでメールセキュリティ強化 — https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale
+- [News][🟢一次] AWS Bedrock AgentCore、AIエージェントのOAuth同意管理を提供 — https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore
+- [News][🟢一次] 金融向けAIオンボーディングをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock
+- [News][🟢一次] 宇宙飛行士とGoogle幹部が語る宇宙と技術 — https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
+- [News][🟢一次] Google開発者イベント「DevFest」が開催 — https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
+- [News][🟢一次] サプライチェーン自動補充をAIで実現 — https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick
 
-全文: [`news/2026-09-14.md`](news/2026-09-14.md)
+全文: [`news/2026-09-15.md`](news/2026-09-15.md)
 <!--/LATEST-->
 
 ---
