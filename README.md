@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-15**
+**最終更新: 2026-09-16**
 
-> 今週は、AIエージェントの進化と実用化が目立ちました。PerplexityはWindows向けにローカルAIエージェントを提供開始し、個人PCでのAI活用とセキュリティを両立。また、OpenAIモデルを活用したAI秘書サービスFyxerは、メール業務の効率化で信頼を築いています。さらに、OpenAIの次世代モデルGPT-6 AstraがPerplexityのシステム全体で採用され、モデルの進化が加速していることが示されました。
+> 今週は、Google Gemini 3.8 Liveの発表で、有名AIモデルの機能強化が注目を集めました。また、Amazon Bedrockのプロンプトキャッシュによるコスト最大90%削減や、SageMakerでのAI商品タグ付けシステム構築など、AIを仕事や副業で活用する上で直接的なメリットをもたらすツール更新が発表されています。AIの信頼性向上や多言語対応、長期記憶に関する研究も進んでおり、より安全で賢いAIの未来が期待されます。
 
-- [News][🟢一次] PerplexityのAIエージェントがWindows対応、RTXで高速化 — https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
-- [News][🟢一次] OpenAIモデル活用AI秘書Fyxer、信頼を築く方法 — https://openai.com/index/fyxer
-- [News][🟢一次] Perplexity、GPT-6 Astraをシステム全体で採用 — https://openai.com/index/perplexity-improving-accuracy-with-astra
-- [News][🟢一次] AWSでの生成AIカスタマイズ手法を解説 — https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws
-- [News][🟢一次] AWS Bedrock AgentCoreでメールセキュリティ強化 — https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale
-- [News][🟢一次] AWS Bedrock AgentCore、AIエージェントのOAuth同意管理を提供 — https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore
-- [News][🟢一次] 金融向けAIオンボーディングをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock
-- [News][🟢一次] 宇宙飛行士とGoogle幹部が語る宇宙と技術 — https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
-- [News][🟢一次] Google開発者イベント「DevFest」が開催 — https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
-- [News][🟢一次] サプライチェーン自動補充をAIで実現 — https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick
+- [News][🟢一次] Gemini 3.8 Live発表、思考機能強化 — https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking
+- [News][🟢一次] Amazon Bedrockがプロンプトキャッシュでコスト削減 — https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching
+- [News][🟢一次] SageMakerでAI商品タグ付けシステムを構築 — https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization
+- [Paper][🟢一次] AI活用時の「間違い」を減らすモニタリング支援策 — https://arxiv.org/abs/2609.17065v1
+- [News][🟢一次] Googleが多言語対応AIで誰もが利用可能に — https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
+- [News][🟢一次] AIエージェントのタスク再現性に関する研究 — https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+- [News][🟢一次] SageMakerがAI学習ジョブのインスタンス優先順位設定に対応 — https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs
+- [Paper][🟢一次] LLMの長期会話向けインタラクティブ記憶学習 — https://arxiv.org/abs/2609.17088v1
+- [Paper][🟢一次] LLMの自己説明の信頼性に関する実証研究 — https://arxiv.org/abs/2609.17119v1
+- [Paper][🟢一次] AIが科学論文に根拠に基づいたフィードバック — https://arxiv.org/abs/2609.16995v1
 
-全文: [`news/2026-09-15.md`](news/2026-09-15.md)
+全文: [`news/2026-09-16.md`](news/2026-09-16.md)
 <!--/LATEST-->
 
 ---
