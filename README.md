@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-16**
+**最終更新: 2026-09-17**
 
-> 今週は、Google Gemini 3.8 Liveの発表で、有名AIモデルの機能強化が注目を集めました。また、Amazon Bedrockのプロンプトキャッシュによるコスト最大90%削減や、SageMakerでのAI商品タグ付けシステム構築など、AIを仕事や副業で活用する上で直接的なメリットをもたらすツール更新が発表されています。AIの信頼性向上や多言語対応、長期記憶に関する研究も進んでおり、より安全で賢いAIの未来が期待されます。
+> OpenAIはAI広告の新体験やChatGPT Workのビジネス価値測定ツールを発表し、AIのビジネス活用がさらに加速する動きが見られます。また、LLMの多言語対応や安全性、エージェントの効率化に関する研究も進展しており、AIの応用範囲と信頼性向上が期待されます。
 
-- [News][🟢一次] Gemini 3.8 Live発表、思考機能強化 — https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking
-- [News][🟢一次] Amazon Bedrockがプロンプトキャッシュでコスト削減 — https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching
-- [News][🟢一次] SageMakerでAI商品タグ付けシステムを構築 — https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization
-- [Paper][🟢一次] AI活用時の「間違い」を減らすモニタリング支援策 — https://arxiv.org/abs/2609.17065v1
-- [News][🟢一次] Googleが多言語対応AIで誰もが利用可能に — https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
-- [News][🟢一次] AIエージェントのタスク再現性に関する研究 — https://huggingface.co/blog/ibm-research/altk-evolve-consistency
-- [News][🟢一次] SageMakerがAI学習ジョブのインスタンス優先順位設定に対応 — https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs
-- [Paper][🟢一次] LLMの長期会話向けインタラクティブ記憶学習 — https://arxiv.org/abs/2609.17088v1
-- [Paper][🟢一次] LLMの自己説明の信頼性に関する実証研究 — https://arxiv.org/abs/2609.17119v1
-- [Paper][🟢一次] AIが科学論文に根拠に基づいたフィードバック — https://arxiv.org/abs/2609.16995v1
+- [News][🟢一次] OpenAI、AI広告の新体験と連携ツールを発表 — https://openai.com/index/reimagining-advertising-with-ai
+- [News][🟢一次] ChatGPTのビジネス価値測定ツールが登場 — https://openai.com/index/how-to-connect-ai-usage-to-business-value
+- [Paper][🟢一次] SNSマルチモーダル投稿の感情分析研究 — https://arxiv.org/abs/2609.18385v1
+- [Paper][🟢一次] Claude 3.5 Haikuの詩作に「計画性」か — https://arxiv.org/abs/2609.18440v1
+- [News][🟢一次] AIが変える働き方：OpenAIが調査結果公開 — https://openai.com/index/unlocking-new-ways-of-working
+- [Paper][🟢一次] 企業AIアシスタントの信頼性に関する研究 — https://arxiv.org/abs/2609.18605v1
+- [Paper][🟢一次] LLMがフィンランド語でチューリングテスト合格 — https://arxiv.org/abs/2609.18394v1
+- [Paper][🟢一次] 多言語AIエージェントスキルの品質評価を強化 — https://arxiv.org/abs/2609.18445v1
+- [News][🟢一次] OpenAI、高齢者向けAI活用ワークショップ開催 — https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
+- [News][🟢一次] GoogleらがAIデータセンター省エネで提携 — https://blogs.nvidia.com/blog/ai-energy-management-alliance
 
-全文: [`news/2026-09-16.md`](news/2026-09-16.md)
+全文: [`news/2026-09-17.md`](news/2026-09-17.md)
 <!--/LATEST-->
 
 ---
