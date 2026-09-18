@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-17**
+**最終更新: 2026-09-18**
 
-> OpenAIはAI広告の新体験やChatGPT Workのビジネス価値測定ツールを発表し、AIのビジネス活用がさらに加速する動きが見られます。また、LLMの多言語対応や安全性、エージェントの効率化に関する研究も進展しており、AIの応用範囲と信頼性向上が期待されます。
+> OpenAIが法律分野向け新サービス「Astra for Law」を発表し、ChatGPTの業務活用事例も公開されるなど、有名AIツールの専門分野への応用が加速しています。一方で、LLMが質問の言語によって政治的見解を変える可能性や、AIによるスキル低下を防ぐ研究も進んでおり、AIの倫理的側面や人間との共存のあり方にも注目が集まっています。
 
-- [News][🟢一次] OpenAI、AI広告の新体験と連携ツールを発表 — https://openai.com/index/reimagining-advertising-with-ai
-- [News][🟢一次] ChatGPTのビジネス価値測定ツールが登場 — https://openai.com/index/how-to-connect-ai-usage-to-business-value
-- [Paper][🟢一次] SNSマルチモーダル投稿の感情分析研究 — https://arxiv.org/abs/2609.18385v1
-- [Paper][🟢一次] Claude 3.5 Haikuの詩作に「計画性」か — https://arxiv.org/abs/2609.18440v1
-- [News][🟢一次] AIが変える働き方：OpenAIが調査結果公開 — https://openai.com/index/unlocking-new-ways-of-working
-- [Paper][🟢一次] 企業AIアシスタントの信頼性に関する研究 — https://arxiv.org/abs/2609.18605v1
-- [Paper][🟢一次] LLMがフィンランド語でチューリングテスト合格 — https://arxiv.org/abs/2609.18394v1
-- [Paper][🟢一次] 多言語AIエージェントスキルの品質評価を強化 — https://arxiv.org/abs/2609.18445v1
-- [News][🟢一次] OpenAI、高齢者向けAI活用ワークショップ開催 — https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
-- [News][🟢一次] GoogleらがAIデータセンター省エネで提携 — https://blogs.nvidia.com/blog/ai-energy-management-alliance
+- [News][🟢一次] ChatGPTでIPO業務を効率化 — https://openai.com/index/cooley-gopublic
+- [News][🟢一次] OpenAIが法律分野向け「Astra for Law」発表 — https://openai.com/index/astra-for-law
+- [News][🟢一次] Amazon Connect Talent、AIで採用効率化 — https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent
+- [Paper][🟢一次] AIによるスキル低下を防ぐ方法を研究 — https://arxiv.org/abs/2609.20143v1
+- [Paper][🟢一次] LLMのパーソナライズがユーザーに与える影響 — https://arxiv.org/abs/2609.20077v1
+- [Paper][🟢一次] LLMは言語で政治的見解を変える？ — https://arxiv.org/abs/2609.20005v1
+- [News][🟢一次] Googleが生成AIで教育用UI作成を支援 — https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui
+- [News][🟢一次] Wood MackenzieがAmazon BedrockでAIエージェント基盤構築 — https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore
+- [News][🟢一次] MRH Trowe、金融向けセキュアAIエージェント導入 — https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services
+- [Paper][🟢一次] 音声AIエージェントのLLM評価ベンチマーク — https://arxiv.org/abs/2609.20152v1
 
-全文: [`news/2026-09-17.md`](news/2026-09-17.md)
+全文: [`news/2026-09-18.md`](news/2026-09-18.md)
 <!--/LATEST-->
 
 ---
