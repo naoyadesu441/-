@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-18**
+**最終更新: 2026-09-19**
 
-> OpenAIが法律分野向け新サービス「Astra for Law」を発表し、ChatGPTの業務活用事例も公開されるなど、有名AIツールの専門分野への応用が加速しています。一方で、LLMが質問の言語によって政治的見解を変える可能性や、AIによるスキル低下を防ぐ研究も進んでおり、AIの倫理的側面や人間との共存のあり方にも注目が集まっています。
+> 今週は、Amazon BedrockにMoonshot AIのKimi K3が追加され、100万トークンコンテキストでの高度なAI活用が可能になりました。また、Amazon Bedrock AgentCoreの新ランタイムやSageMakerでのHugging Faceモデルデプロイ機能が発表され、AIエージェント開発やモデル運用がさらに効率化される見込みです。これにより、AIを使った副業や業務効率化を目指すユーザーにとって、より強力なツールが提供されます。
 
-- [News][🟢一次] ChatGPTでIPO業務を効率化 — https://openai.com/index/cooley-gopublic
-- [News][🟢一次] OpenAIが法律分野向け「Astra for Law」発表 — https://openai.com/index/astra-for-law
-- [News][🟢一次] Amazon Connect Talent、AIで採用効率化 — https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent
-- [Paper][🟢一次] AIによるスキル低下を防ぐ方法を研究 — https://arxiv.org/abs/2609.20143v1
-- [Paper][🟢一次] LLMのパーソナライズがユーザーに与える影響 — https://arxiv.org/abs/2609.20077v1
-- [Paper][🟢一次] LLMは言語で政治的見解を変える？ — https://arxiv.org/abs/2609.20005v1
-- [News][🟢一次] Googleが生成AIで教育用UI作成を支援 — https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui
-- [News][🟢一次] Wood MackenzieがAmazon BedrockでAIエージェント基盤構築 — https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore
-- [News][🟢一次] MRH Trowe、金融向けセキュアAIエージェント導入 — https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services
-- [Paper][🟢一次] 音声AIエージェントのLLM評価ベンチマーク — https://arxiv.org/abs/2609.20152v1
+- [News][🟢一次] Amazon BedrockにKimi K3が登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock
+- [News][🟢一次] Amazon Bedrock AgentCore新ランタイム発表 — https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts
+- [News][🟢一次] SageMakerでHugging Faceモデルをデプロイ — https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents
+- [News][🟢一次] Bedrock AgentCoreへAIエージェント移行 — https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime
+- [News][🟢一次] 教師向け生成AIで学習コンテンツ作成 — https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui
+- [News][🟢一次] SageMaker推論機能の年間アップデート — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review
+- [News][🟢一次] SageMaker HyperPod推論ゲートウェイ — https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway
+- [News][🟢一次] Appleが生成モデルの挙動制御技術発表 — https://machinelearning.apple.com/research/dynamically-scaled-activation-steering
+- [News][🟢一次] Googleが物流最適化AIを研究 — https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics
+- [News][🟢一次] Google AI経済チームに新専門家 — https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 
-全文: [`news/2026-09-18.md`](news/2026-09-18.md)
+全文: [`news/2026-09-19.md`](news/2026-09-19.md)
 <!--/LATEST-->
 
 ---
