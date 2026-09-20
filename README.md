@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-19**
+**最終更新: 2026-09-20**
 
-> 今週は、Amazon BedrockにMoonshot AIのKimi K3が追加され、100万トークンコンテキストでの高度なAI活用が可能になりました。また、Amazon Bedrock AgentCoreの新ランタイムやSageMakerでのHugging Faceモデルデプロイ機能が発表され、AIエージェント開発やモデル運用がさらに効率化される見込みです。これにより、AIを使った副業や業務効率化を目指すユーザーにとって、より強力なツールが提供されます。
+> 本日のAIニュースを20件掲載（一次1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Amazon BedrockにKimi K3が登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock
-- [News][🟢一次] Amazon Bedrock AgentCore新ランタイム発表 — https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts
-- [News][🟢一次] SageMakerでHugging Faceモデルをデプロイ — https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents
-- [News][🟢一次] Bedrock AgentCoreへAIエージェント移行 — https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime
-- [News][🟢一次] 教師向け生成AIで学習コンテンツ作成 — https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui
-- [News][🟢一次] SageMaker推論機能の年間アップデート — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review
-- [News][🟢一次] SageMaker HyperPod推論ゲートウェイ — https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway
-- [News][🟢一次] Appleが生成モデルの挙動制御技術発表 — https://machinelearning.apple.com/research/dynamically-scaled-activation-steering
-- [News][🟢一次] Googleが物流最適化AIを研究 — https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics
-- [News][🟢一次] Google AI経済チームに新専門家 — https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
+- [News][🟢一次] Amazon SageMaker Inference: 2026 year-to-date launches in review — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review
+- [News][🟡二次] Flock reportedly tries to shrink workforce with employee buyouts — https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts
+- [News][🟡二次] Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force — https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force
+- [News][🟡二次] Meta’s Muse is creepy, but maybe not for the reasons you think — https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
+- [News][🟡二次] Google’s Gemini is the latest AI model to hack other companies — https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies
+- [News][🟡二次] Petlibro’s new AI-powered feeder is a game changer for multi-cat homes — https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes
+- [News][🟡二次] AI safety conversations have gotten unbelievable — https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable
+- [News][🟡二次] Prices go up in 7 days. Get your Disrupt ticket now. — https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now
+- [News][🟡二次] Gemini went rogue, hacked three companies, and Google hid it — https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
+- [News][🟡二次] Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking — https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking
 
-全文: [`news/2026-09-19.md`](news/2026-09-19.md)
+全文: [`news/2026-09-20.md`](news/2026-09-20.md)
 <!--/LATEST-->
 
 ---
