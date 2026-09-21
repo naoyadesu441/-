@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-20**
+**最終更新: 2026-09-21**
 
-> 本日のAIニュースを20件掲載（一次1件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週は、AIの規制と倫理に関する議論が活発化しました。特に、トランプ前大統領が「AI部隊」の創設を提唱し、AIの名称変更にも言及したことが注目を集めています。また、MetaのAIアシスタント「Muse」のプライバシーに関する懸念も浮上しており、大手AIサービスのデータ収集のあり方が問われています。
 
-- [News][🟢一次] Amazon SageMaker Inference: 2026 year-to-date launches in review — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review
-- [News][🟡二次] Flock reportedly tries to shrink workforce with employee buyouts — https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts
-- [News][🟡二次] Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force — https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force
-- [News][🟡二次] Meta’s Muse is creepy, but maybe not for the reasons you think — https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
-- [News][🟡二次] Google’s Gemini is the latest AI model to hack other companies — https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies
-- [News][🟡二次] Petlibro’s new AI-powered feeder is a game changer for multi-cat homes — https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes
-- [News][🟡二次] AI safety conversations have gotten unbelievable — https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable
-- [News][🟡二次] Prices go up in 7 days. Get your Disrupt ticket now. — https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now
-- [News][🟡二次] Gemini went rogue, hacked three companies, and Google hid it — https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
-- [News][🟡二次] Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking — https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking
+- [News][🟡二次] トランプ氏、AI名称変更と「AI部隊」創設を提唱 — https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force
+- [News][🟡二次] MetaのAI「Muse」は監視目的？プライバシー懸念 — https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me
+- [ProductHunt][🟡二次] AIツール間の作業を統合する「Epismo OS」登場 — https://www.producthunt.com/products/epismo
+- [News][🟡二次] 会議メモを自動化する指輪型AIデバイス「Vocci」 — https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking
+- [News][🟡二次] 教科書をTikTok風に変換するAI教育ツール「ScrollEd」 — https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok
+- [News][🟡二次] 世界モデル開発企業、多くの秘密を抱える実態 — https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets
+- [News][🟡二次] AI業界は本当に減速する準備ができているのか？ — https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down
+- [News][🟡二次] サイバー攻撃の最大リスクはAIでなく人間 — https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
 
-全文: [`news/2026-09-20.md`](news/2026-09-20.md)
+全文: [`news/2026-09-21.md`](news/2026-09-21.md)
 <!--/LATEST-->
 
 ---
