@@ -6,20 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-21**
+**最終更新: 2026-09-22**
 
-> 今週は、AIの規制と倫理に関する議論が活発化しました。特に、トランプ前大統領が「AI部隊」の創設を提唱し、AIの名称変更にも言及したことが注目を集めています。また、MetaのAIアシスタント「Muse」のプライバシーに関する懸念も浮上しており、大手AIサービスのデータ収集のあり方が問われています。
+> 今週のAI界隈では、OpenAIが新モデル「GPT-6 Astra」を発表し、動画広告作成の効率化に貢献するほか、公式学習パス「Academy」の拡充でAIスキル習得を支援します。また、xAIの「Grok 4.6」がAmazon Bedrockで利用可能となり、長文処理能力が注目されています。AIの安全性や国際標準化に関する議論も進む中、NVIDIAやAWSからは、AIエージェントのセキュリティ強化や、クリーンエネルギー、医療分野でのAI活用事例が報告されています。
 
-- [News][🟡二次] トランプ氏、AI名称変更と「AI部隊」創設を提唱 — https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force
-- [News][🟡二次] MetaのAI「Muse」は監視目的？プライバシー懸念 — https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me
-- [ProductHunt][🟡二次] AIツール間の作業を統合する「Epismo OS」登場 — https://www.producthunt.com/products/epismo
-- [News][🟡二次] 会議メモを自動化する指輪型AIデバイス「Vocci」 — https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking
-- [News][🟡二次] 教科書をTikTok風に変換するAI教育ツール「ScrollEd」 — https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok
-- [News][🟡二次] 世界モデル開発企業、多くの秘密を抱える実態 — https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets
-- [News][🟡二次] AI業界は本当に減速する準備ができているのか？ — https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down
-- [News][🟡二次] サイバー攻撃の最大リスクはAIでなく人間 — https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
+- [News][🟢一次] OpenAI「GPT-6 Astra」で動画広告作成を高速化 — https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+- [News][🟢一次] xAI「Grok 4.6」がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock
+- [News][🟢一次] OpenAIが公式学習パス「Academy」を拡充 — https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+- [News][🟢一次] OpenAI「GPT-5.6」でAIエージェントに企業記憶を付与 — https://openai.com/index/v7
+- [News][🟢一次] OpenAIが数学とAIに関する諮問グループを設立 — https://openai.com/index/advisory-group-on-mathematics-and-ai
+- [News][🟢一次] OpenAIが次世代AIの国際標準化を提言 — https://openai.com/index/building-standards-next-phase-ai
+- [News][🟢一次] データサイエンスIDE「Positron」がSageMaker AIに対応 — https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows
+- [News][🟢一次] NVIDIA「AIセキュリティはエンジニアリング課題」 — https://blogs.nvidia.com/blog/ai-security-agent-stack
+- [News][🟢一次] BenchlingがBedrock AgentCoreでAIエージェントを保護 — https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore
+- [News][🟢一次] AWS上のAIで医療請求レビュー時間を短縮 — https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution
 
-全文: [`news/2026-09-21.md`](news/2026-09-21.md)
+全文: [`news/2026-09-22.md`](news/2026-09-22.md)
 <!--/LATEST-->
 
 ---
