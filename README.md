@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-22**
+**最終更新: 2026-09-23**
 
-> 今週のAI界隈では、OpenAIが新モデル「GPT-6 Astra」を発表し、動画広告作成の効率化に貢献するほか、公式学習パス「Academy」の拡充でAIスキル習得を支援します。また、xAIの「Grok 4.6」がAmazon Bedrockで利用可能となり、長文処理能力が注目されています。AIの安全性や国際標準化に関する議論も進む中、NVIDIAやAWSからは、AIエージェントのセキュリティ強化や、クリーンエネルギー、医療分野でのAI活用事例が報告されています。
+> OpenAIが次世代モデルGPT-6 SolとLunaを発表し、AWS Bedrockでの提供も開始されるなど、主要なAIモデルの進化と利用拡大が加速しています。また、AIエージェントによる業務効率化や、動画編集・コンテンツ制作に役立つAI技術の進展も注目されており、副業や仕事効率化を目指すユーザーにとって実践的なAI活用がさらに身近になるでしょう。
 
-- [News][🟢一次] OpenAI「GPT-6 Astra」で動画広告作成を高速化 — https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
-- [News][🟢一次] xAI「Grok 4.6」がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock
-- [News][🟢一次] OpenAIが公式学習パス「Academy」を拡充 — https://openai.com/index/expanding-openai-academy-with-new-learning-paths
-- [News][🟢一次] OpenAI「GPT-5.6」でAIエージェントに企業記憶を付与 — https://openai.com/index/v7
-- [News][🟢一次] OpenAIが数学とAIに関する諮問グループを設立 — https://openai.com/index/advisory-group-on-mathematics-and-ai
-- [News][🟢一次] OpenAIが次世代AIの国際標準化を提言 — https://openai.com/index/building-standards-next-phase-ai
-- [News][🟢一次] データサイエンスIDE「Positron」がSageMaker AIに対応 — https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows
-- [News][🟢一次] NVIDIA「AIセキュリティはエンジニアリング課題」 — https://blogs.nvidia.com/blog/ai-security-agent-stack
-- [News][🟢一次] BenchlingがBedrock AgentCoreでAIエージェントを保護 — https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore
-- [News][🟢一次] AWS上のAIで医療請求レビュー時間を短縮 — https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution
+- [News][🟢一次] OpenAIが新モデル「GPT-6 Sol/Luna」発表 — https://openai.com/index/introducing-gpt-6-sol-and-luna
+- [News][🟢一次] GPT-6 Astraで調査時間とコストを半減 — https://openai.com/index/parallel-cuts-time-and-cost-with-astra
+- [News][🟢一次] AWS BedrockでGPT-6 Sol/Lunaが利用可能に — https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock
+- [News][🟢一次] Claude Opus 5.5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws
+- [News][🟢一次] ReactivがBedrock AgentCoreでEC自動化 — https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore
+- [Paper][🟢一次] 指示ベースの動画編集AI「VideoX-Qwen」 — https://arxiv.org/abs/2609.26015v1
+- [News][🟢一次] GPT-6のプロンプトキャッシュ改善で高速化 — https://openai.com/index/better-prompt-caching-for-gpt-6
+- [News][🟢一次] TraneがBedrock AgentCoreでビル分析60倍高速化 — https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore
+- [Paper][🟢一次] LLMエージェントの信頼性向上技術「FIRE」 — https://arxiv.org/abs/2609.26048v1
+- [Paper][🟢一次] AIの「信憑性」を高める表現技術 — https://arxiv.org/abs/2609.26035v1
 
-全文: [`news/2026-09-22.md`](news/2026-09-22.md)
+全文: [`news/2026-09-23.md`](news/2026-09-23.md)
 <!--/LATEST-->
 
 ---
