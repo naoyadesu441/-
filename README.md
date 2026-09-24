@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-23**
+**最終更新: 2026-09-24**
 
-> OpenAIが次世代モデルGPT-6 SolとLunaを発表し、AWS Bedrockでの提供も開始されるなど、主要なAIモデルの進化と利用拡大が加速しています。また、AIエージェントによる業務効率化や、動画編集・コンテンツ制作に役立つAI技術の進展も注目されており、副業や仕事効率化を目指すユーザーにとって実践的なAI活用がさらに身近になるでしょう。
+> 今週は、Google Gemini 3.8の音声生成機能やOpenAIのGPT-6 Astraを活用した動画編集ツールの進化など、有名AIモデルの機能拡張と実用的なツールへの応用が目立ちました。特にコンテンツ制作や業務効率化に直結するAIの進化が顕著で、開発者向けのコスト削減やエージェント技術の進展も注目されます。また、OpenAIはAIスキル習得プログラムを拡大しており、AIの普及と活用を後押しする動きが活発です。
 
-- [News][🟢一次] OpenAIが新モデル「GPT-6 Sol/Luna」発表 — https://openai.com/index/introducing-gpt-6-sol-and-luna
-- [News][🟢一次] GPT-6 Astraで調査時間とコストを半減 — https://openai.com/index/parallel-cuts-time-and-cost-with-astra
-- [News][🟢一次] AWS BedrockでGPT-6 Sol/Lunaが利用可能に — https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock
-- [News][🟢一次] Claude Opus 5.5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws
-- [News][🟢一次] ReactivがBedrock AgentCoreでEC自動化 — https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore
-- [Paper][🟢一次] 指示ベースの動画編集AI「VideoX-Qwen」 — https://arxiv.org/abs/2609.26015v1
-- [News][🟢一次] GPT-6のプロンプトキャッシュ改善で高速化 — https://openai.com/index/better-prompt-caching-for-gpt-6
-- [News][🟢一次] TraneがBedrock AgentCoreでビル分析60倍高速化 — https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore
-- [Paper][🟢一次] LLMエージェントの信頼性向上技術「FIRE」 — https://arxiv.org/abs/2609.26048v1
-- [Paper][🟢一次] AIの「信憑性」を高める表現技術 — https://arxiv.org/abs/2609.26035v1
+- [News][🟢一次] Gemini 3.8が音声生成機能を発表 — https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech
+- [News][🟢一次] invideoがGPT-6 Astraで動画編集を3倍高速化 — https://openai.com/index/invideo-builds-with-gpt-6-astra
+- [News][🟢一次] GPT-6のプロンプトキャッシュ機能が進化 — https://openai.com/index/better-prompt-caching-for-gpt-6
+- [News][🟢一次] OpenAIアカデミーが2周年、AIスキルを拡大 — https://openai.com/index/two-years-of-openai-academy
+- [News][🟢一次] RinggがOpenAIで顧客対応を最大65%自動化 — https://openai.com/index/ringg
+- [News][🟢一次] AWS BedrockでAIコーディングエージェント活用 — https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock
+- [News][🟢一次] GrabとOpenAIが東南アジアでAIスキルを提供 — https://openai.com/index/grab-openai-ai-skills-southeast-asia
+- [Paper][🟢一次] LLMに人間のスキルを組み込む「SkillGym」 — https://arxiv.org/abs/2609.27717v1
+- [Paper][🟢一次] 画像生成AIの安全性を高める新技術「InGuard」 — https://arxiv.org/abs/2609.27620v1
+- [Paper][🟢一次] ユーザーの状態に応じたLLMエージェント制御技術 — https://arxiv.org/abs/2609.27606v1
 
-全文: [`news/2026-09-23.md`](news/2026-09-23.md)
+全文: [`news/2026-09-24.md`](news/2026-09-24.md)
 <!--/LATEST-->
 
 ---
