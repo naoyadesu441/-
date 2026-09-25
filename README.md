@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-24**
+**最終更新: 2026-09-25**
 
-> 今週は、Google Gemini 3.8の音声生成機能やOpenAIのGPT-6 Astraを活用した動画編集ツールの進化など、有名AIモデルの機能拡張と実用的なツールへの応用が目立ちました。特にコンテンツ制作や業務効率化に直結するAIの進化が顕著で、開発者向けのコスト削減やエージェント技術の進展も注目されます。また、OpenAIはAIスキル習得プログラムを拡大しており、AIの普及と活用を後押しする動きが活発です。
+> 今日のAI界隈では、Google Geminiの大型アップデートが注目を集めています。特にリアルタイムアバター機能は、ユーザー体験を大きく変える可能性を秘めています。また、AIによる長尺動画生成やスキンケアAIエージェントなど、コンテンツ制作や実生活に直結するAIの応用研究も進展を見せています。
 
-- [News][🟢一次] Gemini 3.8が音声生成機能を発表 — https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech
-- [News][🟢一次] invideoがGPT-6 Astraで動画編集を3倍高速化 — https://openai.com/index/invideo-builds-with-gpt-6-astra
-- [News][🟢一次] GPT-6のプロンプトキャッシュ機能が進化 — https://openai.com/index/better-prompt-caching-for-gpt-6
-- [News][🟢一次] OpenAIアカデミーが2周年、AIスキルを拡大 — https://openai.com/index/two-years-of-openai-academy
-- [News][🟢一次] RinggがOpenAIで顧客対応を最大65%自動化 — https://openai.com/index/ringg
-- [News][🟢一次] AWS BedrockでAIコーディングエージェント活用 — https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock
-- [News][🟢一次] GrabとOpenAIが東南アジアでAIスキルを提供 — https://openai.com/index/grab-openai-ai-skills-southeast-asia
-- [Paper][🟢一次] LLMに人間のスキルを組み込む「SkillGym」 — https://arxiv.org/abs/2609.27717v1
-- [Paper][🟢一次] 画像生成AIの安全性を高める新技術「InGuard」 — https://arxiv.org/abs/2609.27620v1
-- [Paper][🟢一次] ユーザーの状態に応じたLLMエージェント制御技術 — https://arxiv.org/abs/2609.27606v1
+- [News][🟢一次] Gemini 3.8 LiveとLive Avatar発表 — https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar
+- [News][🟢一次] Googleが長尺動画の自動生成を研究 — https://research.google/blog/coherent-long-form-video-generation
+- [Paper][🟢一次] 安全重視のスキンケアAIエージェント「SkinAgent AI」 — https://arxiv.org/abs/2609.29341v1
+- [News][🟢一次] AWS SageMakerでWhisperX話者分離文字起こし — https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai
+- [Paper][🟢一次] LLMエージェントの自己改善環境進化研究 — https://arxiv.org/abs/2609.29773v1
+- [Paper][🟢一次] Claude AIが全コード生成したPythonツールの研究 — https://arxiv.org/abs/2609.29744v1
+- [Paper][🟢一次] LLM深層検索エージェントの新手法「IterSynth」 — https://arxiv.org/abs/2609.29444v1
+- [Paper][🟢一次] オープンLLM「Rufus-Air」の学習レシピ公開 — https://arxiv.org/abs/2609.29421v1
+- [Paper][🟢一次] LLMはコードを修正か再実装か？プログラミング研究 — https://arxiv.org/abs/2609.29410v1
+- [Paper][🟢一次] LLM採点者の成功と限界をCS試験で検証 — https://arxiv.org/abs/2609.29333v1
 
-全文: [`news/2026-09-24.md`](news/2026-09-24.md)
+全文: [`news/2026-09-25.md`](news/2026-09-25.md)
 <!--/LATEST-->
 
 ---
