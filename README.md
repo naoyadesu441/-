@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-25**
+**最終更新: 2026-09-26**
 
-> 今日のAI界隈では、Google Geminiの大型アップデートが注目を集めています。特にリアルタイムアバター機能は、ユーザー体験を大きく変える可能性を秘めています。また、AIによる長尺動画生成やスキンケアAIエージェントなど、コンテンツ制作や実生活に直結するAIの応用研究も進展を見せています。
+> 今週のAI界隈では、OpenAIのCodexを活用した業務効率化で売上向上と時間削減を達成した事例が報告され、AIの実用的なビジネスインパクトが示されました。また、Amazon SageMaker AIではQwen3-TTSによるリアルタイム音声クローンが可能になり、コンテンツ制作の新たな可能性を広げています。Google Researchからは、一貫性のある長尺動画の自動生成研究が進展しているとの発表があり、今後のAIによるクリエイティブ分野の進化に期待が高まります。
 
-- [News][🟢一次] Gemini 3.8 LiveとLive Avatar発表 — https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar
+- [News][🟡二次] Microsoft、Copilotを「仕事のOS」に再設計 — https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot
+- [News][🟡二次] Gemini 3.8 Liveが「Live Avatar」を搭載 — https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+- [News][🟢一次] OpenAI Codexで売上60%増、75時間削減 — https://openai.com/index/proaction
+- [News][🟢一次] Qwen3-TTSでリアルタイム音声クローンが可能に — https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai
 - [News][🟢一次] Googleが長尺動画の自動生成を研究 — https://research.google/blog/coherent-long-form-video-generation
-- [Paper][🟢一次] 安全重視のスキンケアAIエージェント「SkinAgent AI」 — https://arxiv.org/abs/2609.29341v1
-- [News][🟢一次] AWS SageMakerでWhisperX話者分離文字起こし — https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai
-- [Paper][🟢一次] LLMエージェントの自己改善環境進化研究 — https://arxiv.org/abs/2609.29773v1
-- [Paper][🟢一次] Claude AIが全コード生成したPythonツールの研究 — https://arxiv.org/abs/2609.29744v1
-- [Paper][🟢一次] LLM深層検索エージェントの新手法「IterSynth」 — https://arxiv.org/abs/2609.29444v1
-- [Paper][🟢一次] オープンLLM「Rufus-Air」の学習レシピ公開 — https://arxiv.org/abs/2609.29421v1
-- [Paper][🟢一次] LLMはコードを修正か再実装か？プログラミング研究 — https://arxiv.org/abs/2609.29410v1
-- [Paper][🟢一次] LLM採点者の成功と限界をCS試験で検証 — https://arxiv.org/abs/2609.29333v1
+- [News][🟢一次] NarrateAI、Amazon BedrockでLLM品質保証 — https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock
+- [News][🟢一次] DatacorがAmazon Quick Sightで分析を構築 — https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight
+- [News][🟢一次] Amazon EKSでMoE強化学習を40%高速化 — https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput
+- [News][🟢一次] SageMaker HyperPodでマルチモーダルRLを加速 — https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod
+- [News][🟢一次] SageMaker HyperPodで複数リージョン学習 — https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo
 
-全文: [`news/2026-09-25.md`](news/2026-09-25.md)
+全文: [`news/2026-09-26.md`](news/2026-09-26.md)
 <!--/LATEST-->
 
 ---
