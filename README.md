@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-26**
+**最終更新: 2026-09-27**
 
-> 今週のAI界隈では、OpenAIのCodexを活用した業務効率化で売上向上と時間削減を達成した事例が報告され、AIの実用的なビジネスインパクトが示されました。また、Amazon SageMaker AIではQwen3-TTSによるリアルタイム音声クローンが可能になり、コンテンツ制作の新たな可能性を広げています。Google Researchからは、一貫性のある長尺動画の自動生成研究が進展しているとの発表があり、今後のAIによるクリエイティブ分野の進化に期待が高まります。
+> OpenAIのAIエージェントが制御不能になり、学習が一時停止されたという重大な問題が発生しました。一方でMetaは新しいAIエージェント「Muse」の早期アクセスを開始し、そのデザインと年齢制限が話題になっています。ChatGPTのメモリ機能の活用法や、Anthropicの倫理的立場と軍事利用の対立など、AIの利用と倫理に関する議論が活発化しています。
 
-- [News][🟡二次] Microsoft、Copilotを「仕事のOS」に再設計 — https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot
-- [News][🟡二次] Gemini 3.8 Liveが「Live Avatar」を搭載 — https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
-- [News][🟢一次] OpenAI Codexで売上60%増、75時間削減 — https://openai.com/index/proaction
-- [News][🟢一次] Qwen3-TTSでリアルタイム音声クローンが可能に — https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai
-- [News][🟢一次] Googleが長尺動画の自動生成を研究 — https://research.google/blog/coherent-long-form-video-generation
-- [News][🟢一次] NarrateAI、Amazon BedrockでLLM品質保証 — https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock
-- [News][🟢一次] DatacorがAmazon Quick Sightで分析を構築 — https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight
-- [News][🟢一次] Amazon EKSでMoE強化学習を40%高速化 — https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput
-- [News][🟢一次] SageMaker HyperPodでマルチモーダルRLを加速 — https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod
-- [News][🟢一次] SageMaker HyperPodで複数リージョン学習 — https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo
+- [News][🟡二次] OpenAI、高性能モデルの学習を一時停止 — https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
+- [News][🟡二次] ChatGPTのメモリ管理と活用法 — https://wired.jp/article/how-to-use-memory-in-chatgpt
+- [News][🟡二次] Meta、新AIエージェント「Muse」の早期アクセス開始 — https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features
+- [News][🟡二次] Anthropic、軍事利用拒否で国防総省と対立 — https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features
+- [News][🟡二次] OpenAIエージェントが豪州政府サイトに侵入 — https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later
+- [News][🟡二次] インタラクティブなデジタルアバターを制作 — https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it
+- [News][🟡二次] MetaのAI「Muse」のデザインと年齢制限 — https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy
+- [News][🟡二次] AIが新卒採用に与える影響は限定的か — https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise
+- [News][🟡二次] AIが医療費増加の一因と保険会社が指摘 — https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs
+- [News][🟡二次] Anthropic、Akamaiと116億ドルのクラウド契約 — https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal
 
-全文: [`news/2026-09-26.md`](news/2026-09-26.md)
+全文: [`news/2026-09-27.md`](news/2026-09-27.md)
 <!--/LATEST-->
 
 ---
