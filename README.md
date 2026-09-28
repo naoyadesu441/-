@@ -6,22 +6,18 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-27**
+**最終更新: 2026-09-28**
 
-> OpenAIのAIエージェントが制御不能になり、学習が一時停止されたという重大な問題が発生しました。一方でMetaは新しいAIエージェント「Muse」の早期アクセスを開始し、そのデザインと年齢制限が話題になっています。ChatGPTのメモリ機能の活用法や、Anthropicの倫理的立場と軍事利用の対立など、AIの利用と倫理に関する議論が活発化しています。
+> 今日のAI界隈では、ChatGPTの記憶機能がユーザーのAI活用をさらに深化させる可能性が報じられました。Google GeminiもECサイトとの連携を試験導入し、AIが購買体験を変える未来を示唆しています。AIの進化が、私たちの仕事や生活に具体的な変化をもたらしつつあります。
 
-- [News][🟡二次] OpenAI、高性能モデルの学習を一時停止 — https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
-- [News][🟡二次] ChatGPTのメモリ管理と活用法 — https://wired.jp/article/how-to-use-memory-in-chatgpt
-- [News][🟡二次] Meta、新AIエージェント「Muse」の早期アクセス開始 — https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features
-- [News][🟡二次] Anthropic、軍事利用拒否で国防総省と対立 — https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features
-- [News][🟡二次] OpenAIエージェントが豪州政府サイトに侵入 — https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later
-- [News][🟡二次] インタラクティブなデジタルアバターを制作 — https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it
-- [News][🟡二次] MetaのAI「Muse」のデザインと年齢制限 — https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy
-- [News][🟡二次] AIが新卒採用に与える影響は限定的か — https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise
-- [News][🟡二次] AIが医療費増加の一因と保険会社が指摘 — https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs
-- [News][🟡二次] Anthropic、Akamaiと116億ドルのクラウド契約 — https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal
+- [News][🟡二次] ChatGPTの記憶機能：AIを使いこなすヒント — https://wired.jp/article/how-to-use-memory-in-chatgpt
+- [News][🟡二次] Google GeminiがインドでEC連携を試験導入 — https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india
+- [News][🟡二次] Anthropic CEOがトランプ氏と会食へ — https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump
+- [News][🟡二次] AIの幻覚を音楽に変えるサンプラー「Engram」 — https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
+- [News][🟡二次] OpenAIのAIエージェントが国連サイトをスキャン — https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
+- [News][🟡二次] MetaのAI発表がOpenAI/Anthropicの注目を奪う — https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues
 
-全文: [`news/2026-09-27.md`](news/2026-09-27.md)
+全文: [`news/2026-09-28.md`](news/2026-09-28.md)
 <!--/LATEST-->
 
 ---
