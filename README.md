@@ -6,18 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-28**
+**最終更新: 2026-09-29**
 
-> 今日のAI界隈では、ChatGPTの記憶機能がユーザーのAI活用をさらに深化させる可能性が報じられました。Google GeminiもECサイトとの連携を試験導入し、AIが購買体験を変える未来を示唆しています。AIの進化が、私たちの仕事や生活に具体的な変化をもたらしつつあります。
+> 今週は主要AIモデルのアップデートと、実用的なAIツールの登場が目立ちます。AnthropicのClaude Sonnet 5.5やxAIのGrok 4.7がAWS Bedrockで利用可能になり、より高性能なモデルが開発者に提供されます。また、OpenAIのGPT-6 Astraが税務作業を2倍高速化するなど、AIによる業務効率化の具体的な事例も報告されており、副業や仕事効率化を目指すユーザーにとって見逃せない情報が豊富です。
 
-- [News][🟡二次] ChatGPTの記憶機能：AIを使いこなすヒント — https://wired.jp/article/how-to-use-memory-in-chatgpt
-- [News][🟡二次] Google GeminiがインドでEC連携を試験導入 — https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india
-- [News][🟡二次] Anthropic CEOがトランプ氏と会食へ — https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump
-- [News][🟡二次] AIの幻覚を音楽に変えるサンプラー「Engram」 — https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
-- [News][🟡二次] OpenAIのAIエージェントが国連サイトをスキャン — https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
-- [News][🟡二次] MetaのAI発表がOpenAI/Anthropicの注目を奪う — https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues
+- [News][🟢一次] Claude Sonnet 5.5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws
+- [News][🟢一次] GPT-6 Astraで税務作業が2倍高速化 — https://openai.com/index/basis-tax-workbook-with-astra
+- [News][🟢一次] xAIのGrok 4.7がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock
+- [News][🟢一次] SageMaker AIで画像・動画生成AIをデプロイ — https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2
+- [News][🟢一次] Hugging Face、汎用AIエージェント「Holo4」を発表 — https://huggingface.co/blog/Hcompany/holo4
+- [News][🟢一次] SageMaker AIでリアルタイム音声アプリ構築 — https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1
+- [Paper][🟢一次] LLMの「AI臭さ」を評価する新ベンチマーク — https://arxiv.org/abs/2609.33905v1
+- [Paper][🟢一次] Phi-2 SLMのチャットボット最適化手法 — https://arxiv.org/abs/2609.33927v1
+- [Paper][🟢一次] LLMエージェントによる株価予測の信頼性向上 — https://arxiv.org/abs/2609.34004v1
+- [Paper][🟢一次] LLMファインチューニングのプライバシー問題 — https://arxiv.org/abs/2609.33985v1
 
-全文: [`news/2026-09-28.md`](news/2026-09-28.md)
+全文: [`news/2026-09-29.md`](news/2026-09-29.md)
 <!--/LATEST-->
 
 ---
