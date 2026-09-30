@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-29**
+**最終更新: 2026-09-30**
 
-> 今週は主要AIモデルのアップデートと、実用的なAIツールの登場が目立ちます。AnthropicのClaude Sonnet 5.5やxAIのGrok 4.7がAWS Bedrockで利用可能になり、より高性能なモデルが開発者に提供されます。また、OpenAIのGPT-6 Astraが税務作業を2倍高速化するなど、AIによる業務効率化の具体的な事例も報告されており、副業や仕事効率化を目指すユーザーにとって見逃せない情報が豊富です。
+> OpenAIが新モデル「GPT-6.1 Sol」とプロアクティブなAIアシスタント「dots」を発表し、AIの性能向上と実用的な仕事効率化ツールが拡充されました。また、Amazon BedrockではClaudeモデルの地域展開やGPT-6.1 Solの提供が始まり、プロンプトエンジニアリングの基礎ガイドも公開され、AI活用がさらに進む見込みです。
 
-- [News][🟢一次] Claude Sonnet 5.5がAWSで提供開始 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws
-- [News][🟢一次] GPT-6 Astraで税務作業が2倍高速化 — https://openai.com/index/basis-tax-workbook-with-astra
-- [News][🟢一次] xAIのGrok 4.7がAmazon Bedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock
-- [News][🟢一次] SageMaker AIで画像・動画生成AIをデプロイ — https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2
-- [News][🟢一次] Hugging Face、汎用AIエージェント「Holo4」を発表 — https://huggingface.co/blog/Hcompany/holo4
-- [News][🟢一次] SageMaker AIでリアルタイム音声アプリ構築 — https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1
-- [Paper][🟢一次] LLMの「AI臭さ」を評価する新ベンチマーク — https://arxiv.org/abs/2609.33905v1
-- [Paper][🟢一次] Phi-2 SLMのチャットボット最適化手法 — https://arxiv.org/abs/2609.33927v1
-- [Paper][🟢一次] LLMエージェントによる株価予測の信頼性向上 — https://arxiv.org/abs/2609.34004v1
-- [Paper][🟢一次] LLMファインチューニングのプライバシー問題 — https://arxiv.org/abs/2609.33985v1
+- [News][🟢一次] OpenAIが新モデル「GPT-6.1 Sol」を発表 — https://openai.com/index/introducing-gpt-6-1-sol
+- [News][🟢一次] OpenAI DevDay 2026の主要発表を総括 — https://openai.com/index/devday-2026-recap
+- [News][🟢一次] Amazon BedrockでGPT-6.1 Solが利用可能に — https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock
+- [News][🟢一次] Amazon Quickのプロンプトエンジニアリング基礎 — https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick
+- [News][🟢一次] Amazon Quickのプロンプトエンジニアリング実践 — https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls
+- [Paper][🟢一次] PC操作を効率化するAIエージェント研究 — https://arxiv.org/abs/2609.36927v1
+- [Paper][🟢一次] 多人数・長時間の会話に対応する音声モデル — https://arxiv.org/abs/2609.36903v1
+- [News][🟢一次] Amazon BedrockがインドでClaudeモデル提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference
+- [News][🟢一次] Amazon Bedrockがソウル・シンガポールでClaude提供 — https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore
+- [News][🟢一次] AI画像生成を統合・簡素化する新手法 — https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation
 
-全文: [`news/2026-09-29.md`](news/2026-09-29.md)
+全文: [`news/2026-09-30.md`](news/2026-09-30.md)
 <!--/LATEST-->
 
 ---
