@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-09-30**
+**最終更新: 2026-10-01**
 
-> OpenAIが新モデル「GPT-6.1 Sol」とプロアクティブなAIアシスタント「dots」を発表し、AIの性能向上と実用的な仕事効率化ツールが拡充されました。また、Amazon BedrockではClaudeモデルの地域展開やGPT-6.1 Solの提供が始まり、プロンプトエンジニアリングの基礎ガイドも公開され、AI活用がさらに進む見込みです。
+> 今週は、Googleが次世代AIモデル「Gemini 4 Argon」を発表し、AI技術のさらなる進化を示唆しました。また、OpenAIは中小企業向けのAI活用支援を強化し、副業や業務効率化を目指すユーザーにとって実践的なAI導入の機会を広げています。Hugging Faceからは多言語TTS/音声クローン評価ツールが登場し、コンテンツ制作におけるAI活用を後押しする動きも見られます。
 
-- [News][🟢一次] OpenAIが新モデル「GPT-6.1 Sol」を発表 — https://openai.com/index/introducing-gpt-6-1-sol
-- [News][🟢一次] OpenAI DevDay 2026の主要発表を総括 — https://openai.com/index/devday-2026-recap
-- [News][🟢一次] Amazon BedrockでGPT-6.1 Solが利用可能に — https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock
-- [News][🟢一次] Amazon Quickのプロンプトエンジニアリング基礎 — https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick
-- [News][🟢一次] Amazon Quickのプロンプトエンジニアリング実践 — https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls
-- [Paper][🟢一次] PC操作を効率化するAIエージェント研究 — https://arxiv.org/abs/2609.36927v1
-- [Paper][🟢一次] 多人数・長時間の会話に対応する音声モデル — https://arxiv.org/abs/2609.36903v1
-- [News][🟢一次] Amazon BedrockがインドでClaudeモデル提供開始 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference
-- [News][🟢一次] Amazon Bedrockがソウル・シンガポールでClaude提供 — https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore
-- [News][🟢一次] AI画像生成を統合・簡素化する新手法 — https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation
+- [News][🟢一次] Googleが次世代AI「Gemini 4 Argon」発表 — https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
+- [News][🟢一次] OpenAIが中小企業のAI活用を支援 — https://openai.com/index/helping-small-businesses-put-ai-to-work
+- [News][🟢一次] Hugging Faceが多言語TTS評価ツール公開 — https://huggingface.co/blog/open-tts-leaderboard
+- [News][🟢一次] Amazon Bedrockで対話型AIアシスタント構築 — https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases
+- [News][🟢一次] AWS BedrockでマルチAI音楽制作パイプライン — https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances
+- [Paper][🟢一次] LLMがプログラム実行エラーを自動修復 — https://arxiv.org/abs/2609.39086v1
+- [Paper][🟢一次] AIコーディングエージェントが数学問題に挑戦 — https://arxiv.org/abs/2609.39081v1
+- [News][🟢一次] OpenAIが不正モデル抽出を阻止 — https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+- [Paper][🟢一次] 深層研究AIエージェントの計画手法 — https://arxiv.org/abs/2609.39154v1
+- [Paper][🟢一次] LLMエージェントのスキル自己進化を促進 — https://arxiv.org/abs/2609.39149v1
 
-全文: [`news/2026-09-30.md`](news/2026-09-30.md)
+全文: [`news/2026-10-01.md`](news/2026-10-01.md)
 <!--/LATEST-->
 
 ---
