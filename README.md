@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-01**
+**最終更新: 2026-10-02**
 
-> 今週は、Googleが次世代AIモデル「Gemini 4 Argon」を発表し、AI技術のさらなる進化を示唆しました。また、OpenAIは中小企業向けのAI活用支援を強化し、副業や業務効率化を目指すユーザーにとって実践的なAI導入の機会を広げています。Hugging Faceからは多言語TTS/音声クローン評価ツールが登場し、コンテンツ制作におけるAI活用を後押しする動きも見られます。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Googleが次世代AI「Gemini 4 Argon」発表 — https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
-- [News][🟢一次] OpenAIが中小企業のAI活用を支援 — https://openai.com/index/helping-small-businesses-put-ai-to-work
-- [News][🟢一次] Hugging Faceが多言語TTS評価ツール公開 — https://huggingface.co/blog/open-tts-leaderboard
-- [News][🟢一次] Amazon Bedrockで対話型AIアシスタント構築 — https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases
-- [News][🟢一次] AWS BedrockでマルチAI音楽制作パイプライン — https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances
-- [Paper][🟢一次] LLMがプログラム実行エラーを自動修復 — https://arxiv.org/abs/2609.39086v1
-- [Paper][🟢一次] AIコーディングエージェントが数学問題に挑戦 — https://arxiv.org/abs/2609.39081v1
-- [News][🟢一次] OpenAIが不正モデル抽出を阻止 — https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
-- [Paper][🟢一次] 深層研究AIエージェントの計画手法 — https://arxiv.org/abs/2609.39154v1
-- [Paper][🟢一次] LLMエージェントのスキル自己進化を促進 — https://arxiv.org/abs/2609.39149v1
+- [News][🟢一次] How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast — https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast
+- [News][🟢一次] The eternal complement — https://openai.com/index/the-eternal-complement
+- [News][🟢一次] How Albertsons Companies is reimagining retail from the inside out — https://openai.com/index/albertsons-reimagining-retail
+- [News][🟢一次] Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore
+- [News][🟢一次] Serve live, governed data in AI-built apps with Amazon Quick — https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick
+- [News][🟢一次] Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors — https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors
+- [News][🟢一次] Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS — https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws
+- [News][🟢一次] Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows — https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows
+- [News][🟢一次] Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs — https://huggingface.co/blog/allenai/olmocore3
+- [News][🟢一次] Implementing Multi-Environment Access for Claude Platform on AWS — https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws
 
-全文: [`news/2026-10-01.md`](news/2026-10-01.md)
+全文: [`news/2026-10-02.md`](news/2026-10-02.md)
 <!--/LATEST-->
 
 ---
