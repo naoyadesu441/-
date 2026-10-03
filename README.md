@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-02**
+**最終更新: 2026-10-03**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> OpenAIの次世代モデルGPT-6の超高速版がAPIやChatGPT Workで利用可能になり、大幅な性能向上が実現しました。また、Claude DesktopにはWeb検索機能が追加され、AIエージェントの実用性が向上しています。NVIDIAはローカルAI開発向けのハードウェアを強化し、AWSはAIを活用した企業向けソリューションを拡充するなど、主要プレイヤーによるAIの進化と実用化が進んでいます。
 
-- [News][🟢一次] How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast — https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast
-- [News][🟢一次] The eternal complement — https://openai.com/index/the-eternal-complement
-- [News][🟢一次] How Albertsons Companies is reimagining retail from the inside out — https://openai.com/index/albertsons-reimagining-retail
-- [News][🟢一次] Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore
-- [News][🟢一次] Serve live, governed data in AI-built apps with Amazon Quick — https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick
-- [News][🟢一次] Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors — https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors
-- [News][🟢一次] Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS — https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws
-- [News][🟢一次] Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows — https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows
-- [News][🟢一次] Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs — https://huggingface.co/blog/allenai/olmocore3
-- [News][🟢一次] Implementing Multi-Environment Access for Claude Platform on AWS — https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws
+- [News][🟢一次] GPT-6 Astra Ultrafastが8倍高速化 — https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast
+- [News][🟢一次] Claude DesktopにWeb検索機能を追加 — https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore
+- [News][🟢一次] GPT-6モデル活用ガイド：スタートアップ向け — https://openai.com/index/practical-guide-building-gpt-6
+- [News][🟢一次] 高速レポート生成モデルAstaBriefを公開 — https://huggingface.co/blog/allenai/astabrief
+- [News][🟢一次] NVIDIA DGX Spark 64GBでローカルAI開発強化 — https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync
+- [News][🟢一次] Amazon QuickでAIアプリがリアルタイムデータ活用 — https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick
+- [News][🟢一次] Amazon Quickでリース契約遵守を効率化 — https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern
+- [News][🟢一次] SageMaker AIで検索エージェントを微調整 — https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai
+- [News][🟢一次] ChathamがOpenAIで取引検証を高速化 — https://openai.com/index/chatham-financial
+- [News][🟢一次] 企業向けAIエージェントの学習データ自動生成 — https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 
-全文: [`news/2026-10-02.md`](news/2026-10-02.md)
+全文: [`news/2026-10-03.md`](news/2026-10-03.md)
 <!--/LATEST-->
 
 ---
