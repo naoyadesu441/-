@@ -6,20 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-05**
+**最終更新: 2026-10-06**
 
-> GoogleがAI生成コンテンツの急増によりバグ報奨金プログラムを一時凍結するなど、AIの品質や悪用に関する課題が顕在化しています。また、AIエージェントの信頼性についても議論が深まっています。一方で、動画編集AI「LaunchReel」やAI顧客サポート「Sellio」といった、副業や仕事効率化に直結する実用的なAIツールも登場し、AIの活用範囲は広がり続けています。
+> 今週のAI界隈では、OpenAIがChatGPTに新たな広告フォーマットを導入し、SNSマーケティングに直結する動きを見せました。また、AWS BedrockではAnthropicのClaude 5.5や新モデルGLM 5.3が利用可能になり、エージェント型AIやコーディング支援の進化が加速しています。AIの生産性向上や経済的影響に関する研究も注目されており、実用的なAI活用への関心が高まっています。
 
-- [ProductHunt][🟡二次] Claudeデザインの高速動画編集AI「LaunchReel」 — https://www.producthunt.com/products/launchreel-2
-- [News][🟡二次] Google、AI提出急増でバグ報奨金プログラム凍結 — https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions
-- [News][🟡二次] AIがStarCraftで人間に勝てず「チート」 — https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
-- [ProductHunt][🟡二次] AI顧客サポートツール「Sellio」登場 — https://www.producthunt.com/products/sellio-2
-- [News][🟢一次] AIエージェントの「完了」とデータベースの食い違い — https://huggingface.co/blog/microsoft/thinkingbox
-- [News][🟡二次] トランプ氏、新「スーパーインテリジェンス部隊」を発表 — https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force
-- [News][🟡二次] 元副知事がAIでセクハラ無実を主張 — https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true
-- [ProductHunt][🟡二次] AIが自身のコードをチェックするエディタ「Aperture」 — https://www.producthunt.com/products/aperture-7
+- [News][🟢一次] ChatGPTに新広告フォーマット導入 — https://openai.com/index/new-chatgpt-ads-format-and-measurement
+- [News][🟢一次] AWS Bedrockに新モデルGLM 5.3登場 — https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock
+- [News][🟢一次] Claude Opus/Sonnet 5.5がBedrockに — https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock
+- [News][🟢一次] LangChainでエージェント型RAG構築 — https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases
+- [Paper][🟢一次] AI活用で生産性を最大化する鍵 — https://arxiv.org/abs/2610.05697v1
+- [News][🟢一次] OpenAI、EUの透かし規則に対応 — https://openai.com/index/eu-text-provenance
+- [News][🟢一次] SageMakerに新AIエージェントスキル — https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent
+- [News][🟢一次] マルチエージェント評価の新手法 — https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore
+- [Paper][🟢一次] 個人AIアシスタントの経済効果 — https://arxiv.org/abs/2610.05823v1
+- [Paper][🟢一次] LLM文献検索の誤りを比較検証 — https://arxiv.org/abs/2610.05690v1
 
-全文: [`news/2026-10-05.md`](news/2026-10-05.md)
+全文: [`news/2026-10-06.md`](news/2026-10-06.md)
 <!--/LATEST-->
 
 ---
