@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-06**
+**最終更新: 2026-10-07**
 
-> 今週のAI界隈では、OpenAIがChatGPTに新たな広告フォーマットを導入し、SNSマーケティングに直結する動きを見せました。また、AWS BedrockではAnthropicのClaude 5.5や新モデルGLM 5.3が利用可能になり、エージェント型AIやコーディング支援の進化が加速しています。AIの生産性向上や経済的影響に関する研究も注目されており、実用的なAI活用への関心が高まっています。
+> 今週は、個人向けAIエージェントのオープンソース化や、OpenAIとAtlassianの提携拡大など、AIの応用範囲が広がるニュースが目立ちました。特に、文脈を記憶するAIアシスタントの構築や、LLMエージェントのコスト効率化・高速化に関する進展は、副業や業務効率化を目指すAIユーザーにとって注目すべき点です。
 
-- [News][🟢一次] ChatGPTに新広告フォーマット導入 — https://openai.com/index/new-chatgpt-ads-format-and-measurement
-- [News][🟢一次] AWS Bedrockに新モデルGLM 5.3登場 — https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock
-- [News][🟢一次] Claude Opus/Sonnet 5.5がBedrockに — https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock
-- [News][🟢一次] LangChainでエージェント型RAG構築 — https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases
-- [Paper][🟢一次] AI活用で生産性を最大化する鍵 — https://arxiv.org/abs/2610.05697v1
-- [News][🟢一次] OpenAI、EUの透かし規則に対応 — https://openai.com/index/eu-text-provenance
-- [News][🟢一次] SageMakerに新AIエージェントスキル — https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent
-- [News][🟢一次] マルチエージェント評価の新手法 — https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore
-- [Paper][🟢一次] 個人AIアシスタントの経済効果 — https://arxiv.org/abs/2610.05823v1
-- [Paper][🟢一次] LLM文献検索の誤りを比較検証 — https://arxiv.org/abs/2610.05690v1
+- [Paper][🟢一次] オープンソースの個人用AIエージェント「nanoMuse」登場 — https://arxiv.org/abs/2610.08699v1
+- [News][🟢一次] Googleが軽量マルチモーダル埋め込みモデル「EmbeddingGemma 2」発表 — https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
+- [News][🟢一次] AtlassianとOpenAIが提携拡大、企業知識をAI活用へ — https://openai.com/index/atlassian-partnership
+- [News][🟢一次] AWSで文脈理解AIアシスタント構築、記憶機能搭載 — https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw
+- [News][🟢一次] AWS Bedrockで音声旅行コンシェルジュを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic
+- [Paper][🟢一次] LLMエージェントが能力を安価な成果物に変換可能か — https://arxiv.org/abs/2610.08775v1
+- [Paper][🟢一次] 長期会話AIエージェントの記憶スキーマ進化手法 — https://arxiv.org/abs/2610.08586v1
+- [Paper][🟢一次] LLMエージェントの効率的な並列化と協調手法「SquidAgent」 — https://arxiv.org/abs/2610.08647v1
+- [News][🟢一次] Jump TradingがChatGPTで定量分析を拡大 — https://openai.com/index/jump-trading
+- [News][🟢一次] OpenAIとIroncladがAIエージェントで業務自動化を推進 — https://openai.com/index/advancing-computer-use-with-ironclad
 
-全文: [`news/2026-10-06.md`](news/2026-10-06.md)
+全文: [`news/2026-10-07.md`](news/2026-10-07.md)
 <!--/LATEST-->
 
 ---
