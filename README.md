@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-07**
+**最終更新: 2026-10-08**
 
-> 今週は、個人向けAIエージェントのオープンソース化や、OpenAIとAtlassianの提携拡大など、AIの応用範囲が広がるニュースが目立ちました。特に、文脈を記憶するAIアシスタントの構築や、LLMエージェントのコスト効率化・高速化に関する進展は、副業や業務効率化を目指すAIユーザーにとって注目すべき点です。
+> 今日のAI界隈では、NVIDIAとMicrosoftがWindows PC向けAIエージェントの共同開発を発表し、一般ユーザーのPC体験を大きく変える可能性を示しました。また、OpenAIはChatGPTに10代向けの大学進学支援機能を追加し、AWSはClaude Haiku 5.5の高速・低コスト提供を開始するなど、主要なAIサービスの機能強化や普及に向けた動きが活発です。さらに、AWSは非技術者向けのAI構築プレイブックを公開し、AI活用へのハードルを下げる取り組みも進んでいます。
 
-- [Paper][🟢一次] オープンソースの個人用AIエージェント「nanoMuse」登場 — https://arxiv.org/abs/2610.08699v1
-- [News][🟢一次] Googleが軽量マルチモーダル埋め込みモデル「EmbeddingGemma 2」発表 — https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
-- [News][🟢一次] AtlassianとOpenAIが提携拡大、企業知識をAI活用へ — https://openai.com/index/atlassian-partnership
-- [News][🟢一次] AWSで文脈理解AIアシスタント構築、記憶機能搭載 — https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw
-- [News][🟢一次] AWS Bedrockで音声旅行コンシェルジュを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic
-- [Paper][🟢一次] LLMエージェントが能力を安価な成果物に変換可能か — https://arxiv.org/abs/2610.08775v1
-- [Paper][🟢一次] 長期会話AIエージェントの記憶スキーマ進化手法 — https://arxiv.org/abs/2610.08586v1
-- [Paper][🟢一次] LLMエージェントの効率的な並列化と協調手法「SquidAgent」 — https://arxiv.org/abs/2610.08647v1
-- [News][🟢一次] Jump TradingがChatGPTで定量分析を拡大 — https://openai.com/index/jump-trading
-- [News][🟢一次] OpenAIとIroncladがAIエージェントで業務自動化を推進 — https://openai.com/index/advancing-computer-use-with-ironclad
+- [News][🟢一次] NVIDIAとMSがWindows PC向けAIエージェントを発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event
+- [News][🟢一次] ChatGPTが10代向け大学進学支援機能を強化 — https://openai.com/index/teens-learn-and-plan
+- [News][🟢一次] Claude Haiku 5.5がAWSで提供開始、高速化と低コスト化 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws
+- [News][🟢一次] AWSが非技術者向けAI構築プレイブックを公開 — https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap
+- [News][🟢一次] ラディソンホテルがChatGPTプラグインでホテル予約を統合 — https://openai.com/index/radisson
+- [News][🟢一次] Microsoftが軽量AIエージェント学習フレームワークを公開 — https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses
+- [Paper][🟢一次] 生成音声の感情を制御する新手法「Steerspeech」 — https://arxiv.org/abs/2610.10415v1
+- [Paper][🟢一次] AIエージェントによる株式オプション取引研究 — https://arxiv.org/abs/2610.10407v1
+- [Paper][🟢一次] テキストから音楽生成AIの意図調整エージェント「MIRA」 — https://arxiv.org/abs/2610.10355v1
+- [News][🟢一次] Googleがカスタムゲーム作成ツール「Playground」を発表 — https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform
 
-全文: [`news/2026-10-07.md`](news/2026-10-07.md)
+全文: [`news/2026-10-08.md`](news/2026-10-08.md)
 <!--/LATEST-->
 
 ---
