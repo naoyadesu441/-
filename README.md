@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-08**
+**最終更新: 2026-10-09**
 
-> 今日のAI界隈では、NVIDIAとMicrosoftがWindows PC向けAIエージェントの共同開発を発表し、一般ユーザーのPC体験を大きく変える可能性を示しました。また、OpenAIはChatGPTに10代向けの大学進学支援機能を追加し、AWSはClaude Haiku 5.5の高速・低コスト提供を開始するなど、主要なAIサービスの機能強化や普及に向けた動きが活発です。さらに、AWSは非技術者向けのAI構築プレイブックを公開し、AI活用へのハードルを下げる取り組みも進んでいます。
+> 今週のAIニュースでは、OpenAIの未発表モデル（GPT-5.6, GPT-6 Astra, GPT-Image-2.5）を活用した広告制作効率化ツールが登場し、SNSマーケティング業界に大きなインパクトを与えそうです。また、OracleがChatGPTとCodexで業務を数日から数分に短縮した事例や、LegalOnがCodexのコストを大幅削減した事例が公開され、AIによる仕事効率化とコスト最適化の具体的なヒントが示されました。一方で、AIエージェントのセキュリティインシデントや「人口爆発」リスクに関する研究も進んでおり、AIの安全な利用に向けた議論が活発化しています。
 
-- [News][🟢一次] NVIDIAとMSがWindows PC向けAIエージェントを発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event
-- [News][🟢一次] ChatGPTが10代向け大学進学支援機能を強化 — https://openai.com/index/teens-learn-and-plan
-- [News][🟢一次] Claude Haiku 5.5がAWSで提供開始、高速化と低コスト化 — https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws
-- [News][🟢一次] AWSが非技術者向けAI構築プレイブックを公開 — https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap
-- [News][🟢一次] ラディソンホテルがChatGPTプラグインでホテル予約を統合 — https://openai.com/index/radisson
-- [News][🟢一次] Microsoftが軽量AIエージェント学習フレームワークを公開 — https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses
-- [Paper][🟢一次] 生成音声の感情を制御する新手法「Steerspeech」 — https://arxiv.org/abs/2610.10415v1
-- [Paper][🟢一次] AIエージェントによる株式オプション取引研究 — https://arxiv.org/abs/2610.10407v1
-- [Paper][🟢一次] テキストから音楽生成AIの意図調整エージェント「MIRA」 — https://arxiv.org/abs/2610.10355v1
-- [News][🟢一次] Googleがカスタムゲーム作成ツール「Playground」を発表 — https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform
+- [News][🟢一次] OpenAI新モデルで広告制作を効率化 — https://openai.com/index/pollo-ai
+- [News][🟢一次] OracleがChatGPTで業務を数日から数分に短縮 — https://openai.com/index/oracle
+- [News][🟢一次] LegalOnがCodexコストを65%削減 — https://openai.com/index/legalon-halves-codex-costs
+- [News][🟢一次] NVIDIA OmniverseでAIエージェントがシミュレーションを加速 — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
+- [News][🟢一次] AWS Bedrock AgentCoreでAIエージェントの従量課金 — https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments
+- [Paper][🟢一次] AIエージェントのセキュリティインシデント事例 — https://arxiv.org/abs/2610.12463v1
+- [Paper][🟢一次] AIエージェントの「人口爆発」リスクを研究 — https://arxiv.org/abs/2610.12436v1
+- [Paper][🟢一次] VLMエージェントが視覚スキルを学習・進化 — https://arxiv.org/abs/2610.12403v1
+- [Paper][🟢一次] LLMエージェントのリアルタイム監視・介入技術 — https://arxiv.org/abs/2610.12375v1
+- [Paper][🟢一次] AIエージェントのガードレールを突破する攻撃手法 — https://arxiv.org/abs/2610.12292v1
 
-全文: [`news/2026-10-08.md`](news/2026-10-08.md)
+全文: [`news/2026-10-09.md`](news/2026-10-09.md)
 <!--/LATEST-->
 
 ---
