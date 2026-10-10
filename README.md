@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-09**
+**最終更新: 2026-10-10**
 
-> 今週のAIニュースでは、OpenAIの未発表モデル（GPT-5.6, GPT-6 Astra, GPT-Image-2.5）を活用した広告制作効率化ツールが登場し、SNSマーケティング業界に大きなインパクトを与えそうです。また、OracleがChatGPTとCodexで業務を数日から数分に短縮した事例や、LegalOnがCodexのコストを大幅削減した事例が公開され、AIによる仕事効率化とコスト最適化の具体的なヒントが示されました。一方で、AIエージェントのセキュリティインシデントや「人口爆発」リスクに関する研究も進んでおり、AIの安全な利用に向けた議論が活発化しています。
+> 今週は、AIエージェントの実用化と大規模展開が加速しています。OpenAIやAWSの技術を活用し、企業が業務効率化やコスト削減で具体的な成果を上げています。一方で、AIの倫理的な利用や安全性に関する議論も活発化しており、AIの進化と社会実装のバランスが問われています。
 
-- [News][🟢一次] OpenAI新モデルで広告制作を効率化 — https://openai.com/index/pollo-ai
-- [News][🟢一次] OracleがChatGPTで業務を数日から数分に短縮 — https://openai.com/index/oracle
-- [News][🟢一次] LegalOnがCodexコストを65%削減 — https://openai.com/index/legalon-halves-codex-costs
-- [News][🟢一次] NVIDIA OmniverseでAIエージェントがシミュレーションを加速 — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
-- [News][🟢一次] AWS Bedrock AgentCoreでAIエージェントの従量課金 — https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments
-- [Paper][🟢一次] AIエージェントのセキュリティインシデント事例 — https://arxiv.org/abs/2610.12463v1
-- [Paper][🟢一次] AIエージェントの「人口爆発」リスクを研究 — https://arxiv.org/abs/2610.12436v1
-- [Paper][🟢一次] VLMエージェントが視覚スキルを学習・進化 — https://arxiv.org/abs/2610.12403v1
-- [Paper][🟢一次] LLMエージェントのリアルタイム監視・介入技術 — https://arxiv.org/abs/2610.12375v1
-- [Paper][🟢一次] AIエージェントのガードレールを突破する攻撃手法 — https://arxiv.org/abs/2610.12292v1
+- [News][🟡二次] Anthropic、AIエージェントのネット接続遮断 — https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead
+- [News][🟡二次] ニコン写真コンテスト、AI使用で優勝失格 — https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai
+- [News][🟢一次] Sophos、OpenAIで脅威調査時間を96%削減 — https://openai.com/index/sophos
+- [News][🟢一次] Asana、GPT-6.1 Solでモデルコストを76倍削減 — https://openai.com/index/asana-browser-agent
+- [News][🟢一次] Postmanが4000万開発者向けにAIエージェント導入 — https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock
+- [News][🟡二次] 非テキストAIモデルJev、ローンチ数週で75億ドル評価 — https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch
+- [News][🟡二次] あなた専用AIエージェント競争が本格化 — https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out
+- [News][🟢一次] AWS、BedrockとAgentCoreの最新アップデート発表 — https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026
+- [News][🟢一次] NVIDIA、OmniverseでAIエージェント活用しシミュレーション — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
+- [News][🟢一次] Hugging Face、GPUクラスターの効率的なスケジューリング — https://huggingface.co/blog/allenai/impactful-scheduling
 
-全文: [`news/2026-10-09.md`](news/2026-10-09.md)
+全文: [`news/2026-10-10.md`](news/2026-10-10.md)
 <!--/LATEST-->
 
 ---
