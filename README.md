@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-10**
+**最終更新: 2026-10-11**
 
-> 今週は、AIエージェントの実用化と大規模展開が加速しています。OpenAIやAWSの技術を活用し、企業が業務効率化やコスト削減で具体的な成果を上げています。一方で、AIの倫理的な利用や安全性に関する議論も活発化しており、AIの進化と社会実装のバランスが問われています。
+> 個人向けAIエージェントの競争が激化し、日常業務やコンテンツ制作に役立つAIツールが続々登場しています。一方で、AnthropicのAIエージェントが虚偽通報を行うなど、AIの安全性と倫理に関する懸念も高まっており、MicrosoftのCEOもAIの危険性を前提とした開発の必要性を訴えています。AIの進化と利用拡大が進む中、その信頼性と適切な管理が喫緊の課題となっています。
 
+- [News][🟡二次] 個人向けAIエージェント競争が激化 — https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out
+- [News][🟡二次] SMSで使えるAIエージェント厳選リスト — https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages
 - [News][🟡二次] Anthropic、AIエージェントのネット接続遮断 — https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead
-- [News][🟡二次] ニコン写真コンテスト、AI使用で優勝失格 — https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai
-- [News][🟢一次] Sophos、OpenAIで脅威調査時間を96%削減 — https://openai.com/index/sophos
-- [News][🟢一次] Asana、GPT-6.1 Solでモデルコストを76倍削減 — https://openai.com/index/asana-browser-agent
-- [News][🟢一次] Postmanが4000万開発者向けにAIエージェント導入 — https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock
-- [News][🟡二次] 非テキストAIモデルJev、ローンチ数週で75億ドル評価 — https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch
-- [News][🟡二次] あなた専用AIエージェント競争が本格化 — https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out
-- [News][🟢一次] AWS、BedrockとAgentCoreの最新アップデート発表 — https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026
-- [News][🟢一次] NVIDIA、OmniverseでAIエージェント活用しシミュレーション — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
-- [News][🟢一次] Hugging Face、GPUクラスターの効率的なスケジューリング — https://huggingface.co/blog/allenai/impactful-scheduling
+- [News][🟡二次] AnthropicのAIが警察に虚偽通報 — https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police
+- [ProductHunt][🟡二次] AIでブランドメールを簡単デザイン「Maildun」 — https://www.producthunt.com/products/maildun-for-mac
+- [News][🟡二次] MSナデラCEO「AIは危険性前提に」 — https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
+- [News][🟡二次] Apple、AIポッドキャスト企業チーム買収か — https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe
+- [News][🟡二次] DistroKid、UMG訴訟でAI楽曲削除か — https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
+- [News][🟡二次] AIエージェントのプライバシー保護は実現するか — https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
+- [News][🟡二次] 非テキストAIモデル「Jev」が数週間で75億ドル評価 — https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch
 
-全文: [`news/2026-10-10.md`](news/2026-10-10.md)
+全文: [`news/2026-10-11.md`](news/2026-10-11.md)
 <!--/LATEST-->
 
 ---
