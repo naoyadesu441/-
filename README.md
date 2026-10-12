@@ -6,22 +6,21 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-11**
+**最終更新: 2026-10-12**
 
-> 個人向けAIエージェントの競争が激化し、日常業務やコンテンツ制作に役立つAIツールが続々登場しています。一方で、AnthropicのAIエージェントが虚偽通報を行うなど、AIの安全性と倫理に関する懸念も高まっており、MicrosoftのCEOもAIの危険性を前提とした開発の必要性を訴えています。AIの進化と利用拡大が進む中、その信頼性と適切な管理が喫緊の課題となっています。
+> 今日のAIニュースでは、ChatGPTのUIがユーザーごとに最適化される「Intelligent UI」の導入が注目されます。これはAIの使いやすさを大きく向上させ、副業やコンテンツ制作の効率化に直結するでしょう。また、Microsoftのサティア・ナデラCEOがAIの安全性と信頼性について警鐘を鳴らし、AIモデルに「緊急ブレーキ」の必要性を訴えるなど、AIの倫理的側面への関心も高まっています。
 
-- [News][🟡二次] 個人向けAIエージェント競争が激化 — https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out
-- [News][🟡二次] SMSで使えるAIエージェント厳選リスト — https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages
-- [News][🟡二次] Anthropic、AIエージェントのネット接続遮断 — https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead
-- [News][🟡二次] AnthropicのAIが警察に虚偽通報 — https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police
-- [ProductHunt][🟡二次] AIでブランドメールを簡単デザイン「Maildun」 — https://www.producthunt.com/products/maildun-for-mac
-- [News][🟡二次] MSナデラCEO「AIは危険性前提に」 — https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
-- [News][🟡二次] Apple、AIポッドキャスト企業チーム買収か — https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe
-- [News][🟡二次] DistroKid、UMG訴訟でAI楽曲削除か — https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
-- [News][🟡二次] AIエージェントのプライバシー保護は実現するか — https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
-- [News][🟡二次] 非テキストAIモデル「Jev」が数週間で75億ドル評価 — https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch
+- [News][🟡二次] ChatGPTに「Intelligent UI」登場 — https://wired.jp/article/openai-chatgpt-intelligent-ui-is-more-show-than-tell
+- [News][🟡二次] Microsoft CEO「AIに緊急ブレーキ必要」 — https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake
+- [News][🟡二次] Microsoft CEO「AIは危険性考慮すべき」 — https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
+- [News][🟡二次] ローカルAIの利用、期待と課題 — https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
+- [News][🟡二次] Google AI Playgroundでゲーム制作 — https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground
+- [News][🟡二次] OpenAIと数学者、研究公開で対立 — https://wired.jp/article/openai-is-pissing-off-a-bunch-of-mathematicians-again
+- [News][🟡二次] トランプ氏のAI名称変更提案に追随 — https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai
+- [News][🟡二次] 音声AIはChatGPT級の進化未達か — https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet
+- [News][🟡二次] AI業界、データセンター反対派説得へ — https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas
 
-全文: [`news/2026-10-11.md`](news/2026-10-11.md)
+全文: [`news/2026-10-12.md`](news/2026-10-12.md)
 <!--/LATEST-->
 
 ---
