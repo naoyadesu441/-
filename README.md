@@ -6,21 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-12**
+**最終更新: 2026-10-13**
 
-> 今日のAIニュースでは、ChatGPTのUIがユーザーごとに最適化される「Intelligent UI」の導入が注目されます。これはAIの使いやすさを大きく向上させ、副業やコンテンツ制作の効率化に直結するでしょう。また、Microsoftのサティア・ナデラCEOがAIの安全性と信頼性について警鐘を鳴らし、AIモデルに「緊急ブレーキ」の必要性を訴えるなど、AIの倫理的側面への関心も高まっています。
+> 今日のAI界隈では、AWSがOpenAIモデルをBedrockで提供開始し、Appleは自社チップを活用した分散型GPUクラウドを構築するなど、AIインフラの進化が目立ちます。Metaは新たなフロンティアAIモデル「Muse Wonder」を発表し、Microsoftも自社製AIチップでNVIDIA依存を軽減する動きを見せています。また、Epic Gamesがゲーム開発にAIを本格導入する方針を示し、PRや個人のお金管理を支援するAIツールも登場しており、AIの応用範囲が広がり続けています。
 
-- [News][🟡二次] ChatGPTに「Intelligent UI」登場 — https://wired.jp/article/openai-chatgpt-intelligent-ui-is-more-show-than-tell
-- [News][🟡二次] Microsoft CEO「AIに緊急ブレーキ必要」 — https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake
-- [News][🟡二次] Microsoft CEO「AIは危険性考慮すべき」 — https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
-- [News][🟡二次] ローカルAIの利用、期待と課題 — https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
-- [News][🟡二次] Google AI Playgroundでゲーム制作 — https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground
-- [News][🟡二次] OpenAIと数学者、研究公開で対立 — https://wired.jp/article/openai-is-pissing-off-a-bunch-of-mathematicians-again
-- [News][🟡二次] トランプ氏のAI名称変更提案に追随 — https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai
-- [News][🟡二次] 音声AIはChatGPT級の進化未達か — https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet
-- [News][🟡二次] AI業界、データセンター反対派説得へ — https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas
+- [News][🟡二次] Epic Gamesが「AIファースト」開発へ移行か — https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration
+- [News][🟢一次] AWS BedrockでOpenAI GPTモデル利用可能に — https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan
+- [News][🟢一次] AppleがアイドルMacで分散型GPUクラウド構築 — https://machinelearning.apple.com/research/distributed-gpu-cloud
+- [News][🟡二次] HoneyjarがPR・広報向けAIツールを提供 — https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company
+- [News][🟢一次] NVIDIAがAI工場向け新アーキテクチャ公開 — https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories
+- [News][🟢一次] Appleが自己圧縮型LLMエージェントを開発 — https://machinelearning.apple.com/research/self-compacting-language-agents
+- [News][🟢一次] MicrosoftがAIチューター評価システム開発 — https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring
+- [News][🟢一次] AWS SageMakerでllama.cppモデル展開 — https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai
+- [News][🟢一次] AWS EKSでRay LLMマルチノード推論実行 — https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers
+- [News][🟢一次] Apple、機械翻訳評価におけるLLMの課題を研究 — https://machinelearning.apple.com/research/llm-translation-quality-annotation
 
-全文: [`news/2026-10-12.md`](news/2026-10-12.md)
+全文: [`news/2026-10-13.md`](news/2026-10-13.md)
 <!--/LATEST-->
 
 ---
