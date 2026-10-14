@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-13**
+**最終更新: 2026-10-14**
 
-> 今日のAI界隈では、AWSがOpenAIモデルをBedrockで提供開始し、Appleは自社チップを活用した分散型GPUクラウドを構築するなど、AIインフラの進化が目立ちます。Metaは新たなフロンティアAIモデル「Muse Wonder」を発表し、Microsoftも自社製AIチップでNVIDIA依存を軽減する動きを見せています。また、Epic Gamesがゲーム開発にAIを本格導入する方針を示し、PRや個人のお金管理を支援するAIツールも登場しており、AIの応用範囲が広がり続けています。
+> Google DeepMindが次世代AIモデル「Gemini 4 Argon」を発表し、OpenAIも長尺AI動画生成ツール「Higgsfield」を公開するなど、主要AIモデルの進化が加速しています。NVIDIAからはAI機能を統合したPC向け新チップ「RTX Spark」が登場。また、AWS Bedrock上ではGrok 4.7の利用や、AIエージェントによる自動決済、セキュリティクエリ、ITヘルプデスク構築など、企業向けのAI活用が多角的に進展しています。
 
-- [News][🟡二次] Epic Gamesが「AIファースト」開発へ移行か — https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration
-- [News][🟢一次] AWS BedrockでOpenAI GPTモデル利用可能に — https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan
-- [News][🟢一次] AppleがアイドルMacで分散型GPUクラウド構築 — https://machinelearning.apple.com/research/distributed-gpu-cloud
-- [News][🟡二次] HoneyjarがPR・広報向けAIツールを提供 — https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company
-- [News][🟢一次] NVIDIAがAI工場向け新アーキテクチャ公開 — https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories
-- [News][🟢一次] Appleが自己圧縮型LLMエージェントを開発 — https://machinelearning.apple.com/research/self-compacting-language-agents
-- [News][🟢一次] MicrosoftがAIチューター評価システム開発 — https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring
-- [News][🟢一次] AWS SageMakerでllama.cppモデル展開 — https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai
-- [News][🟢一次] AWS EKSでRay LLMマルチノード推論実行 — https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers
-- [News][🟢一次] Apple、機械翻訳評価におけるLLMの課題を研究 — https://machinelearning.apple.com/research/llm-translation-quality-annotation
+- [News][🟢一次] Google、最上位AIモデル「Gemini 4 Argon」発表 — https://deepmind.google/blog/introducing-gemini-4-argon
+- [News][🟢一次] OpenAI、AI動画生成「Higgsfield」で10分超え動画を実現 — https://openai.com/index/higgsfield-longer-videos-voice
+- [News][🟢一次] AWS、AIエージェントが自動決済する機能を提供 — https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments
+- [News][🟢一次] Hugging Face、デバイス上で高速・プライベートなAIエージェントを実現 — https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+- [News][🟢一次] AWS BedrockでGrok 4.7が利用可能に、長期的エージェント構築を支援 — https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock
+- [News][🟢一次] NVIDIA、AI搭載PC向け新チップ「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates
+- [News][🟡二次] Shopify、AIエージェントによる商品購入を拡大 — https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents
+- [News][🟡二次] Google Play、個人向けAIアプリの公開を容易に — https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you
+- [News][🟢一次] AWS Bedrockで自然言語セキュリティクエリが可能に — https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock
+- [News][🟢一次] AWS BedrockでAI ITヘルプデスクを構築、97.5%解決 — https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore
 
-全文: [`news/2026-10-13.md`](news/2026-10-13.md)
+全文: [`news/2026-10-14.md`](news/2026-10-14.md)
 <!--/LATEST-->
 
 ---
