@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-14**
+**最終更新: 2026-10-15**
 
-> Google DeepMindが次世代AIモデル「Gemini 4 Argon」を発表し、OpenAIも長尺AI動画生成ツール「Higgsfield」を公開するなど、主要AIモデルの進化が加速しています。NVIDIAからはAI機能を統合したPC向け新チップ「RTX Spark」が登場。また、AWS Bedrock上ではGrok 4.7の利用や、AIエージェントによる自動決済、セキュリティクエリ、ITヘルプデスク構築など、企業向けのAI活用が多角的に進展しています。
+> 今日のAI界隈では、OpenAIが次世代AIエージェントと新モデル（GPT-6 Astraなど）を発表し、AIの活用範囲がコード作成以外にも大きく広がることが示唆されました。また、Google DeepMindは次世代モデル「Gemini 4 Argon」の開発を進めており、有名サービスにおけるAIの進化が加速しています。AWS Bedrock AgentCoreによるプレゼンテーション自動生成や文書処理の効率化など、実用的なAIツールの登場が業務効率化やコンテンツ制作に直結する動きが活発です。
 
-- [News][🟢一次] Google、最上位AIモデル「Gemini 4 Argon」発表 — https://deepmind.google/blog/introducing-gemini-4-argon
-- [News][🟢一次] OpenAI、AI動画生成「Higgsfield」で10分超え動画を実現 — https://openai.com/index/higgsfield-longer-videos-voice
-- [News][🟢一次] AWS、AIエージェントが自動決済する機能を提供 — https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments
-- [News][🟢一次] Hugging Face、デバイス上で高速・プライベートなAIエージェントを実現 — https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
-- [News][🟢一次] AWS BedrockでGrok 4.7が利用可能に、長期的エージェント構築を支援 — https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock
-- [News][🟢一次] NVIDIA、AI搭載PC向け新チップ「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates
-- [News][🟡二次] Shopify、AIエージェントによる商品購入を拡大 — https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents
-- [News][🟡二次] Google Play、個人向けAIアプリの公開を容易に — https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you
-- [News][🟢一次] AWS Bedrockで自然言語セキュリティクエリが可能に — https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock
-- [News][🟢一次] AWS BedrockでAI ITヘルプデスクを構築、97.5%解決 — https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore
+- [News][🟢一次] OpenAI、次世代AIエージェントを発表 — https://openai.com/index/amp-beyond-coding
+- [News][🟢一次] Bedrock AgentCoreでプレゼン自動生成 — https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore
+- [News][🟢一次] Google、次世代AI「Gemini 4 Argon」開発 — https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
+- [News][🟢一次] OpenAI、大規模AIエージェント運用事例公開 — https://openai.com/index/third-moment-research
+- [News][🟢一次] Bedrock AgentCoreで文書処理を自動化 — https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore
+- [News][🟢一次] EU、AIエージェントの普及を推進 — https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
+- [News][🟢一次] Google DeepMind、詐欺検出AIを開発 — https://deepmind.google/blog/on-device-ai-scam-detection-mddi
+- [News][🟢一次] NVIDIA、欧州都市でAIエージェント導入 — https://blogs.nvidia.com/blog/european-cities-agents-urban-operations
+- [Paper][🟢一次] AI支援ライティングの人間の貢献度を測定 — https://arxiv.org/abs/2610.19767v1
+- [News][🟢一次] OpenAI Daybreakでマルウェア分析を高速化 — https://openai.com/index/sentinelone
 
-全文: [`news/2026-10-14.md`](news/2026-10-14.md)
+全文: [`news/2026-10-15.md`](news/2026-10-15.md)
 <!--/LATEST-->
 
 ---
