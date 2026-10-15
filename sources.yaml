@@ -323,6 +323,34 @@ feeds:
     enabled: true
     require_ai: true   # 汎用フィードのためAIキーワードで絞る
 
+  # ---- 二次（日本語・消費者向けテック） ----
+  #   Google Discover に出るような「日本人が日常で使うツール」の実用ニュース源。
+  #   SNS映えする消費者向け記事を拾うために追加。汎用媒体は require_ai で絞る。
+  #   ⚠ 本番化前に scripts/verify_feeds.py で各 URL の疎通を確認すること。
+  - name: ITmedia AI+
+    url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+    tier: secondary
+    weight: 1.0
+    enabled: true   # AI特化フィードのため絞り不要
+  - name: GIGAZINE
+    url: https://gigazine.net/news/rss_2.0/
+    tier: secondary
+    weight: 0.9
+    enabled: true
+    require_ai: true   # 汎用ニュースのためAIキーワードで絞る
+  - name: Impress Watch
+    url: https://www.watch.impress.co.jp/data/rss/2.0/pcw.xml
+    tier: secondary
+    weight: 0.8
+    enabled: true
+    require_ai: true   # 汎用PC系のためAIキーワードで絞る
+  - name: 窓の杜
+    url: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+    tier: secondary
+    weight: 0.8
+    enabled: true
+    require_ai: true   # ソフトウェア全般のためAIキーワードで絞る
+
   # ---- 発見・裏取り層（Google News RSS） ----
   #   Google Discover 的に「おすすめ/トレンドが流れてくる」入力。
   #   tier: social にして、一次ソースと照合できた時だけ一次へ昇格し配信される。

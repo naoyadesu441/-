@@ -34,8 +34,10 @@ def collect(http: Http, cfg: dict, ai_keywords: list[str] | None = None) -> list
         # front_page は relevance（search）、それ以外は新着（search_by_date）
         endpoint = SEARCH if tag == "front_page" else BY_DATE
         params = {"tags": tag, "hitsPerPage": hits}
-        # show_hn / front_page はクエリを付けず、その他は AI で絞る
-        if tag == "story":
+        # 全タグに AI クエリを付与。show_hn / front_page も AI 関連に絞り、
+        # 「Big Banana Car」等の非AI記事がそもそも取得されないようにする
+        # （後段の require_ai フィルタとの二重防御）。
+        if query:
             params["query"] = query
         try:
             resp = http.get(endpoint, params=params)

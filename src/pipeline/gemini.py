@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import json
 import logging
+import math
 import time
 from dataclasses import dataclass
 
@@ -76,8 +77,18 @@ PROMPT = """\
 以下の観点でバズりそうか判断する:
   ・一般ユーザーが「今すぐ使える」「自分に関係ある」と感じるか
   ・副業・マーケ・コンテンツ制作に直結するAIツール/機能の更新か
-  ・有名サービス（ChatGPT/Claude/Gemini等）の大型アプデか
-  ・純粋に学術的・インフラ的な論文はbuzz_score下げる
+  ・有名サービス（ChatGPT/Claude/Gemini/Copilot等）の大型アプデか
+  ・日本のユーザーが日常で使うツール（Excel×AI、翻訳AI、画像生成等）の実用ニュースか
+
+【buzz_score加減点ルール — 厳守】
+加点:
+  ・消費者向けの具体的なツール更新やリリース → +1〜2
+  ・有名企業（OpenAI/Google/Anthropic/Microsoft/Apple等）の製品アップデート → +1
+  ・「今日から無料で使える」「誰でもできる」要素がある → +1
+減点:
+  ・純粋に学術的な論文（benchmark改善・新アーキテクチャ提案のみで未製品化）→ buzz_score 2以下に制限
+  ・インフラ/DevOps/企業向けAPI変更（一般ユーザーに直接影響しない）→ buzz_score 2以下に制限
+  ・arXivの論文は、消費者向けの画期的な応用でない限り buzz_score 3以上にしない
 
 【最重要ポリシー】配信するのは「一次確認済」のニュースを優先します。
 - 一次確認済 = 公式発表・公式ブログ・論文など、一次ソースで内容が確認できるもの。
@@ -150,6 +161,17 @@ def _fallback(items: list[NewsItem], n: int = TARGET_MAX) -> Digest:
             it.summary_jp = it.raw_summary or "（要約なし。元リンクを参照）"
         if not it.category:
             it.category = "その他"
+        # Gemini が使えないので buzz_score を実エンゲージメントから推定（1〜5）。
+        # rank._engagement_score と同じ log10 カーブで、反応の大きい話題ほど上位に。
+        raw = sum(
+            float(v)
+            for k, v in it.engagement.items()
+            if isinstance(v, (int, float)) and k not in ("permalink", "url", "id")
+        )
+        eng = min(math.log10(raw + 1) / 3.0, 1.0) if raw > 0 else 0.0
+        it.buzz_score = max(1, min(5, round(1 + 4 * eng)))
+    # buzz_score（実エンゲージメント由来）優先で並べ替え、SNS映えする順に。
+    selected.sort(key=lambda x: (x.buzz_score, x.score), reverse=True)
     if not selected:
         return Digest(
             highlight="本日は確認済のAIニュースはありませんでした。",
