@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-15**
+**最終更新: 2026-10-16**
 
-> 今日のAI界隈では、OpenAIが次世代AIエージェントと新モデル（GPT-6 Astraなど）を発表し、AIの活用範囲がコード作成以外にも大きく広がることが示唆されました。また、Google DeepMindは次世代モデル「Gemini 4 Argon」の開発を進めており、有名サービスにおけるAIの進化が加速しています。AWS Bedrock AgentCoreによるプレゼンテーション自動生成や文書処理の効率化など、実用的なAIツールの登場が業務効率化やコンテンツ制作に直結する動きが活発です。
+> 今日のAI界隈では、NVIDIAがAI特化PC「RTX Spark」を発表し、高性能なAI体験を求めるクリエイターやゲーマーに新たな選択肢を提供。また、NVIDIAはデータセンターからエッジまで対応するオープンモデル「Nemotron」ファミリーを拡張し、AIエージェント開発を加速させる。OpenAIは教育分野でのAI活用を推進する一方、法律分野向けのAIツールも開発し、AIの応用範囲の広がりを示している。さらに、LLMエージェントの長期記憶におけるプライバシー保護とデータ削除に関する研究も注目されており、AIの信頼性と安全性が重要なテーマとなっている。
 
-- [News][🟢一次] OpenAI、次世代AIエージェントを発表 — https://openai.com/index/amp-beyond-coding
-- [News][🟢一次] Bedrock AgentCoreでプレゼン自動生成 — https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore
-- [News][🟢一次] Google、次世代AI「Gemini 4 Argon」開発 — https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
-- [News][🟢一次] OpenAI、大規模AIエージェント運用事例公開 — https://openai.com/index/third-moment-research
-- [News][🟢一次] Bedrock AgentCoreで文書処理を自動化 — https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore
-- [News][🟢一次] EU、AIエージェントの普及を推進 — https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
-- [News][🟢一次] Google DeepMind、詐欺検出AIを開発 — https://deepmind.google/blog/on-device-ai-scam-detection-mddi
-- [News][🟢一次] NVIDIA、欧州都市でAIエージェント導入 — https://blogs.nvidia.com/blog/european-cities-agents-urban-operations
-- [Paper][🟢一次] AI支援ライティングの人間の貢献度を測定 — https://arxiv.org/abs/2610.19767v1
-- [News][🟢一次] OpenAI Daybreakでマルウェア分析を高速化 — https://openai.com/index/sentinelone
+- [News][🟢一次] NVIDIAがAI特化PC「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite
+- [News][🟢一次] NVIDIAがオープンモデルNemotronを拡張 — https://blogs.nvidia.com/blog/nemotron-3-5-super-vl
+- [News][🟢一次] OpenAIが教育者向けAI活用を推進 — https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+- [Paper][🟢一次] LLMエージェントの長期記憶とプライバシー — https://arxiv.org/abs/2610.21405v1
+- [News][🟢一次] Hugging FaceがGranite Switch 4.1発表 — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
+- [News][🟢一次] MetaのコードAIがAWS SageMakerで利用可能に — https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart
+- [News][🟢一次] OpenAIが法律分野向けAIツールを開発 — https://openai.com/index/sullivan-cromwell
+- [News][🟢一次] AWSがAIエージェントの信頼性向上策を発表 — https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control
+- [Paper][🟢一次] LLMがiOS位置情報解析のツール作成に有用 — https://arxiv.org/abs/2610.21597v1
+- [News][🟢一次] OpenAIが学術研究向けGPTを提供 — https://openai.com/index/introducing-the-rosalind-academic-plan
 
-全文: [`news/2026-10-15.md`](news/2026-10-15.md)
+全文: [`news/2026-10-16.md`](news/2026-10-16.md)
 <!--/LATEST-->
 
 ---
