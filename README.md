@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-16**
+**最終更新: 2026-10-17**
 
-> 今日のAI界隈では、NVIDIAがAI特化PC「RTX Spark」を発表し、高性能なAI体験を求めるクリエイターやゲーマーに新たな選択肢を提供。また、NVIDIAはデータセンターからエッジまで対応するオープンモデル「Nemotron」ファミリーを拡張し、AIエージェント開発を加速させる。OpenAIは教育分野でのAI活用を推進する一方、法律分野向けのAIツールも開発し、AIの応用範囲の広がりを示している。さらに、LLMエージェントの長期記憶におけるプライバシー保護とデータ削除に関する研究も注目されており、AIの信頼性と安全性が重要なテーマとなっている。
+> 今週は、AIモデルの進化と実用化の進展が目立ちます。OpenAIのChatGPTプラグインがビジネス成長に貢献した事例が発表されたほか、AWSやHugging Faceからはエージェントコーディング向けオープンモデルやマルチモーダル対応の統合AIモデルが登場しました。企業における生成AIの導入事例も報告されており、AIのビジネス活用が加速しています。
 
-- [News][🟢一次] NVIDIAがAI特化PC「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite
-- [News][🟢一次] NVIDIAがオープンモデルNemotronを拡張 — https://blogs.nvidia.com/blog/nemotron-3-5-super-vl
-- [News][🟢一次] OpenAIが教育者向けAI活用を推進 — https://openai.com/index/teaching-students-to-think-and-learn-through-questions
-- [Paper][🟢一次] LLMエージェントの長期記憶とプライバシー — https://arxiv.org/abs/2610.21405v1
-- [News][🟢一次] Hugging FaceがGranite Switch 4.1発表 — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
-- [News][🟢一次] MetaのコードAIがAWS SageMakerで利用可能に — https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart
-- [News][🟢一次] OpenAIが法律分野向けAIツールを開発 — https://openai.com/index/sullivan-cromwell
-- [News][🟢一次] AWSがAIエージェントの信頼性向上策を発表 — https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control
-- [Paper][🟢一次] LLMがiOS位置情報解析のツール作成に有用 — https://arxiv.org/abs/2610.21597v1
-- [News][🟢一次] OpenAIが学術研究向けGPTを提供 — https://openai.com/index/introducing-the-rosalind-academic-plan
+- [News][🟡二次] AI美女が芸人のネタを盗用しコンテンツ拡散 — https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content
+- [News][🟡二次] ChatGPTがChromeタブを閲覧可能に — https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs
+- [News][🟢一次] ChatGPTプラグインで登録者3倍増 — https://openai.com/index/stack-overflow-chatgpt-plugin
+- [News][🟢一次] ブラジル大手銀行が顧客向け生成AIを構築 — https://openai.com/index/itau-generative-ai
+- [News][🟢一次] AWSがエージェント向けオープンモデル発表 — https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws
+- [News][🟢一次] Hugging Faceが501Bのオープンモデル「Beam」発表 — https://huggingface.co/blog/reflection-beam
+- [News][🟢一次] Hugging Faceが統合AIモデル「Granite Switch 4.1」 — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
+- [News][🟢一次] AWSがAIエージェント評価フレームワーク発表 — https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore
+- [News][🟢一次] Googleが生物学研究向けAIエージェント開発 — https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs
+- [News][🟢一次] Hugging Faceがインド言語向け大規模学習 — https://huggingface.co/blog/nvidia/scaling-indic-pretraining
 
-全文: [`news/2026-10-16.md`](news/2026-10-16.md)
+全文: [`news/2026-10-17.md`](news/2026-10-17.md)
 <!--/LATEST-->
 
 ---
