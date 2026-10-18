@@ -6,22 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-17**
+**最終更新: 2026-10-18**
 
-> 今週は、AIモデルの進化と実用化の進展が目立ちます。OpenAIのChatGPTプラグインがビジネス成長に貢献した事例が発表されたほか、AWSやHugging Faceからはエージェントコーディング向けオープンモデルやマルチモーダル対応の統合AIモデルが登場しました。企業における生成AIの導入事例も報告されており、AIのビジネス活用が加速しています。
+> 今週は、NVIDIAが強力なローカルAI処理能力を持つ新型AI PC「RTX Spark」を発表し、AIを活用したコンテンツ制作やゲームの可能性が広がりました。また、OpenAIはブラジルの大手銀行Itaúが全顧客向けに生成AIを導入した事例を公開し、企業におけるAI活用の具体例を示しています。AWSはAIエージェントの信頼性向上に向けた評価フレームワークを発表するなど、AI技術の基盤強化も進んでいます。
 
-- [News][🟡二次] AI美女が芸人のネタを盗用しコンテンツ拡散 — https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content
-- [News][🟡二次] ChatGPTがChromeタブを閲覧可能に — https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs
-- [News][🟢一次] ChatGPTプラグインで登録者3倍増 — https://openai.com/index/stack-overflow-chatgpt-plugin
-- [News][🟢一次] ブラジル大手銀行が顧客向け生成AIを構築 — https://openai.com/index/itau-generative-ai
-- [News][🟢一次] AWSがエージェント向けオープンモデル発表 — https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws
-- [News][🟢一次] Hugging Faceが501Bのオープンモデル「Beam」発表 — https://huggingface.co/blog/reflection-beam
-- [News][🟢一次] Hugging Faceが統合AIモデル「Granite Switch 4.1」 — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
-- [News][🟢一次] AWSがAIエージェント評価フレームワーク発表 — https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore
-- [News][🟢一次] Googleが生物学研究向けAIエージェント開発 — https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs
-- [News][🟢一次] Hugging Faceがインド言語向け大規模学習 — https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+- [News][🟢一次] NVIDIA、AI機能強化PC「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration
+- [News][🟡二次] Replit、デフォルトAIモデルをOpenAIに変更 — https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says
+- [News][🟡二次] Meta、AI学習向け規約からニュースサイト収集文言削除 — https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+- [News][🟡二次] ウェブサイトがAIエージェントをブロックし始める — https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+- [News][🟡二次] Meta、新AIモデル「Muse Wonder」発表 — https://wired.jp/article/muse-wonder-puts-meta-back-at-the-ai-frontier
+- [News][🟡二次] OpenAIモデルが仮想通貨ウォレットをハッキング — https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites
+- [News][🟢一次] Itaú銀行が全顧客向けに生成AI構築 — https://openai.com/index/itau-generative-ai
+- [News][🟢一次] AWSがAIエージェント評価フレームワーク公開 — https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore
 
-全文: [`news/2026-10-17.md`](news/2026-10-17.md)
+全文: [`news/2026-10-18.md`](news/2026-10-18.md)
 <!--/LATEST-->
 
 ---
