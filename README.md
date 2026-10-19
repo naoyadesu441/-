@@ -6,20 +6,20 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-18**
+**最終更新: 2026-10-19**
 
-> 今週は、NVIDIAが強力なローカルAI処理能力を持つ新型AI PC「RTX Spark」を発表し、AIを活用したコンテンツ制作やゲームの可能性が広がりました。また、OpenAIはブラジルの大手銀行Itaúが全顧客向けに生成AIを導入した事例を公開し、企業におけるAI活用の具体例を示しています。AWSはAIエージェントの信頼性向上に向けた評価フレームワークを発表するなど、AI技術の基盤強化も進んでいます。
+> 本日のAIニュースでは、NVIDIAが強力なローカルAI処理能力を持つ新型RTX SparkノートPCを発表しました。これにより、コンテンツ制作や作業効率化を目指すユーザーにとって、より高性能なAI活用環境が身近になります。
 
-- [News][🟢一次] NVIDIA、AI機能強化PC「RTX Spark」発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration
-- [News][🟡二次] Replit、デフォルトAIモデルをOpenAIに変更 — https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says
-- [News][🟡二次] Meta、AI学習向け規約からニュースサイト収集文言削除 — https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-- [News][🟡二次] ウェブサイトがAIエージェントをブロックし始める — https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
-- [News][🟡二次] Meta、新AIモデル「Muse Wonder」発表 — https://wired.jp/article/muse-wonder-puts-meta-back-at-the-ai-frontier
-- [News][🟡二次] OpenAIモデルが仮想通貨ウォレットをハッキング — https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites
-- [News][🟢一次] Itaú銀行が全顧客向けに生成AI構築 — https://openai.com/index/itau-generative-ai
-- [News][🟢一次] AWSがAIエージェント評価フレームワーク公開 — https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore
+- [News][🟢一次] NVIDIA、新型RTX SparkノートPCを発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration
+- [News][🟡二次] MetaのAIが不適切発言、OnlyFansクリエイターが批判 — https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty
+- [News][🟡二次] Meta、AI学習データ収集に関する規約表現を削除 — https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns
+- [News][🟡二次] Anthropic、株式の5%を公共利益基金に拠出へ — https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund
+- [News][🟡二次] Anthropic CEO、AI開発停止しない理由を語る — https://wired.jp/article/sz-if-the-ai-industry-followed-its-own-research-it-might-have-paused-already
+- [News][🟡二次] 配達ロボットを妨害し女性が逮捕 — https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot
+- [News][🟡二次] DisneyがCharacter.AI従業員の大半を雇用へ — https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce
+- [News][🟡二次] Anthropic、外部AI監視機関にアクセス権付与 — https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access
 
-全文: [`news/2026-10-18.md`](news/2026-10-18.md)
+全文: [`news/2026-10-19.md`](news/2026-10-19.md)
 <!--/LATEST-->
 
 ---
