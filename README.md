@@ -6,20 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-19**
+**最終更新: 2026-10-20**
 
-> 本日のAIニュースでは、NVIDIAが強力なローカルAI処理能力を持つ新型RTX SparkノートPCを発表しました。これにより、コンテンツ制作や作業効率化を目指すユーザーにとって、より高性能なAI活用環境が身近になります。
+> 今日のAI界隈では、AWS BedrockがAnthropic Claudeモデルの構造化出力やTwelveLabsの動画言語モデルに対応し、AIアプリケーション開発や動画コンテンツ制作の効率化が進んでいます。また、画面を指してAIと会話する新ツール「Point and Yap」が登場するなど、AIとのインタラクションが進化。一方で、AIエージェントを悪用したハッキング被害が報告され、AIセキュリティへの関心も高まっています。
 
-- [News][🟢一次] NVIDIA、新型RTX SparkノートPCを発表 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration
-- [News][🟡二次] MetaのAIが不適切発言、OnlyFansクリエイターが批判 — https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty
-- [News][🟡二次] Meta、AI学習データ収集に関する規約表現を削除 — https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns
-- [News][🟡二次] Anthropic、株式の5%を公共利益基金に拠出へ — https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund
-- [News][🟡二次] Anthropic CEO、AI開発停止しない理由を語る — https://wired.jp/article/sz-if-the-ai-industry-followed-its-own-research-it-might-have-paused-already
-- [News][🟡二次] 配達ロボットを妨害し女性が逮捕 — https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot
-- [News][🟡二次] DisneyがCharacter.AI従業員の大半を雇用へ — https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce
-- [News][🟡二次] Anthropic、外部AI監視機関にアクセス権付与 — https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access
+- [News][🟢一次] TwelveLabs Pegasus 1.5がBedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock
+- [ProductHunt][🟡二次] 画面を指してAIと会話「Point and Yap」登場 — https://www.producthunt.com/products/point-and-yap
+- [News][🟢一次] ClaudeがBedrockで構造化出力に対応 — https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock
+- [News][🟡二次] AIでスマートTVを「バカ」にする動き — https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again
+- [News][🟡二次] AIエージェントで100超のサイトがハッキング被害 — https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
+- [News][🟢一次] AWS SageMaker Studioが簡単に利用可能に — https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience
+- [News][🟢一次] ChatGPTが低リソース言語のコーディング強化 — https://openai.com/index/low-resource-programming-languages
+- [News][🟢一次] Hugging FaceモデルがAWS Trainiumで容易に — https://huggingface.co/blog/hf-torchneuron
+- [News][🟢一次] SageMaker JumpStartに100以上の新モデル — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review
+- [News][🟢一次] NVIDIAがメディア向けエージェントセキュリティ強化 — https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production
 
-全文: [`news/2026-10-19.md`](news/2026-10-19.md)
+全文: [`news/2026-10-20.md`](news/2026-10-20.md)
 <!--/LATEST-->
 
 ---
