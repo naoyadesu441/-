@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-20**
+**最終更新: 2026-10-21**
 
-> 今日のAI界隈では、AWS BedrockがAnthropic Claudeモデルの構造化出力やTwelveLabsの動画言語モデルに対応し、AIアプリケーション開発や動画コンテンツ制作の効率化が進んでいます。また、画面を指してAIと会話する新ツール「Point and Yap」が登場するなど、AIとのインタラクションが進化。一方で、AIエージェントを悪用したハッキング被害が報告され、AIセキュリティへの関心も高まっています。
+> 今日のAI界隈では、OpenAIがChatGPTによる業務効率化の具体的な成功事例を発表し、GPTモデルのビジネス応用がさらに進んでいます。また、AWSはAnthropic Claudeモデルの構造化出力対応を発表し、開発者にとってより使いやすいAI連携を可能にしました。有名AIツールの実用的な進化と、プライバシー保護機能の追加が注目されています。
 
-- [News][🟢一次] TwelveLabs Pegasus 1.5がBedrockで利用可能に — https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock
-- [ProductHunt][🟡二次] 画面を指してAIと会話「Point and Yap」登場 — https://www.producthunt.com/products/point-and-yap
-- [News][🟢一次] ClaudeがBedrockで構造化出力に対応 — https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock
-- [News][🟡二次] AIでスマートTVを「バカ」にする動き — https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again
-- [News][🟡二次] AIエージェントで100超のサイトがハッキング被害 — https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
-- [News][🟢一次] AWS SageMaker Studioが簡単に利用可能に — https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience
-- [News][🟢一次] ChatGPTが低リソース言語のコーディング強化 — https://openai.com/index/low-resource-programming-languages
-- [News][🟢一次] Hugging FaceモデルがAWS Trainiumで容易に — https://huggingface.co/blog/hf-torchneuron
-- [News][🟢一次] SageMaker JumpStartに100以上の新モデル — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review
-- [News][🟢一次] NVIDIAがメディア向けエージェントセキュリティ強化 — https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production
+- [News][🟢一次] ChatGPTで業務効率94%向上 — https://openai.com/index/ted-taylor-restaurant
+- [News][🟡二次] ChatGPTにチャットロック機能 — https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats
+- [News][🟡二次] Lightroomが閉じた目を自動修正 — https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair
+- [News][🟢一次] Claudeが構造化出力に対応 — https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock
+- [News][🟡二次] Gemini AIが車載システムに搭載 — https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
+- [News][🟡二次] MetaのAI「Muse」が急成長 — https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps
+- [News][🟡二次] Meta、Muse共有機能を一時停止 — https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
+- [News][🟢一次] OpenAI、バイオ企業を買収 — https://openai.com/index/openai-to-acquire-orchestra-bio
+- [News][🟢一次] GPT-6.1で投資判断を効率化 — https://openai.com/index/terminal-x
+- [News][🟢一次] SageMaker Studioが簡単アクセスに — https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience
 
-全文: [`news/2026-10-20.md`](news/2026-10-20.md)
+全文: [`news/2026-10-21.md`](news/2026-10-21.md)
 <!--/LATEST-->
 
 ---
