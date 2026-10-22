@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-21**
+**最終更新: 2026-10-22**
 
-> 今日のAI界隈では、OpenAIがChatGPTによる業務効率化の具体的な成功事例を発表し、GPTモデルのビジネス応用がさらに進んでいます。また、AWSはAnthropic Claudeモデルの構造化出力対応を発表し、開発者にとってより使いやすいAI連携を可能にしました。有名AIツールの実用的な進化と、プライバシー保護機能の追加が注目されています。
+> 今日のAIニュースでは、OpenAIのChatGPT広告機能が26カ国に拡大し、10万人以上の広告主が利用するなど、AIのビジネス応用が加速しています。また、OpenAIモデルがGoogle CloudのGemini Model Gardenで利用可能になるなど、主要プラットフォーム間の連携も進展。NVIDIAは企業向けAIエージェントツールキットを強化し、自社データ連携を可能にするなど、仕事効率化やマーケティングに直結する実用的なAIの進化が目立ちます。
 
-- [News][🟢一次] ChatGPTで業務効率94%向上 — https://openai.com/index/ted-taylor-restaurant
-- [News][🟡二次] ChatGPTにチャットロック機能 — https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats
-- [News][🟡二次] Lightroomが閉じた目を自動修正 — https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair
-- [News][🟢一次] Claudeが構造化出力に対応 — https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock
-- [News][🟡二次] Gemini AIが車載システムに搭載 — https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
-- [News][🟡二次] MetaのAI「Muse」が急成長 — https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps
-- [News][🟡二次] Meta、Muse共有機能を一時停止 — https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
-- [News][🟢一次] OpenAI、バイオ企業を買収 — https://openai.com/index/openai-to-acquire-orchestra-bio
-- [News][🟢一次] GPT-6.1で投資判断を効率化 — https://openai.com/index/terminal-x
-- [News][🟢一次] SageMaker Studioが簡単アクセスに — https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience
+- [News][🟢一次] ChatGPT広告が26カ国に拡大、利用者10万人超 — https://openai.com/index/chatgpt-ads-expands-26-new-countries
+- [News][🟢一次] OpenAIモデルがGoogle Cloudで利用可能に — https://openai.com/index/openai-models-google-cloud
+- [News][🟢一次] ChatGPTの広告システム構築秘話 — https://openai.com/index/building-chatgpt-ad-stack
+- [News][🟢一次] NVIDIAエージェントツールキットが企業データ連携を強化 — https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit
+- [News][🟢一次] AT&TがOpenAIで法務業務を再構築 — https://openai.com/index/att-legal
+- [News][🟢一次] Granite Speech 5.0: 高精度な音声認識・翻訳 — https://huggingface.co/blog/ibm-granite/granite-speech-5
+- [News][🟢一次] NVIDIAが欧州でローカルAIエージェントを推進 — https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync
+- [News][🟢一次] AIエージェントが脆弱性を発見し対応を調整 — https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
+- [Paper][🟢一次] LLMをユーザーシミュレーターとして活用 — https://arxiv.org/abs/2610.29472v1
+- [Paper][🟢一次] 自己進化する対話エージェントの記憶システム — https://arxiv.org/abs/2610.29467v1
 
-全文: [`news/2026-10-21.md`](news/2026-10-21.md)
+全文: [`news/2026-10-22.md`](news/2026-10-22.md)
 <!--/LATEST-->
 
 ---
