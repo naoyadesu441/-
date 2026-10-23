@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-22**
+**最終更新: 2026-10-23**
 
-> 今日のAIニュースでは、OpenAIのChatGPT広告機能が26カ国に拡大し、10万人以上の広告主が利用するなど、AIのビジネス応用が加速しています。また、OpenAIモデルがGoogle CloudのGemini Model Gardenで利用可能になるなど、主要プラットフォーム間の連携も進展。NVIDIAは企業向けAIエージェントツールキットを強化し、自社データ連携を可能にするなど、仕事効率化やマーケティングに直結する実用的なAIの進化が目立ちます。
+> 今週のAIニュースでは、大手企業によるAI導入の動きが目立ちました。Uberが全従業員にChatGPT Workを導入し、業務効率化を推進。また、AWSは音声合成サービスの機能強化や、GPU管理不要でAIモデルをカスタマイズできる新機能、AIエージェント開発を支援するツール群を発表しました。OpenAIからは意思決定APIが登場し、AIエージェントの活用がさらに広がる兆しを見せています。
 
-- [News][🟢一次] ChatGPT広告が26カ国に拡大、利用者10万人超 — https://openai.com/index/chatgpt-ads-expands-26-new-countries
-- [News][🟢一次] OpenAIモデルがGoogle Cloudで利用可能に — https://openai.com/index/openai-models-google-cloud
-- [News][🟢一次] ChatGPTの広告システム構築秘話 — https://openai.com/index/building-chatgpt-ad-stack
-- [News][🟢一次] NVIDIAエージェントツールキットが企業データ連携を強化 — https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit
-- [News][🟢一次] AT&TがOpenAIで法務業務を再構築 — https://openai.com/index/att-legal
-- [News][🟢一次] Granite Speech 5.0: 高精度な音声認識・翻訳 — https://huggingface.co/blog/ibm-granite/granite-speech-5
-- [News][🟢一次] NVIDIAが欧州でローカルAIエージェントを推進 — https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync
-- [News][🟢一次] AIエージェントが脆弱性を発見し対応を調整 — https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
-- [Paper][🟢一次] LLMをユーザーシミュレーターとして活用 — https://arxiv.org/abs/2610.29472v1
-- [Paper][🟢一次] 自己進化する対話エージェントの記憶システム — https://arxiv.org/abs/2610.29467v1
+- [News][🟢一次] Uberが全従業員にChatGPT Work導入 — https://openai.com/index/uber-chatgpt-work-rollout
+- [News][🟢一次] Amazon Polly生成エンジンが大幅進化 — https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine
+- [News][🟢一次] OpenAIが意思決定APIを公開 — https://openai.com/index/decisions-api
+- [News][🟢一次] SageMaker AIでGPU不要のモデルカスタマイズ — https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus
+- [News][🟢一次] SageMaker AIで独自の学習ループを構築 — https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions
+- [News][🟢一次] AIエージェントの低遅延音声合成 — https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai
+- [News][🟢一次] AI向け対話型データ可視化言語 — https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations
+- [News][🟢一次] マルチAIエージェントの運用課題と解決策 — https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them
+- [News][🟢一次] 適応型AIエージェントフレームワーク発表 — https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents
+- [News][🟢一次] IskayPetがAmazon Bedrockで知識統合 — https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases
 
-全文: [`news/2026-10-22.md`](news/2026-10-22.md)
+全文: [`news/2026-10-23.md`](news/2026-10-23.md)
 <!--/LATEST-->
 
 ---
