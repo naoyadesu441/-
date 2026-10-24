@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-23**
+**最終更新: 2026-10-24**
 
-> 今週のAIニュースでは、大手企業によるAI導入の動きが目立ちました。Uberが全従業員にChatGPT Workを導入し、業務効率化を推進。また、AWSは音声合成サービスの機能強化や、GPU管理不要でAIモデルをカスタマイズできる新機能、AIエージェント開発を支援するツール群を発表しました。OpenAIからは意思決定APIが登場し、AIエージェントの活用がさらに広がる兆しを見せています。
+> 今週のAI界隈では、OpenAIがChatGPTのストレージ高速化や最先端AIモデルの訓練環境セキュリティ強化を発表し、大規模サービス提供と安全性の両面で進化を見せました。また、AWSはAIエージェント構築事例や開発者向けツールを公開し、Hugging Faceも研究アイデア創出ツールを提供するなど、AI開発・運用を支援する動きが活発です。Google Researchは医療分野での基盤モデル活用を進めるなど、AIの社会実装に向けた研究も着実に進展しています。
 
-- [News][🟢一次] Uberが全従業員にChatGPT Work導入 — https://openai.com/index/uber-chatgpt-work-rollout
-- [News][🟢一次] Amazon Polly生成エンジンが大幅進化 — https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine
-- [News][🟢一次] OpenAIが意思決定APIを公開 — https://openai.com/index/decisions-api
-- [News][🟢一次] SageMaker AIでGPU不要のモデルカスタマイズ — https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus
-- [News][🟢一次] SageMaker AIで独自の学習ループを構築 — https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions
-- [News][🟢一次] AIエージェントの低遅延音声合成 — https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai
-- [News][🟢一次] AI向け対話型データ可視化言語 — https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations
-- [News][🟢一次] マルチAIエージェントの運用課題と解決策 — https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them
-- [News][🟢一次] 適応型AIエージェントフレームワーク発表 — https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents
-- [News][🟢一次] IskayPetがAmazon Bedrockで知識統合 — https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases
+- [News][🟢一次] ChatGPTのストレージを高速化、10億ユーザー対応へ — https://openai.com/index/scaling-storage-one-billion-users-part-two
+- [News][🟢一次] OpenAI、最先端AIモデルの訓練環境を強化 — https://openai.com/index/securing-our-frontier-model-training-environment
+- [News][🟢一次] Hugging Face、文献から研究アイデア創出ツール「LitPivot」 — https://huggingface.co/blog/allenai/litpivot
+- [News][🟢一次] BayerがAmazon BedrockでAIエージェント構築 — https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations
+- [News][🟢一次] Google、基盤モデルを結核スクリーニングに活用 — https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening
+- [News][🟢一次] SageMaker AIで多段階強化学習を実践するガイド — https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide
+- [News][🟢一次] OpenAI、ポーランドとAI安全・セキュリティで提携 — https://openai.com/index/openai-nask-ai-safety-security-partnership
+- [News][🟢一次] Hugging Face、AWS Trainium対応モデルの確認ツール — https://huggingface.co/blog/torch-neuronx-model-support
+- [News][🟢一次] AWS CDKでSageMaker AIエンドポイントの自動スケーリングを管理 — https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk
+- [News][🟢一次] Amazon Quick SightでGeoJSON地図可視化機能が拡張 — https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps
 
-全文: [`news/2026-10-23.md`](news/2026-10-23.md)
+全文: [`news/2026-10-24.md`](news/2026-10-24.md)
 <!--/LATEST-->
 
 ---
