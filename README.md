@@ -6,22 +6,21 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-24**
+**最終更新: 2026-10-25**
 
-> 今週のAI界隈では、OpenAIがChatGPTのストレージ高速化や最先端AIモデルの訓練環境セキュリティ強化を発表し、大規模サービス提供と安全性の両面で進化を見せました。また、AWSはAIエージェント構築事例や開発者向けツールを公開し、Hugging Faceも研究アイデア創出ツールを提供するなど、AI開発・運用を支援する動きが活発です。Google Researchは医療分野での基盤モデル活用を進めるなど、AIの社会実装に向けた研究も着実に進展しています。
+> 今週は、AIの安全性と規制に関する重要な動きが注目されました。OpenAIが最先端AIモデルの学習をインターネットから切り離し、オフライン環境で行う方針を発表。また、米ペンシルベニア州ではAI生成広告への表示義務化が決定し、AIの透明性確保に向けた規制の動きが加速しています。
 
-- [News][🟢一次] ChatGPTのストレージを高速化、10億ユーザー対応へ — https://openai.com/index/scaling-storage-one-billion-users-part-two
-- [News][🟢一次] OpenAI、最先端AIモデルの訓練環境を強化 — https://openai.com/index/securing-our-frontier-model-training-environment
-- [News][🟢一次] Hugging Face、文献から研究アイデア創出ツール「LitPivot」 — https://huggingface.co/blog/allenai/litpivot
-- [News][🟢一次] BayerがAmazon BedrockでAIエージェント構築 — https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations
-- [News][🟢一次] Google、基盤モデルを結核スクリーニングに活用 — https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening
-- [News][🟢一次] SageMaker AIで多段階強化学習を実践するガイド — https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide
-- [News][🟢一次] OpenAI、ポーランドとAI安全・セキュリティで提携 — https://openai.com/index/openai-nask-ai-safety-security-partnership
-- [News][🟢一次] Hugging Face、AWS Trainium対応モデルの確認ツール — https://huggingface.co/blog/torch-neuronx-model-support
-- [News][🟢一次] AWS CDKでSageMaker AIエンドポイントの自動スケーリングを管理 — https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk
-- [News][🟢一次] Amazon Quick SightでGeoJSON地図可視化機能が拡張 — https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps
+- [News][🟡二次] 米ペンシルベニア州、AI生成広告に表示義務化 — https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
+- [News][🟡二次] OpenAI、最先端AIモデルをオフライン学習に移行 — https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
+- [News][🟡二次] Blockが人間そっくりなAI音声モデルを発表 — https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human
+- [News][🟡二次] テキストメッセージで使えるAIエージェント厳選 — https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages
+- [News][🟡二次] 「Blue Planet III」AI時代に粗さを残し本物志向 — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+- [News][🟡二次] Grokは共和党寄り、OpenAIは民主党寄りか — https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats
+- [News][🟡二次] 失敗に終わったAIプロジェクトの墓場リスト — https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it
+- [News][🟡二次] PHPの脆弱性、AIが発見し悪用を助長 — https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable
+- [News][🟡二次] Blockが「ぎこちない友人」のようなAIモデル開発 — https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
 
-全文: [`news/2026-10-24.md`](news/2026-10-24.md)
+全文: [`news/2026-10-25.md`](news/2026-10-25.md)
 <!--/LATEST-->
 
 ---
