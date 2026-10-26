@@ -6,21 +6,21 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-25**
+**最終更新: 2026-10-26**
 
-> 今週は、AIの安全性と規制に関する重要な動きが注目されました。OpenAIが最先端AIモデルの学習をインターネットから切り離し、オフライン環境で行う方針を発表。また、米ペンシルベニア州ではAI生成広告への表示義務化が決定し、AIの透明性確保に向けた規制の動きが加速しています。
+> 今日のAI界隈では、GoogleのAI検索機能がオンライン出版業界に大きな変革をもたらし、コンテンツ制作やマーケティング戦略の見直しが迫られています。また、GrokによるAI生成コンテンツの公開や、AIエージェントを活用した仕事効率化ツールが登場するなど、実用的なAIの進化が続いています。一方で、AIの経済的影響や倫理的な課題についても活発な議論が交わされています。
 
-- [News][🟡二次] 米ペンシルベニア州、AI生成広告に表示義務化 — https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
-- [News][🟡二次] OpenAI、最先端AIモデルをオフライン学習に移行 — https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
-- [News][🟡二次] Blockが人間そっくりなAI音声モデルを発表 — https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human
-- [News][🟡二次] テキストメッセージで使えるAIエージェント厳選 — https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages
-- [News][🟡二次] 「Blue Planet III」AI時代に粗さを残し本物志向 — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
-- [News][🟡二次] Grokは共和党寄り、OpenAIは民主党寄りか — https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats
-- [News][🟡二次] 失敗に終わったAIプロジェクトの墓場リスト — https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it
-- [News][🟡二次] PHPの脆弱性、AIが発見し悪用を助長 — https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable
-- [News][🟡二次] Blockが「ぎこちない友人」のようなAIモデル開発 — https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+- [News][🟡二次] GoogleのAI検索がオンライン出版を激変 — https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+- [News][🟡二次] Grok、AI生成「オデュッセイア」公開 — https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey
+- [News][🟡二次] r/opensource、AI関連プロジェクトを禁止 — https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+- [ProductHunt][🟡二次] AgentGrid.io: 人間とAIエージェントの協働空間 — https://www.producthunt.com/products/agentgrid-io
+- [News][🟡二次] AI投資、テック以外で「利益ゼロ」 — https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist
+- [News][🟡二次] 注目のAIウェアラブルガジェット — https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about
+- [News][🟡二次] 「Blue Planet III」AI時代に粗さを残す — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+- [ProductHunt][🟡二次] Papermark Data Rooms: AIエージェント対応の安全なデータルーム — https://www.producthunt.com/products/papermark-2
+- [News][🟡二次] 米国のデータセンター反対運動 — https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else
 
-全文: [`news/2026-10-25.md`](news/2026-10-25.md)
+全文: [`news/2026-10-26.md`](news/2026-10-26.md)
 <!--/LATEST-->
 
 ---
