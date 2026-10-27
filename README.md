@@ -6,21 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-26**
+**最終更新: 2026-10-27**
 
-> 今日のAI界隈では、GoogleのAI検索機能がオンライン出版業界に大きな変革をもたらし、コンテンツ制作やマーケティング戦略の見直しが迫られています。また、GrokによるAI生成コンテンツの公開や、AIエージェントを活用した仕事効率化ツールが登場するなど、実用的なAIの進化が続いています。一方で、AIの経済的影響や倫理的な課題についても活発な議論が交わされています。
+> OpenAIが新モデル「GPT-6.1 Terra」を発表し、AIの性能向上と普及を推進しています。また、ChatGPTの仕事での具体的な活用実態が公開され、AIによる業務効率化への関心が高まっています。さらに、OpenAIを活用したECサイトの顧客体験向上事例も報告されており、AIのビジネス応用が加速していることが示されています。
 
-- [News][🟡二次] GoogleのAI検索がオンライン出版を激変 — https://www.theverge.com/column/1017983/google-ai-search-online-publishing
-- [News][🟡二次] Grok、AI生成「オデュッセイア」公開 — https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey
-- [News][🟡二次] r/opensource、AI関連プロジェクトを禁止 — https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
-- [ProductHunt][🟡二次] AgentGrid.io: 人間とAIエージェントの協働空間 — https://www.producthunt.com/products/agentgrid-io
-- [News][🟡二次] AI投資、テック以外で「利益ゼロ」 — https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist
-- [News][🟡二次] 注目のAIウェアラブルガジェット — https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about
-- [News][🟡二次] 「Blue Planet III」AI時代に粗さを残す — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
-- [ProductHunt][🟡二次] Papermark Data Rooms: AIエージェント対応の安全なデータルーム — https://www.producthunt.com/products/papermark-2
-- [News][🟡二次] 米国のデータセンター反対運動 — https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else
+- [News][🟢一次] OpenAIが新モデル「GPT-6.1 Terra」を発表 — https://openai.com/index/introducing-gpt-6-1-terra
+- [News][🟢一次] ChatGPTが仕事で活用される実態を公開 — https://openai.com/index/chatgpt-expanding-world-of-work
+- [News][🟢一次] FanaticsがOpenAIでファン体験を向上 — https://openai.com/index/fanatics-streamline-fan-experience
+- [News][🟢一次] GreptileがGPT-6 Astraでバグ検出を強化 — https://openai.com/index/greptile-code-review-codex-astra
+- [News][🟢一次] GPT-6.1 SolがCodeRabbitのセキュリティ強化を支援 — https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
+- [News][🟢一次] AIエージェントのプロンプトキャッシュでコスト削減 — https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock
+- [News][🟢一次] OpenAIがUltrafastでインシデント調査を数分に短縮 — https://openai.com/index/openai-cut-incident-investigation
+- [News][🟢一次] Appleがリアルタイム3Dヘッドアニメーション技術を発表 — https://machinelearning.apple.com/research/gharp-head-animation
+- [News][🟢一次] Amazon Bedrockでエージェント型検索を構築 — https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk
+- [News][🟢一次] OpenAIが学術コミュニティと科学理解を構築 — https://openai.com/index/building-scientific-understanding-with-academic-communities
 
-全文: [`news/2026-10-26.md`](news/2026-10-26.md)
+全文: [`news/2026-10-27.md`](news/2026-10-27.md)
 <!--/LATEST-->
 
 ---
