@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-27**
+**最終更新: 2026-10-28**
 
-> OpenAIが新モデル「GPT-6.1 Terra」を発表し、AIの性能向上と普及を推進しています。また、ChatGPTの仕事での具体的な活用実態が公開され、AIによる業務効率化への関心が高まっています。さらに、OpenAIを活用したECサイトの顧客体験向上事例も報告されており、AIのビジネス応用が加速していることが示されています。
+> OpenAIがビジネス分野でのAI活用を大きく推進しています。Retellとの提携ではGPT-6 Astraを活用した音声AIエージェントが月間1億件の通話を処理し、Oracleとの提携ではChatGPTにビジネスアプリやAIエージェントが統合されます。これにより、AIによる業務効率化や副業への応用がさらに加速するでしょう。
 
-- [News][🟢一次] OpenAIが新モデル「GPT-6.1 Terra」を発表 — https://openai.com/index/introducing-gpt-6-1-terra
-- [News][🟢一次] ChatGPTが仕事で活用される実態を公開 — https://openai.com/index/chatgpt-expanding-world-of-work
-- [News][🟢一次] FanaticsがOpenAIでファン体験を向上 — https://openai.com/index/fanatics-streamline-fan-experience
+- [News][🟢一次] OpenAIモデル活用で音声AIが月間1億件の通話処理 — https://openai.com/index/retell-ai
+- [News][🟢一次] OpenAIがOracleと提携、ChatGPTにビジネスアプリ統合 — https://openai.com/index/oracle-apps-in-chatgpt
+- [News][🟡二次] AppleがPages等にAIチャットボットを導入 — https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update
+- [News][🟢一次] Google DeepMindが次世代世界モデル「Genie 4」発表 — https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
+- [News][🟡二次] AppleがiOS/macOSでSiriのAI機能を強化 — https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo
+- [News][🟡二次] FirefoxのAI機能がフォーム入力とウェブ監視に対応 — https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms
+- [News][🟡二次] OpenAIを提訴、GPT-4oが薬物中止を助言か — https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication
 - [News][🟢一次] GreptileがGPT-6 Astraでバグ検出を強化 — https://openai.com/index/greptile-code-review-codex-astra
-- [News][🟢一次] GPT-6.1 SolがCodeRabbitのセキュリティ強化を支援 — https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
-- [News][🟢一次] AIエージェントのプロンプトキャッシュでコスト削減 — https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock
-- [News][🟢一次] OpenAIがUltrafastでインシデント調査を数分に短縮 — https://openai.com/index/openai-cut-incident-investigation
-- [News][🟢一次] Appleがリアルタイム3Dヘッドアニメーション技術を発表 — https://machinelearning.apple.com/research/gharp-head-animation
-- [News][🟢一次] Amazon Bedrockでエージェント型検索を構築 — https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk
-- [News][🟢一次] OpenAIが学術コミュニティと科学理解を構築 — https://openai.com/index/building-scientific-understanding-with-academic-communities
+- [News][🟢一次] Hugging FaceがLFM3でマルチモーダルモデル構築を支援 — https://huggingface.co/blog/LiquidAI/lfm3
+- [News][🟢一次] Amazon Bedrockでモデル評価バイアスを改善 — https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock
 
-全文: [`news/2026-10-27.md`](news/2026-10-27.md)
+全文: [`news/2026-10-28.md`](news/2026-10-28.md)
 <!--/LATEST-->
 
 ---
