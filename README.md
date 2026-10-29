@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-28**
+**最終更新: 2026-10-29**
 
-> OpenAIがビジネス分野でのAI活用を大きく推進しています。Retellとの提携ではGPT-6 Astraを活用した音声AIエージェントが月間1億件の通話を処理し、Oracleとの提携ではChatGPTにビジネスアプリやAIエージェントが統合されます。これにより、AIによる業務効率化や副業への応用がさらに加速するでしょう。
+> 今日のAI界隈では、Googleが次世代モデル「Gemini 4 Carbon」を発表し、サイバーセキュリティやエージェントタスクでの大幅な性能向上を謳っています。また、OpenAIのモデルが人命に関わる誤ったアドバイスをしたとされる訴訟や、AnthropicがIPO申請で自社AIの潜在的リスクを警告するなど、AIの安全性と倫理に関する議論が活発化しています。一方で、ChromeのAI自動入力機能がGmailと連携するなど、日常業務の効率化に直結する実用的なAIツールの進化も進んでいます。
 
-- [News][🟢一次] OpenAIモデル活用で音声AIが月間1億件の通話処理 — https://openai.com/index/retell-ai
-- [News][🟢一次] OpenAIがOracleと提携、ChatGPTにビジネスアプリ統合 — https://openai.com/index/oracle-apps-in-chatgpt
-- [News][🟡二次] AppleがPages等にAIチャットボットを導入 — https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update
-- [News][🟢一次] Google DeepMindが次世代世界モデル「Genie 4」発表 — https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
-- [News][🟡二次] AppleがiOS/macOSでSiriのAI機能を強化 — https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo
-- [News][🟡二次] FirefoxのAI機能がフォーム入力とウェブ監視に対応 — https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms
-- [News][🟡二次] OpenAIを提訴、GPT-4oが薬物中止を助言か — https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication
-- [News][🟢一次] GreptileがGPT-6 Astraでバグ検出を強化 — https://openai.com/index/greptile-code-review-codex-astra
-- [News][🟢一次] Hugging FaceがLFM3でマルチモーダルモデル構築を支援 — https://huggingface.co/blog/LiquidAI/lfm3
-- [News][🟢一次] Amazon Bedrockでモデル評価バイアスを改善 — https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock
+- [News][🟢一次] Google、次世代AIモデル「Gemini 4 Carbon」発表 — https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model
+- [News][🟡二次] OpenAI提訴、AIが誤った医療助言か — https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication
+- [News][🟢一次] NVIDIAとHugging Face、多言語文字起こしモデル発表 — https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
+- [News][🟢一次] OpenAIとServiceNow、企業向けAI連携を拡大 — https://openai.com/index/openai-servicenow-partnership-expansion
+- [News][🟢一次] NVIDIA RTX Spark搭載AIノートPC、新モデル登場 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games
+- [News][🟢一次] Legora、法律業務向けAIエージェントOSを構築 — https://openai.com/index/legora
+- [News][🟢一次] AWS、Amazon BedrockでエージェントAI基盤を構築 — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore
+- [News][🟢一次] OpenAI、企業の未来におけるAIの役割を考察 — https://openai.com/index/the-future-of-the-firm
+- [News][🟢一次] AWS、エージェントAIでQA自動化を加速（第3部） — https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3
+- [News][🟢一次] AWS、Ray Train DLCsとEFAで分散学習 — https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks
 
-全文: [`news/2026-10-28.md`](news/2026-10-28.md)
+全文: [`news/2026-10-29.md`](news/2026-10-29.md)
 <!--/LATEST-->
 
 ---
