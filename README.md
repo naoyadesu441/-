@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-29**
+**最終更新: 2026-10-30**
 
-> 今日のAI界隈では、Googleが次世代モデル「Gemini 4 Carbon」を発表し、サイバーセキュリティやエージェントタスクでの大幅な性能向上を謳っています。また、OpenAIのモデルが人命に関わる誤ったアドバイスをしたとされる訴訟や、AnthropicがIPO申請で自社AIの潜在的リスクを警告するなど、AIの安全性と倫理に関する議論が活発化しています。一方で、ChromeのAI自動入力機能がGmailと連携するなど、日常業務の効率化に直結する実用的なAIツールの進化も進んでいます。
+> 本日のAIニュースを20件掲載（一次18件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] Google、次世代AIモデル「Gemini 4 Carbon」発表 — https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model
-- [News][🟡二次] OpenAI提訴、AIが誤った医療助言か — https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication
-- [News][🟢一次] NVIDIAとHugging Face、多言語文字起こしモデル発表 — https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
-- [News][🟢一次] OpenAIとServiceNow、企業向けAI連携を拡大 — https://openai.com/index/openai-servicenow-partnership-expansion
-- [News][🟢一次] NVIDIA RTX Spark搭載AIノートPC、新モデル登場 — https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games
-- [News][🟢一次] Legora、法律業務向けAIエージェントOSを構築 — https://openai.com/index/legora
-- [News][🟢一次] AWS、Amazon BedrockでエージェントAI基盤を構築 — https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore
-- [News][🟢一次] OpenAI、企業の未来におけるAIの役割を考察 — https://openai.com/index/the-future-of-the-firm
-- [News][🟢一次] AWS、エージェントAIでQA自動化を加速（第3部） — https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3
-- [News][🟢一次] AWS、Ray Train DLCsとEFAで分散学習 — https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks
+- [News][🟢一次] An updated Model Spec for more capable and beneficial AI — https://openai.com/index/updated-model-spec
+- [News][🟢一次] How the UK Amazon Quick User Group grew in 2026 — https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026
+- [News][🟢一次] Microsoft Research Focus – Edition #97 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97
+- [News][🟢一次] Building intent-driven UI testing with Amazon Nova Act — https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act
+- [News][🟢一次] Build a repeatable PHP-to-Java migration engine with Kiro — https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro
+- [News][🟢一次] Accelerating Frontier Transformation: Reshape business processes — https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes
+- [News][🟢一次] How we detect frontier model misalignment — https://openai.com/index/how-we-detect-frontier-model-misalignment
+- [News][🟢一次] Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs — https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs
+- [News][🟢一次] How Ropes & Gray is developing AI for transactional diligence — https://openai.com/index/ropes-gray-ai-diligence
+- [News][🟢一次] How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway — https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway
 
-全文: [`news/2026-10-29.md`](news/2026-10-29.md)
+全文: [`news/2026-10-30.md`](news/2026-10-30.md)
 <!--/LATEST-->
 
 ---
