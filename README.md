@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-30**
+**最終更新: 2026-10-31**
 
-> 本日のAIニュースを20件掲載（一次18件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今日のAIニュースでは、OpenAIがウェブサイト運営者向けのAI学習データ利用設定の簡易化や、AI学習におけるフェアユースの重要性を強調するなど、データ利用の透明性と倫理に焦点を当てています。また、AWSはAmazon BedrockでWebアプリのライブプレビュー機能を強化し、開発者の生産性向上に貢献。AIの進化に伴い、その利用におけるガバナンスと実用的なツール開発の両面で動きが見られます。
 
-- [News][🟢一次] An updated Model Spec for more capable and beneficial AI — https://openai.com/index/updated-model-spec
-- [News][🟢一次] How the UK Amazon Quick User Group grew in 2026 — https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026
-- [News][🟢一次] Microsoft Research Focus – Edition #97 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97
-- [News][🟢一次] Building intent-driven UI testing with Amazon Nova Act — https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act
-- [News][🟢一次] Build a repeatable PHP-to-Java migration engine with Kiro — https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro
-- [News][🟢一次] Accelerating Frontier Transformation: Reshape business processes — https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes
-- [News][🟢一次] How we detect frontier model misalignment — https://openai.com/index/how-we-detect-frontier-model-misalignment
-- [News][🟢一次] Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs — https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs
-- [News][🟢一次] How Ropes & Gray is developing AI for transactional diligence — https://openai.com/index/ropes-gray-ai-diligence
-- [News][🟢一次] How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway — https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway
+- [News][🟡二次] 大手AI企業がデータスクレイピング拒否の新基準を支持 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+- [News][🟢一次] OpenAI、AI学習拒否設定を簡易化 — https://openai.com/index/helping-websites-express-ai-training-preferences
+- [News][🟡二次] Apple Intelligenceが中国で提供開始へ — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+- [News][🟡二次] スタバ、AIでドライブスルーの個別メニュー提供へ — https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru
+- [News][🟡二次] AIエージェント悪用サイバー攻撃が拡大 — https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers
+- [News][🟢一次] AWS BedrockでWebアプリのライブプレビュー — https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime
+- [News][🟢一次] OpenAI、AI学習におけるフェアユースの重要性を強調 — https://openai.com/index/fair-use-benefits-everyone
+- [News][🟢一次] ChatGPT、未成年者保護を強化 — https://openai.com/index/community-safety-report-and-new-protections-for-teens
+- [News][🟢一次] AWS Bedrockコスト管理の運用モデル公開 — https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams
+- [News][🟢一次] NVIDIA、AIエージェントが地球外生命体探索に貢献 — https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals
 
-全文: [`news/2026-10-30.md`](news/2026-10-30.md)
+全文: [`news/2026-10-31.md`](news/2026-10-31.md)
 <!--/LATEST-->
 
 ---
