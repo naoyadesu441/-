@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-10-31**
+**最終更新: 2026-11-01**
 
-> 今日のAIニュースでは、OpenAIがウェブサイト運営者向けのAI学習データ利用設定の簡易化や、AI学習におけるフェアユースの重要性を強調するなど、データ利用の透明性と倫理に焦点を当てています。また、AWSはAmazon BedrockでWebアプリのライブプレビュー機能を強化し、開発者の生産性向上に貢献。AIの進化に伴い、その利用におけるガバナンスと実用的なツール開発の両面で動きが見られます。
+> 今日のAI界隈では、主要AI企業がコンテンツスクレイピング拒否の新基準を支持し、コンテンツ制作者に朗報です。また、AWS BedrockのAIエージェントがWebアプリのライブプレビュー機能を強化し、開発効率の向上が期待されます。Apple Intelligenceの中国展開や、AnthropicのVS Code拡張機能のセキュリティ問題も注目されています。
 
-- [News][🟡二次] 大手AI企業がデータスクレイピング拒否の新基準を支持 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
-- [News][🟢一次] OpenAI、AI学習拒否設定を簡易化 — https://openai.com/index/helping-websites-express-ai-training-preferences
-- [News][🟡二次] Apple Intelligenceが中国で提供開始へ — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
-- [News][🟡二次] スタバ、AIでドライブスルーの個別メニュー提供へ — https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru
-- [News][🟡二次] AIエージェント悪用サイバー攻撃が拡大 — https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers
-- [News][🟢一次] AWS BedrockでWebアプリのライブプレビュー — https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime
-- [News][🟢一次] OpenAI、AI学習におけるフェアユースの重要性を強調 — https://openai.com/index/fair-use-benefits-everyone
-- [News][🟢一次] ChatGPT、未成年者保護を強化 — https://openai.com/index/community-safety-report-and-new-protections-for-teens
-- [News][🟢一次] AWS Bedrockコスト管理の運用モデル公開 — https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams
-- [News][🟢一次] NVIDIA、AIエージェントが地球外生命体探索に貢献 — https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals
+- [News][🟡二次] 大手AI企業がコンテンツ学習拒否の新基準を支持 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+- [News][🟢一次] AWS BedrockのAIエージェントがWebアプリをライブプレビュー — https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime
+- [News][🟡二次] Apple IntelligenceがiOS 27.3で中国に登場へ — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+- [News][🟡二次] AnthropicのVS Code拡張機能にバックドア発覚 — https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours
+- [News][🟡二次] AI不正利用を警告した大学幹部が自身で職を失う — https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job
+- [News][🟡二次] MetaのAIエージェント「Muse」がビジネスを変革する可能性 — https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet
+- [ProductHunt][🟡二次] オープンソースのAIネイティブメールクライアント「Godwit」 — https://www.producthunt.com/products/godwit
+- [ProductHunt][🟡二次] AI向け文書クリーンアップツール「Agnos」 — https://www.producthunt.com/products/agnos
+- [News][🟡二次] Apple CEO「AIのためのAIは提供しない」と発言 — https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake
+- [News][🟢一次] Amazon Bedrockのコスト管理プレイブック公開 — https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams
 
-全文: [`news/2026-10-31.md`](news/2026-10-31.md)
+全文: [`news/2026-11-01.md`](news/2026-11-01.md)
 <!--/LATEST-->
 
 ---
