@@ -6,22 +6,17 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-01**
+**最終更新: 2026-11-02**
 
-> 今日のAI界隈では、主要AI企業がコンテンツスクレイピング拒否の新基準を支持し、コンテンツ制作者に朗報です。また、AWS BedrockのAIエージェントがWebアプリのライブプレビュー機能を強化し、開発効率の向上が期待されます。Apple Intelligenceの中国展開や、AnthropicのVS Code拡張機能のセキュリティ問題も注目されています。
+> 今日のAI界隈では、Appleが「AIのためのAI」ではなくユーザー価値を重視する姿勢を示しました。一方で、チャットボットが登山者を危険に導く事例が報告され、AI利用における注意喚起が重要となっています。また、OpenAIのデータセンター名称変更やxAIの環境訴訟など、AIインフラの社会・環境への影響も注目されています。
 
-- [News][🟡二次] 大手AI企業がコンテンツ学習拒否の新基準を支持 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
-- [News][🟢一次] AWS BedrockのAIエージェントがWebアプリをライブプレビュー — https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime
-- [News][🟡二次] Apple IntelligenceがiOS 27.3で中国に登場へ — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
-- [News][🟡二次] AnthropicのVS Code拡張機能にバックドア発覚 — https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours
-- [News][🟡二次] AI不正利用を警告した大学幹部が自身で職を失う — https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job
-- [News][🟡二次] MetaのAIエージェント「Muse」がビジネスを変革する可能性 — https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet
-- [ProductHunt][🟡二次] オープンソースのAIネイティブメールクライアント「Godwit」 — https://www.producthunt.com/products/godwit
-- [ProductHunt][🟡二次] AI向け文書クリーンアップツール「Agnos」 — https://www.producthunt.com/products/agnos
+- [News][🟡二次] チャットボットが登山者を危険な道へ誘導する事例が発生 — https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences
 - [News][🟡二次] Apple CEO「AIのためのAIは提供しない」と発言 — https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake
-- [News][🟢一次] Amazon Bedrockのコスト管理プレイブック公開 — https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams
+- [News][🟡二次] OpenAI、データセンターを「AI計算キャンパス」に改称か — https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses
+- [News][🟡二次] AIはCEOを楽にするが、一般社員への影響は？ — https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else
+- [News][🟡二次] xAIデータセンターの公害訴訟、裁判所が進行を許可 — https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward
 
-全文: [`news/2026-11-01.md`](news/2026-11-01.md)
+全文: [`news/2026-11-02.md`](news/2026-11-02.md)
 <!--/LATEST-->
 
 ---
