@@ -6,17 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-02**
+**最終更新: 2026-11-03**
 
-> 今日のAI界隈では、Appleが「AIのためのAI」ではなくユーザー価値を重視する姿勢を示しました。一方で、チャットボットが登山者を危険に導く事例が報告され、AI利用における注意喚起が重要となっています。また、OpenAIのデータセンター名称変更やxAIの環境訴訟など、AIインフラの社会・環境への影響も注目されています。
+> 今日のAI界隈では、OpenAIがAIの日常タスク遂行能力を測る新ベンチマーク「LifeVal」を発表し、AIの実用性向上に貢献する動きが見られました。また、Amazon Bedrockを活用した企業の業務効率化事例も報告されています。一方、イーロン・マスク氏がGrokの利用制限を発表するなど、AI運用コストの課題も浮上。AppleがサードパーティAIアプリでの収益増を模索するほか、非技術者向けAIモデル学習やAI検索の賢い使い方など、AIの普及と実用化に向けた多角的な動きが活発化しています。
 
-- [News][🟡二次] チャットボットが登山者を危険な道へ誘導する事例が発生 — https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences
-- [News][🟡二次] Apple CEO「AIのためのAIは提供しない」と発言 — https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake
-- [News][🟡二次] OpenAI、データセンターを「AI計算キャンパス」に改称か — https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses
-- [News][🟡二次] AIはCEOを楽にするが、一般社員への影響は？ — https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else
-- [News][🟡二次] xAIデータセンターの公害訴訟、裁判所が進行を許可 — https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward
+- [News][🟡二次] イーロン・マスク氏、Grokの利用制限を発表「コストが高すぎる」 — https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs
+- [News][🟡二次] Apple、サードパーティAIアプリで収益増を模索か — https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps
+- [News][🟡二次] Y Combinator CEO、AIエージェントに年間20万ドル支出 — https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens
+- [News][🟡二次] Trajectoryが4500万ドル調達、非技術者向けAIモデル学習を推進 — https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts
+- [News][🟡二次] NYTがBraveを提訴、AI学習のためのコンテンツ無断利用を巡り — https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping
+- [News][🟡二次] 42AIが6250万ドル調達、人間の行動を予測する「世界モデル」開発へ — https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior
+- [News][🟡二次] AI検索の賢い使い方：いつ使うべきか、避けるべきか — https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web
+- [ProductHunt][🟡二次] AI搭載マインドマップ「Xmind 2027」登場、思考パートナーに — https://www.producthunt.com/products/xmind
+- [News][🟢一次] OpenAI、AIの日常タスク遂行能力を測る新ベンチマーク「LifeVal」発表 — https://openai.com/index/lifeval
+- [News][🟢一次] Circle K、AWS BedrockでDevOpsインシデント対応を大幅短縮 — https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock
 
-全文: [`news/2026-11-02.md`](news/2026-11-02.md)
+全文: [`news/2026-11-03.md`](news/2026-11-03.md)
 <!--/LATEST-->
 
 ---
