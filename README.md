@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-03**
+**最終更新: 2026-11-04**
 
-> 今日のAI界隈では、OpenAIがAIの日常タスク遂行能力を測る新ベンチマーク「LifeVal」を発表し、AIの実用性向上に貢献する動きが見られました。また、Amazon Bedrockを活用した企業の業務効率化事例も報告されています。一方、イーロン・マスク氏がGrokの利用制限を発表するなど、AI運用コストの課題も浮上。AppleがサードパーティAIアプリでの収益増を模索するほか、非技術者向けAIモデル学習やAI検索の賢い使い方など、AIの普及と実用化に向けた多角的な動きが活発化しています。
+> 今週のAIニュースでは、OpenAIとAWSが企業でのAI活用事例を多数公開し、不動産管理やコンテンツ生成における効率化の可能性を示しました。特に、LLMを活用したネイティブ広告や、AIの出力冗長性を制御する技術など、SNSマーケティングやコンテンツ制作に直結する実用的な研究成果が注目されます。AIエージェントの透明性向上に関する進展も見られ、より使いやすく信頼性の高いAIツールの登場が期待されます。
 
-- [News][🟡二次] イーロン・マスク氏、Grokの利用制限を発表「コストが高すぎる」 — https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs
-- [News][🟡二次] Apple、サードパーティAIアプリで収益増を模索か — https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps
-- [News][🟡二次] Y Combinator CEO、AIエージェントに年間20万ドル支出 — https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens
-- [News][🟡二次] Trajectoryが4500万ドル調達、非技術者向けAIモデル学習を推進 — https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts
-- [News][🟡二次] NYTがBraveを提訴、AI学習のためのコンテンツ無断利用を巡り — https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping
-- [News][🟡二次] 42AIが6250万ドル調達、人間の行動を予測する「世界モデル」開発へ — https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior
-- [News][🟡二次] AI検索の賢い使い方：いつ使うべきか、避けるべきか — https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web
-- [ProductHunt][🟡二次] AI搭載マインドマップ「Xmind 2027」登場、思考パートナーに — https://www.producthunt.com/products/xmind
-- [News][🟢一次] OpenAI、AIの日常タスク遂行能力を測る新ベンチマーク「LifeVal」発表 — https://openai.com/index/lifeval
-- [News][🟢一次] Circle K、AWS BedrockでDevOpsインシデント対応を大幅短縮 — https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock
+- [News][🟢一次] Norton RevampがAIニュースエンジンを構築 — https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search
+- [Paper][🟢一次] 意図認識型生成エンジン最適化「IntentGEO」 — https://arxiv.org/abs/2611.04225v1
+- [Paper][🟢一次] LLM生成にネイティブ広告を組み込むAdSteer — https://arxiv.org/abs/2611.04147v1
+- [Paper][🟢一次] LLMの冗長性を制御する新手法「Say Less, Mean Better」 — https://arxiv.org/abs/2611.04107v1
+- [News][🟢一次] Hugging Faceがデザイン言語でデッキ作成AI「Palette」を発表 — https://huggingface.co/blog/ibm-research/palette-deck-building
+- [News][🟢一次] HeimstadenがAIで不動産管理を変革 — https://openai.com/index/heimstaden
+- [News][🟢一次] Amazon Quickで構造化・非構造化データを統合 — https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick
+- [Paper][🟢一次] 画像内機械翻訳「FlowTranslator」がトレーニング不要に — https://arxiv.org/abs/2611.04303v1
+- [Paper][🟢一次] ユーザー中心のAIエージェント型レコメンデーション — https://arxiv.org/abs/2611.04203v1
+- [Paper][🟢一次] LLMの長文入力における「コンテキスト腐敗」を解明 — https://arxiv.org/abs/2611.04169v1
 
-全文: [`news/2026-11-03.md`](news/2026-11-03.md)
+全文: [`news/2026-11-04.md`](news/2026-11-04.md)
 <!--/LATEST-->
 
 ---
