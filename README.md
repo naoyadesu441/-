@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-04**
+**最終更新: 2026-11-05**
 
-> 今週のAIニュースでは、OpenAIとAWSが企業でのAI活用事例を多数公開し、不動産管理やコンテンツ生成における効率化の可能性を示しました。特に、LLMを活用したネイティブ広告や、AIの出力冗長性を制御する技術など、SNSマーケティングやコンテンツ制作に直結する実用的な研究成果が注目されます。AIエージェントの透明性向上に関する進展も見られ、より使いやすく信頼性の高いAIツールの登場が期待されます。
+> 今日のAI界隈では、OpenAIが画像生成モデルImages 2.6を大幅に強化し、高速化やGIF作成、精密な編集機能を追加しました。また、Hugging Faceからはドキュメントから構造化データをJSONで抽出する実用的なツールが登場し、業務効率化やコンテンツ制作に直結する動きが活発です。さらに、OpenAIはコードツール企業を買収し、AIエージェントの機能強化やセキュリティ分野でのAI活用も進展しています。
 
-- [News][🟢一次] Norton RevampがAIニュースエンジンを構築 — https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search
-- [Paper][🟢一次] 意図認識型生成エンジン最適化「IntentGEO」 — https://arxiv.org/abs/2611.04225v1
-- [Paper][🟢一次] LLM生成にネイティブ広告を組み込むAdSteer — https://arxiv.org/abs/2611.04147v1
-- [Paper][🟢一次] LLMの冗長性を制御する新手法「Say Less, Mean Better」 — https://arxiv.org/abs/2611.04107v1
-- [News][🟢一次] Hugging Faceがデザイン言語でデッキ作成AI「Palette」を発表 — https://huggingface.co/blog/ibm-research/palette-deck-building
-- [News][🟢一次] HeimstadenがAIで不動産管理を変革 — https://openai.com/index/heimstaden
-- [News][🟢一次] Amazon Quickで構造化・非構造化データを統合 — https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick
-- [Paper][🟢一次] 画像内機械翻訳「FlowTranslator」がトレーニング不要に — https://arxiv.org/abs/2611.04303v1
-- [Paper][🟢一次] ユーザー中心のAIエージェント型レコメンデーション — https://arxiv.org/abs/2611.04203v1
-- [Paper][🟢一次] LLMの長文入力における「コンテキスト腐敗」を解明 — https://arxiv.org/abs/2611.04169v1
+- [News][🟢一次] OpenAIが画像生成モデルImages 2.6を発表 — https://openai.com/index/introducing-images-2-6
+- [News][🟢一次] OpenAIがコードツール企業を買収 — https://openai.com/index/openai-to-acquire-pierre
+- [News][🟢一次] Hugging Faceが文書からJSON抽出ツール — https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
+- [News][🟢一次] AWS BedrockでAIエージェント評価を効率化 — https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations
+- [News][🟢一次] OpenAIがLinuxカーネル脆弱性を自動発見 — https://openai.com/index/a-thousand-fewer-paths-to-root
+- [News][🟢一次] AWS QuickにAI承認機能「Smart Approvals」 — https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters
+- [News][🟢一次] DevRevがGPT-6.1 Solで自律型サービス — https://openai.com/index/devrev-enterprise-self-service
+- [Paper][🟢一次] 拡散モデルで要約の文字数制御が可能に — https://arxiv.org/abs/2611.06371v1
+- [News][🟢一次] GoogleがAIによる意思決定支援を研究 — https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas
+- [News][🟢一次] OpenAIのサイバーAIが政府クラウドに — https://openai.com/index/daybreak-red-aws-govcloud
 
-全文: [`news/2026-11-04.md`](news/2026-11-04.md)
+全文: [`news/2026-11-05.md`](news/2026-11-05.md)
 <!--/LATEST-->
 
 ---
