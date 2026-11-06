@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-05**
+**最終更新: 2026-11-06**
 
-> 今日のAI界隈では、OpenAIが画像生成モデルImages 2.6を大幅に強化し、高速化やGIF作成、精密な編集機能を追加しました。また、Hugging Faceからはドキュメントから構造化データをJSONで抽出する実用的なツールが登場し、業務効率化やコンテンツ制作に直結する動きが活発です。さらに、OpenAIはコードツール企業を買収し、AIエージェントの機能強化やセキュリティ分野でのAI活用も進展しています。
+> 今週は、Google DeepMindが高速かつ低コストな「Gemini Omni 1.2 Flash」を発表し、AIモデルの進化が注目を集めています。また、OpenAIからはChatGPT広告によるマーケティング成功事例や、Codex、GPT-6 Astraを活用した業務効率化の具体例が複数公開され、AIのビジネス活用がさらに加速していることが示されました。これらのニュースは、AIを使った副業や仕事効率化、SNSマーケティングに関心のあるユーザーにとって、すぐに役立つヒントとなるでしょう。
 
-- [News][🟢一次] OpenAIが画像生成モデルImages 2.6を発表 — https://openai.com/index/introducing-images-2-6
-- [News][🟢一次] OpenAIがコードツール企業を買収 — https://openai.com/index/openai-to-acquire-pierre
-- [News][🟢一次] Hugging Faceが文書からJSON抽出ツール — https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
-- [News][🟢一次] AWS BedrockでAIエージェント評価を効率化 — https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations
-- [News][🟢一次] OpenAIがLinuxカーネル脆弱性を自動発見 — https://openai.com/index/a-thousand-fewer-paths-to-root
-- [News][🟢一次] AWS QuickにAI承認機能「Smart Approvals」 — https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters
-- [News][🟢一次] DevRevがGPT-6.1 Solで自律型サービス — https://openai.com/index/devrev-enterprise-self-service
-- [Paper][🟢一次] 拡散モデルで要約の文字数制御が可能に — https://arxiv.org/abs/2611.06371v1
-- [News][🟢一次] GoogleがAIによる意思決定支援を研究 — https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas
-- [News][🟢一次] OpenAIのサイバーAIが政府クラウドに — https://openai.com/index/daybreak-red-aws-govcloud
+- [News][🟢一次] Gemini Omni 1.2 Flash発表、高速・低コスト化 — https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips
+- [News][🟢一次] ChatGPT広告で登録者数増加、コスト削減に成功 — https://openai.com/ads/customers/flipsnack
+- [News][🟢一次] Cult.fitがCodexで業務効率化ツールを開発 — https://openai.com/index/cultfit-builds-with-codex
+- [News][🟢一次] Merge社、OpenAI技術で製品・ビジネスツールを構築 — https://openai.com/index/merge-builds-with-openai
+- [News][🟢一次] Amazon Bedrock AgentCoreにWeb回答機能追加 — https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore
+- [News][🟢一次] オーストラリア大学、ChatGPTでAI人材育成を強化 — https://openai.com/index/australian-universities-ai-native-graduates
+- [News][🟢一次] Franklin Templeton、OpenAIで投資調査を支援 — https://openai.com/index/franklin-templeton
+- [News][🟢一次] NVIDIA Vera、高スループットと高速AIエージェント実現 — https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents
+- [News][🟢一次] OpenAI、サイバーセキュリティ特化AI「GPT-6 Cyber」発表 — https://openai.com/index/introducing-gpt-6-cyber
+- [News][🟢一次] Amazon、SageMaker AIでコンテンツ品質を評価 — https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai
 
-全文: [`news/2026-11-05.md`](news/2026-11-05.md)
+全文: [`news/2026-11-06.md`](news/2026-11-06.md)
 <!--/LATEST-->
 
 ---
