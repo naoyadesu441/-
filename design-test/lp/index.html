@@ -1,0 +1,414 @@
+<title>AIニュース速達便</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap">
+<style>
+/* Layout: 一通の速達。赤い速達面の上に封筒→便箋→配達ルート→切り取り受取票。罫は1px、角は0、間隔は2値（区画 / 要素）。 */
+@font-face{font-family:"Bespoke Stencil";src:url("assets/bespoke-stencil-700.woff2") format("woff2");font-weight:700;font-display:swap}
+:root{
+  --red:#c8201b;        /* 速達の赤帯 */
+  --red-deep:#9d1712;
+  --paper:#fbfaf6;      /* 便箋 */
+  --sheet:#ffffff;
+  --ink:#16213a;        /* ブルーブラックのインク */
+  --ink-soft:#4a5269;
+  --rule:#d9d6cc;
+  --stamp:#b3261e;      /* 消印の朱 */
+  --on-red:#fff6f2;
+  --display:"Zen Kaku Gothic New","Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
+  --body:"BIZ UDPGothic","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;
+  --num:"Bespoke Stencil","Zen Kaku Gothic New",sans-serif;
+  --gap-section:clamp(64px,9vw,112px);
+  --gap-el:16px;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.85;-webkit-font-smoothing:antialiased}
+::selection{background:var(--red);color:var(--on-red)}
+a{color:inherit;text-underline-offset:.25em;text-decoration-thickness:1px}
+:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.wrap{max-width:1160px;margin-inline:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;word-break:auto-phrase;margin:0;letter-spacing:.01em}
+p{margin:0}
+.nw{display:inline-block}
+.icon{width:1.1em;height:1.1em;flex:none;vertical-align:-.15em}
+.num{font-family:var(--num);font-variant-numeric:tabular-nums;letter-spacing:.04em}
+
+/* header */
+.top{background:var(--red);color:var(--on-red);border-bottom:1px solid var(--red-deep)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:var(--gap-el);min-height:56px}
+.brand{font-family:var(--display);font-weight:900;font-size:17px;display:flex;align-items:center;gap:10px;text-decoration:none}
+.brand svg{width:22px;height:22px}
+.top nav{display:flex;gap:4px}
+.top nav a{text-decoration:none;font-size:14px;padding:10px 12px;min-height:44px;display:inline-flex;align-items:center}
+.top nav a:hover{text-decoration:underline}
+@media (max-width:640px){.top nav a:not(.keep){display:none}}
+
+/* hero: 赤い面に置かれた封筒 */
+.hero{background:var(--red);color:var(--on-red);padding-block:clamp(32px,6vw,72px) clamp(56px,8vw,96px);overflow:hidden}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:28px}
+.envelope{position:relative;background:var(--sheet);color:var(--ink);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:clamp(20px,4vw,48px);padding:clamp(24px,4.5vw,56px);padding-right:clamp(56px,7vw,96px);box-shadow:0 30px 60px -28px rgba(60,6,4,.55)}
+.envelope::after{content:"";position:absolute;top:0;right:0;bottom:0;width:clamp(22px,2.6vw,32px);background:var(--red)} /* 速達の赤線 */
+.envelope .sokutatsu{position:absolute;right:clamp(28px,3.4vw,44px);top:clamp(24px,4vw,48px);writing-mode:vertical-rl;font-family:var(--display);font-weight:900;color:var(--red);font-size:clamp(18px,2vw,24px);letter-spacing:.3em}
+.addr{display:grid;gap:18px;min-width:0}
+.addr .to{font-size:14px;color:var(--ink-soft);display:flex;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:10px}
+.addr h1{font-weight:900;font-size:clamp(34px,6.4vw,76px);line-height:1.18;letter-spacing:-.01em}
+.addr h1 .time{font-family:var(--num);color:var(--red);font-weight:700;letter-spacing:.02em}
+.addr .lede{font-size:clamp(16px,1.6vw,18px);max-width:34em;color:var(--ink-soft)}
+.actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:6px}
+.btn{display:inline-flex;align-items:center;gap:10px;min-height:48px;padding:12px 22px;font-family:var(--display);font-weight:700;font-size:16px;text-decoration:none;border:1px solid var(--ink);transition:background-color .2s,color .2s}
+.btn.primary{background:var(--ink);color:var(--sheet)}
+.btn.primary:hover{background:var(--red);border-color:var(--red)}
+.btn.ghost{background:transparent;color:var(--ink)}
+.btn.ghost:hover{background:var(--ink);color:var(--sheet)}
+.lottie{width:56px;height:56px}
+.postmark{width:clamp(150px,17vw,200px);aspect-ratio:1;align-self:start;color:var(--stamp);transform:rotate(-9deg)}
+.postmark text{font-family:var(--num);fill:currentColor}
+.postmark .jp{font-family:var(--display);font-weight:900}
+@media (max-width:760px){
+  .envelope{grid-template-columns:minmax(0,1fr)}
+  .postmark{position:absolute;right:52px;bottom:-34px;width:118px}
+  .envelope .sokutatsu{display:none}
+}
+.hero .note{font-size:13px;opacity:.9}
+
+/* sections */
+section{padding-block:var(--gap-section)}
+.sec-head{display:grid;gap:10px;margin-bottom:40px;max-width:44em}
+.sec-head h2{font-weight:900;font-size:clamp(26px,3.6vw,40px);line-height:1.3}
+.sec-head p{color:var(--ink-soft)}
+
+/* 便箋 */
+.letter{background:var(--sheet);border:1px solid var(--rule);box-shadow:0 18px 40px -30px rgba(22,33,58,.5);background-image:repeating-linear-gradient(to bottom,transparent 0 47px,#ebe8df 47px 48px);background-position:0 20px}
+.letter-head{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:20px clamp(18px,4vw,40px);border-bottom:1px solid var(--ink);font-size:14px;background:var(--sheet)}
+.letter-head strong{font-family:var(--display)}
+.item{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 108px;gap:var(--gap-el) 28px;padding:28px clamp(18px,4vw,40px);border-bottom:1px solid var(--rule);background:color-mix(in srgb,var(--sheet) 86%,transparent)}
+.item:last-child{border-bottom:0}
+.item h3{font-weight:700;font-size:clamp(19px,2.2vw,24px);line-height:1.45}
+.item p{color:var(--ink-soft);max-width:40em;margin-top:8px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px;font-size:14px;align-items:center}
+.src{position:relative;display:inline-flex;align-items:center;gap:6px;min-height:44px;font-weight:700}
+.peek{position:absolute;left:0;bottom:calc(100% + 6px);width:min(320px,80vw);background:var(--ink);color:var(--sheet);padding:12px 14px;font-size:13px;line-height:1.6;font-weight:400;pointer-events:none;opacity:0;transform:translateY(6px);transition:opacity .18s,transform .18s;z-index:5}
+.peek b{display:block;font-family:var(--num);font-weight:700;letter-spacing:.04em;color:#f3b7ae}
+.src:hover .peek,.src:focus-visible .peek{opacity:1;transform:none}
+@media (max-width:640px),(hover:none){.peek{display:none}}
+.mini-mark{width:100px;height:100px;color:var(--stamp);transform:rotate(-12deg);align-self:center}
+.mini-mark text{font-family:var(--num);fill:currentColor}
+.mini-mark .jp{font-family:var(--display);font-weight:900}
+@media (max-width:640px){.item{grid-template-columns:minmax(0,1fr)}.mini-mark{position:absolute;right:12px;top:10px;width:64px;height:64px;opacity:.85}.item h3{padding-right:64px}}
+.more{padding:18px clamp(18px,4vw,40px);font-size:14px;border-top:1px solid var(--ink);background:var(--sheet)}
+
+/* 配達ルート */
+.route{background:var(--ink);color:var(--sheet)}
+.route .sec-head p{color:#c4c9d8}
+.stops{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid #3a4560}
+.stop{padding:28px 24px 8px 0;display:grid;gap:10px;align-content:start;border-right:1px solid #3a4560;padding-left:24px}
+.stop:first-child{padding-left:0}
+.stop:last-child{border-right:0}
+.stop .t{font-family:var(--num);font-size:clamp(40px,5vw,60px);line-height:1;color:#f3b7ae}
+.stop h3{font-size:20px;font-weight:700}
+.stop p{color:#c4c9d8;font-size:15px}
+.stop .tool{font-size:13px;color:#9aa3bb}
+.track{display:block;width:100%;height:14px;margin-top:-1px}
+.track path{stroke:#f3b7ae;stroke-width:2;fill:none;stroke-dasharray:6 6}
+@media (max-width:760px){.stops{grid-template-columns:minmax(0,1fr)}.stop{border-right:0;border-bottom:1px solid #3a4560;padding-left:0}}
+
+/* 裏取りの基準 */
+.rules{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0;border:1px solid var(--ink)}
+.rule{padding:28px clamp(18px,3vw,32px);display:grid;gap:10px;align-content:start}
+.rule+.rule{border-left:1px solid var(--ink)}
+.rule h3{font-size:20px;display:flex;gap:10px;align-items:center}
+.rule.pass h3 .icon{color:#1f7a4a}
+.rule.fail{background:repeating-linear-gradient(-45deg,transparent 0 10px,#f1eee6 10px 11px)}
+.rule.fail h3{color:var(--ink-soft)}
+@media (max-width:640px){.rules{grid-template-columns:minmax(0,1fr)}.rule+.rule{border-left:0;border-top:1px solid var(--ink)}}
+
+/* 受取票（目打ちつきの切り取り票） */
+.ticket-sec{background:var(--red);color:var(--on-red)}
+.ticket-sec .sec-head p{color:#fff1ed}
+.ticket{position:relative;width:100%;max-width:880px;aspect-ratio:880/280;color:var(--ink)}
+.ticket svg.shape{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.ticket .body,.ticket .stub{position:absolute;top:0;bottom:0;display:grid;align-content:center;gap:8px;padding:0 clamp(16px,3.5vw,40px)}
+.ticket .body{left:0;width:72%}
+.ticket .stub{right:0;width:28%;text-align:center;justify-items:center;will-change:transform}
+.ticket .body h3{font-size:clamp(18px,2.6vw,28px);font-weight:900}
+.ticket .body p{font-size:clamp(13px,1.4vw,15px);color:var(--ink-soft)}
+.ticket .stub .num{font-size:clamp(22px,3.4vw,40px);color:var(--red);line-height:1}
+.ticket .stub a{font-family:var(--display);font-weight:700;font-size:clamp(13px,1.5vw,16px);min-height:44px;display:inline-flex;align-items:center;gap:6px}
+.ticket .hint{font-size:12px;color:var(--ink-soft)}
+@media (max-width:560px){.ticket{aspect-ratio:auto;height:auto}.ticket svg.shape{display:none}.ticket .body,.ticket .stub{position:static;width:auto;background:var(--sheet);padding:22px 18px}.ticket .stub{border-top:2px dashed var(--red)}}
+
+footer{padding-block:48px;font-size:13px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+footer .wrap{display:grid;gap:10px}
+footer ul{margin:0;padding-left:1.2em}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="AIニュース速達便 トップへ">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 7h3m-3 4h2m4.02-2.199l-.6 6A2 2 0 0 0 10.41 17h7.98a2 2 0 0 0 1.99-1.801l.6-6A2 2 0 0 0 18.99 7h-7.98a2 2 0 0 0-1.99 1.801"/><path d="m9.8 7.5l2.982 3.28a3 3 0 0 0 4.238.202L20.3 8"/></g></svg>
+      AIニュース速達便
+    </a>
+    <nav aria-label="ページ内">
+      <a href="#today">今日の便</a>
+      <a href="#route">配達のしくみ</a>
+      <a href="#rule">裏取りの基準</a>
+      <a class="keep" href="#receive">受け取る</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero" aria-labelledby="h1">
+    <div class="wrap">
+      <div class="envelope" id="envelope">
+        <span class="sokutatsu" aria-hidden="true">速達</span>
+        <div class="addr">
+          <div class="to"><span>宛先：海外AIを毎朝追いたいあなた</span><span>差出：AIニュース速達便</span></div>
+          <h1 id="h1">海外AIの朝刊が、毎朝<span class="time">8:00</span>に届く。</h1>
+          <p class="lede">英語の一次情報で裏取りできたニュースだけを、日本語の要約と元リンクつきで一通にまとめます。読むのは3分、確かめるのは1クリックです。</p>
+          <div class="actions">
+            <a class="btn primary" href="https://github.com/naoyadesu441/-/blob/main/news/2026-11-06.md" target="_blank" rel="noopener">
+              今日の便を読む
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-6 6l6-6m-6-6l6 6"/></svg>
+            </a>
+            <a class="btn ghost" href="#today">中身を見る</a>
+            <div class="lottie" id="lottie" role="img" aria-label="送信される封筒のアニメーション"></div>
+          </div>
+        </div>
+        <svg class="postmark" viewBox="0 0 200 200" aria-label="消印 2026年11月6日 8時 一次確認">
+          <g fill="none" stroke="currentColor">
+            <circle class="draw" cx="100" cy="100" r="92" stroke-width="5"/>
+            <circle class="draw" cx="100" cy="100" r="66" stroke-width="2"/>
+            <path class="draw" d="M14 86h172M14 114h172" stroke-width="2.5"/>
+          </g>
+          <text x="100" y="72" text-anchor="middle" font-size="19" class="jp">一次確認</text>
+          <text x="100" y="108" text-anchor="middle" font-size="26">26.11.06</text>
+          <text x="100" y="146" text-anchor="middle" font-size="20">08:00</text>
+        </svg>
+      </div>
+      <p class="note">テスト用のLPです。掲載ニュースは 2026年11月6日の実際の便から抜粋しています。</p>
+    </div>
+  </section>
+
+  <section id="today" aria-labelledby="h-today">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="h-today">11月6日の便から3件</h2>
+        <p>一通に入るのは、元の発表元までたどれたニュースだけ。各件に消印と元リンクがつきます。</p>
+      </div>
+      <article class="letter" id="letter">
+        <div class="letter-head"><strong>便箋 2026年11月6日（木）</strong><span>全10件のうち3件を抜粋</span></div>
+
+        <div class="item">
+          <div>
+            <h3>Google DeepMind、高速・低コストの「Gemini Omni 1.2 Flash」を発表</h3>
+            <p>より速く、費用対効果が高く、長尺の動画クリップにも対応。無料ユーザーを含む多くの利用者に直接効く大型アップデートです。</p>
+            <div class="meta">
+              <span>モデル</span>
+              <a class="src" href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips" target="_blank" rel="noopener">
+                元リンク：Google DeepMind
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6m-7 1l9-9m-5 0h5v5"/></svg>
+                <span class="peek" aria-hidden="true"><b>deepmind.google</b>Gemini Omni 1.2 Flash: fast and cost-effective, with longer clips</span>
+              </a>
+            </div>
+          </div>
+          <svg class="mini-mark" viewBox="0 0 100 100" aria-label="一次確認済"><g fill="none" stroke="currentColor"><circle class="draw" cx="50" cy="50" r="44" stroke-width="3"/><path class="draw" d="M8 44h84M8 58h84" stroke-width="1.6"/></g><text x="50" y="38" text-anchor="middle" font-size="12" class="jp">一次確認</text><text x="50" y="74" text-anchor="middle" font-size="13">11.06</text></svg>
+        </div>
+
+        <div class="item">
+          <div>
+            <h3>ChatGPT広告で登録者数を増やし、登録単価を下げた事例をOpenAIが公開</h3>
+            <p>デザインツールのFlipsnack社がChatGPT広告キャンペーンを活用。SNS運用や副業の集客に直結する具体例です。</p>
+            <div class="meta">
+              <span>プロダクト</span>
+              <a class="src" href="https://openai.com/ads/customers/flipsnack" target="_blank" rel="noopener">
+                元リンク：OpenAI
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6m-7 1l9-9m-5 0h5v5"/></svg>
+                <span class="peek" aria-hidden="true"><b>openai.com</b>Customer story: Flipsnack</span>
+              </a>
+            </div>
+          </div>
+          <svg class="mini-mark" viewBox="0 0 100 100" aria-label="一次確認済"><g fill="none" stroke="currentColor"><circle class="draw" cx="50" cy="50" r="44" stroke-width="3"/><path class="draw" d="M8 44h84M8 58h84" stroke-width="1.6"/></g><text x="50" y="38" text-anchor="middle" font-size="12" class="jp">一次確認</text><text x="50" y="74" text-anchor="middle" font-size="13">11.06</text></svg>
+        </div>
+
+        <div class="item">
+          <div>
+            <h3>Amazon Bedrock AgentCoreに、出典つき回答を返す「Web Answer」が追加</h3>
+            <p>検索・取得・要約・引用のパイプラインを組まずに、1回のツール呼び出しでソースつきの回答を返せるようになりました。</p>
+            <div class="meta">
+              <span>ツール</span>
+              <a class="src" href="https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore" target="_blank" rel="noopener">
+                元リンク：AWS Machine Learning Blog
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6m-7 1l9-9m-5 0h5v5"/></svg>
+                <span class="peek" aria-hidden="true"><b>aws.amazon.com</b>Getting started with Web Answer on Amazon Bedrock AgentCore</span>
+              </a>
+            </div>
+          </div>
+          <svg class="mini-mark" viewBox="0 0 100 100" aria-label="一次確認済"><g fill="none" stroke="currentColor"><circle class="draw" cx="50" cy="50" r="44" stroke-width="3"/><path class="draw" d="M8 44h84M8 58h84" stroke-width="1.6"/></g><text x="50" y="38" text-anchor="middle" font-size="12" class="jp">一次確認</text><text x="50" y="74" text-anchor="middle" font-size="13">11.06</text></svg>
+        </div>
+
+        <div class="more"><a href="https://github.com/naoyadesu441/-/blob/main/news/2026-11-06.md" target="_blank" rel="noopener">この日の便を全件読む（10件）</a></div>
+      </article>
+    </div>
+  </section>
+
+  <section class="route" id="route" aria-labelledby="h-route">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="h-route">配達のしくみ</h2>
+        <p>毎朝、決まった時刻に同じ手順で動きます。人の手を待たないので、休みの日も届きます。</p>
+      </div>
+      <svg class="track" viewBox="0 0 1000 14" preserveAspectRatio="none" aria-hidden="true"><path id="trackPath" d="M0 7H1000"/></svg>
+      <ol class="stops" style="list-style:none;margin:0;padding:0">
+        <li class="stop">
+          <span class="t">08:00</span>
+          <h3>集める・裏取りする</h3>
+          <p>無料の情報源から海外のAIニュースを集め、重複を除き、発表元の一次情報までたどれるかを判定します。</p>
+          <span class="tool">GitHub Actions</span>
+        </li>
+        <li class="stop">
+          <span class="t">08:00台</span>
+          <h3>要約して届ける</h3>
+          <p>一次情報が確認できたものだけを日本語で要約し、元リンクを添えて一通にします。Discordに通知し、Notionにも蓄積します。</p>
+          <span class="tool">Gemini 無料枠・Discord・Notion</span>
+        </li>
+        <li class="stop">
+          <span class="t">09:00</span>
+          <h3>台本にする</h3>
+          <p>その日の便から、YouTube動画とThreads投稿の台本を書き起こします。届いたニュースがそのまま発信の材料になります。</p>
+          <span class="tool">Claude Code のルーティン</span>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="rule" aria-labelledby="h-rule">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="h-rule"><span class="nw">消印が押されるニュース、</span><span class="nw">押されないニュース</span></h2>
+        <p>速さより確かさを優先します。基準は一つ、発表元の一次情報までたどれるかどうかです。</p>
+      </div>
+      <div class="rules">
+        <div class="rule pass">
+          <h3><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0"/><path d="m9 12l2 2l4-4"/></g></svg>便に入るもの</h3>
+          <p>企業の公式ブログ、公式発表、論文など、発表元そのものにリンクできるニュース。要約の下に、必ずその元リンクを置きます。</p>
+        </div>
+        <div class="rule fail">
+          <h3>便に入らないもの</h3>
+          <p>まとめ記事やSNSの噂だけで、発表元までたどれないニュース。話題になっていても、裏取りできるまでは届けません。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ticket-sec" id="receive" aria-labelledby="h-receive">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="h-receive">受取票</h2>
+        <p>今はリポジトリで毎朝の便を公開しています。右の半券から今日の便へどうぞ。</p>
+      </div>
+      <div class="ticket" id="ticket">
+        <svg class="shape" id="ticketShape" viewBox="0 0 880 280" aria-hidden="true">
+          <path id="tBody" fill="#ffffff"/>
+          <path id="tStub" fill="#ffffff"/>
+        </svg>
+        <div class="body">
+          <h3>AIニュース速達便 受取票</h3>
+          <p>配達時刻 毎朝 <span class="num">08:00</span>（日本時間）<br>内容 海外AIニュース 日本語要約・裏取り状態・元リンクつき</p>
+          <span class="hint">半券をつまんで右へ引くと、切り取れます。</span>
+        </div>
+        <div class="stub" id="stub">
+          <span class="num">11.06</span>
+          <a href="https://github.com/naoyadesu441/-/blob/main/news/2026-11-06.md" target="_blank" rel="noopener">今日の便を読む
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-6 6l6-6m-6-6l6 6"/></svg></a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>AIニュース速達便（テスト用LP）。掲載ニュースの著作権は各発表元に帰属します。</p>
+    <ul>
+      <li>アイコン：Tabler Icons（Iconify経由、MIT）</li>
+      <li>動くアイコン：<a href="https://lordicon.com/" target="_blank" rel="noopener">Lordicon</a>（無料アイコン、表記が必要なライセンス）</li>
+      <li>数字書体：Bespoke Stencil（Fontshare）／和文：BIZ UDPゴシック、Zen Kaku Gothic New（Google Fonts）</li>
+      <li>受取票の目打ち形状：React Bits「TearTicket」のジオメトリを参考に移植</li>
+    </ul>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie_light.min.js"></script>
+<script>
+(function(){
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* 目打ち（React Bits TearTicket の buildGeometry を横向き・粗さなしで移植） */
+  function perforated(W,H,S,R,holes,hole,notch){
+    var f=function(n){return n.toFixed(2)}, x=W-S, hr=hole/2, n=Math.max(1,Math.round(holes));
+    var span=H-2*notch, bridge=Math.max(2,(span-n*hole)/(n+1));
+    var arc=function(r,sw,u,v){return 'A'+f(r)+','+f(r)+' 0 0 '+sw+' '+f(u)+','+f(v)};
+    var b=[]; for(var i=0;i<=n;i++){var y0=notch+i*(bridge+hole); b.push({y0:y0,y1:y0+bridge});}
+    var body='M'+f(R)+',0L'+f(x-notch)+',0'+arc(notch,0,x,notch);
+    b.forEach(function(s,i){body+='L'+f(x)+','+f(s.y1); if(i<n) body+=arc(hr,0,x,s.y1+hole);});
+    body+=arc(notch,0,x-notch,H)+'L'+f(R)+','+f(H)+arc(R,1,0,H-R)+'L0,'+f(R)+arc(R,1,R,0)+'Z';
+    var stub='M'+f(x+notch)+',0L'+f(W-R)+',0'+arc(R,1,W,R)+'L'+f(W)+','+f(H-R)+arc(R,1,W-R,H)+'L'+f(x+notch)+','+f(H)+arc(notch,0,x,H-notch);
+    for(var j=n;j>=0;j--){var s=b[j]; stub+='L'+f(x)+','+f(s.y0); if(j>0) stub+=arc(hr,0,x,s.y0-hole);}
+    stub+=arc(notch,0,x+notch,0)+'Z';
+    return {body:body,stub:stub};
+  }
+  var g=perforated(880,280,246,0,14,7,7);
+  document.getElementById('tBody').setAttribute('d',g.body);
+  document.getElementById('tStub').setAttribute('d',g.stub);
+
+  /* Lordicon（Lottie JSON）を lottie-web で再生 */
+  if(window.lottie){
+    fetch('assets/envelope-lordicon.json').then(function(r){return r.json()}).then(function(data){
+      var anim=lottie.loadAnimation({container:document.getElementById('lottie'),renderer:'svg',loop:!reduce,autoplay:!reduce,animationData:data});
+      if(reduce) anim.goToAndStop(0,true);
+    }).catch(function(){});
+  }
+
+  if(!window.gsap || reduce) return;
+  gsap.registerPlugin(ScrollTrigger);
+
+  /* 一度だけの演出：封筒が届き、消印が押される（初期状態は見えたまま） */
+  var marks=document.querySelectorAll('.postmark .draw');
+  marks.forEach(function(p){var l=p.getTotalLength?p.getTotalLength():600; p.style.strokeDasharray=l; p.style.strokeDashoffset=0;});
+  var tl=gsap.timeline({defaults:{ease:'expo.out'}});
+  tl.from('#envelope',{y:40,rotate:-1.5,duration:1.1})
+    .from('.postmark .draw',{strokeDashoffset:function(i,el){return el.getTotalLength()},duration:.9,stagger:.08},'-=.5')
+    .from('.postmark',{scale:1.25,duration:.35,ease:'power4.in'},'-=.95');
+
+  /* 便箋の消印：スクロールで押印 */
+  document.querySelectorAll('.mini-mark').forEach(function(m){
+    var ps=m.querySelectorAll('.draw');
+    ps.forEach(function(p){var l=p.getTotalLength(); p.style.strokeDasharray=l;});
+    gsap.fromTo(ps,{strokeDashoffset:function(i,el){return el.getTotalLength()}},{strokeDashoffset:0,ease:'none',scrollTrigger:{trigger:m,start:'top 85%',end:'top 50%',scrub:true}});
+  });
+
+  /* 配達ルート：点線がスクロールで進む */
+  gsap.fromTo('#trackPath',{attr:{d:'M0 7H0'}},{attr:{d:'M0 7H1000'},ease:'none',scrollTrigger:{trigger:'#route',start:'top 75%',end:'center 50%',scrub:true}});
+
+  /* 受取票：半券を右へ引くと目打ちで切れる */
+  var stub=document.getElementById('stub'), stubPath=document.getElementById('tStub'), torn=false, startX=0, dx=0;
+  function move(x){dx=Math.max(0,Math.min(x,140)); gsap.set([stub,stubPath],{x:dx,rotate:dx/14,transformOrigin:'0% 100%'});}
+  stub.addEventListener('pointerdown',function(e){ if(torn||e.target.closest('a')) return; startX=e.clientX; stub.setPointerCapture(e.pointerId);});
+  stub.addEventListener('pointermove',function(e){ if(torn||!stub.hasPointerCapture(e.pointerId)) return; move(e.clientX-startX);});
+  stub.addEventListener('pointerup',function(e){
+    if(torn) return;
+    if(dx>90){torn=true; gsap.to([stub,stubPath],{x:'+=60',y:30,rotate:14,duration:.6,ease:'expo.out'});}
+    else gsap.to([stub,stubPath],{x:0,rotate:0,duration:.5,ease:'expo.out'});
+    dx=0;
+  });
+})();
+</script>
