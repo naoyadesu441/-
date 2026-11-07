@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-06**
+**最終更新: 2026-11-07**
 
-> 今週は、Google DeepMindが高速かつ低コストな「Gemini Omni 1.2 Flash」を発表し、AIモデルの進化が注目を集めています。また、OpenAIからはChatGPT広告によるマーケティング成功事例や、Codex、GPT-6 Astraを活用した業務効率化の具体例が複数公開され、AIのビジネス活用がさらに加速していることが示されました。これらのニュースは、AIを使った副業や仕事効率化、SNSマーケティングに関心のあるユーザーにとって、すぐに役立つヒントとなるでしょう。
+> 今日のAI界隈では、OpenAIがセキュリティ強化のためHacktronと提携し、システムの脆弱性発見に取り組む動きがありました。また、AWSのAIエージェントサービスAmazon Bedrock AgentCoreにWebから情報を収集し、ソース付きで回答を生成する「Web Answer」機能が追加され、AIによる情報収集やコンテンツ制作の効率化がさらに進展しています。
 
-- [News][🟢一次] Gemini Omni 1.2 Flash発表、高速・低コスト化 — https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips
-- [News][🟢一次] ChatGPT広告で登録者数増加、コスト削減に成功 — https://openai.com/ads/customers/flipsnack
-- [News][🟢一次] Cult.fitがCodexで業務効率化ツールを開発 — https://openai.com/index/cultfit-builds-with-codex
-- [News][🟢一次] Merge社、OpenAI技術で製品・ビジネスツールを構築 — https://openai.com/index/merge-builds-with-openai
-- [News][🟢一次] Amazon Bedrock AgentCoreにWeb回答機能追加 — https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore
-- [News][🟢一次] オーストラリア大学、ChatGPTでAI人材育成を強化 — https://openai.com/index/australian-universities-ai-native-graduates
-- [News][🟢一次] Franklin Templeton、OpenAIで投資調査を支援 — https://openai.com/index/franklin-templeton
-- [News][🟢一次] NVIDIA Vera、高スループットと高速AIエージェント実現 — https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents
-- [News][🟢一次] OpenAI、サイバーセキュリティ特化AI「GPT-6 Cyber」発表 — https://openai.com/index/introducing-gpt-6-cyber
-- [News][🟢一次] Amazon、SageMaker AIでコンテンツ品質を評価 — https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai
+- [News][🟡二次] OpenAIが110億ドル追加調達、評価額1.25兆ドルに — https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation
+- [News][🟡二次] Meta、AIアシスタント「Muse」にカスタム空間機能 — https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
+- [News][🟡二次] Meta、AI学習でのFacebookページ利用規約を撤回 — https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update
+- [News][🟡二次] Amazon Alexaがテキストで買い物リストに対応 — https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders
+- [News][🟡二次] Airbnb、2027年前半にAI旅行エージェント導入へ — https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027
+- [News][🟢一次] AWS Bedrock AgentCoreにWeb回答機能追加 — https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore
+- [News][🟡二次] Chainalysis、AIエージェント関与のサイバー攻撃で情報盗難 — https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers
+- [News][🟡二次] 中国の無料AIモデルがハッキング能力向上 — https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking
+- [News][🟡二次] AI企業が業務ファイルやメールの購入を強化 — https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails
+- [News][🟢一次] OpenAI、Hacktronと提携し脆弱性発見を強化 — https://openai.com/index/partnering-with-hacktron
 
-全文: [`news/2026-11-06.md`](news/2026-11-06.md)
+全文: [`news/2026-11-07.md`](news/2026-11-07.md)
 <!--/LATEST-->
 
 ---
