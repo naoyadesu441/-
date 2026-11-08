@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-07**
+**最終更新: 2026-11-08**
 
-> 今日のAI界隈では、OpenAIがセキュリティ強化のためHacktronと提携し、システムの脆弱性発見に取り組む動きがありました。また、AWSのAIエージェントサービスAmazon Bedrock AgentCoreにWebから情報を収集し、ソース付きで回答を生成する「Web Answer」機能が追加され、AIによる情報収集やコンテンツ制作の効率化がさらに進展しています。
+> 今日のAI界隈では、大手企業の動向が注目されています。OpenAIは巨額の資金調達で評価額を大幅に上げ、一方AnthropicはAIがAIを開発する自己改善技術で進化を加速させています。また、AIの日常利用が進む中で、その実用性と限界が示される事例や、AIエージェントによるサイバー攻撃といったセキュリティリスクも浮上しており、AIの光と影が鮮明になっています。
 
-- [News][🟡二次] OpenAIが110億ドル追加調達、評価額1.25兆ドルに — https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation
-- [News][🟡二次] Meta、AIアシスタント「Muse」にカスタム空間機能 — https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
-- [News][🟡二次] Meta、AI学習でのFacebookページ利用規約を撤回 — https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update
-- [News][🟡二次] Amazon Alexaがテキストで買い物リストに対応 — https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders
-- [News][🟡二次] Airbnb、2027年前半にAI旅行エージェント導入へ — https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027
-- [News][🟢一次] AWS Bedrock AgentCoreにWeb回答機能追加 — https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore
-- [News][🟡二次] Chainalysis、AIエージェント関与のサイバー攻撃で情報盗難 — https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers
-- [News][🟡二次] 中国の無料AIモデルがハッキング能力向上 — https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking
-- [News][🟡二次] AI企業が業務ファイルやメールの購入を強化 — https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails
-- [News][🟢一次] OpenAI、Hacktronと提携し脆弱性発見を強化 — https://openai.com/index/partnering-with-hacktron
+- [News][🟡二次] AnthropicがAIでAI開発を加速、研究者警戒 — https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+- [News][🟡二次] OpenAI、評価額1.25兆ドルに到達 — https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+- [News][🟡二次] NYTのAI料理助手、夕食は成功もケーキは失敗 — https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
+- [News][🟡二次] Chainalysis、AI関与のサイバー攻撃で情報流出 — https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers
+- [News][🟡二次] 米国、NvidiaのAIチップを中国の空きオフィスへ輸出許可 — https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+- [News][🟡二次] AIがサイバーセキュリティを破壊、次の一手は？ — https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
+- [News][🟡二次] 中国、Nvidia CEOスパイにAI幹部を勧誘か — https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+- [News][🟡二次] イーロン・マスクとデータセンター、逆風に直面 — https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers
+- [News][🟡二次] Crusoe、ワイオミングのデータセンターをGoogleに売却 — https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google
+- [News][🟡二次] 介護者向けアプリにAI導入も、課題残る — https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough
 
-全文: [`news/2026-11-07.md`](news/2026-11-07.md)
+全文: [`news/2026-11-08.md`](news/2026-11-08.md)
 <!--/LATEST-->
 
 ---
