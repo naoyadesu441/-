@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-08**
+**最終更新: 2026-11-09**
 
-> 今日のAI界隈では、大手企業の動向が注目されています。OpenAIは巨額の資金調達で評価額を大幅に上げ、一方AnthropicはAIがAIを開発する自己改善技術で進化を加速させています。また、AIの日常利用が進む中で、その実用性と限界が示される事例や、AIエージェントによるサイバー攻撃といったセキュリティリスクも浮上しており、AIの光と影が鮮明になっています。
+> 今日のAI界隈では、AppleがSiriのAIエージェント機能強化を含む、より野心的なAI戦略を加速していることが注目されます。また、AIがマーケティング責任者を務めるスタートアップの登場や、バイトダンスの動画生成AI「Seedance」の海外売上急増など、AIのビジネス活用が具体的に進展。一方で、AI音楽Sunoが著作権侵害で提訴されるなど、AIとクリエイティブの倫理・法的な課題も浮上しています。
 
-- [News][🟡二次] AnthropicがAIでAI開発を加速、研究者警戒 — https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
-- [News][🟡二次] OpenAI、評価額1.25兆ドルに到達 — https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
-- [News][🟡二次] NYTのAI料理助手、夕食は成功もケーキは失敗 — https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
-- [News][🟡二次] Chainalysis、AI関与のサイバー攻撃で情報流出 — https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers
-- [News][🟡二次] 米国、NvidiaのAIチップを中国の空きオフィスへ輸出許可 — https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
-- [News][🟡二次] AIがサイバーセキュリティを破壊、次の一手は？ — https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
-- [News][🟡二次] 中国、Nvidia CEOスパイにAI幹部を勧誘か — https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
-- [News][🟡二次] イーロン・マスクとデータセンター、逆風に直面 — https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers
-- [News][🟡二次] Crusoe、ワイオミングのデータセンターをGoogleに売却 — https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google
-- [News][🟡二次] 介護者向けアプリにAI導入も、課題残る — https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough
+- [News][🟡二次] AIエージェントがCMOに？スタートアップで導入事例 — https://news.google.com/rss/articles/CBMirAFBVV95cUxObjNNeVNmYzhsaTRJREk0VFJwOGxtSHVoanltSUhxeVp0Qkk4YUJYU3pQMFZxcWFjVEFPZ1puUW1TUzZQdUFibEVQNkI1dzNmaldUUlZGS09QelN5OW44MHR2cXQ2VGJkZFZyTlpFdTNwYlJ4bEt6dUlTeWc2U1hWcnZHeHNaM0tlS3RENFRSMlJpemFrV19JcnA0SUM2ZWpxZXNYQVZvR0xyVUpu?oc=5
+- [News][🟡二次] Apple、SiriのAIエージェント機能強化を加速 — https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+- [News][🟡二次] Waymo反対運動、AI生成記事を不正利用 — https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUJNSXktbnZfU1VTcG9KSTJGN181Q3luQ2hYRlZMOGhaVWl6MGNpQkxsYXNaTGFUMjU3NHJ0X3RuU0lYOUNGUW9VSllSbGRRcFhjbFBIZlRUOFk1YmRTdUpKTk0tLWFYdFlqbVF1N2RMZGw5RDlROE1nZjhacm9fc0JrcndBSS1hUldXZFMzLUlHNHN1cTY2SGJBcw?oc=5
+- [News][🟡二次] AI音楽Suno、エルヴィスら著作権侵害で提訴 — https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+- [News][🟡二次] バイトダンス動画生成AI「Seedance」海外売上急増 — https://news.google.com/rss/articles/CBMif0FVX3lxTE8zVm9mekJFeG9vQkFzY2Nua2RaY2d0OUUtR1VTT3JWNnlDTDNObWhuZHhhUlFvT2k3a04ySW56MzViUkw2N3VqYkhsVHJTVGduOVhSNDQ5Qnl0OEtDbmdENkNXblkySlZvWjVQendjNlhFTEJicmpDYUtxYi1aYmc?oc=5
+- [News][🟡二次] Apple CEO、より野心的なAI戦略をソフトウェア責任者に要求 — https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5
+- [News][🟡二次] Nvidia、CEOの中国スパイ疑惑関係を調査へ — https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy
+- [News][🟡二次] メルセデス・ベンツ、車載AIを大幅強化 — https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWVpcXVCdEpmZDktampFRkN0RV9XOVJUR0ZiTVJHY3c4c19QTncwblEwRll2TEMtN190VkpzMThKUFBTdTJPUlZKMnZYY250aWxSR3hOWmFKRExlTGxib3Z0MjJIVVZER251RFhVeDRDaGY2VTB5SHYtc3RVZlpSZlJxTG0?oc=5
+- [News][🟡二次] AIはホワイトカラーの仕事を奪うか？現状は否定的 — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjNWaVhUV1JnWkhoNDRXTmxIM1VITm1DTTQ4aGRtOFVsc05KZHVoOVY2ajllblZDQzZjR3FCQmhGR2tlUGx3S2l2Y3pxREl0YzU0Vzg5cFhTTy1icmZ6M0dhY3F1Uk8xT2dHY1F0U0gzNDZQdURYOGVwMWN1dTRpRUZ0Q0lGZDhPQVhKOWl3QVFpQlpKci13S09zcHM1TzFpMjZIelRLUVM2OVE?oc=5
+- [News][🟡二次] NYT料理アプリ、AIレシピ変更機能が好評 — https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good
 
-全文: [`news/2026-11-08.md`](news/2026-11-08.md)
+全文: [`news/2026-11-09.md`](news/2026-11-09.md)
 <!--/LATEST-->
 
 ---
