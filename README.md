@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-09**
+**最終更新: 2026-11-10**
 
-> 今日のAI界隈では、AppleがSiriのAIエージェント機能強化を含む、より野心的なAI戦略を加速していることが注目されます。また、AIがマーケティング責任者を務めるスタートアップの登場や、バイトダンスの動画生成AI「Seedance」の海外売上急増など、AIのビジネス活用が具体的に進展。一方で、AI音楽Sunoが著作権侵害で提訴されるなど、AIとクリエイティブの倫理・法的な課題も浮上しています。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] AIエージェントがCMOに？スタートアップで導入事例 — https://news.google.com/rss/articles/CBMirAFBVV95cUxObjNNeVNmYzhsaTRJREk0VFJwOGxtSHVoanltSUhxeVp0Qkk4YUJYU3pQMFZxcWFjVEFPZ1puUW1TUzZQdUFibEVQNkI1dzNmaldUUlZGS09QelN5OW44MHR2cXQ2VGJkZFZyTlpFdTNwYlJ4bEt6dUlTeWc2U1hWcnZHeHNaM0tlS3RENFRSMlJpemFrV19JcnA0SUM2ZWpxZXNYQVZvR0xyVUpu?oc=5
-- [News][🟡二次] Apple、SiriのAIエージェント機能強化を加速 — https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
-- [News][🟡二次] Waymo反対運動、AI生成記事を不正利用 — https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUJNSXktbnZfU1VTcG9KSTJGN181Q3luQ2hYRlZMOGhaVWl6MGNpQkxsYXNaTGFUMjU3NHJ0X3RuU0lYOUNGUW9VSllSbGRRcFhjbFBIZlRUOFk1YmRTdUpKTk0tLWFYdFlqbVF1N2RMZGw5RDlROE1nZjhacm9fc0JrcndBSS1hUldXZFMzLUlHNHN1cTY2SGJBcw?oc=5
-- [News][🟡二次] AI音楽Suno、エルヴィスら著作権侵害で提訴 — https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
-- [News][🟡二次] バイトダンス動画生成AI「Seedance」海外売上急増 — https://news.google.com/rss/articles/CBMif0FVX3lxTE8zVm9mekJFeG9vQkFzY2Nua2RaY2d0OUUtR1VTT3JWNnlDTDNObWhuZHhhUlFvT2k3a04ySW56MzViUkw2N3VqYkhsVHJTVGduOVhSNDQ5Qnl0OEtDbmdENkNXblkySlZvWjVQendjNlhFTEJicmpDYUtxYi1aYmc?oc=5
-- [News][🟡二次] Apple CEO、より野心的なAI戦略をソフトウェア責任者に要求 — https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5
-- [News][🟡二次] Nvidia、CEOの中国スパイ疑惑関係を調査へ — https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy
-- [News][🟡二次] メルセデス・ベンツ、車載AIを大幅強化 — https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWVpcXVCdEpmZDktampFRkN0RV9XOVJUR0ZiTVJHY3c4c19QTncwblEwRll2TEMtN190VkpzMThKUFBTdTJPUlZKMnZYY250aWxSR3hOWmFKRExlTGxib3Z0MjJIVVZER251RFhVeDRDaGY2VTB5SHYtc3RVZlpSZlJxTG0?oc=5
-- [News][🟡二次] AIはホワイトカラーの仕事を奪うか？現状は否定的 — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjNWaVhUV1JnWkhoNDRXTmxIM1VITm1DTTQ4aGRtOFVsc05KZHVoOVY2ajllblZDQzZjR3FCQmhGR2tlUGx3S2l2Y3pxREl0YzU0Vzg5cFhTTy1icmZ6M0dhY3F1Uk8xT2dHY1F0U0gzNDZQdURYOGVwMWN1dTRpRUZ0Q0lGZDhPQVhKOWl3QVFpQlpKci13S09zcHM1TzFpMjZIelRLUVM2OVE?oc=5
-- [News][🟡二次] NYT料理アプリ、AIレシピ変更機能が好評 — https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good
+- [News][🟢一次] ChatGPT Enterprise now available in AWS Marketplace — https://openai.com/index/chatgpt-enterprise-aws-marketplace
+- [News][🟢一次] How skills and agents work in AWS Quick — https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick
+- [News][🟢一次] Exploring the world's languages with Language Explorer — https://research.google/blog/exploring-the-worlds-languages-with-language-explorer
+- [News][🟢一次] Control Room: A central system to track and stop model workloads across our research infrastructure — https://openai.com/index/control-room
+- [News][🟢一次] Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base
+- [News][🟢一次] Introducing Claude Fable 5.2 on AWS — https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws
+- [News][🟢一次] NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart
+- [News][🟢一次] Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills — https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills
+- [News][🟢一次] Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore
+- [News][🟢一次] How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore
 
-全文: [`news/2026-11-09.md`](news/2026-11-09.md)
+全文: [`news/2026-11-10.md`](news/2026-11-10.md)
 <!--/LATEST-->
 
 ---
