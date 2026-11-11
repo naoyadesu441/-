@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-10**
+**最終更新: 2026-11-11**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週のAI界隈では、GoogleとAdobeの連携強化が注目を集めています。Googleアプリ内でAdobeのクリエイティブツールやAI機能が利用可能になり、コンテンツ制作やマーケティング業務の効率化に大きな影響を与えそうです。また、GoogleのGeminiは新機能と対応デバイスを拡大し、OpenAIのChatGPTもビジネス向け機能を導入。AIがフリーランスの仕事に与える影響に関するOpenAIの研究も発表され、副業や仕事効率化を目指すユーザーにとって見逃せない情報が満載です。
 
-- [News][🟢一次] ChatGPT Enterprise now available in AWS Marketplace — https://openai.com/index/chatgpt-enterprise-aws-marketplace
-- [News][🟢一次] How skills and agents work in AWS Quick — https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick
-- [News][🟢一次] Exploring the world's languages with Language Explorer — https://research.google/blog/exploring-the-worlds-languages-with-language-explorer
-- [News][🟢一次] Control Room: A central system to track and stop model workloads across our research infrastructure — https://openai.com/index/control-room
-- [News][🟢一次] Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base
-- [News][🟢一次] Introducing Claude Fable 5.2 on AWS — https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws
-- [News][🟢一次] NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart — https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart
-- [News][🟢一次] Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills — https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills
-- [News][🟢一次] Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore
-- [News][🟢一次] How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore
+- [News][🟢一次] Geminiが新機能と対応デバイスを拡大 — https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices
+- [News][🟢一次] GoogleアプリとAdobeツールが連携強化 — https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration
+- [News][🟢一次] Gemini 4 Carbonが利用可能に — https://deepmind.google/blog/gemini-4-carbon-is-now-available
+- [News][🟢一次] ChatGPTにビジネス向け機能が登場 — https://openai.com/index/introducing-businesses-chatgpt
+- [News][🟢一次] AIがフリーランスの仕事に与える影響 — https://openai.com/index/ai-effect-on-freelance-work
+- [News][🟢一次] Amazon BedrockにKimi K3.1 Proが登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock
+- [News][🟢一次] 介護者がAIを日常生活で活用する支援 — https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+- [News][🟢一次] 法律事務所がAIで業務改革を推進 — https://openai.com/index/gilbert-tobin-sam-nickless
+- [News][🟢一次] LangGraphとBedrockで依存関係監視を構築 — https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search
+- [News][🟢一次] AIエージェントにバックドアを仕込む新技術 — https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents
 
-全文: [`news/2026-11-10.md`](news/2026-11-10.md)
+全文: [`news/2026-11-11.md`](news/2026-11-11.md)
 <!--/LATEST-->
 
 ---
