@@ -1,0 +1,47 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@700;900&display=swap">
+<style>
+@font-face{font-family:"Bespoke Stencil";src:url("bespoke-stencil-700.woff2") format("woff2");font-weight:700}
+html,body{margin:0;background:#c8201b}
+#root{position:relative;width:1920px;height:1080px;overflow:hidden;background:#c8201b;font-family:"Zen Kaku Gothic New",sans-serif}
+.env{position:absolute;left:260px;top:170px;width:1400px;height:620px;background:#fff;box-shadow:0 40px 80px -30px rgba(60,6,4,.6)}
+.env::after{content:"";position:absolute;right:0;top:0;bottom:0;width:44px;background:#c8201b}
+.title{position:absolute;left:110px;top:150px;font-size:118px;font-weight:900;color:#16213a;line-height:1.15;letter-spacing:-.01em}
+.title b{font-family:"Bespoke Stencil";color:#c8201b}
+.to{position:absolute;left:110px;top:80px;font-size:30px;color:#4a5269;border-bottom:2px solid #d9d6cc;width:900px;padding-bottom:12px}
+.mark{position:absolute;right:120px;top:70px;width:300px;height:300px;color:#b3261e;transform:rotate(-9deg)}
+.mark text{fill:#b3261e}
+.cap{position:absolute;left:0;right:0;bottom:86px;text-align:center;font-size:54px;font-weight:700;color:#fff6f2;opacity:0}
+.links{position:absolute;left:110px;top:440px;font-size:34px;color:#16213a;opacity:0}
+</style></head>
+<body>
+<div id="root" data-composition-id="root" data-width="1920" data-height="1080" data-duration="12">
+  <audio id="narration" src="narration.wav" data-start="0.3" data-duration="11" data-volume="1"></audio>
+  <div class="env" id="env">
+    <div class="to">宛先：海外AIを毎朝追いたいあなた</div>
+    <div class="title" id="title">海外AIの朝刊が、<br>毎朝<b>8:00</b>に届く。</div>
+    <div class="links" id="links">一次ソースで裏取り済み ／ 日本語要約 ／ 元リンクつき</div>
+    <svg class="mark" id="mark" viewBox="0 0 200 200"><g fill="none" stroke="currentColor"><circle cx="100" cy="100" r="92" stroke-width="5"/><circle cx="100" cy="100" r="66" stroke-width="2"/><path d="M14 86h172M14 114h172" stroke-width="2.5"/></g><text x="100" y="72" text-anchor="middle" font-size="19" font-weight="900" font-family="Zen Kaku Gothic New">一次確認</text><text x="100" y="108" text-anchor="middle" font-size="26" font-family="Bespoke Stencil">26.11.06</text><text x="100" y="146" text-anchor="middle" font-size="20" font-family="Bespoke Stencil">08:00</text></svg>
+  </div>
+  <div class="cap" id="c1">海外AIニュース速達便。</div>
+  <div class="cap" id="c2">毎朝8時に、</div>
+  <div class="cap" id="c3">一次ソースで裏取りしたニュースだけを、</div>
+  <div class="cap" id="c4">日本語の要約と元リンクつきで</div>
+  <div class="cap" id="c5">お届けします。</div>
+</div>
+<script src="gsap.min.js"></script>
+<script>
+const tl = gsap.timeline({ paused: true });
+const o=0.3; // audio offset
+tl.from("#env",{y:900,rotation:-4,duration:1.0,ease:"expo.out"},0);
+tl.from("#mark",{scale:1.6,opacity:0,duration:0.35,ease:"power4.in"},o+2.7);
+tl.to("#links",{opacity:1,duration:0.5},o+3.8);
+// captions timed from Whisper word timestamps (segment boundaries)
+const seg=[["#c1",0.0,2.55],["#c2",2.6,3.55],["#c3",3.6,6.25],["#c4",6.3,9.0],["#c5",9.05,10.7]];
+seg.forEach(([id,s,e])=>{tl.to(id,{opacity:1,duration:0.15},o+s);tl.to(id,{opacity:0,duration:0.15},o+e-0.15);});
+tl.to("#root",{opacity:1,duration:0.01},11.99);
+window.__timelines = window.__timelines || {};
+window.__timelines["root"] = tl;
+</script>
+</body></html>
