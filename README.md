@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-11**
+**最終更新: 2026-11-12**
 
-> 今週のAI界隈では、GoogleとAdobeの連携強化が注目を集めています。Googleアプリ内でAdobeのクリエイティブツールやAI機能が利用可能になり、コンテンツ制作やマーケティング業務の効率化に大きな影響を与えそうです。また、GoogleのGeminiは新機能と対応デバイスを拡大し、OpenAIのChatGPTもビジネス向け機能を導入。AIがフリーランスの仕事に与える影響に関するOpenAIの研究も発表され、副業や仕事効率化を目指すユーザーにとって見逃せない情報が満載です。
+> 今週のAIニュースでは、Googleが多モーダルな意思決定を高速化するGemini Decisions APIを発表し、ビジネスにおけるAI活用を加速させます。また、AWS Bedrockでは新モデルKimi K3.1 Proの提供開始やAIエージェントのWeb検索機能追加など、開発者向けのツールが拡充。オンデバイスAIアシスタントの登場や生成AI開発の効率化アセット提供も進み、AIの利用がより身近で実用的になりつつあります。
 
-- [News][🟢一次] Geminiが新機能と対応デバイスを拡大 — https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices
-- [News][🟢一次] GoogleアプリとAdobeツールが連携強化 — https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration
-- [News][🟢一次] Gemini 4 Carbonが利用可能に — https://deepmind.google/blog/gemini-4-carbon-is-now-available
-- [News][🟢一次] ChatGPTにビジネス向け機能が登場 — https://openai.com/index/introducing-businesses-chatgpt
-- [News][🟢一次] AIがフリーランスの仕事に与える影響 — https://openai.com/index/ai-effect-on-freelance-work
-- [News][🟢一次] Amazon BedrockにKimi K3.1 Proが登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock
-- [News][🟢一次] 介護者がAIを日常生活で活用する支援 — https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+- [News][🟢一次] Gemini Decisions API登場：高速・高精度な多モーダル意思決定 — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
+- [News][🟢一次] 新AIモデル「Kimi K3.1 Pro」がBedrockに登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock
+- [News][🟢一次] AWS BedrockとSpring AIで自律型AIエージェント構築 — https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai
+- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索APIが登場 — https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore
+- [News][🟢一次] 生成AI開発を加速する再利用可能アセットを提供 — https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets
+- [News][🟢一次] Googleが新コラボツール「Tabletop」を発表 — https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop
+- [News][🟢一次] オンデバイスAIアシスタント「BotPsy」登場 — https://huggingface.co/blog/qvac/botpsy
+- [News][🟢一次] LangGraphとBedrockで依存関係監視ツールを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search
 - [News][🟢一次] 法律事務所がAIで業務改革を推進 — https://openai.com/index/gilbert-tobin-sam-nickless
-- [News][🟢一次] LangGraphとBedrockで依存関係監視を構築 — https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search
-- [News][🟢一次] AIエージェントにバックドアを仕込む新技術 — https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents
+- [News][🟢一次] 企業向けOpenAI Codex導入ガイド（AWS Bedrock） — https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock
 
-全文: [`news/2026-11-11.md`](news/2026-11-11.md)
+全文: [`news/2026-11-12.md`](news/2026-11-12.md)
 <!--/LATEST-->
 
 ---
