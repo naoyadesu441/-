@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-12**
+**最終更新: 2026-11-13**
 
-> 今週のAIニュースでは、Googleが多モーダルな意思決定を高速化するGemini Decisions APIを発表し、ビジネスにおけるAI活用を加速させます。また、AWS Bedrockでは新モデルKimi K3.1 Proの提供開始やAIエージェントのWeb検索機能追加など、開発者向けのツールが拡充。オンデバイスAIアシスタントの登場や生成AI開発の効率化アセット提供も進み、AIの利用がより身近で実用的になりつつあります。
+> 今週のAIニュースでは、Googleが主力モデル「Gemini 4 Hydrogen」を検索機能に統合し、複雑な質問への理解度が大幅に向上しました。また、OpenAIのCodexやChatGPTを活用した企業が、製品開発の高速化や収益倍増といった具体的な成果を上げています。AWS BedrockではAIエージェント向けのWeb検索APIが導入され、開発者にとってより強力なツールが提供されています。
 
-- [News][🟢一次] Gemini Decisions API登場：高速・高精度な多モーダル意思決定 — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
-- [News][🟢一次] 新AIモデル「Kimi K3.1 Pro」がBedrockに登場 — https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock
-- [News][🟢一次] AWS BedrockとSpring AIで自律型AIエージェント構築 — https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai
-- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索APIが登場 — https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore
-- [News][🟢一次] 生成AI開発を加速する再利用可能アセットを提供 — https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets
-- [News][🟢一次] Googleが新コラボツール「Tabletop」を発表 — https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop
-- [News][🟢一次] オンデバイスAIアシスタント「BotPsy」登場 — https://huggingface.co/blog/qvac/botpsy
-- [News][🟢一次] LangGraphとBedrockで依存関係監視ツールを構築 — https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search
-- [News][🟢一次] 法律事務所がAIで業務改革を推進 — https://openai.com/index/gilbert-tobin-sam-nickless
-- [News][🟢一次] 企業向けOpenAI Codex導入ガイド（AWS Bedrock） — https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock
+- [News][🟢一次] Google検索がGemini 4 Hydrogenで大幅強化 — https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade
+- [News][🟢一次] Amplitude、OpenAIで製品改善を高速化 — https://openai.com/business/customer-stories/amplitude
+- [News][🟢一次] GondolaがOpenAI Codexで収益倍増 — https://openai.com/business/customer-stories/gondola
+- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索API導入 — https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore
+- [News][🟢一次] Natera、Amazon BedrockでAIエージェントシステム構築 — https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore
+- [News][🟢一次] Microsoft ResearchがAI翻訳とコーディング進化を発表 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98
+- [News][🟢一次] Amazon Bedrock推論コストを最適化する4つの選択肢 — https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost
+- [News][🟢一次] Amazon BedrockエージェントのコストとROI最適化 — https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock
+- [News][🟢一次] Holiday Extras、Codexで開発を再構築 — https://openai.com/business/customer-stories/holidays-extras-codex
+- [News][🟢一次] 次世代AgentCoreランタイムでAIエージェントを安全・効率的に実行 — https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime
 
-全文: [`news/2026-11-12.md`](news/2026-11-12.md)
+全文: [`news/2026-11-13.md`](news/2026-11-13.md)
 <!--/LATEST-->
 
 ---
