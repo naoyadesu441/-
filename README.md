@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-13**
+**最終更新: 2026-11-14**
 
-> 今週のAIニュースでは、Googleが主力モデル「Gemini 4 Hydrogen」を検索機能に統合し、複雑な質問への理解度が大幅に向上しました。また、OpenAIのCodexやChatGPTを活用した企業が、製品開発の高速化や収益倍増といった具体的な成果を上げています。AWS BedrockではAIエージェント向けのWeb検索APIが導入され、開発者にとってより強力なツールが提供されています。
+> OpenAIがChatGPTにウォレット機能を追加し、AIエージェントが決済を代行する新時代が到来しました。また、GoogleはGemini 4 Hydrogenモデルで複雑な質問理解度を大幅に向上させ、AIとの対話体験がさらに進化しています。ローカルAIの基盤であるllama.cppがv1.0.0に到達し、個人PCでのAI活用がより安定し手軽になります。
 
-- [News][🟢一次] Google検索がGemini 4 Hydrogenで大幅強化 — https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade
-- [News][🟢一次] Amplitude、OpenAIで製品改善を高速化 — https://openai.com/business/customer-stories/amplitude
-- [News][🟢一次] GondolaがOpenAI Codexで収益倍増 — https://openai.com/business/customer-stories/gondola
-- [News][🟢一次] Amazon Bedrock AgentCoreにWeb検索API導入 — https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore
-- [News][🟢一次] Natera、Amazon BedrockでAIエージェントシステム構築 — https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore
-- [News][🟢一次] Microsoft ResearchがAI翻訳とコーディング進化を発表 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98
-- [News][🟢一次] Amazon Bedrock推論コストを最適化する4つの選択肢 — https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost
-- [News][🟢一次] Amazon BedrockエージェントのコストとROI最適化 — https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock
-- [News][🟢一次] Holiday Extras、Codexで開発を再構築 — https://openai.com/business/customer-stories/holidays-extras-codex
-- [News][🟢一次] 次世代AgentCoreランタイムでAIエージェントを安全・効率的に実行 — https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime
+- [News][🟢一次] ChatGPTにウォレット機能が登場 — https://openai.com/index/introducing-chatgpt-wallet
+- [News][🟢一次] ローカルAI基盤llama.cppがv1.0.0に — https://huggingface.co/blog/ggml-org/llama-cpp-v1
+- [News][🟢一次] MicrosoftがAI翻訳とAIコーディング進化を発表 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98
+- [News][🟢一次] AWS BedrockでAIエージェントのコスト最適化 — https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard
+- [News][🟢一次] OpenAIがレガシー業務引継ぎをAIで支援 — https://openai.com/business/customer-stories/shield
+- [News][🟢一次] GS CaltexがSageMakerでMLOps導入 — https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1
+- [News][🟢一次] AWS Bedrockエージェントの起動高速化 — https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime
+- [News][🟢一次] AWS BedrockのAIツール利用コスト可視化 — https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock
+- [News][🟢一次] AWS Bedrockで研究室業務をAI自動化 — https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore
+- [News][🟢一次] AssemblyAIがAWSで音声認識コスト削減 — https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot
 
-全文: [`news/2026-11-13.md`](news/2026-11-13.md)
+全文: [`news/2026-11-14.md`](news/2026-11-14.md)
 <!--/LATEST-->
 
 ---
