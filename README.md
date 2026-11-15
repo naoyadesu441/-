@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-14**
+**最終更新: 2026-11-15**
 
-> OpenAIがChatGPTにウォレット機能を追加し、AIエージェントが決済を代行する新時代が到来しました。また、GoogleはGemini 4 Hydrogenモデルで複雑な質問理解度を大幅に向上させ、AIとの対話体験がさらに進化しています。ローカルAIの基盤であるllama.cppがv1.0.0に到達し、個人PCでのAI活用がより安定し手軽になります。
+> 今日のAI界隈では、AWSがAmazon SageMakerやBedrockを通じて、MLOpsの効率化やAIエージェントのパフォーマンス向上といった実用的な技術更新を発表しました。また、Google Researchは科学・工学分野でのAI活用を推進しており、AIの応用範囲が広がり続けています。
 
-- [News][🟢一次] ChatGPTにウォレット機能が登場 — https://openai.com/index/introducing-chatgpt-wallet
-- [News][🟢一次] ローカルAI基盤llama.cppがv1.0.0に — https://huggingface.co/blog/ggml-org/llama-cpp-v1
-- [News][🟢一次] MicrosoftがAI翻訳とAIコーディング進化を発表 — https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98
-- [News][🟢一次] AWS BedrockでAIエージェントのコスト最適化 — https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard
-- [News][🟢一次] OpenAIがレガシー業務引継ぎをAIで支援 — https://openai.com/business/customer-stories/shield
-- [News][🟢一次] GS CaltexがSageMakerでMLOps導入 — https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1
-- [News][🟢一次] AWS Bedrockエージェントの起動高速化 — https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime
-- [News][🟢一次] AWS BedrockのAIツール利用コスト可視化 — https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock
-- [News][🟢一次] AWS Bedrockで研究室業務をAI自動化 — https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore
-- [News][🟢一次] AssemblyAIがAWSで音声認識コスト削減 — https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot
+- [News][🟡二次] ChatGPTウォレット登場、AIが自動購入 — https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
+- [News][🟡二次] AIプロジェクトの墓場：失敗事例リスト公開 — https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it
+- [News][🟡二次] AI悪用ランサムウェアの脅威が拡大 — https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom
+- [News][🟡二次] Nvidia CEO退任でAIスタートアップ資金に影響 — https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say
+- [News][🟢一次] AWS SageMakerでMLOpsを効率化 — https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1
+- [News][🟢一次] BedrockでAIエージェントのモデルを最適ルーティング — https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard
+- [News][🟡二次] OpenAI元役員「AI企業CEOを信用できない」 — https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+- [News][🟢一次] Googleが科学・工学研究をAIで加速 — https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature
+- [News][🟢一次] Amazon Bedrockエージェントの高速起動技術 — https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime
+- [News][🟢一次] SageMakerでOpenFold3による生体分子構造予測 — https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures
 
-全文: [`news/2026-11-14.md`](news/2026-11-14.md)
+全文: [`news/2026-11-15.md`](news/2026-11-15.md)
 <!--/LATEST-->
 
 ---
