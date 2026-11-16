@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-15**
+**最終更新: 2026-11-16**
 
-> 今日のAI界隈では、AWSがAmazon SageMakerやBedrockを通じて、MLOpsの効率化やAIエージェントのパフォーマンス向上といった実用的な技術更新を発表しました。また、Google Researchは科学・工学分野でのAI活用を推進しており、AIの応用範囲が広がり続けています。
+> 今日のAI界隈では、OpenAIが科学研究ブログを開設し、GPT-6 Astraを活用した物理学の基礎研究を発表するなど、AIの学術的な進展が注目されます。また、AppleがAIの健康分野での活用研究を開始し、AIチャットボットへの広告導入の動きも報じられるなど、AIの応用とビジネスモデルに関する話題が活発です。
 
-- [News][🟡二次] ChatGPTウォレット登場、AIが自動購入 — https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
-- [News][🟡二次] AIプロジェクトの墓場：失敗事例リスト公開 — https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it
-- [News][🟡二次] AI悪用ランサムウェアの脅威が拡大 — https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom
-- [News][🟡二次] Nvidia CEO退任でAIスタートアップ資金に影響 — https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say
-- [News][🟢一次] AWS SageMakerでMLOpsを効率化 — https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1
-- [News][🟢一次] BedrockでAIエージェントのモデルを最適ルーティング — https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard
-- [News][🟡二次] OpenAI元役員「AI企業CEOを信用できない」 — https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
-- [News][🟢一次] Googleが科学・工学研究をAIで加速 — https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature
-- [News][🟢一次] Amazon Bedrockエージェントの高速起動技術 — https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime
-- [News][🟢一次] SageMakerでOpenFold3による生体分子構造予測 — https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures
+- [News][🟡二次] AIチャットボットに広告導入の動き — https://wired.jp/article/sz-ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not
+- [News][🟡二次] NVIDIAのCEO問題、AI業界への影響は？ — https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry
+- [ProductHunt][🟡二次] AIエージェント設計ツール「Canvas」登場 — https://www.producthunt.com/products/agentgrid-io
+- [News][🟢一次] OpenAIが科学研究ブログを開設 — https://openai.com/index/our-new-blog-for-science
+- [News][🟢一次] NVIDIAがソウルでAI Dayを開催 — https://blogs.nvidia.com/blog/ai-day-seoul-wrapup
+- [News][🟡二次] AI DJが音楽体験を損なう？ — https://www.wired.com/story/ai-djs-completely-kill-my-groove
+- [News][🟡二次] 日常品をAIペットにする「OATs」 — https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets
+- [ProductHunt][🟡二次] AIラボ向けデータ売買市場「Perit」 — https://www.producthunt.com/products/perit-marketplace
+- [News][🟢一次] OpenAIが標準模型の格子定義を研究 — https://openai.com/index/step-toward-defining-the-standard-model
+- [News][🟡二次] インドのAIチップ企業が2400万ドル調達 — https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market
 
-全文: [`news/2026-11-15.md`](news/2026-11-15.md)
+全文: [`news/2026-11-16.md`](news/2026-11-16.md)
 <!--/LATEST-->
 
 ---
