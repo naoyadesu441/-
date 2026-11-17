@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-16**
+**最終更新: 2026-11-17**
 
-> 今日のAI界隈では、OpenAIが科学研究ブログを開設し、GPT-6 Astraを活用した物理学の基礎研究を発表するなど、AIの学術的な進展が注目されます。また、AppleがAIの健康分野での活用研究を開始し、AIチャットボットへの広告導入の動きも報じられるなど、AIの応用とビジネスモデルに関する話題が活発です。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟡二次] AIチャットボットに広告導入の動き — https://wired.jp/article/sz-ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not
-- [News][🟡二次] NVIDIAのCEO問題、AI業界への影響は？ — https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry
-- [ProductHunt][🟡二次] AIエージェント設計ツール「Canvas」登場 — https://www.producthunt.com/products/agentgrid-io
-- [News][🟢一次] OpenAIが科学研究ブログを開設 — https://openai.com/index/our-new-blog-for-science
-- [News][🟢一次] NVIDIAがソウルでAI Dayを開催 — https://blogs.nvidia.com/blog/ai-day-seoul-wrapup
-- [News][🟡二次] AI DJが音楽体験を損なう？ — https://www.wired.com/story/ai-djs-completely-kill-my-groove
-- [News][🟡二次] 日常品をAIペットにする「OATs」 — https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets
-- [ProductHunt][🟡二次] AIラボ向けデータ売買市場「Perit」 — https://www.producthunt.com/products/perit-marketplace
-- [News][🟢一次] OpenAIが標準模型の格子定義を研究 — https://openai.com/index/step-toward-defining-the-standard-model
-- [News][🟡二次] インドのAIチップ企業が2400万ドル調達 — https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market
+- [News][🟢一次] Broadening access to AI for scientists — https://openai.com/index/expanding-chatgpt-for-academic-researchers
+- [News][🟢一次] Strengthening the fight against online child sexual abuse with new tools and support — https://openai.com/index/strengthening-online-child-safety
+- [News][🟢一次] Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base
+- [News][🟢一次] How Duco transforms financial data automation with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore
+- [News][🟢一次] Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing — https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing
+- [News][🟢一次] Science at the Frontier: How scientists use ChatGPT — https://openai.com/index/science-at-the-frontier
+- [News][🟢一次] How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future — https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain
+- [News][🟢一次] LVMH’s Media Division announces strategic partnership with OpenAI — https://openai.com/index/lvmh-media-division-partnership
+- [News][🟢一次] Our first phase of embedded assessments — https://openai.com/index/our-first-phase-of-embedded-assessments
+- [News][🟢一次] How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore
 
-全文: [`news/2026-11-16.md`](news/2026-11-16.md)
+全文: [`news/2026-11-17.md`](news/2026-11-17.md)
 <!--/LATEST-->
 
 ---
