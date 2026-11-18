@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-17**
+**最終更新: 2026-11-18**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今週は、OpenAIが次世代モデル「GPT-6.2 Astra/Sol」を発表し、ChatGPTには営業支援プラグインが登場するなど、有名AIサービスの機能強化が目立ちました。Google Geminiも実用的な活用を推進しており、AIの仕事効率化や副業への応用がさらに広がりそうです。また、AWSからはAIエージェントのコスト最適化や構築支援に関する情報が公開され、AIのビジネス活用と効率化が加速しています。
 
-- [News][🟢一次] Broadening access to AI for scientists — https://openai.com/index/expanding-chatgpt-for-academic-researchers
-- [News][🟢一次] Strengthening the fight against online child sexual abuse with new tools and support — https://openai.com/index/strengthening-online-child-safety
-- [News][🟢一次] Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base — https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base
-- [News][🟢一次] How Duco transforms financial data automation with Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore
-- [News][🟢一次] Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing — https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing
-- [News][🟢一次] Science at the Frontier: How scientists use ChatGPT — https://openai.com/index/science-at-the-frontier
-- [News][🟢一次] How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future — https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain
-- [News][🟢一次] LVMH’s Media Division announces strategic partnership with OpenAI — https://openai.com/index/lvmh-media-division-partnership
-- [News][🟢一次] Our first phase of embedded assessments — https://openai.com/index/our-first-phase-of-embedded-assessments
-- [News][🟢一次] How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore — https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore
+- [News][🟢一次] OpenAIが新モデル「GPT-6.2 Astra/Sol」発表 — https://openai.com/index/introducing-gpt-6-2-astra-sol
+- [News][🟢一次] ChatGPTに営業向けプラグインが登場 — https://openai.com/index/introducing-chatgpt-for-sales
+- [News][🟢一次] Google Geminiがあなたの仕事をサポート — https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features
+- [News][🟢一次] WhatsApp AIエージェントをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore
+- [News][🟢一次] Amazon Bedrockエージェントのトークンコスト削減策 — https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads
+- [News][🟢一次] 生成AIコスト削減の判断基準をAWSが解説 — https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment
+- [News][🟢一次] LoanProがAI融資アシスタントをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore
+- [News][🟢一次] ArisGlobalがBedrockで生成AI推論を効率化 — https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock
+- [News][🟢一次] OpenAIの「Astra for Law」が法律分野で首位 — https://openai.com/index/astra-law-6-2
+- [News][🟢一次] NVIDIAが科学向けAIエージェント新ツール発表 — https://blogs.nvidia.com/blog/ian-buck-sc26
 
-全文: [`news/2026-11-17.md`](news/2026-11-17.md)
+全文: [`news/2026-11-18.md`](news/2026-11-18.md)
 <!--/LATEST-->
 
 ---
