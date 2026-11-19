@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-18**
+**最終更新: 2026-11-19**
 
-> 今週は、OpenAIが次世代モデル「GPT-6.2 Astra/Sol」を発表し、ChatGPTには営業支援プラグインが登場するなど、有名AIサービスの機能強化が目立ちました。Google Geminiも実用的な活用を推進しており、AIの仕事効率化や副業への応用がさらに広がりそうです。また、AWSからはAIエージェントのコスト最適化や構築支援に関する情報が公開され、AIのビジネス活用と効率化が加速しています。
+> 今週は、Googleの主要AIモデル「Gemini」と「Genie」の大型アップデートや、Geminiアプリの低メモリAndroidデバイス対応など、AIの普及とアクセス性向上が目立ちました。NVIDIAからはローカルAI実行に特化したデスクトップPCが登場し、個人でのAI活用を後押しします。また、AIエージェントのビジネス活用事例やSNSマーケティングへの応用など、実用的なAI導入の動きも活発です。
 
-- [News][🟢一次] OpenAIが新モデル「GPT-6.2 Astra/Sol」発表 — https://openai.com/index/introducing-gpt-6-2-astra-sol
-- [News][🟢一次] ChatGPTに営業向けプラグインが登場 — https://openai.com/index/introducing-chatgpt-for-sales
-- [News][🟢一次] Google Geminiがあなたの仕事をサポート — https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features
-- [News][🟢一次] WhatsApp AIエージェントをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore
-- [News][🟢一次] Amazon Bedrockエージェントのトークンコスト削減策 — https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads
-- [News][🟢一次] 生成AIコスト削減の判断基準をAWSが解説 — https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment
-- [News][🟢一次] LoanProがAI融資アシスタントをBedrockで構築 — https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore
-- [News][🟢一次] ArisGlobalがBedrockで生成AI推論を効率化 — https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock
-- [News][🟢一次] OpenAIの「Astra for Law」が法律分野で首位 — https://openai.com/index/astra-law-6-2
-- [News][🟢一次] NVIDIAが科学向けAIエージェント新ツール発表 — https://blogs.nvidia.com/blog/ian-buck-sc26
+- [News][🟢一次] Googleが新AIモデル「Gemini 4 Neon」を発表 — https://deepmind.google/blog/introducing-gemini-4-neon
+- [News][🟢一次] Googleの新AIモデル「Genie 4」が公開 — https://deepmind.google/blog/genie-4-is-now-available
+- [News][🟢一次] AIで文化に合わせた動画発見システムを構築 — https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery
+- [News][🟢一次] NVIDIA、ローカルAI対応PC「RTX Spark」発売 — https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now
+- [News][🟢一次] SageMakerに基盤モデル比較リーダーボード登場 — https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard
+- [News][🟢一次] AirbnbがAIコーディングエージェントをコスト最適化 — https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock
+- [News][🟢一次] AI音声エージェントでリード獲得を効率化 — https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic
+- [News][🟢一次] 住友生命、ChatGPT Enterprise導入事例を公開 — https://openai.com/business/customer-stories/sumitomo-life
+- [News][🟢一次] ル・フィガロとOpenAIが提携、ChatGPTで記事提供 — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
+- [News][🟢一次] SageMakerでモデルのフルファインチューニング — https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization
 
-全文: [`news/2026-11-18.md`](news/2026-11-18.md)
+全文: [`news/2026-11-19.md`](news/2026-11-19.md)
 <!--/LATEST-->
 
 ---
