@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-19**
+**最終更新: 2026-11-20**
 
-> 今週は、Googleの主要AIモデル「Gemini」と「Genie」の大型アップデートや、Geminiアプリの低メモリAndroidデバイス対応など、AIの普及とアクセス性向上が目立ちました。NVIDIAからはローカルAI実行に特化したデスクトップPCが登場し、個人でのAI活用を後押しします。また、AIエージェントのビジネス活用事例やSNSマーケティングへの応用など、実用的なAI導入の動きも活発です。
+> 今日のAI界隈では、Google Gemini APIの機能拡張やAmazon Pollyの音声クローン機能など、有名サービスのAI機能が進化しています。特に、コンテンツ制作や開発効率向上に直結する実用的なアップデートが目立ち、AIを活用した副業や業務効率化を目指すユーザーにとって、新たな可能性が広がっています。OpenAIのChatGPT高速化の舞台裏も公開され、基盤サービスの安定性向上への取り組みも進んでいます。
 
-- [News][🟢一次] Googleが新AIモデル「Gemini 4 Neon」を発表 — https://deepmind.google/blog/introducing-gemini-4-neon
-- [News][🟢一次] Googleの新AIモデル「Genie 4」が公開 — https://deepmind.google/blog/genie-4-is-now-available
-- [News][🟢一次] AIで文化に合わせた動画発見システムを構築 — https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery
-- [News][🟢一次] NVIDIA、ローカルAI対応PC「RTX Spark」発売 — https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now
-- [News][🟢一次] SageMakerに基盤モデル比較リーダーボード登場 — https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard
-- [News][🟢一次] AirbnbがAIコーディングエージェントをコスト最適化 — https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock
-- [News][🟢一次] AI音声エージェントでリード獲得を効率化 — https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic
-- [News][🟢一次] 住友生命、ChatGPT Enterprise導入事例を公開 — https://openai.com/business/customer-stories/sumitomo-life
-- [News][🟢一次] ル・フィガロとOpenAIが提携、ChatGPTで記事提供 — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
-- [News][🟢一次] SageMakerでモデルのフルファインチューニング — https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization
+- [News][🟢一次] Gemini APIにツール検索機能を追加 — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval
+- [News][🟢一次] Amazon Pollyが音声クローン機能を一般提供 — https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand
+- [News][🟢一次] OpenAIがChatGPT高速化の舞台裏を公開 — https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+- [News][🟢一次] Kimi Code CLIがAmazon Bedrockに対応 — https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock
+- [News][🟢一次] NVIDIA OmniverseでAIエージェントがシミュレーションを生成 — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
+- [News][🟢一次] Bedrock AgentCoreでAIエージェントがAWS製品を支払い可能に — https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments
+- [News][🟢一次] Amazon Connect TalentがAI面接の科学を解説 — https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews
+- [News][🟢一次] Amazon Bedrock AgentCoreがStrandsハーネスを統合 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks
+- [News][🟢一次] Amazon SageMaker推論機能の2026年更新（後編） — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2
+- [News][🟢一次] SageMaker AIが推論エンドポイントの遅延等を自動検出 — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints
 
-全文: [`news/2026-11-19.md`](news/2026-11-19.md)
+全文: [`news/2026-11-20.md`](news/2026-11-20.md)
 <!--/LATEST-->
 
 ---
