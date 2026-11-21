@@ -20,3 +20,6 @@ venv/
 # Local scratch
 *.local.json
 tmp/
+
+# Impeccable engine binary (downloaded on first run)
+.claude/skills/impeccable/scripts/bin/
