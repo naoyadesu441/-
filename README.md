@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-20**
+**最終更新: 2026-11-21**
 
-> 今日のAI界隈では、Google Gemini APIの機能拡張やAmazon Pollyの音声クローン機能など、有名サービスのAI機能が進化しています。特に、コンテンツ制作や開発効率向上に直結する実用的なアップデートが目立ち、AIを活用した副業や業務効率化を目指すユーザーにとって、新たな可能性が広がっています。OpenAIのChatGPT高速化の舞台裏も公開され、基盤サービスの安定性向上への取り組みも進んでいます。
+> 今日のAI界隈では、Google Geminiがビジネスへの電話代行機能を強化し、AWS QuickもAIエージェント連携やMeta広告連携、販売ビジネス統合機能など、実用的な業務効率化ツールを拡充しました。また、Amazon Textract Insightsは自然言語でのドキュメント情報抽出を可能にし、AIの自律的な活用範囲が広がっています。
 
-- [News][🟢一次] Gemini APIにツール検索機能を追加 — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval
-- [News][🟢一次] Amazon Pollyが音声クローン機能を一般提供 — https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand
-- [News][🟢一次] OpenAIがChatGPT高速化の舞台裏を公開 — https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+- [News][🟢一次] Geminiがビジネス電話代行機能を強化 — https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini
+- [News][🟡二次] Google検索がAIチャット履歴と新UIを導入 — https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar
+- [News][🟢一次] AWS QuickがAIエージェント連携を強化 — https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together
+- [News][🟢一次] Amazon Textract Insightsが一般提供開始 — https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents
+- [News][🟢一次] AWS Quickで販売ビジネス全体を運営可能に — https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick
+- [News][🟢一次] OpenAIのGPT-6 Astraが金融調査を改善 — https://openai.com/business/customer-stories/hebbia
 - [News][🟢一次] Kimi Code CLIがAmazon Bedrockに対応 — https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock
-- [News][🟢一次] NVIDIA OmniverseでAIエージェントがシミュレーションを生成 — https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
-- [News][🟢一次] Bedrock AgentCoreでAIエージェントがAWS製品を支払い可能に — https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments
-- [News][🟢一次] Amazon Connect TalentがAI面接の科学を解説 — https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews
-- [News][🟢一次] Amazon Bedrock AgentCoreがStrandsハーネスを統合 — https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks
-- [News][🟢一次] Amazon SageMaker推論機能の2026年更新（後編） — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2
-- [News][🟢一次] SageMaker AIが推論エンドポイントの遅延等を自動検出 — https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints
+- [News][🟢一次] AIエージェントがAWS Marketplaceで支払い可能に — https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments
+- [News][🟢一次] Standard Bankが生成AIリスク評価を自動化 — https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai
+- [News][🟢一次] OpenAIが敵対的蒸留への対策を発表 — https://openai.com/index/combatting-adversarial-distillation
 
-全文: [`news/2026-11-20.md`](news/2026-11-20.md)
+全文: [`news/2026-11-21.md`](news/2026-11-21.md)
 <!--/LATEST-->
 
 ---
