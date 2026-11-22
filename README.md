@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-21**
+**最終更新: 2026-11-22**
 
-> 今日のAI界隈では、Google Geminiがビジネスへの電話代行機能を強化し、AWS QuickもAIエージェント連携やMeta広告連携、販売ビジネス統合機能など、実用的な業務効率化ツールを拡充しました。また、Amazon Textract Insightsは自然言語でのドキュメント情報抽出を可能にし、AIの自律的な活用範囲が広がっています。
+> 今週は、AIを活用したビジネス効率化ツールが複数登場しました。AWS QuickはMeta広告とのAI連携を強化し、SNSマーケティングの自動化を推進。また、Google Geminiはビジネスへの自動電話対応機能を拡張し、日常業務の負担を軽減します。AWSのAIワークスペースQuickも機能が大幅に強化され、複数AIエージェント連携やLLM運用コスト削減ツールが提供されるなど、AIによる生産性向上が加速しています。
 
-- [News][🟢一次] Geminiがビジネス電話代行機能を強化 — https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini
-- [News][🟡二次] Google検索がAIチャット履歴と新UIを導入 — https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar
-- [News][🟢一次] AWS QuickがAIエージェント連携を強化 — https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together
-- [News][🟢一次] Amazon Textract Insightsが一般提供開始 — https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents
-- [News][🟢一次] AWS Quickで販売ビジネス全体を運営可能に — https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick
-- [News][🟢一次] OpenAIのGPT-6 Astraが金融調査を改善 — https://openai.com/business/customer-stories/hebbia
-- [News][🟢一次] Kimi Code CLIがAmazon Bedrockに対応 — https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock
-- [News][🟢一次] AIエージェントがAWS Marketplaceで支払い可能に — https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments
-- [News][🟢一次] Standard Bankが生成AIリスク評価を自動化 — https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai
-- [News][🟢一次] OpenAIが敵対的蒸留への対策を発表 — https://openai.com/index/combatting-adversarial-distillation
+- [News][🟢一次] AWS QuickにMeta広告AIコネクタ — https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick
+- [News][🟡二次] Google検索にAIチャット履歴付き新HP — https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar
+- [News][🟢一次] GeminiでAIがビジネスに自動電話対応 — https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini
+- [News][🟢一次] AWS Quickが機能強化、複数AI連携も — https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together
+- [News][🟡二次] テキストで使える主要AIエージェント一覧 — https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages
+- [News][🟡二次] AIのファクトチェック能力を検証 — https://wired.jp/article/fact-checking-ai
+- [News][🟢一次] AWSでLLMホスティング費用を最大40%削減 — https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill
+- [News][🟡二次] Signal、AI監視対策でスクショ制限 — https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance
+- [News][🟢一次] SageMaker HyperPodに監視・管理機能 — https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm
+- [News][🟢一次] SageMaker HyperPodにグローバル推論ゲートウェイ — https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters
 
-全文: [`news/2026-11-21.md`](news/2026-11-21.md)
+全文: [`news/2026-11-22.md`](news/2026-11-22.md)
 <!--/LATEST-->
 
 ---
