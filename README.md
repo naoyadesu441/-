@@ -6,22 +6,18 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-22**
+**最終更新: 2026-11-23**
 
-> 今週は、AIを活用したビジネス効率化ツールが複数登場しました。AWS QuickはMeta広告とのAI連携を強化し、SNSマーケティングの自動化を推進。また、Google Geminiはビジネスへの自動電話対応機能を拡張し、日常業務の負担を軽減します。AWSのAIワークスペースQuickも機能が大幅に強化され、複数AIエージェント連携やLLM運用コスト削減ツールが提供されるなど、AIによる生産性向上が加速しています。
+> 今日のAI界隈では、AWSがMeta広告とのAI連携ツールを提供開始し、SNSマーケティングの効率化に貢献する動きが見られました。一方で、OpenAIはAIモデルの評価指標であるPerplexityについて解説し、AIの進捗を測るための専門的な議論も進んでいます。
 
-- [News][🟢一次] AWS QuickにMeta広告AIコネクタ — https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick
-- [News][🟡二次] Google検索にAIチャット履歴付き新HP — https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar
-- [News][🟢一次] GeminiでAIがビジネスに自動電話対応 — https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini
-- [News][🟢一次] AWS Quickが機能強化、複数AI連携も — https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together
-- [News][🟡二次] テキストで使える主要AIエージェント一覧 — https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages
-- [News][🟡二次] AIのファクトチェック能力を検証 — https://wired.jp/article/fact-checking-ai
-- [News][🟢一次] AWSでLLMホスティング費用を最大40%削減 — https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill
-- [News][🟡二次] Signal、AI監視対策でスクショ制限 — https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance
-- [News][🟢一次] SageMaker HyperPodに監視・管理機能 — https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm
-- [News][🟢一次] SageMaker HyperPodにグローバル推論ゲートウェイ — https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters
+- [News][🟡二次] 銀行がAIエージェント利用を制限、責任はユーザーに — https://www.wired.com/story/banks-are-cracking-down-on-ai-agents
+- [News][🟡二次] OpenAIチーフがAI開発制限を提言 — https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development
+- [News][🟡二次] ゲーム開発者がAI生成音楽を削除、著作権問題で — https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
+- [News][🟡二次] Signal、AI監視対策でスクリーンショット制限 — https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance
+- [News][🟢一次] OpenAI、AIモデル評価指標「Perplexity」を解説 — https://openai.com/index/perplexity-and-intelligence
+- [News][🟡二次] Anthropic、IPO前に大手投資家から巨額調達 — https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo
 
-全文: [`news/2026-11-22.md`](news/2026-11-22.md)
+全文: [`news/2026-11-23.md`](news/2026-11-23.md)
 <!--/LATEST-->
 
 ---
