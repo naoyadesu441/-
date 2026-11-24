@@ -6,18 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-23**
+**最終更新: 2026-11-24**
 
-> 今日のAI界隈では、AWSがMeta広告とのAI連携ツールを提供開始し、SNSマーケティングの効率化に貢献する動きが見られました。一方で、OpenAIはAIモデルの評価指標であるPerplexityについて解説し、AIの進捗を測るための専門的な議論も進んでいます。
+> 今日のAI界隈では、Google検索のパーソナルAI強化や、AIによる顧客サポート自動化の成功事例など、有名サービスの進化や具体的な業務効率化ツールが注目されています。一方で、LLMエージェントのセキュリティ脆弱性や生成AI検索の回答不安定性といった、AIの安全性と信頼性に関する課題も浮上しており、AIを賢く活用するための理解がより重要になっています。
 
-- [News][🟡二次] 銀行がAIエージェント利用を制限、責任はユーザーに — https://www.wired.com/story/banks-are-cracking-down-on-ai-agents
-- [News][🟡二次] OpenAIチーフがAI開発制限を提言 — https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development
-- [News][🟡二次] ゲーム開発者がAI生成音楽を削除、著作権問題で — https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
-- [News][🟡二次] Signal、AI監視対策でスクリーンショット制限 — https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance
-- [News][🟢一次] OpenAI、AIモデル評価指標「Perplexity」を解説 — https://openai.com/index/perplexity-and-intelligence
-- [News][🟡二次] Anthropic、IPO前に大手投資家から巨額調達 — https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo
+- [News][🟢一次] Google検索が「あなただけの」パーソナルAI強化へ — https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps
+- [News][🟢一次] Richpanel、AIで顧客サポート50%自動化を30日で実現 — https://openai.com/business/customer-stories/richpanel-ai-customer-support
+- [Paper][🟢一次] LLMで自由形式テキストを構造化データに変換「Trallie」 — https://arxiv.org/abs/2611.30773v1
+- [Paper][🟢一次] 生成AI検索エンジンの回答リストに「不安定性」 — https://arxiv.org/abs/2611.30819v1
+- [Paper][🟢一次] 品質エンジニア向け、生成AIによる構造化データ抽出 — https://arxiv.org/abs/2611.30778v1
+- [Paper][🟢一次] AIエージェントの権限が密かに拡大する問題「SchemaCaps」 — https://arxiv.org/abs/2611.30750v1
+- [Paper][🟢一次] ChatGPTで都市の個性を評価する新手法「SCD-CPA」 — https://arxiv.org/abs/2611.30733v1
+- [Paper][🟢一次] AIエージェント向けスキル統合ツール「Skill-Composer」 — https://arxiv.org/abs/2611.30715v1
+- [Paper][🟢一次] AIミーム翻訳の難しさ、人間分析の重要性 — https://arxiv.org/abs/2611.30710v1
+- [Paper][🟢一次] WeChat向けマルチモーダルLLM「WeMM-Ecom」発表 — https://arxiv.org/abs/2611.30662v1
 
-全文: [`news/2026-11-23.md`](news/2026-11-23.md)
+全文: [`news/2026-11-24.md`](news/2026-11-24.md)
 <!--/LATEST-->
 
 ---
