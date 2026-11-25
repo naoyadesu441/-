@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-24**
+**最終更新: 2026-11-25**
 
-> 今日のAI界隈では、Google検索のパーソナルAI強化や、AIによる顧客サポート自動化の成功事例など、有名サービスの進化や具体的な業務効率化ツールが注目されています。一方で、LLMエージェントのセキュリティ脆弱性や生成AI検索の回答不安定性といった、AIの安全性と信頼性に関する課題も浮上しており、AIを賢く活用するための理解がより重要になっています。
+> 今日のAI界隈では、OpenAIやGoogle Geminiといった有名AIモデルが、営業支援やファン体験向上など、具体的なビジネスシーンで活用され、業務効率化に貢献する事例が目立ちます。また、AIエージェントの日常業務における実用性評価や、リアルタイム動画生成といったコンテンツ制作に直結する技術の進化も注目されています。一方で、LLMからの機密情報漏洩リスクや詐欺への悪用可能性、会話AIの文化的偏りなど、AIのセキュリティと倫理に関する研究も活発に進められており、安全なAI活用に向けた議論が深まっています。
 
-- [News][🟢一次] Google検索が「あなただけの」パーソナルAI強化へ — https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps
-- [News][🟢一次] Richpanel、AIで顧客サポート50%自動化を30日で実現 — https://openai.com/business/customer-stories/richpanel-ai-customer-support
-- [Paper][🟢一次] LLMで自由形式テキストを構造化データに変換「Trallie」 — https://arxiv.org/abs/2611.30773v1
-- [Paper][🟢一次] 生成AI検索エンジンの回答リストに「不安定性」 — https://arxiv.org/abs/2611.30819v1
-- [Paper][🟢一次] 品質エンジニア向け、生成AIによる構造化データ抽出 — https://arxiv.org/abs/2611.30778v1
-- [Paper][🟢一次] AIエージェントの権限が密かに拡大する問題「SchemaCaps」 — https://arxiv.org/abs/2611.30750v1
-- [Paper][🟢一次] ChatGPTで都市の個性を評価する新手法「SCD-CPA」 — https://arxiv.org/abs/2611.30733v1
-- [Paper][🟢一次] AIエージェント向けスキル統合ツール「Skill-Composer」 — https://arxiv.org/abs/2611.30715v1
-- [Paper][🟢一次] AIミーム翻訳の難しさ、人間分析の重要性 — https://arxiv.org/abs/2611.30710v1
-- [Paper][🟢一次] WeChat向けマルチモーダルLLM「WeMM-Ecom」発表 — https://arxiv.org/abs/2611.30662v1
+- [News][🟢一次] OpenAI、ChatGPTで営業支援を強化 — https://openai.com/business/customer-stories/clay-plugins-openai
+- [News][🟢一次] Google GeminiがNBAチームの体験変革 — https://blog.google/products-and-platforms/products/gemini/gemini-golden-state
+- [News][🟢一次] OpenAIのAIアシスタントが業務効率化 — https://openai.com/business/customer-stories/intentful-dots
+- [Paper][🟢一次] LLMプロンプトからの機密情報漏洩リスク — https://arxiv.org/abs/2611.32864v1
+- [Paper][🟢一次] リアルタイム対話型動画生成が進化 — https://arxiv.org/abs/2611.32820v1
+- [Paper][🟢一次] LLMの機密情報保護をレッドチーム評価 — https://arxiv.org/abs/2611.32710v1
+- [Paper][🟢一次] LLMが悪質な詐欺に悪用される可能性 — https://arxiv.org/abs/2611.32957v1
+- [Paper][🟢一次] AIエージェントの日常タスク性能を評価 — https://arxiv.org/abs/2611.32946v1
+- [Paper][🟢一次] 会話AIに潜む文化的価値観と偏り — https://arxiv.org/abs/2611.32939v1
+- [News][🟢一次] OpenAI、コーディングAIを大規模活用 — https://openai.com/business/customer-stories/ifood
 
-全文: [`news/2026-11-24.md`](news/2026-11-24.md)
+全文: [`news/2026-11-25.md`](news/2026-11-25.md)
 <!--/LATEST-->
 
 ---
