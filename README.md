@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-25**
+**最終更新: 2026-11-26**
 
-> 今日のAI界隈では、OpenAIやGoogle Geminiといった有名AIモデルが、営業支援やファン体験向上など、具体的なビジネスシーンで活用され、業務効率化に貢献する事例が目立ちます。また、AIエージェントの日常業務における実用性評価や、リアルタイム動画生成といったコンテンツ制作に直結する技術の進化も注目されています。一方で、LLMからの機密情報漏洩リスクや詐欺への悪用可能性、会話AIの文化的偏りなど、AIのセキュリティと倫理に関する研究も活発に進められており、安全なAI活用に向けた議論が深まっています。
+> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
 
-- [News][🟢一次] OpenAI、ChatGPTで営業支援を強化 — https://openai.com/business/customer-stories/clay-plugins-openai
-- [News][🟢一次] Google GeminiがNBAチームの体験変革 — https://blog.google/products-and-platforms/products/gemini/gemini-golden-state
-- [News][🟢一次] OpenAIのAIアシスタントが業務効率化 — https://openai.com/business/customer-stories/intentful-dots
-- [Paper][🟢一次] LLMプロンプトからの機密情報漏洩リスク — https://arxiv.org/abs/2611.32864v1
-- [Paper][🟢一次] リアルタイム対話型動画生成が進化 — https://arxiv.org/abs/2611.32820v1
-- [Paper][🟢一次] LLMの機密情報保護をレッドチーム評価 — https://arxiv.org/abs/2611.32710v1
-- [Paper][🟢一次] LLMが悪質な詐欺に悪用される可能性 — https://arxiv.org/abs/2611.32957v1
-- [Paper][🟢一次] AIエージェントの日常タスク性能を評価 — https://arxiv.org/abs/2611.32946v1
-- [Paper][🟢一次] 会話AIに潜む文化的価値観と偏り — https://arxiv.org/abs/2611.32939v1
-- [News][🟢一次] OpenAI、コーディングAIを大規模活用 — https://openai.com/business/customer-stories/ifood
+- [News][🟢一次] Where scientists draw the line on AI agents — https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
+- [News][🟢一次] Verifiable Social Reasoning for LLM Assistants — https://research.google/blog/verifiable-social-reasoning-for-llm-assistants
+- [Paper][🟢一次] Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning — https://arxiv.org/abs/2611.34942v1
+- [Paper][🟢一次] Tokenisation is not in APX — https://arxiv.org/abs/2611.34938v1
+- [Paper][🟢一次] Can image generation help visual reasoning? An empirical study — https://arxiv.org/abs/2611.34935v1
+- [Paper][🟢一次] Attack Policy Selection can Mislead Monitor Evaluators — https://arxiv.org/abs/2611.34934v1
+- [Paper][🟢一次] A gene informed benchmark for BioScoring of pathology foundation models — https://arxiv.org/abs/2611.34930v1
+- [Paper][🟢一次] Diverse Alternative Reasoning Traces for Hard Math Problems — https://arxiv.org/abs/2611.34928v1
+- [Paper][🟢一次] Mixture-of-Loops Transformer — https://arxiv.org/abs/2611.34923v1
+- [Paper][🟢一次] $μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents — https://arxiv.org/abs/2611.34920v1
 
-全文: [`news/2026-11-25.md`](news/2026-11-25.md)
+全文: [`news/2026-11-26.md`](news/2026-11-26.md)
 <!--/LATEST-->
 
 ---
