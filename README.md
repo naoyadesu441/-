@@ -6,22 +6,22 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-26**
+**最終更新: 2026-11-27**
 
-> 本日のAIニュースを20件掲載（一次20件）。AI要約は利用できなかったため、ヒューリスティック順で掲載しています。
+> 今日のAI界隈では、AnthropicのClaudeユーザーにとって朗報となるデバイス間での記憶同期ツールが登場し、AIを活用した動画編集ツール「Superframes」も注目を集めています。一方で、Character.AIのユーザーデータ売却問題が浮上するなど、AIサービスのプライバシー保護に関する議論も活発化しています。
 
-- [News][🟢一次] Where scientists draw the line on AI agents — https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
-- [News][🟢一次] Verifiable Social Reasoning for LLM Assistants — https://research.google/blog/verifiable-social-reasoning-for-llm-assistants
-- [Paper][🟢一次] Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning — https://arxiv.org/abs/2611.34942v1
-- [Paper][🟢一次] Tokenisation is not in APX — https://arxiv.org/abs/2611.34938v1
-- [Paper][🟢一次] Can image generation help visual reasoning? An empirical study — https://arxiv.org/abs/2611.34935v1
-- [Paper][🟢一次] Attack Policy Selection can Mislead Monitor Evaluators — https://arxiv.org/abs/2611.34934v1
-- [Paper][🟢一次] A gene informed benchmark for BioScoring of pathology foundation models — https://arxiv.org/abs/2611.34930v1
-- [Paper][🟢一次] Diverse Alternative Reasoning Traces for Hard Math Problems — https://arxiv.org/abs/2611.34928v1
-- [Paper][🟢一次] Mixture-of-Loops Transformer — https://arxiv.org/abs/2611.34923v1
-- [Paper][🟢一次] $μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents — https://arxiv.org/abs/2611.34920v1
+- [ProductHunt][🟡二次] Claudeの記憶をデバイス間で同期 — https://www.producthunt.com/products/claude-mem
+- [ProductHunt][🟡二次] AIディレクターが動画を自動編集 — https://www.producthunt.com/products/superframes-ai-video-editor
+- [News][🟡二次] Character.AI、ユーザーチャット売却を阻止へ — https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
+- [News][🟡二次] Nvidia、東南アジア向けチップ出荷を一時停止 — https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia
+- [News][🟡二次] Meta、AIエージェントのテスト情報共有を拒否 — https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains
+- [ProductHunt][🟡二次] コーディングもプラグイン化するAIエージェント「Pax」 — https://www.producthunt.com/products/pydantic
+- [News][🟡二次] AIが数学の難問「リーマン予想」を証明か — https://wired.jp/article/ai-solved-maths-most-famous-problem
+- [News][🟢一次] llama.cpp向けAMDベンチマーク公開 — https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+- [News][🟢一次] Nemotron 3.5 Parseの改善を発表 — https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+- [News][🟢一次] マルチエージェントシステムの構築・評価法 — https://huggingface.co/blog/training-swarms
 
-全文: [`news/2026-11-26.md`](news/2026-11-26.md)
+全文: [`news/2026-11-27.md`](news/2026-11-27.md)
 <!--/LATEST-->
 
 ---
