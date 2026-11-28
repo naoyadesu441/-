@@ -6,22 +6,18 @@
 
 ## 最新リサーチ
 <!--LATEST-->
-**最終更新: 2026-11-27**
+**最終更新: 2026-11-28**
 
-> 今日のAI界隈では、AnthropicのClaudeユーザーにとって朗報となるデバイス間での記憶同期ツールが登場し、AIを活用した動画編集ツール「Superframes」も注目を集めています。一方で、Character.AIのユーザーデータ売却問題が浮上するなど、AIサービスのプライバシー保護に関する議論も活発化しています。
+> 今日のAI界隈では、Hugging Faceが動画生成AI「LTX-2.5」を発表し、コンテンツ制作の効率化に新たな選択肢を提供しました。また、LinkedIn向けのAIエージェントや思考を可視化するAIキャンバスなど、副業やSNSマーケティングに直結する実用的なAIツールが注目を集めています。AIの基盤技術では、光を活用した新チップの開発も進んでおり、将来的なAIの省エネ化に期待が寄せられます。
 
-- [ProductHunt][🟡二次] Claudeの記憶をデバイス間で同期 — https://www.producthunt.com/products/claude-mem
-- [ProductHunt][🟡二次] AIディレクターが動画を自動編集 — https://www.producthunt.com/products/superframes-ai-video-editor
-- [News][🟡二次] Character.AI、ユーザーチャット売却を阻止へ — https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
-- [News][🟡二次] Nvidia、東南アジア向けチップ出荷を一時停止 — https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia
-- [News][🟡二次] Meta、AIエージェントのテスト情報共有を拒否 — https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains
-- [ProductHunt][🟡二次] コーディングもプラグイン化するAIエージェント「Pax」 — https://www.producthunt.com/products/pydantic
-- [News][🟡二次] AIが数学の難問「リーマン予想」を証明か — https://wired.jp/article/ai-solved-maths-most-famous-problem
-- [News][🟢一次] llama.cpp向けAMDベンチマーク公開 — https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
-- [News][🟢一次] Nemotron 3.5 Parseの改善を発表 — https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
-- [News][🟢一次] マルチエージェントシステムの構築・評価法 — https://huggingface.co/blog/training-swarms
+- [News][🟢一次] Hugging Faceが動画生成AI「LTX-2.5」発表 — https://huggingface.co/blog/video-trainium3
+- [ProductHunt][🟡二次] LinkedIn向けAIエージェント「Depost AI」登場 — https://www.producthunt.com/products/depost-ai
+- [News][🟡二次] AndroidのAIウィジェットでスマホを効率化 — https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini
+- [ProductHunt][🟡二次] 思考を可視化するAIキャンバス「Woomool」 — https://www.producthunt.com/products/woomool
+- [News][🟡二次] 光でAIモデルを動かす新チップが登場 — https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light
+- [News][🟡二次] AIが数学の難問「リーマン予想」を証明か — https://wired.jp/article/ai-riemann-hypothesis-proof-claim-meaning
 
-全文: [`news/2026-11-27.md`](news/2026-11-27.md)
+全文: [`news/2026-11-28.md`](news/2026-11-28.md)
 <!--/LATEST-->
 
 ---
